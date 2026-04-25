@@ -1,0 +1,415 @@
+{
+  "slug": "uk-prime-ministers",
+  "name": "UK Prime Ministers",
+  "description": "Every person who has held the office of Prime Minister of the United Kingdom (Wikidata Q14211).",
+  "fetched_at": "2026-04-25T12:46:05",
+  "n_answers": 58,
+  "answers": [
+    {
+      "name": "Alec Douglas-Home",
+      "qid": "Q333713_adh",
+      "wiki": "https://en.wikipedia.org/wiki/Alec_Douglas-Home",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Archibald Primrose, 5th Earl of Rosebery",
+      "qid": "Q156110",
+      "wiki": "https://en.wikipedia.org/wiki/Archibald_Primrose,_5th_Earl_of_Rosebery",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Augustus FitzRoy, 3rd Duke of Grafton",
+      "qid": "Q360522",
+      "wiki": "https://en.wikipedia.org/wiki/Augustus_FitzRoy,_3rd_Duke_of_Grafton",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Charles Watson-Wentworth, 2nd Marquess of Rockingham",
+      "qid": "Q333703",
+      "wiki": "https://en.wikipedia.org/wiki/Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Frederick Robinson, 1st Viscount Goderich",
+      "qid": "Q333769",
+      "wiki": "https://en.wikipedia.org/wiki/Frederick_Robinson,_1st_Viscount_Goderich",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Henry Addington, 1st Viscount Sidmouth",
+      "qid": "Q333774",
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Addington,_1st_Viscount_Sidmouth",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Spencer Compton, 1st Earl of Wilmington",
+      "qid": "Q353762",
+      "wiki": "https://en.wikipedia.org/wiki/Spencer_Compton,_1st_Earl_of_Wilmington",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "William Cavendish, 4th Duke of Devonshire",
+      "qid": "Q433662",
+      "wiki": "https://en.wikipedia.org/wiki/William_Cavendish,_4th_Duke_of_Devonshire",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "William Cavendish-Bentinck, 3rd Duke of Portland",
+      "qid": "Q333753",
+      "wiki": "https://en.wikipedia.org/wiki/William_Cavendish-Bentinck,_3rd_Duke_of_Portland",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "William Grenville, 1st Baron Grenville",
+      "qid": "Q333783",
+      "wiki": "https://en.wikipedia.org/wiki/William_Grenville,_1st_Baron_Grenville",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "William Petty, 2nd Earl of Shelburne",
+      "qid": "Q333709",
+      "wiki": "https://en.wikipedia.org/wiki/William_Petty,_2nd_Earl_of_Shelburne",
+      "pageviews": 25000,
+      "obscurity": 1.0
+    },
+    {
+      "name": "Bonar Law",
+      "qid": "Q333713_bl",
+      "wiki": "https://en.wikipedia.org/wiki/Bonar_Law",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Charles Grey, 2nd Earl Grey",
+      "qid": "Q170066",
+      "wiki": "https://en.wikipedia.org/wiki/Charles_Grey,_2nd_Earl_Grey",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Edward Smith-Stanley, 14th Earl of Derby",
+      "qid": "Q333725",
+      "wiki": "https://en.wikipedia.org/wiki/Edward_Smith-Stanley,_14th_Earl_of_Derby",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "George Canning",
+      "qid": "Q170587",
+      "wiki": "https://en.wikipedia.org/wiki/George_Canning",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "George Grenville",
+      "qid": "Q333778",
+      "wiki": "https://en.wikipedia.org/wiki/George_Grenville",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "George Hamilton-Gordon, 4th Earl of Aberdeen",
+      "qid": "Q333730",
+      "wiki": "https://en.wikipedia.org/wiki/George_Hamilton-Gordon,_4th_Earl_of_Aberdeen",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Henry Campbell-Bannerman",
+      "qid": "Q156142",
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Henry Pelham",
+      "qid": "Q333760",
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Pelham",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "John Russell, 1st Earl Russell",
+      "qid": "Q333744",
+      "wiki": "https://en.wikipedia.org/wiki/John_Russell,_1st_Earl_Russell",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "John Stuart, 3rd Earl of Bute",
+      "qid": "Q333713",
+      "wiki": "https://en.wikipedia.org/wiki/John_Stuart,_3rd_Earl_of_Bute",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Robert Jenkinson, 2nd Earl of Liverpool",
+      "qid": "Q333748",
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Jenkinson,_2nd_Earl_of_Liverpool",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Spencer Perceval",
+      "qid": "Q132805",
+      "wiki": "https://en.wikipedia.org/wiki/Spencer_Perceval",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Thomas Pelham-Holles, 1st Duke of Newcastle",
+      "qid": "Q333735",
+      "wiki": "https://en.wikipedia.org/wiki/Thomas_Pelham-Holles,_1st_Duke_of_Newcastle",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "William Lamb, 2nd Viscount Melbourne",
+      "qid": "Q333787",
+      "wiki": "https://en.wikipedia.org/wiki/William_Lamb,_2nd_Viscount_Melbourne",
+      "pageviews": 100000,
+      "obscurity": 0.7384
+    },
+    {
+      "name": "Anthony Eden",
+      "qid": "Q156268_ae",
+      "wiki": "https://en.wikipedia.org/wiki/Anthony_Eden",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Arthur Balfour",
+      "qid": "Q156268",
+      "wiki": "https://en.wikipedia.org/wiki/Arthur_Balfour",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Frederick North, Lord North",
+      "qid": "Q333766",
+      "wiki": "https://en.wikipedia.org/wiki/Frederick_North,_Lord_North",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "H. H. Asquith",
+      "qid": "Q133764",
+      "wiki": "https://en.wikipedia.org/wiki/H._H._Asquith",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Henry John Temple, 3rd Viscount Palmerston",
+      "qid": "Q170587_p",
+      "wiki": "https://en.wikipedia.org/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Neville Chamberlain",
+      "qid": "Q132764",
+      "wiki": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Ramsay MacDonald",
+      "qid": "Q156347",
+      "wiki": "https://en.wikipedia.org/wiki/Ramsay_MacDonald",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+      "qid": "Q166233",
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Stanley Baldwin",
+      "qid": "Q333737",
+      "wiki": "https://en.wikipedia.org/wiki/Stanley_Baldwin",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "William Pitt the Elder",
+      "qid": "Q170581",
+      "wiki": "https://en.wikipedia.org/wiki/William_Pitt_the_Elder",
+      "pageviews": 400000,
+      "obscurity": 0.4767
+    },
+    {
+      "name": "Clement Attlee",
+      "qid": "Q166663",
+      "wiki": "https://en.wikipedia.org/wiki/Clement_Attlee",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "David Lloyd George",
+      "qid": "Q132805_llg",
+      "wiki": "https://en.wikipedia.org/wiki/David_Lloyd_George",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Edward Heath",
+      "qid": "Q165421",
+      "wiki": "https://en.wikipedia.org/wiki/Edward_Heath",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Gordon Brown",
+      "qid": "Q132805_gb",
+      "wiki": "https://en.wikipedia.org/wiki/Gordon_Brown",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Harold Macmillan",
+      "qid": "Q156412",
+      "wiki": "https://en.wikipedia.org/wiki/Harold_Macmillan",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Harold Wilson",
+      "qid": "Q166689",
+      "wiki": "https://en.wikipedia.org/wiki/Harold_Wilson",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "James Callaghan",
+      "qid": "Q165824",
+      "wiki": "https://en.wikipedia.org/wiki/James_Callaghan",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "John Major",
+      "qid": "Q165792",
+      "wiki": "https://en.wikipedia.org/wiki/John_Major",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Liz Truss",
+      "qid": "Q22308",
+      "wiki": "https://en.wikipedia.org/wiki/Liz_Truss",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Rishi Sunak",
+      "qid": "Q22059256",
+      "wiki": "https://en.wikipedia.org/wiki/Rishi_Sunak",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Robert Peel",
+      "qid": "Q170581_peel",
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Peel",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Robert Walpole",
+      "qid": "Q170067",
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Walpole",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Theresa May",
+      "qid": "Q264766",
+      "wiki": "https://en.wikipedia.org/wiki/Theresa_May",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "William Pitt the Younger",
+      "qid": "Q166646",
+      "wiki": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger",
+      "pageviews": 1500000,
+      "obscurity": 0.2272
+    },
+    {
+      "name": "Arthur Wellesley, 1st Duke of Wellington",
+      "qid": "Q131691",
+      "wiki": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "Benjamin Disraeli",
+      "qid": "Q172832",
+      "wiki": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "Boris Johnson",
+      "qid": "Q180589",
+      "wiki": "https://en.wikipedia.org/wiki/Boris_Johnson",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "David Cameron",
+      "qid": "Q192",
+      "wiki": "https://en.wikipedia.org/wiki/David_Cameron",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "Keir Starmer",
+      "qid": "Q282636",
+      "wiki": "https://en.wikipedia.org/wiki/Keir_Starmer",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "Margaret Thatcher",
+      "qid": "Q7416",
+      "wiki": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "Tony Blair",
+      "qid": "Q9582",
+      "wiki": "https://en.wikipedia.org/wiki/Tony_Blair",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "William Ewart Gladstone",
+      "qid": "Q44226",
+      "wiki": "https://en.wikipedia.org/wiki/William_Ewart_Gladstone",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    },
+    {
+      "name": "Winston Churchill",
+      "qid": "Q8016",
+      "wiki": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "pageviews": 5000000,
+      "obscurity": 0.0
+    }
+  ]
+}
