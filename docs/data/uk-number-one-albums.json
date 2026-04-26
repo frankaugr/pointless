@@ -1,0 +1,2654 @@
+{
+  "slug": "uk-number-one-albums",
+  "name": "UK Number One Albums",
+  "description": "A curated revision pack of UK Official Albums Chart number ones across the decades.",
+  "tags": [
+    "music",
+    "uk",
+    "charts",
+    "revision-pack"
+  ],
+  "answer_kind": "album",
+  "expected_count": 83,
+  "n_answers": 83,
+  "display_fields": [
+    "artist",
+    "year",
+    "decade"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "chart-by-decade",
+      "kind": "attr_equals_dynamic",
+      "attr": "decade",
+      "prompt": "{category} from the {value}"
+    },
+    {
+      "id": "chart-title-artist-same-initial",
+      "kind": "same_initial",
+      "field": "name",
+      "attr": "artist",
+      "prompt": "{category} whose title starts with the same letter as the artist"
+    },
+    {
+      "id": "chart-after-2000",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 2000,
+      "max": 2100,
+      "prompt": "{category} from 2000 onwards"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Charts all UK number one albums",
+      "url": "https://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/"
+    }
+  ],
+  "generated_at": "2026-04-26T17:31:56Z",
+  "answers": [
+    {
+      "id": "songs-for-swingin-lovers-frank-sinatra",
+      "name": "Songs for Swingin' Lovers",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Songs_for_Swingin'_Lovers",
+      "attrs": {
+        "artist": "Frank Sinatra",
+        "year": 1956,
+        "decade": "1950s",
+        "name_initial": "S",
+        "name_length": 21,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1260470,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260470,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "no-parlez-paul-young",
+      "name": "No Parlez",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/No_Parlez",
+      "attrs": {
+        "artist": "Paul Young",
+        "year": 1983,
+        "decade": "1980s",
+        "name_initial": "N",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1924610,
+      "obscurity": {
+        "score": 0.9878,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924610,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kings-of-the-wild-frontier-adam-and-the-ants",
+      "name": "Kings of the Wild Frontier",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kings_of_the_Wild_Frontier",
+      "attrs": {
+        "artist": "Adam and the Ants",
+        "year": 1981,
+        "decade": "1980s",
+        "name_initial": "K",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1927677,
+      "obscurity": {
+        "score": 0.9756,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1927677,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9756
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-lexicon-of-love-abc",
+      "name": "The Lexicon of Love",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Lexicon_of_Love",
+      "attrs": {
+        "artist": "ABC",
+        "year": 1982,
+        "decade": "1980s",
+        "name_initial": "T",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2737466,
+      "obscurity": {
+        "score": 0.9634,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2737466,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9634
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "permission-to-land-the-darkness",
+      "name": "Permission to Land",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Permission_to_Land",
+      "attrs": {
+        "artist": "The Darkness",
+        "year": 2003,
+        "decade": "2000s",
+        "name_initial": "P",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2738884,
+      "obscurity": {
+        "score": 0.9512,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2738884,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9512
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-man-who-travis",
+      "name": "The Man Who",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Man_Who",
+      "attrs": {
+        "artist": "Travis",
+        "year": 1999,
+        "decade": "1990s",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2740028,
+      "obscurity": {
+        "score": 0.939,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2740028,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.939
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "every-picture-tells-a-story-rod-stewart",
+      "name": "Every Picture Tells a Story",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Every_Picture_Tells_a_Story",
+      "attrs": {
+        "artist": "Rod Stewart",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "E",
+        "name_length": 23,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2740674,
+      "obscurity": {
+        "score": 0.9268,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2740674,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-record-boygenius",
+      "name": "The Record",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Record",
+      "attrs": {
+        "artist": "Boygenius",
+        "year": 2023,
+        "decade": "2020s",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2744065,
+      "obscurity": {
+        "score": 0.9146,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744065,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9146
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "achtung-baby-u2",
+      "name": "Achtung Baby",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Achtung_Baby",
+      "attrs": {
+        "artist": "U2",
+        "year": 1991,
+        "decade": "1990s",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3730707,
+      "obscurity": {
+        "score": 0.9024,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730707,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9024
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "don-t-shoot-me-i-m-only-the-piano-player-elton-john",
+      "name": "Don't Shoot Me I'm Only the Piano Player",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Don't_Shoot_Me_I'm_Only_the_Piano_Player",
+      "attrs": {
+        "artist": "Elton John",
+        "year": 1973,
+        "decade": "1970s",
+        "name_initial": "D",
+        "name_length": 31,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3732010,
+      "obscurity": {
+        "score": 0.8902,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732010,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8902
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "white-ladder-david-gray",
+      "name": "White Ladder",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/White_Ladder",
+      "attrs": {
+        "artist": "David Gray",
+        "year": 2000,
+        "decade": "2000s",
+        "name_initial": "W",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3732026,
+      "obscurity": {
+        "score": 0.878,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732026,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "but-seriously-phil-collins",
+      "name": "...But Seriously",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/...But_Seriously",
+      "attrs": {
+        "artist": "Phil Collins",
+        "year": 1989,
+        "decade": "1980s",
+        "name_initial": "B",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3732237,
+      "obscurity": {
+        "score": 0.8659,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732237,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8659
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "our-version-of-events-emeli-sande",
+      "name": "Our Version of Events",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Our_Version_of_Events",
+      "attrs": {
+        "artist": "Emeli Sande",
+        "year": 2012,
+        "decade": "2010s",
+        "name_initial": "O",
+        "name_length": 18,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 3732931,
+      "obscurity": {
+        "score": 0.8537,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732931,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8537
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sweetener-ariana-grande",
+      "name": "Sweetener",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sweetener",
+      "attrs": {
+        "artist": "Ariana Grande",
+        "year": 2018,
+        "decade": "2010s",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3733189,
+      "obscurity": {
+        "score": 0.8415,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733189,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8415
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kylie-kylie-minogue",
+      "name": "Kylie",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kylie",
+      "attrs": {
+        "artist": "Kylie Minogue",
+        "year": 1988,
+        "decade": "1980s",
+        "name_initial": "K",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3733381,
+      "obscurity": {
+        "score": 0.8293,
+        "band": "pointless target",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733381,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8293
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "only-by-the-night-kings-of-leon",
+      "name": "Only by the Night",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Only_by_the_Night",
+      "attrs": {
+        "artist": "Kings of Leon",
+        "year": 2008,
+        "decade": "2000s",
+        "name_initial": "O",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 3734641,
+      "obscurity": {
+        "score": 0.8171,
+        "band": "very obscure",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734641,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8171
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hopes-and-fears-keane",
+      "name": "Hopes and Fears",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hopes_and_Fears",
+      "attrs": {
+        "artist": "Keane",
+        "year": 2004,
+        "decade": "2000s",
+        "name_initial": "H",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3735512,
+      "obscurity": {
+        "score": 0.8049,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3735512,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8049
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "machine-head-deep-purple",
+      "name": "Machine Head",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Machine_Head",
+      "attrs": {
+        "artist": "Deep Purple",
+        "year": 1972,
+        "decade": "1970s",
+        "name_initial": "M",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3736603,
+      "obscurity": {
+        "score": 0.7927,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3736603,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7927
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-pacific-original-soundtrack",
+      "name": "South Pacific",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Pacific",
+      "attrs": {
+        "artist": "Original Soundtrack",
+        "year": 1958,
+        "decade": "1950s",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3736965,
+      "obscurity": {
+        "score": 0.7805,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3736965,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7805
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "a-head-full-of-dreams-coldplay",
+      "name": "A Head Full of Dreams",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/A_Head_Full_of_Dreams",
+      "attrs": {
+        "artist": "Coldplay",
+        "year": 2015,
+        "decade": "2010s",
+        "name_initial": "A",
+        "name_length": 17,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3738827,
+      "obscurity": {
+        "score": 0.7683,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738827,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7683
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "no-angel-dido",
+      "name": "No Angel",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/No_Angel",
+      "attrs": {
+        "artist": "Dido",
+        "year": 2001,
+        "decade": "2000s",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3740618,
+      "obscurity": {
+        "score": 0.7561,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740618,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7561
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sigh-no-more-mumford-and-sons",
+      "name": "Sigh No More",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sigh_No_More",
+      "attrs": {
+        "artist": "Mumford and Sons",
+        "year": 2010,
+        "decade": "2010s",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3741766,
+      "obscurity": {
+        "score": 0.7439,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741766,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7439
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "stars-simply-red",
+      "name": "Stars",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stars",
+      "attrs": {
+        "artist": "Simply Red",
+        "year": 1991,
+        "decade": "1990s",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3743620,
+      "obscurity": {
+        "score": 0.7317,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743620,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7317
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "diamond-dogs-david-bowie",
+      "name": "Diamond Dogs",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Diamond_Dogs",
+      "attrs": {
+        "artist": "David Bowie",
+        "year": 1974,
+        "decade": "1970s",
+        "name_initial": "D",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3745758,
+      "obscurity": {
+        "score": 0.7195,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745758,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7195
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "listen-without-prejudice-vol-1-george-michael",
+      "name": "Listen Without Prejudice Vol. 1",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Listen_Without_Prejudice_Vol._1",
+      "attrs": {
+        "artist": "George Michael",
+        "year": 1990,
+        "decade": "1990s",
+        "name_initial": "L",
+        "name_length": 26,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3747759,
+      "obscurity": {
+        "score": 0.7073,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3747759,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7073
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tubular-bells-mike-oldfield",
+      "name": "Tubular Bells",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tubular_Bells",
+      "attrs": {
+        "artist": "Mike Oldfield",
+        "year": 1974,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3751180,
+      "obscurity": {
+        "score": 0.6951,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751180,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6951
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "spirit-leona-lewis",
+      "name": "Spirit",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spirit",
+      "attrs": {
+        "artist": "Leona Lewis",
+        "year": 2007,
+        "decade": "2000s",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3752319,
+      "obscurity": {
+        "score": 0.6829,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3752319,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6829
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-rise-and-fall-of-a-midwest-princess-chappell-roan",
+      "name": "The Rise and Fall of a Midwest Princess",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_a_Midwest_Princess",
+      "attrs": {
+        "artist": "Chappell Roan",
+        "year": 2024,
+        "decade": "2020s",
+        "name_initial": "T",
+        "name_length": 32,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3753126,
+      "obscurity": {
+        "score": 0.6707,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3753126,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6707
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "when-we-all-fall-asleep-where-do-we-go-billie-eilish",
+      "name": "When We All Fall Asleep, Where Do We Go?",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go?",
+      "attrs": {
+        "artist": "Billie Eilish",
+        "year": 2019,
+        "decade": "2010s",
+        "name_initial": "W",
+        "name_length": 30,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4912830,
+      "obscurity": {
+        "score": 0.6585,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4912830,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6585
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "random-access-memories-daft-punk",
+      "name": "Random Access Memories",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Random_Access_Memories",
+      "attrs": {
+        "artist": "Daft Punk",
+        "year": 2013,
+        "decade": "2010s",
+        "name_initial": "R",
+        "name_length": 20,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4913702,
+      "obscurity": {
+        "score": 0.6463,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913702,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6463
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arrival-abba",
+      "name": "Arrival",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Arrival",
+      "attrs": {
+        "artist": "ABBA",
+        "year": 1977,
+        "decade": "1970s",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4913837,
+      "obscurity": {
+        "score": 0.6341,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913837,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6341
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-fame-lady-gaga",
+      "name": "The Fame",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Fame",
+      "attrs": {
+        "artist": "Lady Gaga",
+        "year": 2009,
+        "decade": "2000s",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4913911,
+      "obscurity": {
+        "score": 0.622,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913911,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.622
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "am-arctic-monkeys",
+      "name": "AM",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/AM",
+      "attrs": {
+        "artist": "Arctic Monkeys",
+        "year": 2013,
+        "decade": "2010s",
+        "name_initial": "A",
+        "name_length": 2,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4914180,
+      "obscurity": {
+        "score": 0.6098,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4914180,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6098
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "harvest-neil-young",
+      "name": "Harvest",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Harvest",
+      "attrs": {
+        "artist": "Neil Young",
+        "year": 1972,
+        "decade": "1970s",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4914794,
+      "obscurity": {
+        "score": 0.5976,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4914794,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5976
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ray-of-light-madonna",
+      "name": "Ray of Light",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ray_of_Light",
+      "attrs": {
+        "artist": "Madonna",
+        "year": 1998,
+        "decade": "1990s",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4915550,
+      "obscurity": {
+        "score": 0.5854,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915550,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5854
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "automatic-for-the-people-r-e-m",
+      "name": "Automatic for the People",
+      "aliases": [
+        "Automatic for the People"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Automatic_for_the_People",
+      "attrs": {
+        "artist": "R.E.M.",
+        "year": 1992,
+        "decade": "1990s",
+        "name_initial": "A",
+        "name_length": 21,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4916061,
+      "obscurity": {
+        "score": 0.5732,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4916061,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "exile-on-main-st-the-rolling-stones",
+      "name": "Exile on Main St",
+      "aliases": [
+        "Exile on Main Street"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Exile_on_Main_St",
+      "attrs": {
+        "artist": "The Rolling Stones",
+        "year": 1972,
+        "decade": "1970s",
+        "name_initial": "E",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 4918617,
+      "obscurity": {
+        "score": 0.561,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918617,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.561
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "parklife-blur",
+      "name": "Parklife",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Parklife",
+      "attrs": {
+        "artist": "Blur",
+        "year": 1994,
+        "decade": "1990s",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4920056,
+      "obscurity": {
+        "score": 0.5488,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4920056,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5488
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "saturday-night-fever-original-soundtrack",
+      "name": "Saturday Night Fever",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saturday_Night_Fever",
+      "attrs": {
+        "artist": "Original Soundtrack",
+        "year": 1978,
+        "decade": "1970s",
+        "name_initial": "S",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4920116,
+      "obscurity": {
+        "score": 0.5366,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4920116,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5366
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "all-things-must-pass-george-harrison",
+      "name": "All Things Must Pass",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/All_Things_Must_Pass",
+      "attrs": {
+        "artist": "George Harrison",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "A",
+        "name_length": 17,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4921399,
+      "obscurity": {
+        "score": 0.5244,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4921399,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5244
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "back-to-bedlam-james-blunt",
+      "name": "Back to Bedlam",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Back_to_Bedlam",
+      "attrs": {
+        "artist": "James Blunt",
+        "year": 2005,
+        "decade": "2000s",
+        "name_initial": "B",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4921762,
+      "obscurity": {
+        "score": 0.5122,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4921762,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "parachutes-coldplay",
+      "name": "Parachutes",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Parachutes",
+      "attrs": {
+        "artist": "Coldplay",
+        "year": 2000,
+        "decade": "2000s",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4923758,
+      "obscurity": {
+        "score": 0.5,
+        "band": "useful low scorer",
+        "pointless_score": 50,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4923758,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "whatever-people-say-i-am-that-s-what-i-m-not-arctic-monkeys",
+      "name": "Whatever People Say I Am, That's What I'm Not",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am,_That's_What_I'm_Not",
+      "attrs": {
+        "artist": "Arctic Monkeys",
+        "year": 2006,
+        "decade": "2000s",
+        "name_initial": "W",
+        "name_length": 34,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4925640,
+      "obscurity": {
+        "score": 0.4878,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4925640,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "aladdin-sane-david-bowie",
+      "name": "Aladdin Sane",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Aladdin_Sane",
+      "attrs": {
+        "artist": "David Bowie",
+        "year": 1973,
+        "decade": "1970s",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4925919,
+      "obscurity": {
+        "score": 0.4756,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4925919,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4756
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "future-nostalgia-dua-lipa",
+      "name": "Future Nostalgia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Future_Nostalgia",
+      "attrs": {
+        "artist": "Dua Lipa",
+        "year": 2020,
+        "decade": "2020s",
+        "name_initial": "F",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4926320,
+      "obscurity": {
+        "score": 0.4634,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926320,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4634
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sticky-fingers-the-rolling-stones",
+      "name": "Sticky Fingers",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sticky_Fingers",
+      "attrs": {
+        "artist": "The Rolling Stones",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4926462,
+      "obscurity": {
+        "score": 0.4512,
+        "band": "useful low scorer",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926462,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4512
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "parallel-lines-blondie",
+      "name": "Parallel Lines",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Parallel_Lines",
+      "attrs": {
+        "artist": "Blondie",
+        "year": 1979,
+        "decade": "1970s",
+        "name_initial": "P",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4927131,
+      "obscurity": {
+        "score": 0.439,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927131,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.439
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "graceland-paul-simon",
+      "name": "Graceland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Graceland",
+      "attrs": {
+        "artist": "Paul Simon",
+        "year": 1986,
+        "decade": "1980s",
+        "name_initial": "G",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4927156,
+      "obscurity": {
+        "score": 0.4268,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927156,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "who-s-next-the-who",
+      "name": "Who's Next",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Who's_Next",
+      "attrs": {
+        "artist": "The Who",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "W",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4928638,
+      "obscurity": {
+        "score": 0.4146,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4928638,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4146
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "goodbye-yellow-brick-road-elton-john",
+      "name": "Goodbye Yellow Brick Road",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road",
+      "attrs": {
+        "artist": "Elton John",
+        "year": 1973,
+        "decade": "1970s",
+        "name_initial": "G",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4928745,
+      "obscurity": {
+        "score": 0.4024,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4928745,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4024
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "paranoid-black-sabbath",
+      "name": "Paranoid",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Paranoid",
+      "attrs": {
+        "artist": "Black Sabbath",
+        "year": 1970,
+        "decade": "1970s",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4929191,
+      "obscurity": {
+        "score": 0.3902,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4929191,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3902
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "electric-warrior-t-rex",
+      "name": "Electric Warrior",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Electric_Warrior",
+      "attrs": {
+        "artist": "T. Rex",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "E",
+        "name_length": 15,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 4933241,
+      "obscurity": {
+        "score": 0.378,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4933241,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.378
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "urban-hymns-the-verve",
+      "name": "Urban Hymns",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Urban_Hymns",
+      "attrs": {
+        "artist": "The Verve",
+        "year": 1997,
+        "decade": "1990s",
+        "name_initial": "U",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 4935988,
+      "obscurity": {
+        "score": 0.3659,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935988,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3659
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "band-on-the-run-paul-mccartney-and-wings",
+      "name": "Band on the Run",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Band_on_the_Run",
+      "attrs": {
+        "artist": "Paul McCartney and Wings",
+        "year": 1974,
+        "decade": "1970s",
+        "name_initial": "B",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4936032,
+      "obscurity": {
+        "score": 0.3537,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4936032,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3537
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "a-rush-of-blood-to-the-head-coldplay",
+      "name": "A Rush of Blood to the Head",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/A_Rush_of_Blood_to_the_Head",
+      "attrs": {
+        "artist": "Coldplay",
+        "year": 2002,
+        "decade": "2000s",
+        "name_initial": "A",
+        "name_length": 21,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6288395,
+      "obscurity": {
+        "score": 0.3415,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288395,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3415
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wish-you-were-here-pink-floyd",
+      "name": "Wish You Were Here",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wish_You_Were_Here",
+      "attrs": {
+        "artist": "Pink Floyd",
+        "year": 1975,
+        "decade": "1970s",
+        "name_initial": "W",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6288528,
+      "obscurity": {
+        "score": 0.3293,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288528,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3293
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "what-s-the-story-morning-glory-oasis",
+      "name": "What's the Story Morning Glory?",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/What's_the_Story_Morning_Glory?",
+      "attrs": {
+        "artist": "Oasis",
+        "year": 1995,
+        "decade": "1990s",
+        "name_initial": "W",
+        "name_length": 25,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6289894,
+      "obscurity": {
+        "score": 0.3171,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6289894,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3171
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "x-ed-sheeran",
+      "name": "X",
+      "aliases": [
+        "Multiply"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/X",
+      "attrs": {
+        "artist": "Ed Sheeran",
+        "year": 2014,
+        "decade": "2010s",
+        "name_initial": "X",
+        "name_length": 1,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": ""
+      },
+      "pageviews": 6290209,
+      "obscurity": {
+        "score": 0.3049,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6290209,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3049
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "25-adele",
+      "name": "25",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/25",
+      "attrs": {
+        "artist": "Adele",
+        "year": 2015,
+        "decade": "2010s",
+        "name_initial": "2",
+        "name_length": 2,
+        "starts_with_vowel": false,
+        "starts_with_consonant": false,
+        "first_vowel": ""
+      },
+      "pageviews": 6290793,
+      "obscurity": {
+        "score": 0.2927,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6290793,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2927
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-sound-of-music-original-soundtrack",
+      "name": "The Sound of Music",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Sound_of_Music",
+      "attrs": {
+        "artist": "Original Soundtrack",
+        "year": 1965,
+        "decade": "1960s",
+        "name_initial": "T",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6291473,
+      "obscurity": {
+        "score": 0.2805,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6291473,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2805
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "divide-ed-sheeran",
+      "name": "Divide",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Divide",
+      "attrs": {
+        "artist": "Ed Sheeran",
+        "year": 2017,
+        "decade": "2010s",
+        "name_initial": "D",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6291793,
+      "obscurity": {
+        "score": 0.2683,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6291793,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2683
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bridge-over-troubled-water-simon-and-garfunkel",
+      "name": "Bridge over Troubled Water",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bridge_over_Troubled_Water",
+      "attrs": {
+        "artist": "Simon and Garfunkel",
+        "year": 1970,
+        "decade": "1970s",
+        "name_initial": "B",
+        "name_length": 23,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6293336,
+      "obscurity": {
+        "score": 0.2561,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293336,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2561
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-wall-pink-floyd",
+      "name": "The Wall",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Wall",
+      "attrs": {
+        "artist": "Pink Floyd",
+        "year": 1979,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6293580,
+      "obscurity": {
+        "score": 0.2439,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293580,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2439
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "back-to-black-amy-winehouse",
+      "name": "Back to Black",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Back_to_Black",
+      "attrs": {
+        "artist": "Amy Winehouse",
+        "year": 2007,
+        "decade": "2000s",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6296163,
+      "obscurity": {
+        "score": 0.2317,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6296163,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2317
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "thriller-michael-jackson",
+      "name": "Thriller",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thriller",
+      "attrs": {
+        "artist": "Michael Jackson",
+        "year": 1983,
+        "decade": "1980s",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6297387,
+      "obscurity": {
+        "score": 0.2195,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6297387,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2195
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "please-please-me-the-beatles",
+      "name": "Please Please Me",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Please_Please_Me",
+      "attrs": {
+        "artist": "The Beatles",
+        "year": 1963,
+        "decade": "1960s",
+        "name_initial": "P",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6298542,
+      "obscurity": {
+        "score": 0.2073,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6298542,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2073
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-joshua-tree-u2",
+      "name": "The Joshua Tree",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Joshua_Tree",
+      "attrs": {
+        "artist": "U2",
+        "year": 1987,
+        "decade": "1980s",
+        "name_initial": "T",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6300663,
+      "obscurity": {
+        "score": 0.1951,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6300663,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1951
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rumours-fleetwood-mac",
+      "name": "Rumours",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rumours",
+      "attrs": {
+        "artist": "Fleetwood Mac",
+        "year": 1977,
+        "decade": "1970s",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 6301038,
+      "obscurity": {
+        "score": 0.1829,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6301038,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1829
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sgt-pepper-s-lonely-hearts-club-band-the-beatles",
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "aliases": [
+        "Sgt Peppers Lonely Hearts Club Band"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band",
+      "attrs": {
+        "artist": "The Beatles",
+        "year": 1967,
+        "decade": "1960s",
+        "name_initial": "S",
+        "name_length": 30,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6301339,
+      "obscurity": {
+        "score": 0.1707,
+        "band": "obvious",
+        "pointless_score": 83,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6301339,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1707
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "led-zeppelin-iv-led-zeppelin",
+      "name": "Led Zeppelin IV",
+      "aliases": [
+        "Four Symbols"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Led_Zeppelin_IV",
+      "attrs": {
+        "artist": "Led Zeppelin",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "L",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6302095,
+      "obscurity": {
+        "score": 0.1585,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6302095,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1585
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "harry-s-house-harry-styles",
+      "name": "Harry's House",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Harry's_House",
+      "attrs": {
+        "artist": "Harry Styles",
+        "year": 2022,
+        "decade": "2020s",
+        "name_initial": "H",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6302734,
+      "obscurity": {
+        "score": 0.1463,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6302734,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1463
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nevermind-nirvana",
+      "name": "Nevermind",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nevermind",
+      "attrs": {
+        "artist": "Nirvana",
+        "year": 1991,
+        "decade": "1990s",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6304642,
+      "obscurity": {
+        "score": 0.1341,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6304642,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1341
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "midnights-taylor-swift",
+      "name": "Midnights",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Midnights",
+      "attrs": {
+        "artist": "Taylor Swift",
+        "year": 2022,
+        "decade": "2020s",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6304806,
+      "obscurity": {
+        "score": 0.122,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6304806,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "back-in-black-ac-dc",
+      "name": "Back in Black",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Back_in_Black",
+      "attrs": {
+        "artist": "AC/DC",
+        "year": 1980,
+        "decade": "1980s",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6306715,
+      "obscurity": {
+        "score": 0.1098,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6306715,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1098
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bad-michael-jackson",
+      "name": "Bad",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bad",
+      "attrs": {
+        "artist": "Michael Jackson",
+        "year": 1987,
+        "decade": "1980s",
+        "name_initial": "B",
+        "name_length": 3,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6306751,
+      "obscurity": {
+        "score": 0.0976,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6306751,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0976
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "definitely-maybe-oasis",
+      "name": "Definitely Maybe",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Definitely_Maybe",
+      "attrs": {
+        "artist": "Oasis",
+        "year": 1994,
+        "decade": "1990s",
+        "name_initial": "D",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6307288,
+      "obscurity": {
+        "score": 0.0854,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6307288,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0854
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "abbey-road-the-beatles",
+      "name": "Abbey Road",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Abbey_Road",
+      "attrs": {
+        "artist": "The Beatles",
+        "year": 1969,
+        "decade": "1960s",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6308840,
+      "obscurity": {
+        "score": 0.0732,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308840,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "brothers-in-arms-dire-straits",
+      "name": "Brothers in Arms",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brothers_in_Arms",
+      "attrs": {
+        "artist": "Dire Straits",
+        "year": 1985,
+        "decade": "1980s",
+        "name_initial": "B",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6309350,
+      "obscurity": {
+        "score": 0.061,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6309350,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.061
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-tortured-poets-department-taylor-swift",
+      "name": "The Tortured Poets Department",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Tortured_Poets_Department",
+      "attrs": {
+        "artist": "Taylor Swift",
+        "year": 2024,
+        "decade": "2020s",
+        "name_initial": "T",
+        "name_length": 26,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6309612,
+      "obscurity": {
+        "score": 0.0488,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6309612,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0488
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "spice-spice-girls",
+      "name": "Spice",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spice",
+      "attrs": {
+        "artist": "Spice Girls",
+        "year": 1996,
+        "decade": "1990s",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6310120,
+      "obscurity": {
+        "score": 0.0366,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310120,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0366
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "21-adele",
+      "name": "21",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/21",
+      "attrs": {
+        "artist": "Adele",
+        "year": 2011,
+        "decade": "2010s",
+        "name_initial": "2",
+        "name_length": 2,
+        "starts_with_vowel": false,
+        "starts_with_consonant": false,
+        "first_vowel": ""
+      },
+      "pageviews": 6310255,
+      "obscurity": {
+        "score": 0.0244,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310255,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0244
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "a-night-at-the-opera-queen",
+      "name": "A Night at the Opera",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/A_Night_at_the_Opera",
+      "attrs": {
+        "artist": "Queen",
+        "year": 1975,
+        "decade": "1970s",
+        "name_initial": "A",
+        "name_length": 16,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6310258,
+      "obscurity": {
+        "score": 0.0122,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310258,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "30-adele",
+      "name": "30",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/30",
+      "attrs": {
+        "artist": "Adele",
+        "year": 2021,
+        "decade": "2020s",
+        "name_initial": "3",
+        "name_length": 2,
+        "starts_with_vowel": false,
+        "starts_with_consonant": false,
+        "first_vowel": ""
+      },
+      "pageviews": 6310327,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310327,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

@@ -67,3 +67,25 @@ test("learn default can hide scores above 50", async () => {
   assert(visibleByDefault.every((answer) => pointlessScore(answer) <= 50));
   assert(sortAnswers(visibleByDefault, "obscurity")[0].name !== "Tony Blair");
 });
+
+test("new chart and Oscar categories generate useful decade prompts", async () => {
+  const singles = await loadCategory("uk-number-one-singles");
+  const singlesCandidates = buildQuestionCandidates(singles).filter((candidate) => candidate.eligible);
+  const sixtiesSingles = singlesCandidates.find((candidate) => candidate.id === "chart-by-decade-1960s");
+  assert(sixtiesSingles, "1960s singles prompt should be eligible");
+  assert(sixtiesSingles.answers.some((answer) => answer.name === "Telstar"));
+  assert(!sixtiesSingles.answers.some((answer) => answer.name === "Wannabe"));
+
+  const albums = await loadCategory("uk-number-one-albums");
+  const albumsCandidates = buildQuestionCandidates(albums).filter((candidate) => candidate.eligible);
+  const seventiesAlbums = albumsCandidates.find((candidate) => candidate.id === "chart-by-decade-1970s");
+  assert(seventiesAlbums, "1970s albums prompt should be eligible");
+  assert(seventiesAlbums.answers.some((answer) => answer.name === "Wish You Were Here"));
+
+  const oscars = await loadCategory("oscar-best-picture-winners");
+  const oscarCandidates = buildQuestionCandidates(oscars).filter((candidate) => candidate.eligible);
+  const twentiesOscars = oscarCandidates.find((candidate) => candidate.id === "oscars-by-decade-2020s");
+  assert(twentiesOscars, "2020s Oscar prompt should be eligible");
+  assert(twentiesOscars.answers.some((answer) => answer.name === "Oppenheimer"));
+  assert(twentiesOscars.answers.some((answer) => answer.name === "One Battle After Another"));
+});

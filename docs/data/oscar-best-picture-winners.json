@@ -1,0 +1,3133 @@
+{
+  "slug": "oscar-best-picture-winners",
+  "name": "Oscar Best Picture Winners",
+  "description": "Academy Award Best Picture winners from Wings through the 98th Academy Awards.",
+  "tags": [
+    "film",
+    "oscars",
+    "awards",
+    "recurring"
+  ],
+  "answer_kind": "film",
+  "expected_count": 98,
+  "n_answers": 98,
+  "display_fields": [
+    "year",
+    "decade"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "oscars-by-decade",
+      "kind": "attr_equals_dynamic",
+      "attr": "decade",
+      "prompt": "{category} from the {value}"
+    },
+    {
+      "id": "oscars-after-2000",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 2000,
+      "max": 2100,
+      "prompt": "{category} from 2000 onwards"
+    },
+    {
+      "id": "oscars-before-1970",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 1927,
+      "max": 1969,
+      "prompt": "{category} before 1970"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Academy Awards database",
+      "url": "https://awardsdatabase.oscars.org/"
+    },
+    {
+      "label": "The 98th Academy Awards",
+      "url": "https://www.oscars.org/oscars/ceremonies/2026"
+    }
+  ],
+  "generated_at": "2026-04-26T17:31:56Z",
+  "answers": [
+    {
+      "id": "the-broadway-melody",
+      "name": "The Broadway Melody",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Broadway_Melody",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1929,
+        "decade": "1920s",
+        "name_initial": "T",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 758762,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 758762,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cimarron",
+      "name": "Cimarron",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cimarron",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1931,
+        "decade": "1930s",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 761261,
+      "obscurity": {
+        "score": 0.9897,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 761261,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9897
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cavalcade",
+      "name": "Cavalcade",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cavalcade",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1933,
+        "decade": "1930s",
+        "name_initial": "C",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 762572,
+      "obscurity": {
+        "score": 0.9794,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 762572,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9794
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "going-my-way",
+      "name": "Going My Way",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Going_My_Way",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1944,
+        "decade": "1940s",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1247633,
+      "obscurity": {
+        "score": 0.9691,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1247633,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9691
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-life-of-emile-zola",
+      "name": "The Life of Emile Zola",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Life_of_Emile_Zola",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1937,
+        "decade": "1930s",
+        "name_initial": "T",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1248679,
+      "obscurity": {
+        "score": 0.9588,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1248679,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-great-ziegfeld",
+      "name": "The Great Ziegfeld",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Great_Ziegfeld",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1936,
+        "decade": "1930s",
+        "name_initial": "T",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1266516,
+      "obscurity": {
+        "score": 0.9485,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266516,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9485
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gentleman-s-agreement",
+      "name": "Gentleman's Agreement",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gentleman's_Agreement",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1947,
+        "decade": "1940s",
+        "name_initial": "G",
+        "name_length": 19,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1268411,
+      "obscurity": {
+        "score": 0.9381,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268411,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9381
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-greatest-show-on-earth",
+      "name": "The Greatest Show on Earth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1952,
+        "decade": "1950s",
+        "name_initial": "T",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1906944,
+      "obscurity": {
+        "score": 0.9278,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1906944,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9278
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "all-the-king-s-men",
+      "name": "All the King's Men",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/All_the_King's_Men",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1949,
+        "decade": "1940s",
+        "name_initial": "A",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1907086,
+      "obscurity": {
+        "score": 0.9175,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1907086,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9175
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "marty",
+      "name": "Marty",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Marty",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1955,
+        "decade": "1950s",
+        "name_initial": "M",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1914402,
+      "obscurity": {
+        "score": 0.9072,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1914402,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9072
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gigi",
+      "name": "Gigi",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gigi",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1958,
+        "decade": "1950s",
+        "name_initial": "G",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1914889,
+      "obscurity": {
+        "score": 0.8969,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1914889,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8969
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mrs-miniver",
+      "name": "Mrs. Miniver",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mrs._Miniver",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1942,
+        "decade": "1940s",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1917741,
+      "obscurity": {
+        "score": 0.8866,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917741,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8866
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tom-jones",
+      "name": "Tom Jones",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tom_Jones",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1963,
+        "decade": "1960s",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1921378,
+      "obscurity": {
+        "score": 0.8763,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1921378,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8763
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "you-can-t-take-it-with-you",
+      "name": "You Can't Take It with You",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/You_Can't_Take_It_with_You",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1938,
+        "decade": "1930s",
+        "name_initial": "Y",
+        "name_length": 20,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1922711,
+      "obscurity": {
+        "score": 0.866,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1922711,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.866
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "grand-hotel",
+      "name": "Grand Hotel",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Grand_Hotel",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1932,
+        "decade": "1930s",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1929917,
+      "obscurity": {
+        "score": 0.8557,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1929917,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8557
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "around-the-world-in-80-days",
+      "name": "Around the World in 80 Days",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Around_the_World_in_80_Days",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1956,
+        "decade": "1950s",
+        "name_initial": "A",
+        "name_length": 22,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 2730703,
+      "obscurity": {
+        "score": 0.8454,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730703,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8454
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "birdman-or-the-unexpected-virtue-of-ignorance",
+      "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "aliases": [
+        "Birdman"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Birdman_or_(The_Unexpected_Virtue_of_Ignorance)",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2014,
+        "decade": "2010s",
+        "name_initial": "B",
+        "name_length": 39,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2730807,
+      "obscurity": {
+        "score": 0.8351,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730807,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8351
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "how-green-was-my-valley",
+      "name": "How Green Was My Valley",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/How_Green_Was_My_Valley",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1941,
+        "decade": "1940s",
+        "name_initial": "H",
+        "name_length": 19,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2731371,
+      "obscurity": {
+        "score": 0.8247,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2731371,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8247
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "out-of-africa",
+      "name": "Out of Africa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Out_of_Africa",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1985,
+        "decade": "1980s",
+        "name_initial": "O",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 2737218,
+      "obscurity": {
+        "score": 0.8144,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2737218,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8144
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mutiny-on-the-bounty",
+      "name": "Mutiny on the Bounty",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1935,
+        "decade": "1930s",
+        "name_initial": "M",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 2738420,
+      "obscurity": {
+        "score": 0.8041,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2738420,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8041
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ordinary-people",
+      "name": "Ordinary People",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ordinary_People",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1980,
+        "decade": "1980s",
+        "name_initial": "O",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 2738585,
+      "obscurity": {
+        "score": 0.7938,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2738585,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7938
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-artist",
+      "name": "The Artist",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Artist",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2011,
+        "decade": "2010s",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2738716,
+      "obscurity": {
+        "score": 0.7835,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2738716,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7835
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-english-patient",
+      "name": "The English Patient",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_English_Patient",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1996,
+        "decade": "1990s",
+        "name_initial": "T",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2739217,
+      "obscurity": {
+        "score": 0.7732,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739217,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hamlet",
+      "name": "Hamlet",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hamlet",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1948,
+        "decade": "1940s",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2739218,
+      "obscurity": {
+        "score": 0.7629,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739218,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7629
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-hurt-locker",
+      "name": "The Hurt Locker",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Hurt_Locker",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2009,
+        "decade": "2000s",
+        "name_initial": "T",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2740064,
+      "obscurity": {
+        "score": 0.7526,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2740064,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7526
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wings",
+      "name": "Wings",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wings",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1927,
+        "decade": "1920s",
+        "name_initial": "W",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2741487,
+      "obscurity": {
+        "score": 0.7423,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2741487,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7423
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "a-man-for-all-seasons",
+      "name": "A Man for All Seasons",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/A_Man_for_All_Seasons",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1966,
+        "decade": "1960s",
+        "name_initial": "A",
+        "name_length": 17,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 2743740,
+      "obscurity": {
+        "score": 0.732,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2743740,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "crash",
+      "name": "Crash",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Crash",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2005,
+        "decade": "2000s",
+        "name_initial": "C",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2747781,
+      "obscurity": {
+        "score": 0.7216,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747781,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7216
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nomadland",
+      "name": "Nomadland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nomadland",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2020,
+        "decade": "2020s",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2747822,
+      "obscurity": {
+        "score": 0.7113,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747822,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7113
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-lost-weekend",
+      "name": "The Lost Weekend",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Lost_Weekend",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1945,
+        "decade": "1940s",
+        "name_initial": "T",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2747879,
+      "obscurity": {
+        "score": 0.701,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747879,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.701
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "terms-of-endearment",
+      "name": "Terms of Endearment",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Terms_of_Endearment",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1983,
+        "decade": "1980s",
+        "name_initial": "T",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2747906,
+      "obscurity": {
+        "score": 0.6907,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747906,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6907
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "green-book",
+      "name": "Green Book",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Green_Book",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2018,
+        "decade": "2010s",
+        "name_initial": "G",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2748420,
+      "obscurity": {
+        "score": 0.6804,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2748420,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6804
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "driving-miss-daisy",
+      "name": "Driving Miss Daisy",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Driving_Miss_Daisy",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1989,
+        "decade": "1980s",
+        "name_initial": "D",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2751457,
+      "obscurity": {
+        "score": 0.6701,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751457,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6701
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "an-american-in-paris",
+      "name": "An American in Paris",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/An_American_in_Paris",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1951,
+        "decade": "1950s",
+        "name_initial": "A",
+        "name_length": 17,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3729082,
+      "obscurity": {
+        "score": 0.6598,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3729082,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6598
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "spotlight",
+      "name": "Spotlight",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spotlight",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2015,
+        "decade": "2010s",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3730095,
+      "obscurity": {
+        "score": 0.6495,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730095,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6495
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "million-dollar-baby",
+      "name": "Million Dollar Baby",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Million_Dollar_Baby",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2004,
+        "decade": "2000s",
+        "name_initial": "M",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3732720,
+      "obscurity": {
+        "score": 0.6392,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732720,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6392
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kramer-vs-kramer",
+      "name": "Kramer vs. Kramer",
+      "aliases": [
+        "Kramer versus Kramer"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1979,
+        "decade": "1970s",
+        "name_initial": "K",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3732818,
+      "obscurity": {
+        "score": 0.6289,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732818,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6289
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dances-with-wolves",
+      "name": "Dances with Wolves",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dances_with_Wolves",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1990,
+        "decade": "1990s",
+        "name_initial": "D",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3734824,
+      "obscurity": {
+        "score": 0.6186,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734824,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6186
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-shape-of-water",
+      "name": "The Shape of Water",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Shape_of_Water",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2017,
+        "decade": "2010s",
+        "name_initial": "T",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3735982,
+      "obscurity": {
+        "score": 0.6082,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3735982,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6082
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "all-quiet-on-the-western-front",
+      "name": "All Quiet on the Western Front",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1930,
+        "decade": "1930s",
+        "name_initial": "A",
+        "name_length": 25,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3736329,
+      "obscurity": {
+        "score": 0.5979,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3736329,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5979
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "in-the-heat-of-the-night",
+      "name": "In the Heat of the Night",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/In_the_Heat_of_the_Night",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1967,
+        "decade": "1960s",
+        "name_initial": "I",
+        "name_length": 19,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 3736476,
+      "obscurity": {
+        "score": 0.5876,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3736476,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5876
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "moonlight",
+      "name": "Moonlight",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Moonlight",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2016,
+        "decade": "2010s",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3737413,
+      "obscurity": {
+        "score": 0.5773,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3737413,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5773
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-best-years-of-our-lives",
+      "name": "The Best Years of Our Lives",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1946,
+        "decade": "1940s",
+        "name_initial": "T",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3737659,
+      "obscurity": {
+        "score": 0.567,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3737659,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.567
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oliver",
+      "name": "Oliver!",
+      "aliases": [
+        "Oliver"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oliver!",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1968,
+        "decade": "1960s",
+        "name_initial": "O",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 3737864,
+      "obscurity": {
+        "score": 0.5567,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3737864,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5567
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "12-years-a-slave",
+      "name": "12 Years a Slave",
+      "aliases": [
+        "Twelve Years a Slave"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/12_Years_a_Slave",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2013,
+        "decade": "2010s",
+        "name_initial": "1",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 3738993,
+      "obscurity": {
+        "score": 0.5464,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738993,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5464
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-last-emperor",
+      "name": "The Last Emperor",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Last_Emperor",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1987,
+        "decade": "1980s",
+        "name_initial": "T",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3739792,
+      "obscurity": {
+        "score": 0.5361,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3739792,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5361
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "coda",
+      "name": "CODA",
+      "aliases": [
+        "Coda"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/CODA",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2021,
+        "decade": "2020s",
+        "name_initial": "C",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3740357,
+      "obscurity": {
+        "score": 0.5258,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740357,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5258
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "patton",
+      "name": "Patton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Patton",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1970,
+        "decade": "1970s",
+        "name_initial": "P",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3742109,
+      "obscurity": {
+        "score": 0.5155,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742109,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5155
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gandhi",
+      "name": "Gandhi",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gandhi",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1982,
+        "decade": "1980s",
+        "name_initial": "G",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3742632,
+      "obscurity": {
+        "score": 0.5052,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742632,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5052
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chicago",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2002,
+        "decade": "2000s",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3743092,
+      "obscurity": {
+        "score": 0.4948,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743092,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4948
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rebecca",
+      "name": "Rebecca",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rebecca",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1940,
+        "decade": "1940s",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3743835,
+      "obscurity": {
+        "score": 0.4845,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743835,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4845
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "from-here-to-eternity",
+      "name": "From Here to Eternity",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/From_Here_to_Eternity",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1953,
+        "decade": "1950s",
+        "name_initial": "F",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3744457,
+      "obscurity": {
+        "score": 0.4742,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744457,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4742
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "it-happened-one-night",
+      "name": "It Happened One Night",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1934,
+        "decade": "1930s",
+        "name_initial": "I",
+        "name_length": 18,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 3744845,
+      "obscurity": {
+        "score": 0.4639,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744845,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4639
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chariots-of-fire",
+      "name": "Chariots of Fire",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1981,
+        "decade": "1980s",
+        "name_initial": "C",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3745022,
+      "obscurity": {
+        "score": 0.4536,
+        "band": "useful low scorer",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745022,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4536
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-king-s-speech",
+      "name": "The King's Speech",
+      "aliases": [
+        "The Kings Speech"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_King's_Speech",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2010,
+        "decade": "2010s",
+        "name_initial": "T",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3745075,
+      "obscurity": {
+        "score": 0.4433,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745075,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4433
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "midnight-cowboy",
+      "name": "Midnight Cowboy",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1969,
+        "decade": "1960s",
+        "name_initial": "M",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3745634,
+      "obscurity": {
+        "score": 0.433,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745634,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.433
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "shakespeare-in-love",
+      "name": "Shakespeare in Love",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Shakespeare_in_Love",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1998,
+        "decade": "1990s",
+        "name_initial": "S",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3746062,
+      "obscurity": {
+        "score": 0.4227,
+        "band": "middling",
+        "pointless_score": 58,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3746062,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4227
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "a-beautiful-mind",
+      "name": "A Beautiful Mind",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/A_Beautiful_Mind",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2001,
+        "decade": "2000s",
+        "name_initial": "A",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3746198,
+      "obscurity": {
+        "score": 0.4124,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3746198,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4124
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "argo",
+      "name": "Argo",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Argo",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2012,
+        "decade": "2010s",
+        "name_initial": "A",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3751006,
+      "obscurity": {
+        "score": 0.4021,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751006,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4021
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-french-connection",
+      "name": "The French Connection",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_French_Connection",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1971,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 19,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3751944,
+      "obscurity": {
+        "score": 0.3918,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751944,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3918
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-deer-hunter",
+      "name": "The Deer Hunter",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Deer_Hunter",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1978,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3752173,
+      "obscurity": {
+        "score": 0.3814,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3752173,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3814
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "my-fair-lady",
+      "name": "My Fair Lady",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/My_Fair_Lady",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1964,
+        "decade": "1960s",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3752867,
+      "obscurity": {
+        "score": 0.3711,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3752867,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3711
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rain-man",
+      "name": "Rain Man",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rain_Man",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1988,
+        "decade": "1980s",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4912411,
+      "obscurity": {
+        "score": 0.3608,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4912411,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3608
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-apartment",
+      "name": "The Apartment",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Apartment",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1960,
+        "decade": "1960s",
+        "name_initial": "T",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4913361,
+      "obscurity": {
+        "score": 0.3505,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913361,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3505
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "all-about-eve",
+      "name": "All About Eve",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/All_About_Eve",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1950,
+        "decade": "1950s",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4913425,
+      "obscurity": {
+        "score": 0.3402,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913425,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3402
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "unforgiven",
+      "name": "Unforgiven",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Unforgiven",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1992,
+        "decade": "1990s",
+        "name_initial": "U",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 4915323,
+      "obscurity": {
+        "score": 0.3299,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915323,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3299
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "on-the-waterfront",
+      "name": "On the Waterfront",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/On_the_Waterfront",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1954,
+        "decade": "1950s",
+        "name_initial": "O",
+        "name_length": 15,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 4915700,
+      "obscurity": {
+        "score": 0.3196,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915700,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3196
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "american-beauty",
+      "name": "American Beauty",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/American_Beauty",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1999,
+        "decade": "1990s",
+        "name_initial": "A",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4918258,
+      "obscurity": {
+        "score": 0.3093,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918258,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3093
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "slumdog-millionaire",
+      "name": "Slumdog Millionaire",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2008,
+        "decade": "2000s",
+        "name_initial": "S",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4918294,
+      "obscurity": {
+        "score": 0.299,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918294,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.299
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "no-country-for-old-men",
+      "name": "No Country for Old Men",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2007,
+        "decade": "2000s",
+        "name_initial": "N",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4919166,
+      "obscurity": {
+        "score": 0.2887,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4919166,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2887
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-departed",
+      "name": "The Departed",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Departed",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2006,
+        "decade": "2000s",
+        "name_initial": "T",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4919724,
+      "obscurity": {
+        "score": 0.2784,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4919724,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2784
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "amadeus",
+      "name": "Amadeus",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Amadeus",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1984,
+        "decade": "1980s",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4921645,
+      "obscurity": {
+        "score": 0.268,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4921645,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-sting",
+      "name": "The Sting",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Sting",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1973,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4921998,
+      "obscurity": {
+        "score": 0.2577,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4921998,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2577
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "platoon",
+      "name": "Platoon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Platoon",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1986,
+        "decade": "1980s",
+        "name_initial": "P",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4925031,
+      "obscurity": {
+        "score": 0.2474,
+        "band": "obvious",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4925031,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2474
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "west-side-story",
+      "name": "West Side Story",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/West_Side_Story",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1961,
+        "decade": "1960s",
+        "name_initial": "W",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4927875,
+      "obscurity": {
+        "score": 0.2371,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927875,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2371
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "anora",
+      "name": "Anora",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Anora",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2024,
+        "decade": "2020s",
+        "name_initial": "A",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4927936,
+      "obscurity": {
+        "score": 0.2268,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927936,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "annie-hall",
+      "name": "Annie Hall",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Annie_Hall",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1977,
+        "decade": "1970s",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4932938,
+      "obscurity": {
+        "score": 0.2165,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4932938,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2165
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "braveheart",
+      "name": "Braveheart",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Braveheart",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1995,
+        "decade": "1990s",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4933186,
+      "obscurity": {
+        "score": 0.2062,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4933186,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2062
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-bridge-on-the-river-kwai",
+      "name": "The Bridge on the River Kwai",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Bridge_on_the_River_Kwai",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1957,
+        "decade": "1950s",
+        "name_initial": "T",
+        "name_length": 23,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4934674,
+      "obscurity": {
+        "score": 0.1959,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4934674,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1959
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-silence-of-the-lambs",
+      "name": "The Silence of the Lambs",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1991,
+        "decade": "1990s",
+        "name_initial": "T",
+        "name_length": 20,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6286647,
+      "obscurity": {
+        "score": 0.1856,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6286647,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1856
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "titanic",
+      "name": "Titanic",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Titanic",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1997,
+        "decade": "1990s",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6287131,
+      "obscurity": {
+        "score": 0.1753,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287131,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1753
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-godfather-part-ii",
+      "name": "The Godfather Part II",
+      "aliases": [
+        "Godfather Part 2"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1974,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6287449,
+      "obscurity": {
+        "score": 0.1649,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287449,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1649
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "one-flew-over-the-cuckoo-s-nest",
+      "name": "One Flew Over the Cuckoo's Nest",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo's_Nest",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1975,
+        "decade": "1970s",
+        "name_initial": "O",
+        "name_length": 25,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 6291066,
+      "obscurity": {
+        "score": 0.1546,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6291066,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1546
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "schindler-s-list",
+      "name": "Schindler's List",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Schindler's_List",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1993,
+        "decade": "1990s",
+        "name_initial": "S",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6293609,
+      "obscurity": {
+        "score": 0.1443,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293609,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1443
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-lord-of-the-rings-the-return-of-the-king",
+      "name": "The Lord of the Rings: The Return of the King",
+      "aliases": [
+        "Return of the King"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2003,
+        "decade": "2000s",
+        "name_initial": "T",
+        "name_length": 35,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6294351,
+      "obscurity": {
+        "score": 0.134,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6294351,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.134
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lawrence-of-arabia",
+      "name": "Lawrence of Arabia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lawrence_of_Arabia",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1962,
+        "decade": "1960s",
+        "name_initial": "L",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6294640,
+      "obscurity": {
+        "score": 0.1237,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6294640,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1237
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ben-hur",
+      "name": "Ben-Hur",
+      "aliases": [
+        "Ben Hur"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ben-Hur",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1959,
+        "decade": "1950s",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6295920,
+      "obscurity": {
+        "score": 0.1134,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295920,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1134
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "forrest-gump",
+      "name": "Forrest Gump",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Forrest_Gump",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1994,
+        "decade": "1990s",
+        "name_initial": "F",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6299767,
+      "obscurity": {
+        "score": 0.1031,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6299767,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1031
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "parasite",
+      "name": "Parasite",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Parasite",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2019,
+        "decade": "2010s",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6299840,
+      "obscurity": {
+        "score": 0.0928,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6299840,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0928
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gone-with-the-wind",
+      "name": "Gone with the Wind",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gone_with_the_Wind",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1939,
+        "decade": "1930s",
+        "name_initial": "G",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6299953,
+      "obscurity": {
+        "score": 0.0825,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6299953,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0825
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "casablanca",
+      "name": "Casablanca",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Casablanca",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1943,
+        "decade": "1940s",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6303665,
+      "obscurity": {
+        "score": 0.0722,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6303665,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0722
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-sound-of-music",
+      "name": "The Sound of Music",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Sound_of_Music",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1965,
+        "decade": "1960s",
+        "name_initial": "T",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6305054,
+      "obscurity": {
+        "score": 0.0619,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305054,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0619
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "the-godfather",
+      "name": "The Godfather",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/The_Godfather",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1972,
+        "decade": "1970s",
+        "name_initial": "T",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6305746,
+      "obscurity": {
+        "score": 0.0515,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305746,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0515
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "everything-everywhere-all-at-once",
+      "name": "Everything Everywhere All at Once",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2022,
+        "decade": "2020s",
+        "name_initial": "E",
+        "name_length": 29,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 6305823,
+      "obscurity": {
+        "score": 0.0412,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305823,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oppenheimer",
+      "name": "Oppenheimer",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oppenheimer",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2023,
+        "decade": "2020s",
+        "name_initial": "O",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 6307525,
+      "obscurity": {
+        "score": 0.0309,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6307525,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0309
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gladiator",
+      "name": "Gladiator",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gladiator",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2000,
+        "decade": "2000s",
+        "name_initial": "G",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6307566,
+      "obscurity": {
+        "score": 0.0206,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6307566,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0206
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rocky",
+      "name": "Rocky",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rocky",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1976,
+        "decade": "1970s",
+        "name_initial": "R",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6308166,
+      "obscurity": {
+        "score": 0.0103,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308166,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0103
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "one-battle-after-another",
+      "name": "One Battle After Another",
+      "aliases": [
+        "One Battle after Another"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/One_Battle_After_Another",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2025,
+        "decade": "2020s",
+        "name_initial": "O",
+        "name_length": 21,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 6311173,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6311173,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

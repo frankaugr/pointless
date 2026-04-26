@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T17:30:42Z",
+  "generated_at": "2026-04-26T17:31:56Z",
   "categories": [
     {
       "slug": "chemical-elements",
@@ -144,6 +144,59 @@
       "display_fields": [
         "reign_start",
         "house"
+      ]
+    },
+    {
+      "slug": "uk-number-one-singles",
+      "name": "UK Number One Singles",
+      "description": "A curated revision pack of UK Official Singles Chart number ones across the decades.",
+      "tags": [
+        "music",
+        "uk",
+        "charts",
+        "revision-pack"
+      ],
+      "answer_kind": "single",
+      "n_answers": 71,
+      "display_fields": [
+        "artist",
+        "year",
+        "decade"
+      ]
+    },
+    {
+      "slug": "uk-number-one-albums",
+      "name": "UK Number One Albums",
+      "description": "A curated revision pack of UK Official Albums Chart number ones across the decades.",
+      "tags": [
+        "music",
+        "uk",
+        "charts",
+        "revision-pack"
+      ],
+      "answer_kind": "album",
+      "n_answers": 83,
+      "display_fields": [
+        "artist",
+        "year",
+        "decade"
+      ]
+    },
+    {
+      "slug": "oscar-best-picture-winners",
+      "name": "Oscar Best Picture Winners",
+      "description": "Academy Award Best Picture winners from Wings through the 98th Academy Awards.",
+      "tags": [
+        "film",
+        "oscars",
+        "awards",
+        "recurring"
+      ],
+      "answer_kind": "film",
+      "n_answers": 98,
+      "display_fields": [
+        "year",
+        "decade"
       ]
     }
   ]

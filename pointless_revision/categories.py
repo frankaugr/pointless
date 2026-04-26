@@ -91,6 +91,10 @@ def _century(year: int) -> str:
     return f"{((year - 1) // 100) + 1}th century"
 
 
+def _decade(year: int) -> str:
+    return f"{(year // 10) * 10}s"
+
+
 COMMON_NAME_TEMPLATES = (
     {
         "id": "name-starts-consonant",
@@ -771,6 +775,270 @@ Charles III|2022|Windsor|10|
 """
 
 
+UK_NUMBER_ONE_SINGLE_ROWS = """
+Here in My Heart|Al Martino|1952|4|
+Secret Love|Doris Day|1954|5|
+Rock Around the Clock|Bill Haley and His Comets|1955|9|
+Diana|Paul Anka|1957|8|
+Jailhouse Rock|Elvis Presley|1958|10|
+Dream Lover|Bobby Darin|1959|7|
+Apache|The Shadows|1960|8|
+Runaway|Del Shannon|1961|8|
+Telstar|The Tornados|1962|7|
+She Loves You|The Beatles|1963|10|
+You Really Got Me|The Kinks|1964|9|
+The Carnival Is Over|The Seekers|1965|7|
+Good Vibrations|The Beach Boys|1966|10|
+A Whiter Shade of Pale|Procol Harum|1967|9|
+Those Were the Days|Mary Hopkin|1968|7|
+Sugar, Sugar|The Archies|1969|8|
+Wand'rin' Star|Lee Marvin|1970|5|Wandrin Star
+My Sweet Lord|George Harrison|1971|9|
+Amazing Grace|Royal Scots Dragoon Guards|1972|5|
+Tiger Feet|Mud|1974|7|
+Bohemian Rhapsody|Queen|1975|10|
+Save Your Kisses for Me|Brotherhood of Man|1976|7|
+Mull of Kintyre|Wings|1977|9|
+You're the One That I Want|John Travolta and Olivia Newton-John|1978|10|Youre the One That I Want
+Video Killed the Radio Star|The Buggles|1979|9|
+Don't Stand So Close to Me|The Police|1980|9|
+Tainted Love|Soft Cell|1981|9|
+Come On Eileen|Dexys Midnight Runners|1982|9|
+Karma Chameleon|Culture Club|1983|9|
+Do They Know It's Christmas?|Band Aid|1984|10|
+The Power of Love|Jennifer Rush|1985|8|
+The Final Countdown|Europe|1986|9|
+Never Gonna Give You Up|Rick Astley|1987|9|
+Mistletoe and Wine|Cliff Richard|1988|7|
+Ride on Time|Black Box|1989|7|
+Ice Ice Baby|Vanilla Ice|1990|9|
+Everything I Do I Do It for You|Bryan Adams|1991|10|(Everything I Do) I Do It for You
+I Will Always Love You|Whitney Houston|1992|10|
+I'd Do Anything for Love|Meat Loaf|1993|9|I'd Do Anything for Love (But I Won't Do That)
+Love Is All Around|Wet Wet Wet|1994|9|
+Unchained Melody|Robson and Jerome|1995|7|
+Wannabe|Spice Girls|1996|10|
+Candle in the Wind 1997|Elton John|1997|10|
+Believe|Cher|1998|9|
+Baby One More Time|Britney Spears|1999|10|...Baby One More Time
+Can't Get You Out of My Head|Kylie Minogue|2001|10|
+Sound of the Underground|Girls Aloud|2002|8|
+Where Is the Love?|The Black Eyed Peas|2003|9|
+Call on Me|Eric Prydz|2004|8|
+You're Beautiful|James Blunt|2005|9|Youre Beautiful
+Crazy|Gnarls Barkley|2006|9|
+Umbrella|Rihanna featuring Jay-Z|2007|10|
+Hallelujah|Alexandra Burke|2008|8|
+Poker Face|Lady Gaga|2009|10|
+Pass Out|Tinie Tempah|2010|8|
+Someone Like You|Adele|2011|10|
+Call Me Maybe|Carly Rae Jepsen|2012|9|
+Get Lucky|Daft Punk featuring Pharrell Williams|2013|10|
+Rather Be|Clean Bandit featuring Jess Glynne|2014|8|
+Uptown Funk|Mark Ronson featuring Bruno Mars|2014|10|
+Hello|Adele|2015|10|
+One Dance|Drake featuring Wizkid and Kyla|2016|10|
+Shape of You|Ed Sheeran|2017|10|
+Thank U, Next|Ariana Grande|2018|9|
+Dance Monkey|Tones and I|2019|9|
+Blinding Lights|The Weeknd|2020|10|
+Drivers License|Olivia Rodrigo|2021|9|Driver's License
+As It Was|Harry Styles|2022|10|
+Flowers|Miley Cyrus|2023|10|
+Beautiful Things|Benson Boone|2024|8|
+Golden|Huntr/x, Ejae, Audrey Nuna and Rei Ami|2025|8|Golden (KPop Demon Hunters)
+"""
+
+
+UK_NUMBER_ONE_ALBUM_ROWS = """
+Songs for Swingin' Lovers|Frank Sinatra|1956|5|
+South Pacific|Original Soundtrack|1958|8|
+Please Please Me|The Beatles|1963|10|
+The Sound of Music|Original Soundtrack|1965|10|
+Sgt. Pepper's Lonely Hearts Club Band|The Beatles|1967|10|Sgt Peppers Lonely Hearts Club Band
+Abbey Road|The Beatles|1969|10|
+Bridge over Troubled Water|Simon and Garfunkel|1970|10|
+Paranoid|Black Sabbath|1970|9|
+All Things Must Pass|George Harrison|1971|9|
+Sticky Fingers|The Rolling Stones|1971|9|
+Who's Next|The Who|1971|9|
+Every Picture Tells a Story|Rod Stewart|1971|7|
+Led Zeppelin IV|Led Zeppelin|1971|10|Four Symbols
+Electric Warrior|T. Rex|1971|9|
+Harvest|Neil Young|1972|9|
+Machine Head|Deep Purple|1972|8|
+Exile on Main St|The Rolling Stones|1972|9|Exile on Main Street
+Don't Shoot Me I'm Only the Piano Player|Elton John|1973|8|
+Aladdin Sane|David Bowie|1973|9|
+Goodbye Yellow Brick Road|Elton John|1973|9|
+Diamond Dogs|David Bowie|1974|8|
+Band on the Run|Paul McCartney and Wings|1974|9|
+Tubular Bells|Mike Oldfield|1974|8|
+Wish You Were Here|Pink Floyd|1975|10|
+A Night at the Opera|Queen|1975|10|
+Arrival|ABBA|1977|9|
+Rumours|Fleetwood Mac|1977|10|
+Saturday Night Fever|Original Soundtrack|1978|9|
+Parallel Lines|Blondie|1979|9|
+The Wall|Pink Floyd|1979|10|
+Back in Black|AC/DC|1980|10|
+Kings of the Wild Frontier|Adam and the Ants|1981|6|
+The Lexicon of Love|ABC|1982|7|
+Thriller|Michael Jackson|1983|10|
+No Parlez|Paul Young|1983|6|
+Brothers in Arms|Dire Straits|1985|10|
+Graceland|Paul Simon|1986|9|
+The Joshua Tree|U2|1987|10|
+Bad|Michael Jackson|1987|10|
+Kylie|Kylie Minogue|1988|8|
+...But Seriously|Phil Collins|1989|8|
+Listen Without Prejudice Vol. 1|George Michael|1990|8|
+Nevermind|Nirvana|1991|10|
+Achtung Baby|U2|1991|8|
+Stars|Simply Red|1991|8|
+Automatic for the People|R.E.M.|1992|9|Automatic for the People
+Definitely Maybe|Oasis|1994|10|
+Parklife|Blur|1994|9|
+What's the Story Morning Glory?|Oasis|1995|10|
+Spice|Spice Girls|1996|10|
+Urban Hymns|The Verve|1997|9|
+Ray of Light|Madonna|1998|9|
+The Man Who|Travis|1999|7|
+Parachutes|Coldplay|2000|9|
+White Ladder|David Gray|2000|8|
+No Angel|Dido|2001|8|
+A Rush of Blood to the Head|Coldplay|2002|10|
+Permission to Land|The Darkness|2003|7|
+Hopes and Fears|Keane|2004|8|
+Back to Bedlam|James Blunt|2005|9|
+Whatever People Say I Am, That's What I'm Not|Arctic Monkeys|2006|9|
+Back to Black|Amy Winehouse|2007|10|
+Spirit|Leona Lewis|2007|8|
+Only by the Night|Kings of Leon|2008|8|
+The Fame|Lady Gaga|2009|9|
+Sigh No More|Mumford and Sons|2010|8|
+21|Adele|2011|10|
+Our Version of Events|Emeli Sande|2012|8|
+Random Access Memories|Daft Punk|2013|9|
+AM|Arctic Monkeys|2013|9|
+X|Ed Sheeran|2014|10|Multiply
+25|Adele|2015|10|
+A Head Full of Dreams|Coldplay|2015|8|
+Divide|Ed Sheeran|2017|10|
+Sweetener|Ariana Grande|2018|8|
+When We All Fall Asleep, Where Do We Go?|Billie Eilish|2019|9|
+Future Nostalgia|Dua Lipa|2020|9|
+30|Adele|2021|10|
+Harry's House|Harry Styles|2022|10|
+Midnights|Taylor Swift|2022|10|
+The Record|Boygenius|2023|7|
+The Tortured Poets Department|Taylor Swift|2024|10|
+The Rise and Fall of a Midwest Princess|Chappell Roan|2024|8|
+"""
+
+
+OSCAR_BEST_PICTURE_ROWS = """
+Wings|1927|7|
+The Broadway Melody|1929|4|
+All Quiet on the Western Front|1930|8|
+Cimarron|1931|4|
+Grand Hotel|1932|6|
+Cavalcade|1933|4|
+It Happened One Night|1934|8|
+Mutiny on the Bounty|1935|7|
+The Great Ziegfeld|1936|5|
+The Life of Emile Zola|1937|5|
+You Can't Take It with You|1938|6|
+Gone with the Wind|1939|10|
+Rebecca|1940|8|
+How Green Was My Valley|1941|7|
+Mrs. Miniver|1942|6|
+Casablanca|1943|10|
+Going My Way|1944|5|
+The Lost Weekend|1945|7|
+The Best Years of Our Lives|1946|8|
+Gentleman's Agreement|1947|5|
+Hamlet|1948|7|
+All the King's Men|1949|6|
+All About Eve|1950|9|
+An American in Paris|1951|8|
+The Greatest Show on Earth|1952|6|
+From Here to Eternity|1953|8|
+On the Waterfront|1954|9|
+Marty|1955|6|
+Around the World in 80 Days|1956|7|
+The Bridge on the River Kwai|1957|9|
+Gigi|1958|6|
+Ben-Hur|1959|10|Ben Hur
+The Apartment|1960|9|
+West Side Story|1961|9|
+Lawrence of Arabia|1962|10|
+Tom Jones|1963|6|
+My Fair Lady|1964|8|
+The Sound of Music|1965|10|
+A Man for All Seasons|1966|7|
+In the Heat of the Night|1967|8|
+Oliver!|1968|8|Oliver
+Midnight Cowboy|1969|8|
+Patton|1970|8|
+The French Connection|1971|8|
+The Godfather|1972|10|
+The Sting|1973|9|
+The Godfather Part II|1974|10|Godfather Part 2
+One Flew Over the Cuckoo's Nest|1975|10|
+Rocky|1976|10|
+Annie Hall|1977|9|
+The Deer Hunter|1978|8|
+Kramer vs. Kramer|1979|8|Kramer versus Kramer
+Ordinary People|1980|7|
+Chariots of Fire|1981|8|
+Gandhi|1982|8|
+Terms of Endearment|1983|7|
+Amadeus|1984|9|
+Out of Africa|1985|7|
+Platoon|1986|9|
+The Last Emperor|1987|8|
+Rain Man|1988|9|
+Driving Miss Daisy|1989|7|
+Dances with Wolves|1990|8|
+The Silence of the Lambs|1991|10|
+Unforgiven|1992|9|
+Schindler's List|1993|10|
+Forrest Gump|1994|10|
+Braveheart|1995|9|
+The English Patient|1996|7|
+Titanic|1997|10|
+Shakespeare in Love|1998|8|
+American Beauty|1999|9|
+Gladiator|2000|10|
+A Beautiful Mind|2001|8|
+Chicago|2002|8|
+The Lord of the Rings: The Return of the King|2003|10|Return of the King
+Million Dollar Baby|2004|8|
+Crash|2005|7|
+The Departed|2006|9|
+No Country for Old Men|2007|9|
+Slumdog Millionaire|2008|9|
+The Hurt Locker|2009|7|
+The King's Speech|2010|8|The Kings Speech
+The Artist|2011|7|
+Argo|2012|8|
+12 Years a Slave|2013|8|Twelve Years a Slave
+Birdman or (The Unexpected Virtue of Ignorance)|2014|7|Birdman
+Spotlight|2015|8|
+Moonlight|2016|8|
+The Shape of Water|2017|8|
+Green Book|2018|7|
+Parasite|2019|10|
+Nomadland|2020|7|
+CODA|2021|8|Coda
+Everything Everywhere All at Once|2022|10|
+Oppenheimer|2023|10|
+Anora|2024|9|
+One Battle After Another|2025|10|One Battle after Another
+"""
+
+
 def _make_elements() -> tuple[AnswerSpec, ...]:
     out: list[AnswerSpec] = []
     for row in _rows(ELEMENT_ROWS):
@@ -933,6 +1201,37 @@ def _make_monarch_answers() -> tuple[AnswerSpec, ...]:
     return tuple(out)
 
 
+def _make_chart_answers(rows: str) -> tuple[AnswerSpec, ...]:
+    out: list[AnswerSpec] = []
+    for title, artist, year_s, fame_s, aliases in _rows(rows):
+        year = int(year_s)
+        out.append(
+            answer(
+                title,
+                id=f"{slugify(title)}-{slugify(artist)}",
+                aliases=_split_aliases(aliases),
+                attrs={"artist": artist, "year": year, "decade": _decade(year)},
+                fame=int(fame_s),
+            )
+        )
+    return tuple(out)
+
+
+def _make_oscar_best_picture_answers() -> tuple[AnswerSpec, ...]:
+    out: list[AnswerSpec] = []
+    for title, year_s, fame_s, aliases in _rows(OSCAR_BEST_PICTURE_ROWS):
+        year = int(year_s)
+        out.append(
+            answer(
+                title,
+                aliases=_split_aliases(aliases),
+                attrs={"award": "Best Picture", "year": year, "decade": _decade(year)},
+                fame=int(fame_s),
+            )
+        )
+    return tuple(out)
+
+
 ELEMENT_QUESTION_TEMPLATES = COMMON_NAME_TEMPLATES + (
     {
         "id": "elements-consonant",
@@ -1059,6 +1358,57 @@ MONARCH_QUESTION_TEMPLATES = COMMON_NAME_TEMPLATES + (
 )
 
 
+CHART_QUESTION_TEMPLATES = COMMON_NAME_TEMPLATES + (
+    {
+        "id": "chart-by-decade",
+        "kind": "attr_equals_dynamic",
+        "attr": "decade",
+        "prompt": "{category} from the {value}",
+    },
+    {
+        "id": "chart-title-artist-same-initial",
+        "kind": "same_initial",
+        "field": "name",
+        "attr": "artist",
+        "prompt": "{category} whose title starts with the same letter as the artist",
+    },
+    {
+        "id": "chart-after-2000",
+        "kind": "number_range",
+        "attr": "year",
+        "min": 2000,
+        "max": 2100,
+        "prompt": "{category} from 2000 onwards",
+    },
+)
+
+
+OSCAR_QUESTION_TEMPLATES = COMMON_NAME_TEMPLATES + (
+    {
+        "id": "oscars-by-decade",
+        "kind": "attr_equals_dynamic",
+        "attr": "decade",
+        "prompt": "{category} from the {value}",
+    },
+    {
+        "id": "oscars-after-2000",
+        "kind": "number_range",
+        "attr": "year",
+        "min": 2000,
+        "max": 2100,
+        "prompt": "{category} from 2000 onwards",
+    },
+    {
+        "id": "oscars-before-1970",
+        "kind": "number_range",
+        "attr": "year",
+        "min": 1927,
+        "max": 1969,
+        "prompt": "{category} before 1970",
+    },
+)
+
+
 COUNTRIES = _make_countries()
 US_STATES = _make_us_states()
 
@@ -1179,6 +1529,61 @@ CATEGORY_LIST: tuple[CategorySpec, ...] = (
         question_templates=MONARCH_QUESTION_TEMPLATES,
         answers=_make_monarch_answers(),
         sources=({"label": "Royal Family kings and queens", "url": "https://www.royal.uk/kings-and-queens-1066"},),
+    ),
+    CategorySpec(
+        slug="uk-number-one-singles",
+        name="UK Number One Singles",
+        description="A curated revision pack of UK Official Singles Chart number ones across the decades.",
+        tags=("music", "uk", "charts", "revision-pack"),
+        answer_kind="single",
+        expected_count=71,
+        display_fields=("artist", "year", "decade"),
+        question_templates=CHART_QUESTION_TEMPLATES,
+        answers=_make_chart_answers(UK_NUMBER_ONE_SINGLE_ROWS),
+        sources=(
+            {
+                "label": "Official Charts all UK number one singles",
+                "url": "https://www.officialcharts.com/chart-news/all-the-number-1-singles__7931/",
+            },
+        ),
+    ),
+    CategorySpec(
+        slug="uk-number-one-albums",
+        name="UK Number One Albums",
+        description="A curated revision pack of UK Official Albums Chart number ones across the decades.",
+        tags=("music", "uk", "charts", "revision-pack"),
+        answer_kind="album",
+        expected_count=83,
+        display_fields=("artist", "year", "decade"),
+        question_templates=CHART_QUESTION_TEMPLATES,
+        answers=_make_chart_answers(UK_NUMBER_ONE_ALBUM_ROWS),
+        sources=(
+            {
+                "label": "Official Charts all UK number one albums",
+                "url": "https://www.officialcharts.com/chart-news/all-the-number-1-albums__7949/",
+            },
+        ),
+    ),
+    CategorySpec(
+        slug="oscar-best-picture-winners",
+        name="Oscar Best Picture Winners",
+        description="Academy Award Best Picture winners from Wings through the 98th Academy Awards.",
+        tags=("film", "oscars", "awards", "recurring"),
+        answer_kind="film",
+        expected_count=98,
+        display_fields=("year", "decade"),
+        question_templates=OSCAR_QUESTION_TEMPLATES,
+        answers=_make_oscar_best_picture_answers(),
+        sources=(
+            {
+                "label": "Official Academy Awards database",
+                "url": "https://awardsdatabase.oscars.org/",
+            },
+            {
+                "label": "The 98th Academy Awards",
+                "url": "https://www.oscars.org/oscars/ceremonies/2026",
+            },
+        ),
     ),
 )
 
