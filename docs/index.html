@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pointless Revision</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Pointless Revision</h1>
+    <p class="tagline">
+      Practise the obscure answers — the kind that score 0 on Pointless.
+    </p>
+  </header>
+
+  <main>
+    <section id="picker">
+      <label for="category">Category</label>
+      <select id="category" aria-label="Choose a category"></select>
+      <button id="start" type="button">Start</button>
+      <p id="picker-meta" class="meta"></p>
+    </section>
+
+    <section id="quiz" hidden>
+      <header class="quiz-header">
+        <h2 id="quiz-title"></h2>
+        <p id="quiz-progress" class="meta"></p>
+      </header>
+
+      <form id="answer-form" autocomplete="off">
+        <input
+          id="answer-input"
+          type="text"
+          spellcheck="false"
+          autocapitalize="off"
+          autocorrect="off"
+          placeholder="Type an answer and press Enter..."
+          aria-label="Your answer"
+        />
+        <button id="give-up" type="button">Reveal remaining</button>
+      </form>
+
+      <p id="feedback" class="feedback" aria-live="polite"></p>
+
+      <div class="lists">
+        <section>
+          <h3>Found <span class="dim">(<span id="found-count">0</span>)</span></h3>
+          <ol id="found-list" class="answer-list"></ol>
+        </section>
+        <section id="missed-section" hidden>
+          <h3>Missed — most obscure first</h3>
+          <ol id="missed-list" class="answer-list"></ol>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Answer sets from <a href="https://www.wikidata.org/">Wikidata</a>;
+      obscurity from <a href="https://wikimedia.org/api/rest_v1/">Wikipedia pageviews</a>.
+      Not affiliated with the BBC or Banijay.
+    </p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
