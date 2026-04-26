@@ -1,0 +1,1561 @@
+{
+  "slug": "us-states",
+  "name": "US States",
+  "description": "The 50 states of the United States.",
+  "tags": [
+    "geography",
+    "usa",
+    "recurring"
+  ],
+  "answer_kind": "state",
+  "expected_count": 50,
+  "n_answers": 50,
+  "display_fields": [
+    "capital",
+    "region"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "countries-by-continent",
+      "kind": "attr_equals_dynamic",
+      "attr": "continent",
+      "prompt": "Countries in {value}"
+    },
+    {
+      "id": "countries-capital-same-initial",
+      "kind": "same_initial",
+      "field": "name",
+      "attr": "capital",
+      "prompt": "Countries whose capital city starts with the same letter as the country"
+    }
+  ],
+  "sources": [
+    {
+      "label": "USA.gov state governments",
+      "url": "https://www.usa.gov/states-and-territories"
+    }
+  ],
+  "generated_at": "2026-04-26T17:30:42Z",
+  "answers": [
+    {
+      "id": "wyoming",
+      "name": "Wyoming",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wyoming",
+      "attrs": {
+        "capital": "Cheyenne",
+        "region": "West",
+        "name_initial": "W",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1253044,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1253044,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/North_Dakota",
+      "attrs": {
+        "capital": "Bismarck",
+        "region": "Midwest",
+        "name_initial": "N",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1254892,
+      "obscurity": {
+        "score": 0.9796,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254892,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9796
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "delaware",
+      "name": "Delaware",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Delaware",
+      "attrs": {
+        "capital": "Dover",
+        "region": "South",
+        "name_initial": "D",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1261912,
+      "obscurity": {
+        "score": 0.9592,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1261912,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9592
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vermont",
+      "name": "Vermont",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Vermont",
+      "attrs": {
+        "capital": "Montpelier",
+        "region": "Northeast",
+        "name_initial": "V",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1262231,
+      "obscurity": {
+        "score": 0.9388,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262231,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9388
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-dakota",
+      "name": "South Dakota",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Dakota",
+      "attrs": {
+        "capital": "Pierre",
+        "region": "Midwest",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1270308,
+      "obscurity": {
+        "score": 0.9184,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270308,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9184
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "idaho",
+      "name": "Idaho",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Idaho",
+      "attrs": {
+        "capital": "Boise",
+        "region": "West",
+        "name_initial": "I",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1906354,
+      "obscurity": {
+        "score": 0.898,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1906354,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.898
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maine",
+      "name": "Maine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maine",
+      "attrs": {
+        "capital": "Augusta",
+        "region": "Northeast",
+        "name_initial": "M",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1906482,
+      "obscurity": {
+        "score": 0.8776,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1906482,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8776
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-hampshire",
+      "name": "New Hampshire",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/New_Hampshire",
+      "attrs": {
+        "capital": "Concord",
+        "region": "Northeast",
+        "name_initial": "N",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1912401,
+      "obscurity": {
+        "score": 0.8571,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1912401,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8571
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iowa",
+      "name": "Iowa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iowa",
+      "attrs": {
+        "capital": "Des Moines",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1916429,
+      "obscurity": {
+        "score": 0.8367,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1916429,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8367
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mississippi",
+      "name": "Mississippi",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mississippi",
+      "attrs": {
+        "capital": "Jackson",
+        "region": "South",
+        "name_initial": "M",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1917026,
+      "obscurity": {
+        "score": 0.8163,
+        "band": "very obscure",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917026,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8163
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arkansas",
+      "name": "Arkansas",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Arkansas",
+      "attrs": {
+        "capital": "Little Rock",
+        "region": "South",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1917316,
+      "obscurity": {
+        "score": 0.7959,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917316,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7959
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "montana",
+      "name": "Montana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Montana",
+      "attrs": {
+        "capital": "Helena",
+        "region": "West",
+        "name_initial": "M",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1919814,
+      "obscurity": {
+        "score": 0.7755,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1919814,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7755
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "west-virginia",
+      "name": "West Virginia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/West_Virginia",
+      "attrs": {
+        "capital": "Charleston",
+        "region": "South",
+        "name_initial": "W",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1920905,
+      "obscurity": {
+        "score": 0.7551,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1920905,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7551
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kansas",
+      "name": "Kansas",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kansas",
+      "attrs": {
+        "capital": "Topeka",
+        "region": "Midwest",
+        "name_initial": "K",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1922034,
+      "obscurity": {
+        "score": 0.7347,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1922034,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7347
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rhode-island",
+      "name": "Rhode Island",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rhode_Island",
+      "attrs": {
+        "capital": "Providence",
+        "region": "Northeast",
+        "name_initial": "R",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1924385,
+      "obscurity": {
+        "score": 0.7143,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924385,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7143
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nebraska",
+      "name": "Nebraska",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nebraska",
+      "attrs": {
+        "capital": "Lincoln",
+        "region": "Midwest",
+        "name_initial": "N",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1926838,
+      "obscurity": {
+        "score": 0.6939,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1926838,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6939
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "alabama",
+      "name": "Alabama",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Alabama",
+      "attrs": {
+        "capital": "Montgomery",
+        "region": "South",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 2732051,
+      "obscurity": {
+        "score": 0.6735,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2732051,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6735
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "connecticut",
+      "name": "Connecticut",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Connecticut",
+      "attrs": {
+        "capital": "Hartford",
+        "region": "Northeast",
+        "name_initial": "C",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2737648,
+      "obscurity": {
+        "score": 0.6531,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2737648,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6531
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kentucky",
+      "name": "Kentucky",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kentucky",
+      "attrs": {
+        "capital": "Frankfort",
+        "region": "South",
+        "name_initial": "K",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2741614,
+      "obscurity": {
+        "score": 0.6327,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2741614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6327
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oklahoma",
+      "name": "Oklahoma",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oklahoma",
+      "attrs": {
+        "capital": "Oklahoma City",
+        "region": "South",
+        "name_initial": "O",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 2746096,
+      "obscurity": {
+        "score": 0.6122,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2746096,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-mexico",
+      "name": "New Mexico",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/New_Mexico",
+      "attrs": {
+        "capital": "Santa Fe",
+        "region": "West",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2753949,
+      "obscurity": {
+        "score": 0.5918,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2753949,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5918
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Alaska",
+      "attrs": {
+        "capital": "Juneau",
+        "region": "West",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3729190,
+      "obscurity": {
+        "score": 0.5714,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3729190,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5714
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "missouri",
+      "name": "Missouri",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Missouri",
+      "attrs": {
+        "capital": "Jefferson City",
+        "region": "Midwest",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3732571,
+      "obscurity": {
+        "score": 0.551,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732571,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.551
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "indiana",
+      "name": "Indiana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Indiana",
+      "attrs": {
+        "capital": "Indianapolis",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 3737881,
+      "obscurity": {
+        "score": 0.5306,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3737881,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5306
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oregon",
+      "name": "Oregon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oregon",
+      "attrs": {
+        "capital": "Salem",
+        "region": "West",
+        "name_initial": "O",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 3738553,
+      "obscurity": {
+        "score": 0.5102,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738553,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5102
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wisconsin",
+      "name": "Wisconsin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wisconsin",
+      "attrs": {
+        "capital": "Madison",
+        "region": "Midwest",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3742281,
+      "obscurity": {
+        "score": 0.4898,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742281,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4898
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nevada",
+      "name": "Nevada",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nevada",
+      "attrs": {
+        "capital": "Carson City",
+        "region": "West",
+        "name_initial": "N",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3744282,
+      "obscurity": {
+        "score": 0.4694,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744282,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4694
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-carolina",
+      "name": "South Carolina",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Carolina",
+      "attrs": {
+        "capital": "Columbia",
+        "region": "South",
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3745797,
+      "obscurity": {
+        "score": 0.449,
+        "band": "middling",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745797,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.449
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tennessee",
+      "name": "Tennessee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tennessee",
+      "attrs": {
+        "capital": "Nashville",
+        "region": "South",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3748669,
+      "obscurity": {
+        "score": 0.4286,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3748669,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4286
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "louisiana",
+      "name": "Louisiana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Louisiana",
+      "attrs": {
+        "capital": "Baton Rouge",
+        "region": "South",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3749151,
+      "obscurity": {
+        "score": 0.4082,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3749151,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4082
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maryland",
+      "name": "Maryland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maryland",
+      "attrs": {
+        "capital": "Annapolis",
+        "region": "South",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3750647,
+      "obscurity": {
+        "score": 0.3878,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3750647,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "utah",
+      "name": "Utah",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Utah",
+      "attrs": {
+        "capital": "Salt Lake City",
+        "region": "West",
+        "name_initial": "U",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 3751133,
+      "obscurity": {
+        "score": 0.3673,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751133,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3673
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "minnesota",
+      "name": "Minnesota",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Minnesota",
+      "attrs": {
+        "capital": "Saint Paul",
+        "region": "Midwest",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3753335,
+      "obscurity": {
+        "score": 0.3469,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3753335,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3469
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arizona",
+      "name": "Arizona",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Arizona",
+      "attrs": {
+        "capital": "Phoenix",
+        "region": "West",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4912055,
+      "obscurity": {
+        "score": 0.3265,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4912055,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3265
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "georgia",
+      "name": "Georgia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Georgia",
+      "attrs": {
+        "capital": "Atlanta",
+        "region": "South",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4912505,
+      "obscurity": {
+        "score": 0.3061,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4912505,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3061
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "pennsylvania",
+      "name": "Pennsylvania",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Pennsylvania",
+      "attrs": {
+        "capital": "Harrisburg",
+        "region": "Northeast",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4913652,
+      "obscurity": {
+        "score": 0.2857,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913652,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2857
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "colorado",
+      "name": "Colorado",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Colorado",
+      "attrs": {
+        "capital": "Denver",
+        "region": "West",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4914205,
+      "obscurity": {
+        "score": 0.2653,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4914205,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2653
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohio",
+      "name": "Ohio",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ohio",
+      "attrs": {
+        "capital": "Columbus",
+        "region": "Midwest",
+        "name_initial": "O",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 4914527,
+      "obscurity": {
+        "score": 0.2449,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4914527,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2449
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "massachusetts",
+      "name": "Massachusetts",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Massachusetts",
+      "attrs": {
+        "capital": "Boston",
+        "region": "Northeast",
+        "name_initial": "M",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4915683,
+      "obscurity": {
+        "score": 0.2245,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915683,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2245
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "north-carolina",
+      "name": "North Carolina",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/North_Carolina",
+      "attrs": {
+        "capital": "Raleigh",
+        "region": "South",
+        "name_initial": "N",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4917716,
+      "obscurity": {
+        "score": 0.2041,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4917716,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2041
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "michigan",
+      "name": "Michigan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Michigan",
+      "attrs": {
+        "capital": "Lansing",
+        "region": "Midwest",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4918580,
+      "obscurity": {
+        "score": 0.1837,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918580,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1837
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hawaii",
+      "name": "Hawaii",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hawaii",
+      "attrs": {
+        "capital": "Honolulu",
+        "region": "West",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4920169,
+      "obscurity": {
+        "score": 0.1633,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4920169,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1633
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-jersey",
+      "name": "New Jersey",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/New_Jersey",
+      "attrs": {
+        "capital": "Trenton",
+        "region": "Northeast",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4933329,
+      "obscurity": {
+        "score": 0.1429,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4933329,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1429
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "washington",
+      "name": "Washington",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Washington",
+      "attrs": {
+        "capital": "Olympia",
+        "region": "West",
+        "name_initial": "W",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4933926,
+      "obscurity": {
+        "score": 0.1224,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4933926,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1224
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "illinois",
+      "name": "Illinois",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Illinois",
+      "attrs": {
+        "capital": "Springfield",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 4935428,
+      "obscurity": {
+        "score": 0.102,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935428,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.102
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "virginia",
+      "name": "Virginia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Virginia",
+      "attrs": {
+        "capital": "Richmond",
+        "region": "South",
+        "name_initial": "V",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4936588,
+      "obscurity": {
+        "score": 0.0816,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4936588,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0816
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "florida",
+      "name": "Florida",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Florida",
+      "attrs": {
+        "capital": "Tallahassee",
+        "region": "South",
+        "name_initial": "F",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6288576,
+      "obscurity": {
+        "score": 0.0612,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288576,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0612
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-york",
+      "name": "New York",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/New_York",
+      "attrs": {
+        "capital": "Albany",
+        "region": "Northeast",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6289501,
+      "obscurity": {
+        "score": 0.0408,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6289501,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0408
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "california",
+      "name": "California",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/California",
+      "attrs": {
+        "capital": "Sacramento",
+        "region": "West",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6298238,
+      "obscurity": {
+        "score": 0.0204,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6298238,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0204
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "texas",
+      "name": "Texas",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Texas",
+      "attrs": {
+        "capital": "Austin",
+        "region": "South",
+        "name_initial": "T",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6305009,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305009,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

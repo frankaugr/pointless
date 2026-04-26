@@ -1,1 +1,1 @@
-requests>=2.31
+# No required runtime dependencies for the curated static export.

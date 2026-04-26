@@ -1,8 +1,9 @@
 import time
 from datetime import date, timedelta
+from urllib.error import HTTPError
 from urllib.parse import quote
-
-import requests
+from urllib.request import Request, urlopen
+import json
 
 PAGEVIEWS_BASE = (
     "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/"
@@ -32,11 +33,15 @@ def monthly_pageviews(article: str, months_back: int = 12) -> int:
         start=start.strftime("%Y%m%d"),
         end=end.strftime("%Y%m%d"),
     )
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
-    if resp.status_code == 404:
-        return 0
-    resp.raise_for_status()
-    items = resp.json().get("items", [])
+    request = Request(url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urlopen(request, timeout=30) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except HTTPError as exc:
+        if exc.code == 404:
+            return 0
+        raise
+    items = data.get("items", [])
     return sum(int(item.get("views", 0)) for item in items)
 
 
