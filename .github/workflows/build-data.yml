@@ -2,6 +2,14 @@ name: Refresh data
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - claude/pointless-database-research-G6KkO
+      - main
+    paths:
+      - 'pointless_revision/**'
+      - 'scripts/**'
+      - '.github/workflows/build-data.yml'
   schedule:
     # First of each month, 06:00 UTC
     - cron: '0 6 1 * *'
