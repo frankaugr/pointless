@@ -1,11 +1,150 @@
 {
-  "generated_at": "2026-04-26T16:18:40Z",
+  "generated_at": "2026-04-26T17:15:31Z",
   "categories": [
+    {
+      "slug": "chemical-elements",
+      "name": "Chemical Elements",
+      "description": "The 118 named chemical elements of the periodic table.",
+      "tags": [
+        "science",
+        "recurring",
+        "finite"
+      ],
+      "answer_kind": "element",
+      "n_answers": 118,
+      "display_fields": [
+        "symbol",
+        "atomic_number",
+        "family"
+      ]
+    },
+    {
+      "slug": "countries",
+      "name": "Countries",
+      "description": "UN member states plus the two UN observer states, using common English names.",
+      "tags": [
+        "geography",
+        "recurring",
+        "finite"
+      ],
+      "answer_kind": "country",
+      "n_answers": 195,
+      "display_fields": [
+        "capital",
+        "continent"
+      ]
+    },
+    {
+      "slug": "world-capitals",
+      "name": "World Capitals",
+      "description": "Capital cities for the countries fixture, using one quiz-friendly capital per country.",
+      "tags": [
+        "geography",
+        "capitals",
+        "recurring"
+      ],
+      "answer_kind": "capital",
+      "n_answers": 195,
+      "display_fields": [
+        "country",
+        "continent"
+      ]
+    },
     {
       "slug": "uk-prime-ministers",
       "name": "UK Prime Ministers",
-      "description": "Every person who has held the office of Prime Minister of the United Kingdom (Wikidata Q14211). Real humans only \u2014 excludes fictional PMs from TV shows.",
-      "n_answers": 59
+      "description": "People who have served as Prime Minister of Great Britain or the United Kingdom, Walpole to Starmer.",
+      "tags": [
+        "history",
+        "politics",
+        "recurring"
+      ],
+      "answer_kind": "prime minister",
+      "n_answers": 58,
+      "display_fields": [
+        "first_served",
+        "party"
+      ]
+    },
+    {
+      "slug": "us-presidents",
+      "name": "US Presidents",
+      "description": "The 45 people who have served as President of the United States, counting non-consecutive terms once.",
+      "tags": [
+        "history",
+        "politics",
+        "recurring"
+      ],
+      "answer_kind": "president",
+      "n_answers": 45,
+      "display_fields": [
+        "first_served",
+        "party"
+      ]
+    },
+    {
+      "slug": "us-states",
+      "name": "US States",
+      "description": "The 50 states of the United States.",
+      "tags": [
+        "geography",
+        "usa",
+        "recurring"
+      ],
+      "answer_kind": "state",
+      "n_answers": 50,
+      "display_fields": [
+        "capital",
+        "region"
+      ]
+    },
+    {
+      "slug": "us-state-capitals",
+      "name": "US State Capitals",
+      "description": "The capital city of each US state.",
+      "tags": [
+        "geography",
+        "usa",
+        "capitals",
+        "recurring"
+      ],
+      "answer_kind": "state capital",
+      "n_answers": 50,
+      "display_fields": [
+        "state",
+        "region"
+      ]
+    },
+    {
+      "slug": "uk-cities",
+      "name": "UK Cities",
+      "description": "UK places with official city status, including the 2022 Platinum Jubilee cities.",
+      "tags": [
+        "geography",
+        "uk",
+        "recurring"
+      ],
+      "answer_kind": "city",
+      "n_answers": 76,
+      "display_fields": [
+        "nation"
+      ]
+    },
+    {
+      "slug": "english-british-monarchs",
+      "name": "English and British Monarchs",
+      "description": "English and British monarchs from 1066 to Charles III, excluding disputed claimants.",
+      "tags": [
+        "history",
+        "monarchy",
+        "recurring"
+      ],
+      "answer_kind": "monarch",
+      "n_answers": 42,
+      "display_fields": [
+        "reign_start",
+        "house"
+      ]
     }
   ]
 }

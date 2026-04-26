@@ -9,13 +9,16 @@ from .wikidata import qid_from_uri, run_sparql
 
 
 def upsert_category(conn, category: Category) -> int:
+    source_kind = "curated-fixture" if hasattr(category, "answers") else "wikidata-sparql"
+    source_query = getattr(category, "sparql", f"pointless_revision.categories:{category.slug}")
     conn.execute(
         """
         INSERT INTO categories (slug, name, description, source_kind, source_query, fetched_at)
-        VALUES (?, ?, ?, 'wikidata-sparql', ?, ?)
+        VALUES (?, ?, ?, ?, ?, ?)
         ON CONFLICT(slug) DO UPDATE SET
           name = excluded.name,
           description = excluded.description,
+          source_kind = excluded.source_kind,
           source_query = excluded.source_query,
           fetched_at = excluded.fetched_at
         """,
@@ -23,7 +26,8 @@ def upsert_category(conn, category: Category) -> int:
             category.slug,
             category.name,
             category.description,
-            category.sparql,
+            source_kind,
+            source_query,
             datetime.utcnow().isoformat(timespec="seconds"),
         ),
     )
@@ -37,30 +41,52 @@ def fetch_category_answers(category_slug: str) -> tuple[int, int]:
     Returns (category_id, num_answers).
     """
     category = CATEGORIES[category_slug]
-    rows = run_sparql(category.sparql)
 
     with connect() as conn:
         category_id = upsert_category(conn, category)
 
-        for row in rows:
-            name = row.get(category.name_var)
-            if not name:
-                continue
-            qid = qid_from_uri(row.get(category.qid_uri_var, ""))
-            article = row.get(category.article_var)
-            extra = {k: v for k, v in row.items() if k not in {category.name_var, category.qid_uri_var, category.article_var}}
+        if hasattr(category, "answers"):
+            for item in category.answers:
+                conn.execute(
+                    """
+                    INSERT INTO answers (category_id, canonical_name, aliases_json, wikidata_qid, wiki_article, extra_json)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                    ON CONFLICT(category_id, canonical_name) DO UPDATE SET
+                      aliases_json = excluded.aliases_json,
+                      wikidata_qid = excluded.wikidata_qid,
+                      wiki_article = excluded.wiki_article,
+                      extra_json   = excluded.extra_json
+                    """,
+                    (
+                        category_id,
+                        item.name,
+                        json.dumps(list(item.aliases)) if item.aliases else None,
+                        item.qid,
+                        item.wiki,
+                        json.dumps(item.attrs) if item.attrs else None,
+                    ),
+                )
+        else:
+            rows = run_sparql(category.sparql)
+            for row in rows:
+                name = row.get(category.name_var)
+                if not name:
+                    continue
+                qid = qid_from_uri(row.get(category.qid_uri_var, ""))
+                article = row.get(category.article_var)
+                extra = {k: v for k, v in row.items() if k not in {category.name_var, category.qid_uri_var, category.article_var}}
 
-            conn.execute(
-                """
-                INSERT INTO answers (category_id, canonical_name, wikidata_qid, wiki_article, extra_json)
-                VALUES (?, ?, ?, ?, ?)
-                ON CONFLICT(category_id, canonical_name) DO UPDATE SET
-                  wikidata_qid = excluded.wikidata_qid,
-                  wiki_article = excluded.wiki_article,
-                  extra_json   = excluded.extra_json
-                """,
-                (category_id, name, qid, article, json.dumps(extra) if extra else None),
-            )
+                conn.execute(
+                    """
+                    INSERT INTO answers (category_id, canonical_name, wikidata_qid, wiki_article, extra_json)
+                    VALUES (?, ?, ?, ?, ?)
+                    ON CONFLICT(category_id, canonical_name) DO UPDATE SET
+                      wikidata_qid = excluded.wikidata_qid,
+                      wiki_article = excluded.wiki_article,
+                      extra_json   = excluded.extra_json
+                    """,
+                    (category_id, name, qid, article, json.dumps(extra) if extra else None),
+                )
 
         n = conn.execute(
             "SELECT COUNT(*) AS n FROM answers WHERE category_id = ?", (category_id,)

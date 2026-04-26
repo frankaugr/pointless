@@ -1,0 +1,1385 @@
+{
+  "slug": "english-british-monarchs",
+  "name": "English and British Monarchs",
+  "description": "English and British monarchs from 1066 to Charles III, excluding disputed claimants.",
+  "tags": [
+    "history",
+    "monarchy",
+    "recurring"
+  ],
+  "answer_kind": "monarch",
+  "expected_count": 42,
+  "n_answers": 42,
+  "display_fields": [
+    "reign_start",
+    "house"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "monarchs-by-house",
+      "kind": "attr_equals_dynamic",
+      "attr": "house",
+      "prompt": "English or British monarchs from the House of {value}"
+    },
+    {
+      "id": "monarchs-before-1600",
+      "kind": "number_range",
+      "attr": "reign_start",
+      "min": 1066,
+      "max": 1599,
+      "prompt": "English monarchs whose reign began before 1600"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Royal Family kings and queens",
+      "url": "https://www.royal.uk/kings-and-queens-1066"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
+  "answers": [
+    {
+      "id": "william-ii",
+      "name": "William II",
+      "aliases": [
+        "William Rufus"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_II",
+      "attrs": {
+        "reign_start": 1087,
+        "century": "11th century",
+        "house": "Normandy",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1266617,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266617,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-iii",
+      "name": "Henry III",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_III",
+      "attrs": {
+        "reign_start": 1216,
+        "century": "13th century",
+        "house": "Plantagenet",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1905614,
+      "obscurity": {
+        "score": 0.9756,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1905614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9756
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-v",
+      "name": "Edward V",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_V",
+      "attrs": {
+        "reign_start": 1483,
+        "century": "15th century",
+        "house": "York",
+        "name_initial": "E",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1906082,
+      "obscurity": {
+        "score": 0.9512,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1906082,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9512
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-i",
+      "name": "Henry I",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_I",
+      "attrs": {
+        "reign_start": 1100,
+        "century": "11th century",
+        "house": "Normandy",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1906923,
+      "obscurity": {
+        "score": 0.9268,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1906923,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-iv",
+      "name": "Henry IV",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_IV",
+      "attrs": {
+        "reign_start": 1399,
+        "century": "14th century",
+        "house": "Lancaster",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1909048,
+      "obscurity": {
+        "score": 0.9024,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1909048,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9024
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-iv",
+      "name": "William IV",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_IV",
+      "attrs": {
+        "reign_start": 1830,
+        "century": "19th century",
+        "house": "Hanover",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1913500,
+      "obscurity": {
+        "score": 0.878,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1913500,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "stephen",
+      "name": "Stephen",
+      "aliases": [
+        "King Stephen"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stephen",
+      "attrs": {
+        "reign_start": 1135,
+        "century": "12th century",
+        "house": "Blois",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1920953,
+      "obscurity": {
+        "score": 0.8537,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1920953,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8537
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-ii",
+      "name": "George II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_II",
+      "attrs": {
+        "reign_start": 1727,
+        "century": "18th century",
+        "house": "Hanover",
+        "name_initial": "G",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2730512,
+      "obscurity": {
+        "score": 0.8293,
+        "band": "pointless target",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730512,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8293
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-iv",
+      "name": "Edward IV",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_IV",
+      "attrs": {
+        "reign_start": 1461,
+        "century": "15th century",
+        "house": "York",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2732147,
+      "obscurity": {
+        "score": 0.8049,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2732147,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8049
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "richard-ii",
+      "name": "Richard II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richard_II",
+      "attrs": {
+        "reign_start": 1377,
+        "century": "14th century",
+        "house": "Plantagenet",
+        "name_initial": "R",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2732660,
+      "obscurity": {
+        "score": 0.7805,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2732660,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7805
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-ii",
+      "name": "Henry II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_II",
+      "attrs": {
+        "reign_start": 1154,
+        "century": "12th century",
+        "house": "Plantagenet",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2735548,
+      "obscurity": {
+        "score": 0.7561,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2735548,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7561
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-vi",
+      "name": "Edward VI",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_VI",
+      "attrs": {
+        "reign_start": 1547,
+        "century": "16th century",
+        "house": "Tudor",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2743712,
+      "obscurity": {
+        "score": 0.7317,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2743712,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7317
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-ii",
+      "name": "Edward II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_II",
+      "attrs": {
+        "reign_start": 1307,
+        "century": "14th century",
+        "house": "Plantagenet",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2743924,
+      "obscurity": {
+        "score": 0.7073,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2743924,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7073
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-i",
+      "name": "George I",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_I",
+      "attrs": {
+        "reign_start": 1714,
+        "century": "18th century",
+        "house": "Hanover",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2744628,
+      "obscurity": {
+        "score": 0.6829,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744628,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6829
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-ii",
+      "name": "James II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_II",
+      "attrs": {
+        "reign_start": 1685,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2746514,
+      "obscurity": {
+        "score": 0.6585,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2746514,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6585
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-vi",
+      "name": "Henry VI",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_VI",
+      "attrs": {
+        "reign_start": 1422,
+        "century": "15th century",
+        "house": "Lancaster",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2749213,
+      "obscurity": {
+        "score": 0.6341,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2749213,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6341
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mary-ii",
+      "name": "Mary II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mary_II",
+      "attrs": {
+        "reign_start": 1689,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "M",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2751225,
+      "obscurity": {
+        "score": 0.6098,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751225,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6098
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-iv",
+      "name": "George IV",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_IV",
+      "attrs": {
+        "reign_start": 1820,
+        "century": "19th century",
+        "house": "Hanover",
+        "name_initial": "G",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2751884,
+      "obscurity": {
+        "score": 0.5854,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751884,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5854
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-iii",
+      "name": "William III",
+      "aliases": [
+        "William of Orange"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_III",
+      "attrs": {
+        "reign_start": 1689,
+        "century": "17th century",
+        "house": "Orange",
+        "name_initial": "W",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2752285,
+      "obscurity": {
+        "score": 0.561,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2752285,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.561
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-vii",
+      "name": "Edward VII",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_VII",
+      "attrs": {
+        "reign_start": 1901,
+        "century": "20th century",
+        "house": "Saxe-Coburg and Gotha",
+        "name_initial": "E",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 3729205,
+      "obscurity": {
+        "score": 0.5366,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3729205,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5366
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-iii",
+      "name": "Edward III",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_III",
+      "attrs": {
+        "reign_start": 1327,
+        "century": "14th century",
+        "house": "Plantagenet",
+        "name_initial": "E",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 3735424,
+      "obscurity": {
+        "score": 0.5122,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3735424,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-i",
+      "name": "Edward I",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_I",
+      "attrs": {
+        "reign_start": 1272,
+        "century": "13th century",
+        "house": "Plantagenet",
+        "name_initial": "E",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 3738134,
+      "obscurity": {
+        "score": 0.4878,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738134,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-v",
+      "name": "George V",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_V",
+      "attrs": {
+        "reign_start": 1910,
+        "century": "20th century",
+        "house": "Windsor",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3740118,
+      "obscurity": {
+        "score": 0.4634,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740118,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4634
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-vii",
+      "name": "Henry VII",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_VII",
+      "attrs": {
+        "reign_start": 1485,
+        "century": "15th century",
+        "house": "Tudor",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3743537,
+      "obscurity": {
+        "score": 0.439,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743537,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.439
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-i",
+      "name": "James I",
+      "aliases": [
+        "James VI and I"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_I",
+      "attrs": {
+        "reign_start": 1603,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "J",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3743934,
+      "obscurity": {
+        "score": 0.4146,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743934,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4146
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "anne",
+      "name": "Anne",
+      "aliases": [
+        "Queen Anne"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Anne",
+      "attrs": {
+        "reign_start": 1702,
+        "century": "18th century",
+        "house": "Stuart",
+        "name_initial": "A",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3745845,
+      "obscurity": {
+        "score": 0.3902,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745845,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3902
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mary-i",
+      "name": "Mary I",
+      "aliases": [
+        "Mary Tudor",
+        "Bloody Mary"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mary_I",
+      "attrs": {
+        "reign_start": 1553,
+        "century": "16th century",
+        "house": "Tudor",
+        "name_initial": "M",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3748111,
+      "obscurity": {
+        "score": 0.3659,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3748111,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3659
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-v",
+      "name": "Henry V",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_V",
+      "attrs": {
+        "reign_start": 1413,
+        "century": "15th century",
+        "house": "Lancaster",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3748669,
+      "obscurity": {
+        "score": 0.3415,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3748669,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3415
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-i",
+      "name": "William I",
+      "aliases": [
+        "William the Conqueror"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_I",
+      "attrs": {
+        "reign_start": 1066,
+        "century": "11th century",
+        "house": "Normandy",
+        "name_initial": "W",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3751094,
+      "obscurity": {
+        "score": 0.3171,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751094,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3171
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-iii",
+      "name": "George III",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_III",
+      "attrs": {
+        "reign_start": 1760,
+        "century": "18th century",
+        "house": "Hanover",
+        "name_initial": "G",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4911950,
+      "obscurity": {
+        "score": 0.2927,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4911950,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2927
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-vi",
+      "name": "George VI",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_VI",
+      "attrs": {
+        "reign_start": 1936,
+        "century": "20th century",
+        "house": "Windsor",
+        "name_initial": "G",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4915354,
+      "obscurity": {
+        "score": 0.2683,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915354,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2683
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edward-viii",
+      "name": "Edward VIII",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_VIII",
+      "attrs": {
+        "reign_start": 1936,
+        "century": "20th century",
+        "house": "Windsor",
+        "name_initial": "E",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 4916014,
+      "obscurity": {
+        "score": 0.2439,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4916014,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2439
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charles-ii",
+      "name": "Charles II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charles_II",
+      "attrs": {
+        "reign_start": 1660,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "C",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4924097,
+      "obscurity": {
+        "score": 0.2195,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4924097,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2195
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "richard-i",
+      "name": "Richard I",
+      "aliases": [
+        "Richard the Lionheart"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richard_I",
+      "attrs": {
+        "reign_start": 1189,
+        "century": "12th century",
+        "house": "Plantagenet",
+        "name_initial": "R",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4925436,
+      "obscurity": {
+        "score": 0.1951,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4925436,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1951
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charles-i",
+      "name": "Charles I",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charles_I",
+      "attrs": {
+        "reign_start": 1625,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4929034,
+      "obscurity": {
+        "score": 0.1707,
+        "band": "obvious",
+        "pointless_score": 83,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4929034,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1707
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "aliases": [
+        "King John"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John",
+      "attrs": {
+        "reign_start": 1199,
+        "century": "12th century",
+        "house": "Plantagenet",
+        "name_initial": "J",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4930913,
+      "obscurity": {
+        "score": 0.1463,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4930913,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1463
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "richard-iii",
+      "name": "Richard III",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richard_III",
+      "attrs": {
+        "reign_start": 1483,
+        "century": "15th century",
+        "house": "York",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4930982,
+      "obscurity": {
+        "score": 0.122,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4930982,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "elizabeth-ii",
+      "name": "Elizabeth II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Elizabeth_II",
+      "attrs": {
+        "reign_start": 1952,
+        "century": "20th century",
+        "house": "Windsor",
+        "name_initial": "E",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 6288468,
+      "obscurity": {
+        "score": 0.0976,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288468,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0976
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "aliases": [
+        "Queen Victoria"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Victoria",
+      "attrs": {
+        "reign_start": 1837,
+        "century": "19th century",
+        "house": "Hanover",
+        "name_initial": "V",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6290570,
+      "obscurity": {
+        "score": 0.0732,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6290570,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charles-iii",
+      "name": "Charles III",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charles_III",
+      "attrs": {
+        "reign_start": 2022,
+        "century": "21th century",
+        "house": "Windsor",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6294854,
+      "obscurity": {
+        "score": 0.0488,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6294854,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0488
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "elizabeth-i",
+      "name": "Elizabeth I",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "attrs": {
+        "reign_start": 1558,
+        "century": "16th century",
+        "house": "Tudor",
+        "name_initial": "E",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 6305954,
+      "obscurity": {
+        "score": 0.0244,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305954,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0244
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-viii",
+      "name": "Henry VIII",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_VIII",
+      "attrs": {
+        "reign_start": 1509,
+        "century": "16th century",
+        "house": "Tudor",
+        "name_initial": "H",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6308195,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308195,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

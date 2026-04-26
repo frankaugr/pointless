@@ -1,0 +1,1571 @@
+{
+  "slug": "us-state-capitals",
+  "name": "US State Capitals",
+  "description": "The capital city of each US state.",
+  "tags": [
+    "geography",
+    "usa",
+    "capitals",
+    "recurring"
+  ],
+  "answer_kind": "state capital",
+  "expected_count": 50,
+  "n_answers": 50,
+  "display_fields": [
+    "state",
+    "region"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "state-capitals-containing-state",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "STATE",
+      "prompt": "US state capitals containing at least one of the letters S, T, A, T or E"
+    },
+    {
+      "id": "state-capitals-same-state-initial",
+      "kind": "same_initial",
+      "field": "name",
+      "attr": "state",
+      "prompt": "US state capitals starting with the same letter as their state"
+    },
+    {
+      "id": "state-capitals-by-region",
+      "kind": "attr_equals_dynamic",
+      "attr": "region",
+      "prompt": "US state capitals in {value} states"
+    }
+  ],
+  "sources": [
+    {
+      "label": "USA.gov state governments",
+      "url": "https://www.usa.gov/states-and-territories"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
+  "answers": [
+    {
+      "id": "south-dakota-capital",
+      "name": "Pierre",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Pierre",
+      "attrs": {
+        "state": "South Dakota",
+        "region": "Midwest",
+        "name_initial": "P",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 747001,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 747001,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "delaware-capital",
+      "name": "Dover",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dover",
+      "attrs": {
+        "state": "Delaware",
+        "region": "South",
+        "name_initial": "D",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 749192,
+      "obscurity": {
+        "score": 0.9796,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 749192,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9796
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "north-dakota-capital",
+      "name": "Bismarck",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bismarck",
+      "attrs": {
+        "state": "North Dakota",
+        "region": "Midwest",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 754641,
+      "obscurity": {
+        "score": 0.9592,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 754641,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9592
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wyoming-capital",
+      "name": "Cheyenne",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cheyenne",
+      "attrs": {
+        "state": "Wyoming",
+        "region": "West",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 760556,
+      "obscurity": {
+        "score": 0.9388,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760556,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9388
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vermont-capital",
+      "name": "Montpelier",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Montpelier",
+      "attrs": {
+        "state": "Vermont",
+        "region": "Northeast",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 770668,
+      "obscurity": {
+        "score": 0.9184,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770668,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9184
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "montana-capital",
+      "name": "Helena",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Helena",
+      "attrs": {
+        "state": "Montana",
+        "region": "West",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1252166,
+      "obscurity": {
+        "score": 0.898,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252166,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.898
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-hampshire-capital",
+      "name": "Concord",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Concord",
+      "attrs": {
+        "state": "New Hampshire",
+        "region": "Northeast",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1255435,
+      "obscurity": {
+        "score": 0.8776,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255435,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8776
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arkansas-capital",
+      "name": "Little Rock",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Little_Rock",
+      "attrs": {
+        "state": "Arkansas",
+        "region": "South",
+        "name_initial": "L",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1257079,
+      "obscurity": {
+        "score": 0.8571,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257079,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8571
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maine-capital",
+      "name": "Augusta",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Augusta",
+      "attrs": {
+        "state": "Maine",
+        "region": "Northeast",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1257088,
+      "obscurity": {
+        "score": 0.8367,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257088,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8367
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nebraska-capital",
+      "name": "Lincoln",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lincoln",
+      "attrs": {
+        "state": "Nebraska",
+        "region": "Midwest",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1259472,
+      "obscurity": {
+        "score": 0.8163,
+        "band": "very obscure",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1259472,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8163
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rhode-island-capital",
+      "name": "Providence",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Providence",
+      "attrs": {
+        "state": "Rhode Island",
+        "region": "Northeast",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1259524,
+      "obscurity": {
+        "score": 0.7959,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1259524,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7959
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kansas-capital",
+      "name": "Topeka",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Topeka",
+      "attrs": {
+        "state": "Kansas",
+        "region": "Midwest",
+        "name_initial": "T",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1263233,
+      "obscurity": {
+        "score": 0.7755,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1263233,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7755
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "west-virginia-capital",
+      "name": "Charleston",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charleston",
+      "attrs": {
+        "state": "West Virginia",
+        "region": "South",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1269983,
+      "obscurity": {
+        "score": 0.7551,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269983,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7551
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mississippi-capital",
+      "name": "Jackson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jackson",
+      "attrs": {
+        "state": "Mississippi",
+        "region": "South",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1270204,
+      "obscurity": {
+        "score": 0.7347,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270204,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7347
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "idaho-capital",
+      "name": "Boise",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Boise",
+      "attrs": {
+        "state": "Idaho",
+        "region": "West",
+        "name_initial": "B",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1270652,
+      "obscurity": {
+        "score": 0.7143,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270652,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7143
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iowa-capital",
+      "name": "Des Moines",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Des_Moines",
+      "attrs": {
+        "state": "Iowa",
+        "region": "Midwest",
+        "name_initial": "D",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1270688,
+      "obscurity": {
+        "score": 0.6939,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270688,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6939
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kentucky-capital",
+      "name": "Frankfort",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Frankfort",
+      "attrs": {
+        "state": "Kentucky",
+        "region": "South",
+        "name_initial": "F",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1908939,
+      "obscurity": {
+        "score": 0.6735,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1908939,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6735
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oklahoma-capital",
+      "name": "Oklahoma City",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oklahoma_City",
+      "attrs": {
+        "state": "Oklahoma",
+        "region": "South",
+        "name_initial": "O",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1910593,
+      "obscurity": {
+        "score": 0.6531,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1910593,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6531
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "connecticut-capital",
+      "name": "Hartford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hartford",
+      "attrs": {
+        "state": "Connecticut",
+        "region": "Northeast",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1914487,
+      "obscurity": {
+        "score": 0.6327,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1914487,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6327
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-mexico-capital",
+      "name": "Santa Fe",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Santa_Fe",
+      "attrs": {
+        "state": "New Mexico",
+        "region": "West",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1914658,
+      "obscurity": {
+        "score": 0.6122,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1914658,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6122
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "alabama-capital",
+      "name": "Montgomery",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Montgomery",
+      "attrs": {
+        "state": "Alabama",
+        "region": "South",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1925305,
+      "obscurity": {
+        "score": 0.5918,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1925305,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5918
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "alaska-capital",
+      "name": "Juneau",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Juneau",
+      "attrs": {
+        "state": "Alaska",
+        "region": "West",
+        "name_initial": "J",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 2729496,
+      "obscurity": {
+        "score": 0.5714,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2729496,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5714
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "missouri-capital",
+      "name": "Jefferson City",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jefferson_City",
+      "attrs": {
+        "state": "Missouri",
+        "region": "Midwest",
+        "name_initial": "J",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2729637,
+      "obscurity": {
+        "score": 0.551,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2729637,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.551
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nevada-capital",
+      "name": "Carson City",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Carson_City",
+      "attrs": {
+        "state": "Nevada",
+        "region": "West",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2733039,
+      "obscurity": {
+        "score": 0.5306,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2733039,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5306
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oregon-capital",
+      "name": "Salem",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Salem",
+      "attrs": {
+        "state": "Oregon",
+        "region": "West",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2733487,
+      "obscurity": {
+        "score": 0.5102,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2733487,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5102
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-carolina-capital",
+      "name": "Columbia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Columbia",
+      "attrs": {
+        "state": "South Carolina",
+        "region": "South",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2742591,
+      "obscurity": {
+        "score": 0.4898,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2742591,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4898
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "utah-capital",
+      "name": "Salt Lake City",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+      "attrs": {
+        "state": "Utah",
+        "region": "West",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2744318,
+      "obscurity": {
+        "score": 0.4694,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744318,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4694
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "minnesota-capital",
+      "name": "Saint Paul",
+      "aliases": [
+        "St Paul"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Paul",
+      "attrs": {
+        "state": "Minnesota",
+        "region": "Midwest",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2744614,
+      "obscurity": {
+        "score": 0.449,
+        "band": "middling",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.449
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tennessee-capital",
+      "name": "Nashville",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nashville",
+      "attrs": {
+        "state": "Tennessee",
+        "region": "South",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2744880,
+      "obscurity": {
+        "score": 0.4286,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744880,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4286
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wisconsin-capital",
+      "name": "Madison",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Madison",
+      "attrs": {
+        "state": "Wisconsin",
+        "region": "Midwest",
+        "name_initial": "M",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2747003,
+      "obscurity": {
+        "score": 0.4082,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747003,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4082
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "louisiana-capital",
+      "name": "Baton Rouge",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Baton_Rouge",
+      "attrs": {
+        "state": "Louisiana",
+        "region": "South",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2748755,
+      "obscurity": {
+        "score": 0.3878,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2748755,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3878
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "indiana-capital",
+      "name": "Indianapolis",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Indianapolis",
+      "attrs": {
+        "state": "Indiana",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 2751419,
+      "obscurity": {
+        "score": 0.3673,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751419,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3673
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maryland-capital",
+      "name": "Annapolis",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Annapolis",
+      "attrs": {
+        "state": "Maryland",
+        "region": "South",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 2752851,
+      "obscurity": {
+        "score": 0.3469,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2752851,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3469
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "georgia-capital",
+      "name": "Atlanta",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Atlanta",
+      "attrs": {
+        "state": "Georgia",
+        "region": "South",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3735061,
+      "obscurity": {
+        "score": 0.3265,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3735061,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3265
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hawaii-capital",
+      "name": "Honolulu",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Honolulu",
+      "attrs": {
+        "state": "Hawaii",
+        "region": "West",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3736626,
+      "obscurity": {
+        "score": 0.3061,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3736626,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3061
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "colorado-capital",
+      "name": "Denver",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Denver",
+      "attrs": {
+        "state": "Colorado",
+        "region": "West",
+        "name_initial": "D",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3737874,
+      "obscurity": {
+        "score": 0.2857,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3737874,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2857
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "virginia-capital",
+      "name": "Richmond",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richmond",
+      "attrs": {
+        "state": "Virginia",
+        "region": "South",
+        "name_initial": "R",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3739119,
+      "obscurity": {
+        "score": 0.2653,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3739119,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2653
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ohio-capital",
+      "name": "Columbus",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Columbus",
+      "attrs": {
+        "state": "Ohio",
+        "region": "Midwest",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3740354,
+      "obscurity": {
+        "score": 0.2449,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740354,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2449
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "pennsylvania-capital",
+      "name": "Harrisburg",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Harrisburg",
+      "attrs": {
+        "state": "Pennsylvania",
+        "region": "Northeast",
+        "name_initial": "H",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3740675,
+      "obscurity": {
+        "score": 0.2245,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740675,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2245
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "illinois-capital",
+      "name": "Springfield",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Springfield",
+      "attrs": {
+        "state": "Illinois",
+        "region": "Midwest",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3741225,
+      "obscurity": {
+        "score": 0.2041,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741225,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2041
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-jersey-capital",
+      "name": "Trenton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Trenton",
+      "attrs": {
+        "state": "New Jersey",
+        "region": "Northeast",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3741648,
+      "obscurity": {
+        "score": 0.1837,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741648,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1837
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arizona-capital",
+      "name": "Phoenix",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Phoenix",
+      "attrs": {
+        "state": "Arizona",
+        "region": "West",
+        "name_initial": "P",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3741889,
+      "obscurity": {
+        "score": 0.1633,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741889,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1633
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "north-carolina-capital",
+      "name": "Raleigh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Raleigh",
+      "attrs": {
+        "state": "North Carolina",
+        "region": "South",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3742629,
+      "obscurity": {
+        "score": 0.1429,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742629,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1429
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "massachusetts-capital",
+      "name": "Boston",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Boston",
+      "attrs": {
+        "state": "Massachusetts",
+        "region": "Northeast",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3745800,
+      "obscurity": {
+        "score": 0.1224,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745800,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1224
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "washington-capital",
+      "name": "Olympia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Olympia",
+      "attrs": {
+        "state": "Washington",
+        "region": "West",
+        "name_initial": "O",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 3747366,
+      "obscurity": {
+        "score": 0.102,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3747366,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.102
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "michigan-capital",
+      "name": "Lansing",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lansing",
+      "attrs": {
+        "state": "Michigan",
+        "region": "Midwest",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3749159,
+      "obscurity": {
+        "score": 0.0816,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3749159,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0816
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-york-capital",
+      "name": "Albany",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Albany",
+      "attrs": {
+        "state": "New York",
+        "region": "Northeast",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4925433,
+      "obscurity": {
+        "score": 0.0612,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4925433,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0612
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "california-capital",
+      "name": "Sacramento",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sacramento",
+      "attrs": {
+        "state": "California",
+        "region": "West",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4935354,
+      "obscurity": {
+        "score": 0.0408,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935354,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0408
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "texas-capital",
+      "name": "Austin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Austin",
+      "attrs": {
+        "state": "Texas",
+        "region": "South",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4935857,
+      "obscurity": {
+        "score": 0.0204,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935857,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0204
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "florida-capital",
+      "name": "Tallahassee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tallahassee",
+      "attrs": {
+        "state": "Florida",
+        "region": "South",
+        "name_initial": "T",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4936494,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4936494,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

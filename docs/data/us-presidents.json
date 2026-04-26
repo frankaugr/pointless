@@ -1,0 +1,1499 @@
+{
+  "slug": "us-presidents",
+  "name": "US Presidents",
+  "description": "The 45 people who have served as President of the United States, counting non-consecutive terms once.",
+  "tags": [
+    "history",
+    "politics",
+    "recurring"
+  ],
+  "answer_kind": "president",
+  "expected_count": 45,
+  "n_answers": 45,
+  "display_fields": [
+    "first_served",
+    "party"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "leaders-by-century",
+      "kind": "attr_equals_dynamic",
+      "attr": "century",
+      "prompt": "{category} who first served in the {value}"
+    },
+    {
+      "id": "leaders-after-1900",
+      "kind": "number_range",
+      "attr": "first_served",
+      "min": 1900,
+      "max": 2100,
+      "prompt": "{category} who first served from 1900 onwards"
+    }
+  ],
+  "sources": [
+    {
+      "label": "The White House presidents",
+      "url": "https://www.whitehouse.gov/about-the-white-house/presidents/"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
+  "answers": [
+    {
+      "id": "chester-a-arthur",
+      "name": "Chester A. Arthur",
+      "aliases": [
+        "Chester Arthur"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+      "attrs": {
+        "first_served": 1881,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "C",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1251177,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251177,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "franklin-pierce",
+      "name": "Franklin Pierce",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Franklin_Pierce",
+      "attrs": {
+        "first_served": 1853,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "F",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1253114,
+      "obscurity": {
+        "score": 0.9773,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1253114,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9773
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rutherford-b-hayes",
+      "name": "Rutherford B. Hayes",
+      "aliases": [
+        "Rutherford Hayes"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes",
+      "attrs": {
+        "first_served": 1877,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "R",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1257379,
+      "obscurity": {
+        "score": 0.9545,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257379,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9545
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "millard-fillmore",
+      "name": "Millard Fillmore",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Millard_Fillmore",
+      "attrs": {
+        "first_served": 1850,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "M",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1270516,
+      "obscurity": {
+        "score": 0.9318,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270516,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9318
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john-tyler",
+      "name": "John Tyler",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Tyler",
+      "attrs": {
+        "first_served": 1841,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1909642,
+      "obscurity": {
+        "score": 0.9091,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1909642,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9091
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-a-garfield",
+      "name": "James A. Garfield",
+      "aliases": [
+        "James Garfield"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_A._Garfield",
+      "attrs": {
+        "first_served": 1881,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "J",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1910358,
+      "obscurity": {
+        "score": 0.8864,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1910358,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8864
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "warren-g-harding",
+      "name": "Warren G. Harding",
+      "aliases": [
+        "Warren Harding"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Warren_G._Harding",
+      "attrs": {
+        "first_served": 1921,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "W",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1916235,
+      "obscurity": {
+        "score": 0.8636,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1916235,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8636
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-buchanan",
+      "name": "James Buchanan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Buchanan",
+      "attrs": {
+        "first_served": 1857,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "J",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1924634,
+      "obscurity": {
+        "score": 0.8409,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924634,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8409
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "benjamin-harrison",
+      "name": "Benjamin Harrison",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+      "attrs": {
+        "first_served": 1889,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "B",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1926497,
+      "obscurity": {
+        "score": 0.8182,
+        "band": "very obscure",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1926497,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8182
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "zachary-taylor",
+      "name": "Zachary Taylor",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+      "attrs": {
+        "first_served": 1849,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "Z",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2729253,
+      "obscurity": {
+        "score": 0.7955,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2729253,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7955
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-henry-harrison",
+      "name": "William Henry Harrison",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+      "attrs": {
+        "first_served": 1841,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 20,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2731948,
+      "obscurity": {
+        "score": 0.7727,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2731948,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7727
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "martin-van-buren",
+      "name": "Martin Van Buren",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+      "attrs": {
+        "first_served": 1837,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "M",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2735843,
+      "obscurity": {
+        "score": 0.75,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2735843,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.75
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-k-polk",
+      "name": "James K. Polk",
+      "aliases": [
+        "James Polk"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_K._Polk",
+      "attrs": {
+        "first_served": 1845,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "J",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2739525,
+      "obscurity": {
+        "score": 0.7273,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739525,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7273
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john-quincy-adams",
+      "name": "John Quincy Adams",
+      "aliases": [
+        "J Q Adams"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+      "attrs": {
+        "first_served": 1825,
+        "century": "19th century",
+        "party": "Democratic-Republican",
+        "name_initial": "J",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2739990,
+      "obscurity": {
+        "score": 0.7045,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739990,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7045
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "grover-cleveland",
+      "name": "Grover Cleveland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Grover_Cleveland",
+      "attrs": {
+        "first_served": 1885,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "G",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2747084,
+      "obscurity": {
+        "score": 0.6818,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747084,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6818
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "calvin-coolidge",
+      "name": "Calvin Coolidge",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
+      "attrs": {
+        "first_served": 1923,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "C",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2748535,
+      "obscurity": {
+        "score": 0.6591,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2748535,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6591
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "andrew-johnson",
+      "name": "Andrew Johnson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Andrew_Johnson",
+      "attrs": {
+        "first_served": 1865,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "A",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 2748569,
+      "obscurity": {
+        "score": 0.6364,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2748569,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6364
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-mckinley",
+      "name": "William McKinley",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_McKinley",
+      "attrs": {
+        "first_served": 1897,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "W",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2749689,
+      "obscurity": {
+        "score": 0.6136,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2749689,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6136
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gerald-ford",
+      "name": "Gerald Ford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gerald_Ford",
+      "attrs": {
+        "first_served": 1974,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3732951,
+      "obscurity": {
+        "score": 0.5909,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732951,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5909
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "woodrow-wilson",
+      "name": "Woodrow Wilson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+      "attrs": {
+        "first_served": 1913,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "W",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3742305,
+      "obscurity": {
+        "score": 0.5682,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742305,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5682
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-madison",
+      "name": "James Madison",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Madison",
+      "attrs": {
+        "first_served": 1809,
+        "century": "19th century",
+        "party": "Democratic-Republican",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3743729,
+      "obscurity": {
+        "score": 0.5455,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743729,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5455
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-monroe",
+      "name": "James Monroe",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Monroe",
+      "attrs": {
+        "first_served": 1817,
+        "century": "19th century",
+        "party": "Democratic-Republican",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3744076,
+      "obscurity": {
+        "score": 0.5227,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744076,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5227
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john-adams",
+      "name": "John Adams",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Adams",
+      "attrs": {
+        "first_served": 1797,
+        "century": "18th century",
+        "party": "Federalist",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3745788,
+      "obscurity": {
+        "score": 0.5,
+        "band": "useful low scorer",
+        "pointless_score": 50,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745788,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "herbert-hoover",
+      "name": "Herbert Hoover",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Herbert_Hoover",
+      "attrs": {
+        "first_served": 1929,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "H",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3746840,
+      "obscurity": {
+        "score": 0.4773,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3746840,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4773
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-howard-taft",
+      "name": "William Howard Taft",
+      "aliases": [
+        "William Taft"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+      "attrs": {
+        "first_served": 1909,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "W",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3751438,
+      "obscurity": {
+        "score": 0.4545,
+        "band": "useful low scorer",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751438,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4545
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lyndon-b-johnson",
+      "name": "Lyndon B. Johnson",
+      "aliases": [
+        "LBJ",
+        "Lyndon Johnson"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+      "attrs": {
+        "first_served": 1963,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "L",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4913668,
+      "obscurity": {
+        "score": 0.4318,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913668,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4318
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-h-w-bush",
+      "name": "George H. W. Bush",
+      "aliases": [
+        "George Bush Senior",
+        "George Bush Sr"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+      "attrs": {
+        "first_served": 1989,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "G",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4913687,
+      "obscurity": {
+        "score": 0.4091,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913687,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4091
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jimmy-carter",
+      "name": "Jimmy Carter",
+      "aliases": [
+        "James Carter"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "attrs": {
+        "first_served": 1977,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4915379,
+      "obscurity": {
+        "score": 0.3864,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915379,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3864
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ulysses-s-grant",
+      "name": "Ulysses S. Grant",
+      "aliases": [
+        "Ulysses Grant"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+      "attrs": {
+        "first_served": 1869,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "U",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 4916659,
+      "obscurity": {
+        "score": 0.3636,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4916659,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3636
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "harry-s-truman",
+      "name": "Harry S. Truman",
+      "aliases": [
+        "Harry Truman"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+      "attrs": {
+        "first_served": 1945,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "H",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4920903,
+      "obscurity": {
+        "score": 0.3409,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4920903,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3409
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "andrew-jackson",
+      "name": "Andrew Jackson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "attrs": {
+        "first_served": 1829,
+        "century": "19th century",
+        "party": "Democratic",
+        "name_initial": "A",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4930962,
+      "obscurity": {
+        "score": 0.3182,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4930962,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3182
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "theodore-roosevelt",
+      "name": "Theodore Roosevelt",
+      "aliases": [
+        "Teddy Roosevelt"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+      "attrs": {
+        "first_served": 1901,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "T",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6287614,
+      "obscurity": {
+        "score": 0.2955,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2955
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "attrs": {
+        "first_served": 2017,
+        "century": "21th century",
+        "party": "Republican",
+        "name_initial": "D",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6288099,
+      "obscurity": {
+        "score": 0.2727,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288099,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2727
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john-f-kennedy",
+      "name": "John F. Kennedy",
+      "aliases": [
+        "JFK",
+        "John Kennedy"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+      "attrs": {
+        "first_served": 1961,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6289237,
+      "obscurity": {
+        "score": 0.25,
+        "band": "middling",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6289237,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.25
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "abraham-lincoln",
+      "name": "Abraham Lincoln",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+      "attrs": {
+        "first_served": 1861,
+        "century": "19th century",
+        "party": "Republican",
+        "name_initial": "A",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6293328,
+      "obscurity": {
+        "score": 0.2273,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293328,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2273
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "thomas-jefferson",
+      "name": "Thomas Jefferson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+      "attrs": {
+        "first_served": 1801,
+        "century": "19th century",
+        "party": "Democratic-Republican",
+        "name_initial": "T",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6293437,
+      "obscurity": {
+        "score": 0.2045,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293437,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2045
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bill-clinton",
+      "name": "Bill Clinton",
+      "aliases": [
+        "William Clinton"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "attrs": {
+        "first_served": 1993,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6294650,
+      "obscurity": {
+        "score": 0.1818,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6294650,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1818
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dwight-d-eisenhower",
+      "name": "Dwight D. Eisenhower",
+      "aliases": [
+        "Dwight Eisenhower",
+        "Ike"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "attrs": {
+        "first_served": 1953,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "D",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6295719,
+      "obscurity": {
+        "score": 0.1591,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295719,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1591
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "richard-nixon",
+      "name": "Richard Nixon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richard_Nixon",
+      "attrs": {
+        "first_served": 1969,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "R",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6302240,
+      "obscurity": {
+        "score": 0.1364,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6302240,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1364
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ronald-reagan",
+      "name": "Ronald Reagan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "attrs": {
+        "first_served": 1981,
+        "century": "20th century",
+        "party": "Republican",
+        "name_initial": "R",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6303091,
+      "obscurity": {
+        "score": 0.1136,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6303091,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1136
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-w-bush",
+      "name": "George W. Bush",
+      "aliases": [
+        "George Bush Junior",
+        "George Bush Jr"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_W._Bush",
+      "attrs": {
+        "first_served": 2001,
+        "century": "21th century",
+        "party": "Republican",
+        "name_initial": "G",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6306122,
+      "obscurity": {
+        "score": 0.0909,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6306122,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0909
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "barack-obama",
+      "name": "Barack Obama",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Barack_Obama",
+      "attrs": {
+        "first_served": 2009,
+        "century": "21th century",
+        "party": "Democratic",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6308595,
+      "obscurity": {
+        "score": 0.0682,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308595,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0682
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "joe-biden",
+      "name": "Joe Biden",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Joe_Biden",
+      "attrs": {
+        "first_served": 2021,
+        "century": "21th century",
+        "party": "Democratic",
+        "name_initial": "J",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6309288,
+      "obscurity": {
+        "score": 0.0455,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6309288,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0455
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "franklin-d-roosevelt",
+      "name": "Franklin D. Roosevelt",
+      "aliases": [
+        "FDR",
+        "Franklin Roosevelt"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "attrs": {
+        "first_served": 1933,
+        "century": "20th century",
+        "party": "Democratic",
+        "name_initial": "F",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6310413,
+      "obscurity": {
+        "score": 0.0227,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310413,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0227
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-washington",
+      "name": "George Washington",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_Washington",
+      "attrs": {
+        "first_served": 1789,
+        "century": "18th century",
+        "party": "None",
+        "name_initial": "G",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6310735,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310735,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

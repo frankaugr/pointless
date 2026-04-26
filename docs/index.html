@@ -4,63 +4,129 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Pointless Revision</title>
+  <link rel="icon" href="data:," />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Pointless Revision</h1>
-    <p class="tagline">
-      Practise the obscure answers — the kind that score 0 on Pointless.
-    </p>
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">Pointless Revision</p>
+      <h1>Memorise obscure answers, then drill them under pressure.</h1>
+      <p class="tagline">
+        Curated recurring Pointless categories, ranked by low-score potential and turned into focused revision prompts.
+      </p>
+    </div>
+    <nav class="mode-switch" aria-label="Choose study mode">
+      <button type="button" data-mode="learn" class="active" aria-pressed="true">Learn</button>
+      <button type="button" data-mode="revise" aria-pressed="false">Revise</button>
+    </nav>
   </header>
 
-  <main>
-    <section id="picker">
-      <label for="category">Category</label>
-      <select id="category" aria-label="Choose a category"></select>
-      <button id="start" type="button">Start</button>
-      <p id="picker-meta" class="meta"></p>
-    </section>
+  <main class="app-shell">
+    <aside class="category-panel" aria-label="Categories">
+      <div class="panel-heading">
+        <h2>Categories</h2>
+        <p>Core canon</p>
+      </div>
+      <div id="category-list" class="category-list"></div>
+    </aside>
 
-    <section id="quiz" hidden>
-      <header class="quiz-header">
-        <h2 id="quiz-title"></h2>
-        <p id="quiz-progress" class="meta"></p>
+    <section class="workspace" aria-live="polite">
+      <p id="app-error" class="app-error" hidden></p>
+
+      <header class="workspace-header">
+        <div>
+          <h2 id="active-category-name"></h2>
+          <p id="active-category-description"></p>
+        </div>
+        <p id="category-stats" class="category-stats"></p>
       </header>
 
-      <form id="answer-form" autocomplete="off">
-        <input
-          id="answer-input"
-          type="text"
-          spellcheck="false"
-          autocapitalize="off"
-          autocorrect="off"
-          placeholder="Type an answer and press Enter..."
-          aria-label="Your answer"
-        />
-        <button id="give-up" type="button">Reveal remaining</button>
-      </form>
+      <section id="learn-view" class="mode-view">
+        <div class="tool-row">
+          <label>
+            Sort
+            <select id="learn-sort">
+              <option value="obscurity">Lowest score first</option>
+              <option value="familiar">Highest score first</option>
+              <option value="name">A to Z</option>
+            </select>
+          </label>
+          <label>
+            Filter
+            <select id="learn-filter">
+              <option value="all">All answers</option>
+              <option value="rare">Strong low scorers</option>
+              <option value="needs-work">Needs work</option>
+              <option value="known">Known</option>
+              <option value="unmarked">Unmarked</option>
+            </select>
+          </label>
+          <label class="check-control">
+            <input id="hide-names" type="checkbox" />
+            Hide names
+          </label>
+          <label class="check-control">
+            <input id="show-high-scores" type="checkbox" />
+            Show scores above 50
+          </label>
+          <button id="reveal-all" type="button" class="subtle-button">Reveal all</button>
+          <span id="learn-count" class="tool-meta"></span>
+        </div>
+        <div id="learn-list" class="answer-table"></div>
+      </section>
 
-      <p id="feedback" class="feedback" aria-live="polite"></p>
+      <section id="revise-view" class="mode-view" hidden>
+        <div class="tool-row">
+          <button id="new-question" type="button">New question</button>
+          <span id="question-pool" class="tool-meta"></span>
+        </div>
 
-      <div class="lists">
-        <section>
-          <h3>Found <span class="dim">(<span id="found-count">0</span>)</span></h3>
-          <ol id="found-list" class="answer-list"></ol>
+        <section id="question-card" class="question-card" hidden>
+          <div class="question-heading">
+            <div>
+              <p class="eyebrow">Revision prompt</p>
+              <h3 id="question-title"></h3>
+              <p id="question-meta"></p>
+            </div>
+            <strong id="revise-progress"></strong>
+          </div>
+
+          <form id="answer-form" autocomplete="off">
+            <input
+              id="answer-input"
+              type="text"
+              spellcheck="false"
+              autocapitalize="off"
+              autocorrect="off"
+              placeholder="Type an answer and press Enter"
+              aria-label="Your answer"
+            />
+            <button id="give-up" type="button" class="subtle-button">Reveal</button>
+          </form>
+
+          <p id="feedback" class="feedback" aria-live="polite"></p>
+          <div id="ambiguity" class="ambiguity"></div>
+
+          <div class="revision-lists">
+            <section>
+              <h4>Found</h4>
+              <ol id="found-list" class="compact-list"></ol>
+            </section>
+            <section id="missed-section" hidden>
+              <h4>Missed</h4>
+              <ol id="missed-list" class="compact-list"></ol>
+            </section>
+          </div>
         </section>
-        <section id="missed-section" hidden>
-          <h3>Missed — most obscure first</h3>
-          <ol id="missed-list" class="answer-list"></ol>
-        </section>
-      </div>
+      </section>
     </section>
   </main>
 
-  <footer>
+  <footer class="app-footer">
     <p>
-      Answer sets from <a href="https://www.wikidata.org/">Wikidata</a>;
-      obscurity from <a href="https://wikimedia.org/api/rest_v1/">Wikipedia pageviews</a>.
-      Not affiliated with the BBC or Banijay.
+      Answer sets are curated and enriched with Wikipedia pageview proxies; historical Pointless scores are used where manually sourced.
+      Not affiliated with the BBC, Banijay, or Pointless.
     </p>
   </footer>
 

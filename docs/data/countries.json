@@ -1,0 +1,5974 @@
+{
+  "slug": "countries",
+  "name": "Countries",
+  "description": "UN member states plus the two UN observer states, using common English names.",
+  "tags": [
+    "geography",
+    "recurring",
+    "finite"
+  ],
+  "answer_kind": "country",
+  "expected_count": 195,
+  "n_answers": 195,
+  "display_fields": [
+    "capital",
+    "continent"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "countries-by-continent",
+      "kind": "attr_equals_dynamic",
+      "attr": "continent",
+      "prompt": "Countries in {value}"
+    },
+    {
+      "id": "countries-capital-same-initial",
+      "kind": "same_initial",
+      "field": "name",
+      "attr": "capital",
+      "prompt": "Countries whose capital city starts with the same letter as the country"
+    }
+  ],
+  "sources": [
+    {
+      "label": "United Nations member states",
+      "url": "https://www.un.org/en/about-us/member-states"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
+  "answers": [
+    {
+      "id": "tuvalu",
+      "name": "Tuvalu",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tuvalu",
+      "attrs": {
+        "capital": "Funafuti",
+        "continent": "Oceania",
+        "name_initial": "T",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 161140,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 161140,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "andorra",
+      "name": "Andorra",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Andorra",
+      "attrs": {
+        "capital": "Andorra la Vella",
+        "continent": "Europe",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 162203,
+      "obscurity": {
+        "score": 0.9948,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 162203,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9948
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "palau",
+      "name": "Palau",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Palau",
+      "attrs": {
+        "capital": "Ngerulmud",
+        "continent": "Oceania",
+        "name_initial": "P",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 162314,
+      "obscurity": {
+        "score": 0.9897,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 162314,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9897
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "burundi",
+      "name": "Burundi",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Burundi",
+      "attrs": {
+        "capital": "Gitega",
+        "continent": "Africa",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 164421,
+      "obscurity": {
+        "score": 0.9845,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 164421,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9845
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kiribati",
+      "name": "Kiribati",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kiribati",
+      "attrs": {
+        "capital": "South Tarawa",
+        "continent": "Oceania",
+        "name_initial": "K",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 166977,
+      "obscurity": {
+        "score": 0.9794,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 166977,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9794
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bhutan",
+      "name": "Bhutan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bhutan",
+      "attrs": {
+        "capital": "Thimphu",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 167489,
+      "obscurity": {
+        "score": 0.9742,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 167489,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9742
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "comoros",
+      "name": "Comoros",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Comoros",
+      "attrs": {
+        "capital": "Moroni",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 168745,
+      "obscurity": {
+        "score": 0.9691,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 168745,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9691
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "brunei",
+      "name": "Brunei",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brunei",
+      "attrs": {
+        "capital": "Bandar Seri Begawan",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 168781,
+      "obscurity": {
+        "score": 0.9639,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 168781,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9639
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "djibouti",
+      "name": "Djibouti",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Djibouti",
+      "attrs": {
+        "capital": "Djibouti",
+        "continent": "Africa",
+        "name_initial": "D",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 169596,
+      "obscurity": {
+        "score": 0.9588,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 169596,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "liechtenstein",
+      "name": "Liechtenstein",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Liechtenstein",
+      "attrs": {
+        "capital": "Vaduz",
+        "continent": "Europe",
+        "name_initial": "L",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 170618,
+      "obscurity": {
+        "score": 0.9536,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 170618,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9536
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "micronesia",
+      "name": "Micronesia",
+      "aliases": [
+        "Federated States of Micronesia"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Micronesia",
+      "attrs": {
+        "capital": "Palikir",
+        "continent": "Oceania",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 171852,
+      "obscurity": {
+        "score": 0.9485,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 171852,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9485
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sao-tome-and-principe",
+      "name": "Sao Tome and Principe",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sao_Tome_and_Principe",
+      "attrs": {
+        "capital": "Sao Tome",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 172356,
+      "obscurity": {
+        "score": 0.9433,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 172356,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9433
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nauru",
+      "name": "Nauru",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nauru",
+      "attrs": {
+        "capital": "Yaren",
+        "continent": "Oceania",
+        "name_initial": "N",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 172420,
+      "obscurity": {
+        "score": 0.9381,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 172420,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9381
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "saint-vincent-and-the-grenadines",
+      "name": "Saint Vincent and the Grenadines",
+      "aliases": [
+        "St Vincent and the Grenadines"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "attrs": {
+        "capital": "Kingstown",
+        "continent": "North America",
+        "name_initial": "S",
+        "name_length": 28,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 175743,
+      "obscurity": {
+        "score": 0.933,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 175743,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.933
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "san-marino",
+      "name": "San Marino",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/San_Marino",
+      "attrs": {
+        "capital": "San Marino",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 175882,
+      "obscurity": {
+        "score": 0.9278,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 175882,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9278
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "benin",
+      "name": "Benin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Benin",
+      "attrs": {
+        "capital": "Porto-Novo",
+        "continent": "Africa",
+        "name_initial": "B",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 177496,
+      "obscurity": {
+        "score": 0.9227,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 177496,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9227
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "saint-kitts-and-nevis",
+      "name": "Saint Kitts and Nevis",
+      "aliases": [
+        "St Kitts and Nevis"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "attrs": {
+        "capital": "Basseterre",
+        "continent": "North America",
+        "name_initial": "S",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 180989,
+      "obscurity": {
+        "score": 0.9175,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 180989,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9175
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vanuatu",
+      "name": "Vanuatu",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Vanuatu",
+      "attrs": {
+        "capital": "Port Vila",
+        "continent": "Oceania",
+        "name_initial": "V",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 182245,
+      "obscurity": {
+        "score": 0.9124,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 182245,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9124
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "marshall-islands",
+      "name": "Marshall Islands",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Marshall_Islands",
+      "attrs": {
+        "capital": "Majuro",
+        "continent": "Oceania",
+        "name_initial": "M",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 182810,
+      "obscurity": {
+        "score": 0.9072,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 182810,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9072
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dominica",
+      "name": "Dominica",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dominica",
+      "attrs": {
+        "capital": "Roseau",
+        "continent": "North America",
+        "name_initial": "D",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 183252,
+      "obscurity": {
+        "score": 0.9021,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 183252,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9021
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "antigua-and-barbuda",
+      "name": "Antigua and Barbuda",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "attrs": {
+        "capital": "Saint John's",
+        "continent": "North America",
+        "name_initial": "A",
+        "name_length": 17,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 184082,
+      "obscurity": {
+        "score": 0.8969,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 184082,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8969
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "equatorial-guinea",
+      "name": "Equatorial Guinea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+      "attrs": {
+        "capital": "Malabo",
+        "continent": "Africa",
+        "name_initial": "E",
+        "name_length": 16,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 184236,
+      "obscurity": {
+        "score": 0.8918,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 184236,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8918
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kenya",
+      "name": "Kenya",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kenya",
+      "attrs": {
+        "capital": "Nairobi",
+        "continent": "Africa",
+        "name_initial": "K",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 746337,
+      "obscurity": {
+        "score": 0.8866,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 746337,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8866
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gabon",
+      "name": "Gabon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gabon",
+      "attrs": {
+        "capital": "Libreville",
+        "continent": "Africa",
+        "name_initial": "G",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 746731,
+      "obscurity": {
+        "score": 0.8814,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 746731,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8814
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/New_Zealand",
+      "attrs": {
+        "capital": "Wellington",
+        "continent": "Oceania",
+        "name_initial": "N",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 747503,
+      "obscurity": {
+        "score": 0.8763,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 747503,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8763
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lesotho",
+      "name": "Lesotho",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lesotho",
+      "attrs": {
+        "capital": "Maseru",
+        "continent": "Africa",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 748020,
+      "obscurity": {
+        "score": 0.8711,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 748020,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8711
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tanzania",
+      "name": "Tanzania",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tanzania",
+      "attrs": {
+        "capital": "Dodoma",
+        "continent": "Africa",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 748456,
+      "obscurity": {
+        "score": 0.866,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 748456,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.866
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Morocco",
+      "attrs": {
+        "capital": "Rabat",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 748981,
+      "obscurity": {
+        "score": 0.8608,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 748981,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8608
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tonga",
+      "name": "Tonga",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tonga",
+      "attrs": {
+        "capital": "Nuku'alofa",
+        "continent": "Oceania",
+        "name_initial": "T",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 750968,
+      "obscurity": {
+        "score": 0.8557,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 750968,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8557
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gambia",
+      "name": "Gambia",
+      "aliases": [
+        "The Gambia"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gambia",
+      "attrs": {
+        "capital": "Banjul",
+        "continent": "Africa",
+        "name_initial": "G",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 751016,
+      "obscurity": {
+        "score": 0.8505,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 751016,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8505
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tunisia",
+      "name": "Tunisia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tunisia",
+      "attrs": {
+        "capital": "Tunis",
+        "continent": "Africa",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 751600,
+      "obscurity": {
+        "score": 0.8454,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 751600,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8454
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "somalia",
+      "name": "Somalia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Somalia",
+      "attrs": {
+        "capital": "Mogadishu",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 752225,
+      "obscurity": {
+        "score": 0.8402,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 752225,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8402
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "namibia",
+      "name": "Namibia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Namibia",
+      "attrs": {
+        "capital": "Windhoek",
+        "continent": "Africa",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 752984,
+      "obscurity": {
+        "score": 0.8351,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 752984,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8351
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rwanda",
+      "name": "Rwanda",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rwanda",
+      "attrs": {
+        "capital": "Kigali",
+        "continent": "Africa",
+        "name_initial": "R",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 753274,
+      "obscurity": {
+        "score": 0.8299,
+        "band": "pointless target",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 753274,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8299
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "guinea-bissau",
+      "name": "Guinea-Bissau",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+      "attrs": {
+        "capital": "Bissau",
+        "continent": "Africa",
+        "name_initial": "G",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 753600,
+      "obscurity": {
+        "score": 0.8247,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 753600,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8247
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ghana",
+      "name": "Ghana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ghana",
+      "attrs": {
+        "capital": "Accra",
+        "continent": "Africa",
+        "name_initial": "G",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 753695,
+      "obscurity": {
+        "score": 0.8196,
+        "band": "very obscure",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 753695,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8196
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "papua-new-guinea",
+      "name": "Papua New Guinea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+      "attrs": {
+        "capital": "Port Moresby",
+        "continent": "Oceania",
+        "name_initial": "P",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 754003,
+      "obscurity": {
+        "score": 0.8144,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 754003,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8144
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ethiopia",
+      "name": "Ethiopia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ethiopia",
+      "attrs": {
+        "capital": "Addis Ababa",
+        "continent": "Africa",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 754674,
+      "obscurity": {
+        "score": 0.8093,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 754674,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8093
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "liberia",
+      "name": "Liberia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Liberia",
+      "attrs": {
+        "capital": "Monrovia",
+        "continent": "Africa",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 755002,
+      "obscurity": {
+        "score": 0.8041,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 755002,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8041
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mauritania",
+      "name": "Mauritania",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mauritania",
+      "attrs": {
+        "capital": "Nouakchott",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 755288,
+      "obscurity": {
+        "score": 0.799,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 755288,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.799
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "central-african-republic",
+      "name": "Central African Republic",
+      "aliases": [
+        "CAR"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Central_African_Republic",
+      "attrs": {
+        "capital": "Bangui",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 755533,
+      "obscurity": {
+        "score": 0.7938,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 755533,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7938
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "eswatini",
+      "name": "Eswatini",
+      "aliases": [
+        "Swaziland"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Eswatini",
+      "attrs": {
+        "capital": "Mbabane",
+        "continent": "Africa",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 756197,
+      "obscurity": {
+        "score": 0.7887,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 756197,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7887
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "niger",
+      "name": "Niger",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Niger",
+      "attrs": {
+        "capital": "Niamey",
+        "continent": "Africa",
+        "name_initial": "N",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 756525,
+      "obscurity": {
+        "score": 0.7835,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 756525,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7835
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chad",
+      "name": "Chad",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chad",
+      "attrs": {
+        "capital": "N'Djamena",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 756855,
+      "obscurity": {
+        "score": 0.7784,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 756855,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7784
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cape-verde",
+      "name": "Cape Verde",
+      "aliases": [
+        "Cabo Verde"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cape_Verde",
+      "attrs": {
+        "capital": "Praia",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 757108,
+      "obscurity": {
+        "score": 0.7732,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 757108,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cameroon",
+      "name": "Cameroon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cameroon",
+      "attrs": {
+        "capital": "Yaounde",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 757730,
+      "obscurity": {
+        "score": 0.768,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 757730,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.768
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "algeria",
+      "name": "Algeria",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Algeria",
+      "attrs": {
+        "capital": "Algiers",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 757809,
+      "obscurity": {
+        "score": 0.7629,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 757809,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7629
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "fiji",
+      "name": "Fiji",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Fiji",
+      "attrs": {
+        "capital": "Suva",
+        "continent": "Oceania",
+        "name_initial": "F",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 758192,
+      "obscurity": {
+        "score": 0.7577,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 758192,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7577
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "guinea",
+      "name": "Guinea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Guinea",
+      "attrs": {
+        "capital": "Conakry",
+        "continent": "Africa",
+        "name_initial": "G",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 758201,
+      "obscurity": {
+        "score": 0.7526,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 758201,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7526
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "botswana",
+      "name": "Botswana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Botswana",
+      "attrs": {
+        "capital": "Gaborone",
+        "continent": "Africa",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 759066,
+      "obscurity": {
+        "score": 0.7474,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 759066,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7474
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "togo",
+      "name": "Togo",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Togo",
+      "attrs": {
+        "capital": "Lome",
+        "continent": "Africa",
+        "name_initial": "T",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 759798,
+      "obscurity": {
+        "score": 0.7423,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 759798,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7423
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "libya",
+      "name": "Libya",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Libya",
+      "attrs": {
+        "capital": "Tripoli",
+        "continent": "Africa",
+        "name_initial": "L",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 759871,
+      "obscurity": {
+        "score": 0.7371,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 759871,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7371
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nigeria",
+      "name": "Nigeria",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nigeria",
+      "attrs": {
+        "capital": "Abuja",
+        "continent": "Africa",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 760312,
+      "obscurity": {
+        "score": 0.732,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760312,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "malawi",
+      "name": "Malawi",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Malawi",
+      "attrs": {
+        "capital": "Lilongwe",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 761296,
+      "obscurity": {
+        "score": 0.7268,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 761296,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "zimbabwe",
+      "name": "Zimbabwe",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zimbabwe",
+      "attrs": {
+        "capital": "Harare",
+        "continent": "Africa",
+        "name_initial": "Z",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 761299,
+      "obscurity": {
+        "score": 0.7216,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 761299,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7216
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mali",
+      "name": "Mali",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mali",
+      "attrs": {
+        "capital": "Bamako",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 762123,
+      "obscurity": {
+        "score": 0.7165,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 762123,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7165
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "uganda",
+      "name": "Uganda",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Uganda",
+      "attrs": {
+        "capital": "Kampala",
+        "continent": "Africa",
+        "name_initial": "U",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 762675,
+      "obscurity": {
+        "score": 0.7113,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 762675,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7113
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "samoa",
+      "name": "Samoa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Samoa",
+      "attrs": {
+        "capital": "Apia",
+        "continent": "Oceania",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 763033,
+      "obscurity": {
+        "score": 0.7062,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763033,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7062
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-sudan",
+      "name": "South Sudan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Sudan",
+      "attrs": {
+        "capital": "Juba",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 763189,
+      "obscurity": {
+        "score": 0.701,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763189,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.701
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sierra-leone",
+      "name": "Sierra Leone",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sierra_Leone",
+      "attrs": {
+        "capital": "Freetown",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 763311,
+      "obscurity": {
+        "score": 0.6959,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763311,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6959
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mozambique",
+      "name": "Mozambique",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mozambique",
+      "attrs": {
+        "capital": "Maputo",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 763693,
+      "obscurity": {
+        "score": 0.6907,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763693,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6907
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cote-d-ivoire",
+      "name": "Cote d'Ivoire",
+      "aliases": [
+        "Ivory Coast"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cote_d'Ivoire",
+      "attrs": {
+        "capital": "Yamoussoukro",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 763859,
+      "obscurity": {
+        "score": 0.6856,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763859,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6856
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "solomon-islands",
+      "name": "Solomon Islands",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Solomon_Islands",
+      "attrs": {
+        "capital": "Honiara",
+        "continent": "Oceania",
+        "name_initial": "S",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 764250,
+      "obscurity": {
+        "score": 0.6804,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 764250,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6804
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Egypt",
+      "attrs": {
+        "capital": "Cairo",
+        "continent": "Africa",
+        "name_initial": "E",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 765096,
+      "obscurity": {
+        "score": 0.6753,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 765096,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6753
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mauritius",
+      "name": "Mauritius",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mauritius",
+      "attrs": {
+        "capital": "Port Louis",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 765190,
+      "obscurity": {
+        "score": 0.6701,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 765190,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6701
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "congo-democratic-republic-of-the",
+      "name": "Congo, Democratic Republic of the",
+      "aliases": [
+        "Democratic Republic of the Congo",
+        "DR Congo",
+        "Congo-Kinshasa"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Congo,_Democratic_Republic_of_the",
+      "attrs": {
+        "capital": "Kinshasa",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 28,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 766276,
+      "obscurity": {
+        "score": 0.6649,
+        "band": "very obscure",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 766276,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6649
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sudan",
+      "name": "Sudan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sudan",
+      "attrs": {
+        "capital": "Khartoum",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 766291,
+      "obscurity": {
+        "score": 0.6598,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 766291,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6598
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "zambia",
+      "name": "Zambia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zambia",
+      "attrs": {
+        "capital": "Lusaka",
+        "continent": "Africa",
+        "name_initial": "Z",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 767442,
+      "obscurity": {
+        "score": 0.6546,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 767442,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6546
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "madagascar",
+      "name": "Madagascar",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Madagascar",
+      "attrs": {
+        "capital": "Antananarivo",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 767862,
+      "obscurity": {
+        "score": 0.6495,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 767862,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6495
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "eritrea",
+      "name": "Eritrea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Eritrea",
+      "attrs": {
+        "capital": "Asmara",
+        "continent": "Africa",
+        "name_initial": "E",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 768010,
+      "obscurity": {
+        "score": 0.6443,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 768010,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6443
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Senegal",
+      "attrs": {
+        "capital": "Dakar",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 769678,
+      "obscurity": {
+        "score": 0.6392,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769678,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6392
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "congo-republic-of-the",
+      "name": "Congo, Republic of the",
+      "aliases": [
+        "Republic of the Congo",
+        "Congo-Brazzaville"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Congo,_Republic_of_the",
+      "attrs": {
+        "capital": "Brazzaville",
+        "continent": "Africa",
+        "name_initial": "C",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 769707,
+      "obscurity": {
+        "score": 0.634,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769707,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.634
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "seychelles",
+      "name": "Seychelles",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Seychelles",
+      "attrs": {
+        "capital": "Victoria",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 770051,
+      "obscurity": {
+        "score": 0.6289,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770051,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6289
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "angola",
+      "name": "Angola",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Angola",
+      "attrs": {
+        "capital": "Luanda",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 770521,
+      "obscurity": {
+        "score": 0.6237,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770521,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6237
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "burkina-faso",
+      "name": "Burkina Faso",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Burkina_Faso",
+      "attrs": {
+        "capital": "Ouagadougou",
+        "continent": "Africa",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 770655,
+      "obscurity": {
+        "score": 0.6186,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770655,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6186
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "pakistan",
+      "name": "Pakistan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Pakistan",
+      "attrs": {
+        "capital": "Islamabad",
+        "continent": "Asia",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1247697,
+      "obscurity": {
+        "score": 0.6134,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1247697,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6134
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Israel",
+      "attrs": {
+        "capital": "Jerusalem",
+        "continent": "Asia",
+        "name_initial": "I",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1247737,
+      "obscurity": {
+        "score": 0.6082,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1247737,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6082
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nepal",
+      "name": "Nepal",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nepal",
+      "attrs": {
+        "capital": "Kathmandu",
+        "continent": "Asia",
+        "name_initial": "N",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1247989,
+      "obscurity": {
+        "score": 0.6031,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1247989,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6031
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "denmark",
+      "name": "Denmark",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Denmark",
+      "attrs": {
+        "capital": "Copenhagen",
+        "continent": "Europe",
+        "name_initial": "D",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1248421,
+      "obscurity": {
+        "score": 0.5979,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1248421,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5979
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "aliases": [
+        "Holland"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Netherlands",
+      "attrs": {
+        "capital": "Amsterdam",
+        "continent": "Europe",
+        "name_initial": "N",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1248615,
+      "obscurity": {
+        "score": 0.5928,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1248615,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5928
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "honduras",
+      "name": "Honduras",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Honduras",
+      "attrs": {
+        "capital": "Tegucigalpa",
+        "continent": "North America",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1249084,
+      "obscurity": {
+        "score": 0.5876,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249084,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5876
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "guyana",
+      "name": "Guyana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Guyana",
+      "attrs": {
+        "capital": "Georgetown",
+        "continent": "South America",
+        "name_initial": "G",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1249352,
+      "obscurity": {
+        "score": 0.5825,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249352,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5825
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "syria",
+      "name": "Syria",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Syria",
+      "attrs": {
+        "capital": "Damascus",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1249399,
+      "obscurity": {
+        "score": 0.5773,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249399,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5773
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "monaco",
+      "name": "Monaco",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Monaco",
+      "attrs": {
+        "capital": "Monaco",
+        "continent": "Europe",
+        "name_initial": "M",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1249601,
+      "obscurity": {
+        "score": 0.5722,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249601,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5722
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "aliases": [
+        "Viet Nam"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Vietnam",
+      "attrs": {
+        "capital": "Hanoi",
+        "continent": "Asia",
+        "name_initial": "V",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1249724,
+      "obscurity": {
+        "score": 0.567,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249724,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.567
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "aliases": [
+        "Kiev"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ukraine",
+      "attrs": {
+        "capital": "Kyiv",
+        "continent": "Europe",
+        "name_initial": "U",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 1249976,
+      "obscurity": {
+        "score": 0.5619,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249976,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5619
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iraq",
+      "attrs": {
+        "capital": "Baghdad",
+        "continent": "Asia",
+        "name_initial": "I",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1250250,
+      "obscurity": {
+        "score": 0.5567,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250250,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5567
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bahrain",
+      "name": "Bahrain",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bahrain",
+      "attrs": {
+        "capital": "Manama",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1250324,
+      "obscurity": {
+        "score": 0.5515,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250324,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5515
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bangladesh",
+      "name": "Bangladesh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bangladesh",
+      "attrs": {
+        "capital": "Dhaka",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1250326,
+      "obscurity": {
+        "score": 0.5464,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250326,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5464
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Singapore",
+      "attrs": {
+        "capital": "Singapore",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1250472,
+      "obscurity": {
+        "score": 0.5412,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250472,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sweden",
+      "attrs": {
+        "capital": "Stockholm",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1250798,
+      "obscurity": {
+        "score": 0.5361,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250798,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5361
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Austria",
+      "attrs": {
+        "capital": "Vienna",
+        "continent": "Europe",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1250883,
+      "obscurity": {
+        "score": 0.5309,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250883,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5309
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jordan",
+      "attrs": {
+        "capital": "Amman",
+        "continent": "Asia",
+        "name_initial": "J",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1251070,
+      "obscurity": {
+        "score": 0.5258,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251070,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5258
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "venezuela",
+      "name": "Venezuela",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Venezuela",
+      "attrs": {
+        "capital": "Caracas",
+        "continent": "South America",
+        "name_initial": "V",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1251301,
+      "obscurity": {
+        "score": 0.5206,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251301,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5206
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "peru",
+      "name": "Peru",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Peru",
+      "attrs": {
+        "capital": "Lima",
+        "continent": "South America",
+        "name_initial": "P",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1251498,
+      "obscurity": {
+        "score": 0.5155,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251498,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5155
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oman",
+      "name": "Oman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oman",
+      "attrs": {
+        "capital": "Muscat",
+        "continent": "Asia",
+        "name_initial": "O",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1251607,
+      "obscurity": {
+        "score": 0.5103,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251607,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5103
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cuba",
+      "name": "Cuba",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cuba",
+      "attrs": {
+        "capital": "Havana",
+        "continent": "North America",
+        "name_initial": "C",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1252319,
+      "obscurity": {
+        "score": 0.5052,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252319,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5052
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "malaysia",
+      "name": "Malaysia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Malaysia",
+      "attrs": {
+        "capital": "Kuala Lumpur",
+        "continent": "Asia",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1252451,
+      "obscurity": {
+        "score": 0.5,
+        "band": "useful low scorer",
+        "pointless_score": 50,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252451,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vatican-city",
+      "name": "Vatican City",
+      "aliases": [
+        "Holy See"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Vatican_City",
+      "attrs": {
+        "capital": "Vatican City",
+        "continent": "Europe",
+        "name_initial": "V",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1252475,
+      "obscurity": {
+        "score": 0.4948,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252475,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4948
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "guatemala",
+      "name": "Guatemala",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Guatemala",
+      "attrs": {
+        "capital": "Guatemala City",
+        "continent": "North America",
+        "name_initial": "G",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1252541,
+      "obscurity": {
+        "score": 0.4897,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252541,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4897
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "indonesia",
+      "name": "Indonesia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Indonesia",
+      "attrs": {
+        "capital": "Jakarta",
+        "continent": "Asia",
+        "name_initial": "I",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1252556,
+      "obscurity": {
+        "score": 0.4845,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252556,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4845
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "barbados",
+      "name": "Barbados",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Barbados",
+      "attrs": {
+        "capital": "Bridgetown",
+        "continent": "North America",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1253910,
+      "obscurity": {
+        "score": 0.4794,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1253910,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4794
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bulgaria",
+      "name": "Bulgaria",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bulgaria",
+      "attrs": {
+        "capital": "Sofia",
+        "continent": "Europe",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1253982,
+      "obscurity": {
+        "score": 0.4742,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1253982,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4742
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "haiti",
+      "name": "Haiti",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Haiti",
+      "attrs": {
+        "capital": "Port-au-Prince",
+        "continent": "North America",
+        "name_initial": "H",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1254481,
+      "obscurity": {
+        "score": 0.4691,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254481,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4691
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iran",
+      "attrs": {
+        "capital": "Tehran",
+        "continent": "Asia",
+        "name_initial": "I",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1254488,
+      "obscurity": {
+        "score": 0.4639,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254488,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4639
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "armenia",
+      "name": "Armenia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Armenia",
+      "attrs": {
+        "capital": "Yerevan",
+        "continent": "Asia",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1254545,
+      "obscurity": {
+        "score": 0.4588,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254545,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "luxembourg",
+      "name": "Luxembourg",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Luxembourg",
+      "attrs": {
+        "capital": "Luxembourg",
+        "continent": "Europe",
+        "name_initial": "L",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1254802,
+      "obscurity": {
+        "score": 0.4536,
+        "band": "useful low scorer",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254802,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4536
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bosnia-and-herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "aliases": [
+        "Bosnia"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+      "attrs": {
+        "capital": "Sarajevo",
+        "continent": "Europe",
+        "name_initial": "B",
+        "name_length": 20,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1254854,
+      "obscurity": {
+        "score": 0.4485,
+        "band": "middling",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254854,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4485
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Belgium",
+      "attrs": {
+        "capital": "Brussels",
+        "continent": "Europe",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1254870,
+      "obscurity": {
+        "score": 0.4433,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254870,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4433
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "united-arab-emirates",
+      "name": "United Arab Emirates",
+      "aliases": [
+        "UAE"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "attrs": {
+        "capital": "Abu Dhabi",
+        "continent": "Asia",
+        "name_initial": "U",
+        "name_length": 18,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 1255147,
+      "obscurity": {
+        "score": 0.4381,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255147,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4381
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bahamas",
+      "name": "Bahamas",
+      "aliases": [
+        "The Bahamas"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bahamas",
+      "attrs": {
+        "capital": "Nassau",
+        "continent": "North America",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1255205,
+      "obscurity": {
+        "score": 0.433,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255205,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.433
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Portugal",
+      "attrs": {
+        "capital": "Lisbon",
+        "continent": "Europe",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1255859,
+      "obscurity": {
+        "score": 0.4278,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255859,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4278
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dominican-republic",
+      "name": "Dominican Republic",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dominican_Republic",
+      "attrs": {
+        "capital": "Santo Domingo",
+        "continent": "North America",
+        "name_initial": "D",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1255879,
+      "obscurity": {
+        "score": 0.4227,
+        "band": "middling",
+        "pointless_score": 58,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255879,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4227
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "laos",
+      "name": "Laos",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Laos",
+      "attrs": {
+        "capital": "Vientiane",
+        "continent": "Asia",
+        "name_initial": "L",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1256282,
+      "obscurity": {
+        "score": 0.4175,
+        "band": "middling",
+        "pointless_score": 58,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1256282,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4175
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "saint-lucia",
+      "name": "Saint Lucia",
+      "aliases": [
+        "St Lucia"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Lucia",
+      "attrs": {
+        "capital": "Castries",
+        "continent": "North America",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1256706,
+      "obscurity": {
+        "score": 0.4124,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1256706,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4124
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Switzerland",
+      "attrs": {
+        "capital": "Bern",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1256847,
+      "obscurity": {
+        "score": 0.4072,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1256847,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4072
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "finland",
+      "name": "Finland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Finland",
+      "attrs": {
+        "capital": "Helsinki",
+        "continent": "Europe",
+        "name_initial": "F",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1257000,
+      "obscurity": {
+        "score": 0.4021,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257000,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4021
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Uruguay",
+      "attrs": {
+        "capital": "Montevideo",
+        "continent": "South America",
+        "name_initial": "U",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 1257440,
+      "obscurity": {
+        "score": 0.3969,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257440,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3969
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "estonia",
+      "name": "Estonia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Estonia",
+      "attrs": {
+        "capital": "Tallinn",
+        "continent": "Europe",
+        "name_initial": "E",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1258557,
+      "obscurity": {
+        "score": 0.3918,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1258557,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3918
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-korea",
+      "name": "South Korea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Korea",
+      "attrs": {
+        "capital": "Seoul",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1258798,
+      "obscurity": {
+        "score": 0.3866,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1258798,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3866
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "el-salvador",
+      "name": "El Salvador",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/El_Salvador",
+      "attrs": {
+        "capital": "San Salvador",
+        "continent": "North America",
+        "name_initial": "E",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1258893,
+      "obscurity": {
+        "score": 0.3814,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1258893,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3814
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "uzbekistan",
+      "name": "Uzbekistan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "attrs": {
+        "capital": "Tashkent",
+        "continent": "Asia",
+        "name_initial": "U",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 1259590,
+      "obscurity": {
+        "score": 0.3763,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1259590,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3763
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "grenada",
+      "name": "Grenada",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Grenada",
+      "attrs": {
+        "capital": "Saint George's",
+        "continent": "North America",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1259600,
+      "obscurity": {
+        "score": 0.3711,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1259600,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3711
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "romania",
+      "name": "Romania",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Romania",
+      "attrs": {
+        "capital": "Bucharest",
+        "continent": "Europe",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1260587,
+      "obscurity": {
+        "score": 0.366,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260587,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.366
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ecuador",
+      "attrs": {
+        "capital": "Quito",
+        "continent": "South America",
+        "name_initial": "E",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1260688,
+      "obscurity": {
+        "score": 0.3608,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260688,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3608
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "czechia",
+      "name": "Czechia",
+      "aliases": [
+        "Czech Republic"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Czechia",
+      "attrs": {
+        "capital": "Prague",
+        "continent": "Europe",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1260759,
+      "obscurity": {
+        "score": 0.3557,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260759,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3557
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hungary",
+      "name": "Hungary",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hungary",
+      "attrs": {
+        "capital": "Budapest",
+        "continent": "Europe",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1260812,
+      "obscurity": {
+        "score": 0.3505,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260812,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3505
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "aliases": [
+        "Turkiye"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Turkey",
+      "attrs": {
+        "capital": "Ankara",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1260914,
+      "obscurity": {
+        "score": 0.3454,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260914,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3454
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Paraguay",
+      "attrs": {
+        "capital": "Asuncion",
+        "continent": "South America",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1260953,
+      "obscurity": {
+        "score": 0.3402,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260953,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3402
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ireland",
+      "name": "Ireland",
+      "aliases": [
+        "Republic of Ireland"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ireland",
+      "attrs": {
+        "capital": "Dublin",
+        "continent": "Europe",
+        "name_initial": "I",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1261432,
+      "obscurity": {
+        "score": 0.3351,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1261432,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3351
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chile",
+      "name": "Chile",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chile",
+      "attrs": {
+        "capital": "Santiago",
+        "continent": "South America",
+        "name_initial": "C",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1261768,
+      "obscurity": {
+        "score": 0.3299,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1261768,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3299
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "belize",
+      "name": "Belize",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Belize",
+      "attrs": {
+        "capital": "Belmopan",
+        "continent": "North America",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1262154,
+      "obscurity": {
+        "score": 0.3247,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262154,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3247
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "turkmenistan",
+      "name": "Turkmenistan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "attrs": {
+        "capital": "Ashgabat",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1262434,
+      "obscurity": {
+        "score": 0.3196,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262434,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3196
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "attrs": {
+        "capital": "Riyadh",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262517,
+      "obscurity": {
+        "score": 0.3144,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262517,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3144
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "yemen",
+      "name": "Yemen",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Yemen",
+      "attrs": {
+        "capital": "Sanaa",
+        "continent": "Asia",
+        "name_initial": "Y",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1262643,
+      "obscurity": {
+        "score": 0.3093,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262643,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3093
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jamaica",
+      "name": "Jamaica",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jamaica",
+      "attrs": {
+        "capital": "Kingston",
+        "continent": "North America",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262795,
+      "obscurity": {
+        "score": 0.3041,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262795,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3041
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kyrgyzstan",
+      "name": "Kyrgyzstan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "attrs": {
+        "capital": "Bishkek",
+        "continent": "Asia",
+        "name_initial": "K",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262952,
+      "obscurity": {
+        "score": 0.299,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262952,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.299
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "belarus",
+      "name": "Belarus",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Belarus",
+      "attrs": {
+        "capital": "Minsk",
+        "continent": "Europe",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1262983,
+      "obscurity": {
+        "score": 0.2938,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262983,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2938
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "poland",
+      "name": "Poland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Poland",
+      "attrs": {
+        "capital": "Warsaw",
+        "continent": "Europe",
+        "name_initial": "P",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1263210,
+      "obscurity": {
+        "score": 0.2887,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1263210,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2887
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Qatar",
+      "attrs": {
+        "capital": "Doha",
+        "continent": "Asia",
+        "name_initial": "Q",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1263288,
+      "obscurity": {
+        "score": 0.2835,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1263288,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2835
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "myanmar",
+      "name": "Myanmar",
+      "aliases": [
+        "Burma"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Myanmar",
+      "attrs": {
+        "capital": "Naypyidaw",
+        "continent": "Asia",
+        "name_initial": "M",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1263848,
+      "obscurity": {
+        "score": 0.2784,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1263848,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2784
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "slovenia",
+      "name": "Slovenia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Slovenia",
+      "attrs": {
+        "capital": "Ljubljana",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1264156,
+      "obscurity": {
+        "score": 0.2732,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264156,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2732
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kuwait",
+      "name": "Kuwait",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kuwait",
+      "attrs": {
+        "capital": "Kuwait City",
+        "continent": "Asia",
+        "name_initial": "K",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1264233,
+      "obscurity": {
+        "score": 0.268,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264233,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lebanon",
+      "name": "Lebanon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lebanon",
+      "attrs": {
+        "capital": "Beirut",
+        "continent": "Asia",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1264461,
+      "obscurity": {
+        "score": 0.2629,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264461,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2629
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "serbia",
+      "name": "Serbia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Serbia",
+      "attrs": {
+        "capital": "Belgrade",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1264462,
+      "obscurity": {
+        "score": 0.2577,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264462,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2577
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "costa-rica",
+      "name": "Costa Rica",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Costa_Rica",
+      "attrs": {
+        "capital": "San Jose",
+        "continent": "North America",
+        "name_initial": "C",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1264533,
+      "obscurity": {
+        "score": 0.2526,
+        "band": "middling",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264533,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2526
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "montenegro",
+      "name": "Montenegro",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Montenegro",
+      "attrs": {
+        "capital": "Podgorica",
+        "continent": "Europe",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1264759,
+      "obscurity": {
+        "score": 0.2474,
+        "band": "obvious",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264759,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2474
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sri-lanka",
+      "name": "Sri Lanka",
+      "aliases": [
+        "Ceylon"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sri_Lanka",
+      "attrs": {
+        "capital": "Sri Jayawardenepura Kotte",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1264842,
+      "obscurity": {
+        "score": 0.2423,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264842,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2423
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "suriname",
+      "name": "Suriname",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Suriname",
+      "attrs": {
+        "capital": "Paramaribo",
+        "continent": "South America",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1264870,
+      "obscurity": {
+        "score": 0.2371,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1264870,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2371
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lithuania",
+      "name": "Lithuania",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lithuania",
+      "attrs": {
+        "capital": "Vilnius",
+        "continent": "Europe",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1265056,
+      "obscurity": {
+        "score": 0.232,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265056,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.232
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nicaragua",
+      "name": "Nicaragua",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nicaragua",
+      "attrs": {
+        "capital": "Managua",
+        "continent": "North America",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1265395,
+      "obscurity": {
+        "score": 0.2268,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265395,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2268
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "trinidad-and-tobago",
+      "name": "Trinidad and Tobago",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+      "attrs": {
+        "capital": "Port of Spain",
+        "continent": "North America",
+        "name_initial": "T",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1265506,
+      "obscurity": {
+        "score": 0.2216,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265506,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2216
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iceland",
+      "name": "Iceland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iceland",
+      "attrs": {
+        "capital": "Reykjavik",
+        "continent": "Europe",
+        "name_initial": "I",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1265743,
+      "obscurity": {
+        "score": 0.2165,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265743,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2165
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "thailand",
+      "name": "Thailand",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thailand",
+      "attrs": {
+        "capital": "Bangkok",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1265852,
+      "obscurity": {
+        "score": 0.2113,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265852,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2113
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kazakhstan",
+      "name": "Kazakhstan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "attrs": {
+        "capital": "Astana",
+        "continent": "Asia",
+        "name_initial": "K",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1266067,
+      "obscurity": {
+        "score": 0.2062,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266067,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2062
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "malta",
+      "name": "Malta",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Malta",
+      "attrs": {
+        "capital": "Valletta",
+        "continent": "Europe",
+        "name_initial": "M",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1266156,
+      "obscurity": {
+        "score": 0.201,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266156,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.201
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "timor-leste",
+      "name": "Timor-Leste",
+      "aliases": [
+        "East Timor"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Timor-Leste",
+      "attrs": {
+        "capital": "Dili",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1266159,
+      "obscurity": {
+        "score": 0.1959,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266159,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1959
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "albania",
+      "name": "Albania",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Albania",
+      "attrs": {
+        "capital": "Tirana",
+        "continent": "Europe",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1266188,
+      "obscurity": {
+        "score": 0.1907,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266188,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1907
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "afghanistan",
+      "name": "Afghanistan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Afghanistan",
+      "attrs": {
+        "capital": "Kabul",
+        "continent": "Asia",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1266206,
+      "obscurity": {
+        "score": 0.1856,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266206,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1856
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Panama",
+      "attrs": {
+        "capital": "Panama City",
+        "continent": "North America",
+        "name_initial": "P",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1266592,
+      "obscurity": {
+        "score": 0.1804,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266592,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1804
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "philippines",
+      "name": "Philippines",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Philippines",
+      "attrs": {
+        "capital": "Manila",
+        "continent": "Asia",
+        "name_initial": "P",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1267518,
+      "obscurity": {
+        "score": 0.1753,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1267518,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1753
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "north-korea",
+      "name": "North Korea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/North_Korea",
+      "attrs": {
+        "capital": "Pyongyang",
+        "continent": "Asia",
+        "name_initial": "N",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1267855,
+      "obscurity": {
+        "score": 0.1701,
+        "band": "obvious",
+        "pointless_score": 83,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1267855,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1701
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "north-macedonia",
+      "name": "North Macedonia",
+      "aliases": [
+        "Macedonia"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/North_Macedonia",
+      "attrs": {
+        "capital": "Skopje",
+        "continent": "Europe",
+        "name_initial": "N",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1268181,
+      "obscurity": {
+        "score": 0.1649,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268181,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1649
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "latvia",
+      "name": "Latvia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Latvia",
+      "attrs": {
+        "capital": "Riga",
+        "continent": "Europe",
+        "name_initial": "L",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1268370,
+      "obscurity": {
+        "score": 0.1598,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268370,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1598
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "slovakia",
+      "name": "Slovakia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Slovakia",
+      "attrs": {
+        "capital": "Bratislava",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1268479,
+      "obscurity": {
+        "score": 0.1546,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268479,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1546
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tajikistan",
+      "name": "Tajikistan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tajikistan",
+      "attrs": {
+        "capital": "Dushanbe",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1268662,
+      "obscurity": {
+        "score": 0.1495,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268662,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1495
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Argentina",
+      "attrs": {
+        "capital": "Buenos Aires",
+        "continent": "South America",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1269387,
+      "obscurity": {
+        "score": 0.1443,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269387,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1443
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "palestine",
+      "name": "Palestine",
+      "aliases": [
+        "State of Palestine"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Palestine",
+      "attrs": {
+        "capital": "Ramallah",
+        "continent": "Asia",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1269501,
+      "obscurity": {
+        "score": 0.1392,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269501,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1392
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "greece",
+      "name": "Greece",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Greece",
+      "attrs": {
+        "capital": "Athens",
+        "continent": "Europe",
+        "name_initial": "G",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1269618,
+      "obscurity": {
+        "score": 0.134,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269618,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.134
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "georgia",
+      "name": "Georgia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Georgia",
+      "attrs": {
+        "capital": "Tbilisi",
+        "continent": "Europe",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1269657,
+      "obscurity": {
+        "score": 0.1289,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269657,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1289
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "colombia",
+      "name": "Colombia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Colombia",
+      "attrs": {
+        "capital": "Bogota",
+        "continent": "South America",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1269666,
+      "obscurity": {
+        "score": 0.1237,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269666,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1237
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mongolia",
+      "name": "Mongolia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mongolia",
+      "attrs": {
+        "capital": "Ulaanbaatar",
+        "continent": "Asia",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1270378,
+      "obscurity": {
+        "score": 0.1186,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270378,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1186
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cambodia",
+      "name": "Cambodia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cambodia",
+      "attrs": {
+        "capital": "Phnom Penh",
+        "continent": "Asia",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1271091,
+      "obscurity": {
+        "score": 0.1134,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271091,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1134
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "moldova",
+      "name": "Moldova",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Moldova",
+      "attrs": {
+        "capital": "Chisinau",
+        "continent": "Europe",
+        "name_initial": "M",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1271172,
+      "obscurity": {
+        "score": 0.1082,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271172,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1082
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Norway",
+      "attrs": {
+        "capital": "Oslo",
+        "continent": "Europe",
+        "name_initial": "N",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1271267,
+      "obscurity": {
+        "score": 0.1031,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271267,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1031
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "azerbaijan",
+      "name": "Azerbaijan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "attrs": {
+        "capital": "Baku",
+        "continent": "Asia",
+        "name_initial": "A",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1271529,
+      "obscurity": {
+        "score": 0.0979,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271529,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0979
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bolivia",
+      "name": "Bolivia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bolivia",
+      "attrs": {
+        "capital": "Sucre",
+        "continent": "South America",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1271631,
+      "obscurity": {
+        "score": 0.0928,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271631,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0928
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maldives",
+      "name": "Maldives",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maldives",
+      "attrs": {
+        "capital": "Male",
+        "continent": "Asia",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1271769,
+      "obscurity": {
+        "score": 0.0876,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271769,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0876
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Croatia",
+      "attrs": {
+        "capital": "Zagreb",
+        "continent": "Europe",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1271938,
+      "obscurity": {
+        "score": 0.0825,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271938,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0825
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cyprus",
+      "name": "Cyprus",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cyprus",
+      "attrs": {
+        "capital": "Nicosia",
+        "continent": "Europe",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1272312,
+      "obscurity": {
+        "score": 0.0773,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1272312,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0773
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/France",
+      "attrs": {
+        "capital": "Paris",
+        "continent": "Europe",
+        "name_initial": "F",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6287944,
+      "obscurity": {
+        "score": 0.0722,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287944,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0722
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Canada",
+      "attrs": {
+        "capital": "Ottawa",
+        "continent": "North America",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6288763,
+      "obscurity": {
+        "score": 0.067,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288763,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.067
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "united-kingdom",
+      "name": "United Kingdom",
+      "aliases": [
+        "UK",
+        "Great Britain",
+        "Britain"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "attrs": {
+        "capital": "London",
+        "continent": "Europe",
+        "name_initial": "U",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 6295981,
+      "obscurity": {
+        "score": 0.0619,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295981,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0619
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spain",
+      "attrs": {
+        "capital": "Madrid",
+        "continent": "Europe",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6296290,
+      "obscurity": {
+        "score": 0.0567,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6296290,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0567
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Germany",
+      "attrs": {
+        "capital": "Berlin",
+        "continent": "Europe",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6296756,
+      "obscurity": {
+        "score": 0.0515,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6296756,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0515
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "italy",
+      "name": "Italy",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Italy",
+      "attrs": {
+        "capital": "Rome",
+        "continent": "Europe",
+        "name_initial": "I",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 6302187,
+      "obscurity": {
+        "score": 0.0464,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6302187,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0464
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mexico",
+      "name": "Mexico",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mexico",
+      "attrs": {
+        "capital": "Mexico City",
+        "continent": "North America",
+        "name_initial": "M",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6303045,
+      "obscurity": {
+        "score": 0.0412,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6303045,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Australia",
+      "attrs": {
+        "capital": "Canberra",
+        "continent": "Oceania",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6303527,
+      "obscurity": {
+        "score": 0.0361,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6303527,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0361
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brazil",
+      "attrs": {
+        "capital": "Brasilia",
+        "continent": "South America",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6305063,
+      "obscurity": {
+        "score": 0.0309,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305063,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0309
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Japan",
+      "attrs": {
+        "capital": "Tokyo",
+        "continent": "Asia",
+        "name_initial": "J",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6305988,
+      "obscurity": {
+        "score": 0.0258,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6305988,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0258
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Africa",
+      "attrs": {
+        "capital": "Pretoria",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6306931,
+      "obscurity": {
+        "score": 0.0206,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6306931,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0206
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "united-states",
+      "name": "United States",
+      "aliases": [
+        "United States of America",
+        "USA",
+        "US"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/United_States",
+      "attrs": {
+        "capital": "Washington, D.C.",
+        "continent": "North America",
+        "name_initial": "U",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 6307611,
+      "obscurity": {
+        "score": 0.0155,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6307611,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0155
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "russia",
+      "name": "Russia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Russia",
+      "attrs": {
+        "capital": "Moscow",
+        "continent": "Europe",
+        "name_initial": "R",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 6308429,
+      "obscurity": {
+        "score": 0.0103,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308429,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0103
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/India",
+      "attrs": {
+        "capital": "New Delhi",
+        "continent": "Asia",
+        "name_initial": "I",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 6308544,
+      "obscurity": {
+        "score": 0.0052,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308544,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0052
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/China",
+      "attrs": {
+        "capital": "Beijing",
+        "continent": "Asia",
+        "name_initial": "C",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6311390,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6311390,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

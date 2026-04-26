@@ -1,422 +1,2089 @@
 {
   "slug": "uk-prime-ministers",
   "name": "UK Prime Ministers",
-  "description": "Every person who has held the office of Prime Minister of the United Kingdom (Wikidata Q14211). Real humans only — excludes fictional PMs from TV shows.",
-  "fetched_at": "2026-04-26T16:18:30",
-  "n_answers": 59,
+  "description": "People who have served as Prime Minister of Great Britain or the United Kingdom, Walpole to Starmer.",
+  "tags": [
+    "history",
+    "politics",
+    "recurring"
+  ],
+  "answer_kind": "prime minister",
+  "expected_count": 58,
+  "n_answers": 58,
+  "display_fields": [
+    "first_served",
+    "party"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "leaders-by-century",
+      "kind": "attr_equals_dynamic",
+      "attr": "century",
+      "prompt": "{category} who first served in the {value}"
+    },
+    {
+      "id": "leaders-after-1900",
+      "kind": "number_range",
+      "attr": "first_served",
+      "min": 1900,
+      "max": 2100,
+      "prompt": "{category} who first served from 1900 onwards"
+    }
+  ],
+  "sources": [
+    {
+      "label": "GOV.UK Prime Minister role",
+      "url": "https://www.gov.uk/government/ministers/prime-minister"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
   "answers": [
     {
-      "name": "Basil Feilding, 6th Earl of Denbigh",
-      "qid": "Q16829347",
-      "wiki": "https://en.wikipedia.org/wiki/Basil_Feilding,_6th_Earl_of_Denbigh",
-      "pageviews": 2222,
-      "obscurity": 1.0
-    },
-    {
-      "name": "F. J. Robinson, 1st Viscount Goderich",
-      "qid": "Q312591",
-      "wiki": "https://en.wikipedia.org/wiki/F._J._Robinson,_1st_Viscount_Goderich",
-      "pageviews": 41552,
-      "obscurity": 0.6253
-    },
-    {
-      "name": "William Wyndham Grenville, 1st Baron Grenville",
-      "qid": "Q312596",
-      "wiki": "https://en.wikipedia.org/wiki/William_Grenville,_1st_Baron_Grenville",
-      "pageviews": 51487,
-      "obscurity": 0.5979
-    },
-    {
-      "name": "Augustus FitzRoy, 3rd Duke of Grafton",
-      "qid": "Q312583",
-      "wiki": "https://en.wikipedia.org/wiki/Augustus_FitzRoy,_3rd_Duke_of_Grafton",
-      "pageviews": 51635,
-      "obscurity": 0.5975
-    },
-    {
-      "name": "Henry Addington, 1st Viscount Sidmouth",
-      "qid": "Q312577",
-      "wiki": "https://en.wikipedia.org/wiki/Henry_Addington",
-      "pageviews": 52736,
-      "obscurity": 0.5948
-    },
-    {
-      "name": "Henry Pelham",
-      "qid": "Q244766",
-      "wiki": "https://en.wikipedia.org/wiki/Henry_Pelham",
-      "pageviews": 61402,
-      "obscurity": 0.5753
-    },
-    {
-      "name": "Spencer Compton, 1st Earl of Wilmington",
-      "qid": "Q270415",
-      "wiki": "https://en.wikipedia.org/wiki/Spencer_Compton,_1st_Earl_of_Wilmington",
-      "pageviews": 65074,
-      "obscurity": 0.5679
-    },
-    {
-      "name": "William Petty, 2nd Earl of Shelburne",
-      "qid": "Q312573",
-      "wiki": "https://en.wikipedia.org/wiki/William_Petty,_2nd_Earl_of_Shelburne",
-      "pageviews": 66590,
-      "obscurity": 0.565
-    },
-    {
-      "name": "George Grenville",
-      "qid": "Q244616",
-      "wiki": "https://en.wikipedia.org/wiki/George_Grenville",
-      "pageviews": 67652,
-      "obscurity": 0.5629
-    },
-    {
-      "name": "Charles Watson-Wentworth, 2nd Marquess of Rockingham",
-      "qid": "Q378043",
-      "wiki": "https://en.wikipedia.org/wiki/Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham",
-      "pageviews": 68764,
-      "obscurity": 0.5608
-    },
-    {
-      "name": "George Hamilton-Gordon, 4th Earl of Aberdeen",
-      "qid": "Q24631",
-      "wiki": "https://en.wikipedia.org/wiki/George_Hamilton-Gordon,_4th_Earl_of_Aberdeen",
-      "pageviews": 71920,
-      "obscurity": 0.5551
-    },
-    {
-      "name": "Thomas Pelham-Holles, 1st Duke of Newcastle-upon-Tyne",
-      "qid": "Q273809",
-      "wiki": "https://en.wikipedia.org/wiki/Thomas_Pelham-Holles,_1st_Duke_of_Newcastle",
-      "pageviews": 73918,
-      "obscurity": 0.5516
-    },
-    {
-      "name": "William Cavendish, 4th Duke of Devonshire",
-      "qid": "Q238639",
-      "wiki": "https://en.wikipedia.org/wiki/William_Cavendish,_4th_Duke_of_Devonshire",
-      "pageviews": 81562,
-      "obscurity": 0.539
-    },
-    {
-      "name": "John Stuart, 3rd Earl of Bute",
-      "qid": "Q294651",
-      "wiki": "https://en.wikipedia.org/wiki/John_Stuart,_3rd_Earl_of_Bute",
-      "pageviews": 85215,
-      "obscurity": 0.5334
-    },
-    {
-      "name": "Edward Smith-Stanley, 14th Earl of Derby",
-      "qid": "Q237829",
-      "wiki": "https://en.wikipedia.org/wiki/Edward_Smith-Stanley,_14th_Earl_of_Derby",
-      "pageviews": 102597,
-      "obscurity": 0.5096
-    },
-    {
-      "name": "Henry Campbell-Bannerman",
-      "qid": "Q106618",
-      "wiki": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
-      "pageviews": 112872,
-      "obscurity": 0.4974
-    },
-    {
-      "name": "Frederick North, 2nd Earl of Guilford",
-      "qid": "Q312593",
-      "wiki": "https://en.wikipedia.org/wiki/Frederick_North,_Lord_North",
-      "pageviews": 113888,
-      "obscurity": 0.4963
-    },
-    {
-      "name": "George Canning",
-      "qid": "Q219731",
-      "wiki": "https://en.wikipedia.org/wiki/George_Canning",
-      "pageviews": 124724,
-      "obscurity": 0.4847
-    },
-    {
-      "name": "Archibald Primrose, 5th Earl of Rosebery",
-      "qid": "Q244620",
-      "wiki": "https://en.wikipedia.org/wiki/Archibald_Primrose,_5th_Earl_of_Rosebery",
-      "pageviews": 133957,
-      "obscurity": 0.4755
-    },
-    {
-      "name": "Robert Jenkinson, 2nd Earl of Liverpool",
-      "qid": "Q312569",
-      "wiki": "https://en.wikipedia.org/wiki/Robert_Jenkinson,_2nd_Earl_of_Liverpool",
-      "pageviews": 139327,
-      "obscurity": 0.4705
-    },
-    {
-      "name": "John Russell, 1st Earl Russell",
-      "qid": "Q157259",
-      "wiki": "https://en.wikipedia.org/wiki/John_Russell,_1st_Earl_Russell",
-      "pageviews": 151428,
-      "obscurity": 0.4598
-    },
-    {
-      "name": "William Cavendish-Bentinck, 3rd Duke of Portland",
-      "qid": "Q157208",
-      "wiki": "https://en.wikipedia.org/wiki/William_Cavendish-Bentinck,_3rd_Duke_of_Portland",
-      "pageviews": 168786,
-      "obscurity": 0.4459
-    },
-    {
-      "name": "William Pitt, 1st Earl of Chatham",
-      "qid": "Q208663",
-      "wiki": "https://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham",
-      "pageviews": 190576,
-      "obscurity": 0.4304
-    },
-    {
-      "name": "Bonar Law",
-      "qid": "Q166663",
-      "wiki": "https://en.wikipedia.org/wiki/Bonar_Law",
-      "pageviews": 197759,
-      "obscurity": 0.4257
-    },
-    {
-      "name": "Spencer Perceval",
-      "qid": "Q233992",
-      "wiki": "https://en.wikipedia.org/wiki/Spencer_Perceval",
-      "pageviews": 211073,
-      "obscurity": 0.4173
-    },
-    {
-      "name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
-      "qid": "Q243705",
-      "wiki": "https://en.wikipedia.org/wiki/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",
-      "pageviews": 245661,
-      "obscurity": 0.3979
-    },
-    {
+      "id": "charles-grey-2nd-earl-grey",
       "name": "Charles Grey, 2nd Earl Grey",
-      "qid": "Q294662",
+      "aliases": [
+        "Earl Grey",
+        "Charles Grey"
+      ],
+      "qid": null,
       "wiki": "https://en.wikipedia.org/wiki/Charles_Grey,_2nd_Earl_Grey",
-      "pageviews": 294051,
-      "obscurity": 0.3749
+      "attrs": {
+        "first_served": 1830,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "C",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 746783,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 746783,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "Arthur Balfour",
-      "qid": "Q19008",
-      "wiki": "https://en.wikipedia.org/wiki/Arthur_Balfour",
-      "pageviews": 312585,
-      "obscurity": 0.3671
+      "id": "john-russell-1st-earl-russell",
+      "name": "John Russell, 1st Earl Russell",
+      "aliases": [
+        "Lord John Russell",
+        "Earl Russell"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Russell,_1st_Earl_Russell",
+      "attrs": {
+        "first_served": 1846,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "J",
+        "name_length": 25,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 748528,
+      "obscurity": {
+        "score": 0.9956,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 748528,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9825,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "John Russell, 1st Earl Russell",
+            "score_0_to_100": 0,
+            "episode": "Series 8 Episode 49",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-8/episode-49.html"
+          }
+        ]
+      }
     },
     {
-      "name": "Ramsay MacDonald",
-      "qid": "Q166646",
-      "wiki": "https://en.wikipedia.org/wiki/Ramsay_MacDonald",
-      "pageviews": 321766,
-      "obscurity": 0.3634
+      "id": "edward-smith-stanley-14th-earl-of-derby",
+      "name": "Edward Smith-Stanley, 14th Earl of Derby",
+      "aliases": [
+        "Earl of Derby",
+        "Lord Derby"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_Smith-Stanley,_14th_Earl_of_Derby",
+      "attrs": {
+        "first_served": 1852,
+        "century": "19th century",
+        "party": "Conservative",
+        "name_initial": "E",
+        "name_length": 33,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 758416,
+      "obscurity": {
+        "score": 0.9781,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 758416,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9123,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Edward Smith-Stanley, 14th Earl of Derby",
+            "score_0_to_100": 0,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html"
+          }
+        ]
+      }
     },
     {
-      "name": "Robert Walpole",
-      "qid": "Q104190",
-      "wiki": "https://en.wikipedia.org/wiki/Robert_Walpole",
-      "pageviews": 337798,
-      "obscurity": 0.3572
+      "id": "archibald-primrose-5th-earl-of-rosebery",
+      "name": "Archibald Primrose, 5th Earl of Rosebery",
+      "aliases": [
+        "Lord Rosebery",
+        "Earl of Rosebery"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Archibald_Primrose,_5th_Earl_of_Rosebery",
+      "attrs": {
+        "first_served": 1894,
+        "century": "19th century",
+        "party": "Liberal",
+        "name_initial": "A",
+        "name_length": 34,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 758765,
+      "obscurity": {
+        "score": 0.9737,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 758765,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8947,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Archibald Primrose, 5th Earl of Rosebery",
+            "score_0_to_100": 0,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html"
+          }
+        ]
+      }
     },
     {
-      "name": "Henry Temple, 3rd Viscount Palmerston",
-      "qid": "Q193656",
-      "wiki": "https://en.wikipedia.org/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston",
-      "pageviews": 366563,
-      "obscurity": 0.3467
-    },
-    {
-      "name": "Stanley Baldwin",
-      "qid": "Q166635",
-      "wiki": "https://en.wikipedia.org/wiki/Stanley_Baldwin",
-      "pageviews": 379893,
-      "obscurity": 0.3421
-    },
-    {
-      "name": "Robert Peel",
-      "qid": "Q181875",
-      "wiki": "https://en.wikipedia.org/wiki/Robert_Peel",
-      "pageviews": 397256,
-      "obscurity": 0.3364
-    },
-    {
-      "name": "Alec Douglas-Home",
-      "qid": "Q128976",
-      "wiki": "https://en.wikipedia.org/wiki/Alec_Douglas-Home",
-      "pageviews": 425770,
-      "obscurity": 0.3275
-    },
-    {
-      "name": "William Ewart Gladstone",
-      "qid": "Q160852",
-      "wiki": "https://en.wikipedia.org/wiki/William_Ewart_Gladstone",
-      "pageviews": 444527,
-      "obscurity": 0.322
-    },
-    {
-      "name": "William Pitt the Younger",
-      "qid": "Q128902",
-      "wiki": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger",
-      "pageviews": 458529,
-      "obscurity": 0.3181
-    },
-    {
+      "id": "william-lamb-2nd-viscount-melbourne",
       "name": "William Lamb, 2nd Viscount Melbourne",
-      "qid": "Q312567",
+      "aliases": [
+        "Lord Melbourne",
+        "Viscount Melbourne"
+      ],
+      "qid": null,
       "wiki": "https://en.wikipedia.org/wiki/William_Lamb,_2nd_Viscount_Melbourne",
-      "pageviews": 483110,
-      "obscurity": 0.3114
+      "attrs": {
+        "first_served": 1834,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 31,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 760622,
+      "obscurity": {
+        "score": 0.9693,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 760622,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8772,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "William Lamb, 2nd Viscount Melbourne",
+            "score_0_to_100": 0,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html"
+          }
+        ]
+      }
     },
     {
-      "name": "H. H. Asquith",
-      "qid": "Q166714",
-      "wiki": "https://en.wikipedia.org/wiki/H._H._Asquith",
-      "pageviews": 507208,
-      "obscurity": 0.3051
+      "id": "william-petty-2nd-earl-of-shelburne",
+      "name": "William Petty, 2nd Earl of Shelburne",
+      "aliases": [
+        "Earl of Shelburne",
+        "Lord Shelburne"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Petty,_2nd_Earl_of_Shelburne",
+      "attrs": {
+        "first_served": 1782,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 30,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 752411,
+      "obscurity": {
+        "score": 0.9649,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 752411,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9649
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "James Callaghan",
-      "qid": "Q9576",
-      "wiki": "https://en.wikipedia.org/wiki/James_Callaghan",
-      "pageviews": 581443,
-      "obscurity": 0.2877
+      "id": "john-stuart-3rd-earl-of-bute",
+      "name": "John Stuart, 3rd Earl of Bute",
+      "aliases": [
+        "Earl of Bute",
+        "Lord Bute"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Stuart,_3rd_Earl_of_Bute",
+      "attrs": {
+        "first_served": 1762,
+        "century": "18th century",
+        "party": "Tory",
+        "name_initial": "J",
+        "name_length": 23,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 755835,
+      "obscurity": {
+        "score": 0.9474,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 755835,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9474
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "David Lloyd George",
-      "qid": "Q134982",
-      "wiki": "https://en.wikipedia.org/wiki/David_Lloyd_George",
-      "pageviews": 617465,
-      "obscurity": 0.28
+      "id": "thomas-pelham-holles-1st-duke-of-newcastle",
+      "name": "Thomas Pelham-Holles, 1st Duke of Newcastle",
+      "aliases": [
+        "Duke of Newcastle",
+        "Thomas Pelham-Holles"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thomas_Pelham-Holles,_1st_Duke_of_Newcastle",
+      "attrs": {
+        "first_served": 1754,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "T",
+        "name_length": 36,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 766033,
+      "obscurity": {
+        "score": 0.9474,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 766033,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7895,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Thomas Pelham-Holles, 1st Duke of Newcastle",
+            "score_0_to_100": 0,
+            "episode": "Series 8 Episode 49",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-8/episode-49.html"
+          }
+        ]
+      }
     },
     {
-      "name": "Harold Macmillan",
-      "qid": "Q128985",
-      "wiki": "https://en.wikipedia.org/wiki/Harold_Macmillan",
-      "pageviews": 714579,
-      "obscurity": 0.2613
-    },
-    {
-      "name": "Benjamin Disraeli",
-      "qid": "Q82006",
-      "wiki": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
-      "pageviews": 715806,
-      "obscurity": 0.2611
-    },
-    {
-      "name": "Edward Heath",
-      "qid": "Q128967",
-      "wiki": "https://en.wikipedia.org/wiki/Edward_Heath",
-      "pageviews": 778567,
-      "obscurity": 0.2503
-    },
-    {
-      "name": "Clement Attlee",
-      "qid": "Q129006",
-      "wiki": "https://en.wikipedia.org/wiki/Clement_Attlee",
-      "pageviews": 783142,
-      "obscurity": 0.2496
-    },
-    {
-      "name": "Theresa May",
-      "qid": "Q264766",
-      "wiki": "https://en.wikipedia.org/wiki/Theresa_May",
-      "pageviews": 921616,
-      "obscurity": 0.2287
-    },
-    {
-      "name": "Anthony Eden",
-      "qid": "Q128995",
-      "wiki": "https://en.wikipedia.org/wiki/Anthony_Eden",
-      "pageviews": 931031,
-      "obscurity": 0.2274
-    },
-    {
-      "name": "John Major",
-      "qid": "Q9559",
-      "wiki": "https://en.wikipedia.org/wiki/John_Major",
-      "pageviews": 990758,
-      "obscurity": 0.2195
-    },
-    {
-      "name": "Gordon Brown",
-      "qid": "Q10648",
-      "wiki": "https://en.wikipedia.org/wiki/Gordon_Brown",
-      "pageviews": 1007011,
-      "obscurity": 0.2174
-    },
-    {
-      "name": "Harold Wilson",
-      "qid": "Q128956",
-      "wiki": "https://en.wikipedia.org/wiki/Harold_Wilson",
-      "pageviews": 1152394,
-      "obscurity": 0.2001
-    },
-    {
-      "name": "Neville Chamberlain",
-      "qid": "Q10664",
-      "wiki": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
-      "pageviews": 1161006,
-      "obscurity": 0.1992
-    },
-    {
+      "id": "arthur-wellesley-1st-duke-of-wellington",
       "name": "Arthur Wellesley, 1st Duke of Wellington",
-      "qid": "Q131691",
+      "aliases": [
+        "Duke of Wellington",
+        "Wellington"
+      ],
+      "qid": null,
       "wiki": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
-      "pageviews": 1167875,
-      "obscurity": 0.1984
+      "attrs": {
+        "first_served": 1828,
+        "century": "19th century",
+        "party": "Tory",
+        "name_initial": "A",
+        "name_length": 34,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 758001,
+      "obscurity": {
+        "score": 0.9298,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 758001,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9298
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "David Cameron",
-      "qid": "Q192",
-      "wiki": "https://en.wikipedia.org/wiki/David_Cameron",
-      "pageviews": 1181758,
-      "obscurity": 0.1969
+      "id": "henry-pelham",
+      "name": "Henry Pelham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Pelham",
+      "attrs": {
+        "first_served": 1743,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "H",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1247912,
+      "obscurity": {
+        "score": 0.9079,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1247912,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6316,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Henry Pelham",
+            "score_0_to_100": 0,
+            "episode": "Series 8 Episode 49",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-8/episode-49.html"
+          }
+        ]
+      }
     },
     {
-      "name": "Liz Truss",
-      "qid": "Q272201",
-      "wiki": "https://en.wikipedia.org/wiki/Liz_Truss",
-      "pageviews": 1721189,
-      "obscurity": 0.1488
+      "id": "william-cavendish-bentinck-3rd-duke-of-portland",
+      "name": "William Cavendish-Bentinck, 3rd Duke of Portland",
+      "aliases": [
+        "Duke of Portland"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Cavendish-Bentinck,_3rd_Duke_of_Portland",
+      "attrs": {
+        "first_served": 1783,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 41,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 760997,
+      "obscurity": {
+        "score": 0.8596,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760997,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8596
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "Tony Blair",
-      "qid": "Q9545",
-      "wiki": "https://en.wikipedia.org/wiki/Tony_Blair",
-      "pageviews": 2110797,
-      "obscurity": 0.1227
+      "id": "robert-walpole",
+      "name": "Robert Walpole",
+      "aliases": [
+        "Robert Walpole"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Walpole",
+      "attrs": {
+        "first_served": 1721,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "R",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1263599,
+      "obscurity": {
+        "score": 0.8478,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1263599,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4211,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Robert Walpole",
+            "score_0_to_100": 1,
+            "episode": "Series 8 Episode 49",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-8/episode-49.html"
+          }
+        ]
+      }
     },
     {
-      "name": "Boris Johnson",
-      "qid": "Q180589",
-      "wiki": "https://en.wikipedia.org/wiki/Boris_Johnson",
-      "pageviews": 2125890,
-      "obscurity": 0.1218
+      "id": "spencer-compton-1st-earl-of-wilmington",
+      "name": "Spencer Compton, 1st Earl of Wilmington",
+      "aliases": [
+        "Earl of Wilmington",
+        "Spencer Compton"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spencer_Compton,_1st_Earl_of_Wilmington",
+      "attrs": {
+        "first_served": 1742,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "S",
+        "name_length": 33,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 763153,
+      "obscurity": {
+        "score": 0.8421,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763153,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8421
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "Rishi Sunak",
-      "qid": "Q20055561",
-      "wiki": "https://en.wikipedia.org/wiki/Rishi_Sunak",
-      "pageviews": 2656740,
-      "obscurity": 0.0933
+      "id": "george-hamilton-gordon-4th-earl-of-aberdeen",
+      "name": "George Hamilton-Gordon, 4th Earl of Aberdeen",
+      "aliases": [
+        "Earl of Aberdeen",
+        "Lord Aberdeen"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_Hamilton-Gordon,_4th_Earl_of_Aberdeen",
+      "attrs": {
+        "first_served": 1852,
+        "century": "19th century",
+        "party": "Conservative",
+        "name_initial": "G",
+        "name_length": 37,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 763862,
+      "obscurity": {
+        "score": 0.8246,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763862,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8246
+        },
+        "evidence": []
+      }
     },
     {
-      "name": "Margaret Thatcher",
-      "qid": "Q7416",
-      "wiki": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
-      "pageviews": 2953109,
-      "obscurity": 0.0797
+      "id": "henry-john-temple-3rd-viscount-palmerston",
+      "name": "Henry John Temple, 3rd Viscount Palmerston",
+      "aliases": [
+        "Lord Palmerston",
+        "Viscount Palmerston"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston",
+      "attrs": {
+        "first_served": 1855,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "H",
+        "name_length": 36,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 764924,
+      "obscurity": {
+        "score": 0.807,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 764924,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.807
+        },
+        "evidence": []
+      }
     },
     {
+      "id": "robert-jenkinson-2nd-earl-of-liverpool",
+      "name": "Robert Jenkinson, 2nd Earl of Liverpool",
+      "aliases": [
+        "Lord Liverpool",
+        "Earl of Liverpool",
+        "Robert Banks Jenkinson"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Jenkinson,_2nd_Earl_of_Liverpool",
+      "attrs": {
+        "first_served": 1812,
+        "century": "19th century",
+        "party": "Tory",
+        "name_initial": "R",
+        "name_length": 33,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 766601,
+      "obscurity": {
+        "score": 0.7719,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 766601,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7719
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-cavendish-4th-duke-of-devonshire",
+      "name": "William Cavendish, 4th Duke of Devonshire",
+      "aliases": [
+        "Duke of Devonshire"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Cavendish,_4th_Duke_of_Devonshire",
+      "attrs": {
+        "first_served": 1756,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 35,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 768440,
+      "obscurity": {
+        "score": 0.7544,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 768440,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7544
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-addington-1st-viscount-sidmouth",
+      "name": "Henry Addington, 1st Viscount Sidmouth",
+      "aliases": [
+        "Henry Addington",
+        "Viscount Sidmouth"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Addington,_1st_Viscount_Sidmouth",
+      "attrs": {
+        "first_served": 1801,
+        "century": "19th century",
+        "party": "Tory",
+        "name_initial": "H",
+        "name_length": 33,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 769194,
+      "obscurity": {
+        "score": 0.7368,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769194,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7368
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-pitt-1st-earl-of-chatham",
+      "name": "William Pitt, 1st Earl of Chatham",
+      "aliases": [
+        "William Pitt the Elder",
+        "Earl of Chatham"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham",
+      "attrs": {
+        "first_served": 1766,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 27,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 769652,
+      "obscurity": {
+        "score": 0.7193,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769652,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7193
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "robert-gascoyne-cecil-3rd-marquess-of-salisbury",
+      "name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+      "aliases": [
+        "Lord Salisbury",
+        "Marquess of Salisbury"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury",
+      "attrs": {
+        "first_served": 1885,
+        "century": "19th century",
+        "party": "Conservative",
+        "name_initial": "R",
+        "name_length": 41,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 769655,
+      "obscurity": {
+        "score": 0.7018,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769655,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7018
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "f-j-robinson-1st-viscount-goderich",
+      "name": "F. J. Robinson, 1st Viscount Goderich",
+      "aliases": [
+        "Frederick Robinson",
+        "Viscount Goderich",
+        "Lord Goderich"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/F._J._Robinson,_1st_Viscount_Goderich",
+      "attrs": {
+        "first_served": 1827,
+        "century": "19th century",
+        "party": "Tory",
+        "name_initial": "F",
+        "name_length": 29,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 769729,
+      "obscurity": {
+        "score": 0.6842,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769729,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6842
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charles-watson-wentworth-2nd-marquess-of-rockingham",
+      "name": "Charles Watson-Wentworth, 2nd Marquess of Rockingham",
+      "aliases": [
+        "Rockingham",
+        "Lord Rockingham"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham",
+      "attrs": {
+        "first_served": 1765,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "C",
+        "name_length": 45,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 770128,
+      "obscurity": {
+        "score": 0.6667,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770128,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "augustus-fitzroy-3rd-duke-of-grafton",
+      "name": "Augustus FitzRoy, 3rd Duke of Grafton",
+      "aliases": [
+        "Duke of Grafton"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Augustus_FitzRoy,_3rd_Duke_of_Grafton",
+      "attrs": {
+        "first_served": 1768,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "A",
+        "name_length": 31,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 770188,
+      "obscurity": {
+        "score": 0.6491,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770188,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6491
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "stanley-baldwin",
+      "name": "Stanley Baldwin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stanley_Baldwin",
+      "attrs": {
+        "first_served": 1923,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "S",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1248863,
+      "obscurity": {
+        "score": 0.614,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1248863,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.614
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-canning",
+      "name": "George Canning",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_Canning",
+      "attrs": {
+        "first_served": 1827,
+        "century": "19th century",
+        "party": "Tory",
+        "name_initial": "G",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1251138,
+      "obscurity": {
+        "score": 0.5965,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251138,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5965
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "neville-chamberlain",
+      "name": "Neville Chamberlain",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+      "attrs": {
+        "first_served": 1937,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "N",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1252567,
+      "obscurity": {
+        "score": 0.5789,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252567,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5789
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-ewart-gladstone",
+      "name": "William Ewart Gladstone",
+      "aliases": [
+        "William Gladstone"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Ewart_Gladstone",
+      "attrs": {
+        "first_served": 1868,
+        "century": "19th century",
+        "party": "Liberal",
+        "name_initial": "W",
+        "name_length": 21,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1252800,
+      "obscurity": {
+        "score": 0.5614,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252800,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5614
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-grenville",
+      "name": "George Grenville",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_Grenville",
+      "attrs": {
+        "first_served": 1763,
+        "century": "18th century",
+        "party": "Whig",
+        "name_initial": "G",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1253802,
+      "obscurity": {
+        "score": 0.5439,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1253802,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5439
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "david-lloyd-george",
+      "name": "David Lloyd George",
+      "aliases": [
+        "Lloyd George"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/David_Lloyd_George",
+      "attrs": {
+        "first_served": 1916,
+        "century": "20th century",
+        "party": "Liberal",
+        "name_initial": "D",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1254378,
+      "obscurity": {
+        "score": 0.5263,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254378,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5263
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "robert-peel",
+      "name": "Robert Peel",
+      "aliases": [
+        "Sir Robert Peel"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Peel",
+      "attrs": {
+        "first_served": 1834,
+        "century": "19th century",
+        "party": "Conservative",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1255052,
+      "obscurity": {
+        "score": 0.5088,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255052,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5088
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bonar-law",
+      "name": "Bonar Law",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bonar_Law",
+      "attrs": {
+        "first_served": 1922,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1257489,
+      "obscurity": {
+        "score": 0.4912,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257489,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4912
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-campbell-bannerman",
+      "name": "Henry Campbell-Bannerman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Campbell-Bannerman",
+      "attrs": {
+        "first_served": 1905,
+        "century": "20th century",
+        "party": "Liberal",
+        "name_initial": "H",
+        "name_length": 22,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1258558,
+      "obscurity": {
+        "score": 0.4737,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1258558,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4737
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arthur-balfour",
+      "name": "Arthur Balfour",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Arthur_Balfour",
+      "attrs": {
+        "first_served": 1902,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "A",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1259025,
+      "obscurity": {
+        "score": 0.4561,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1259025,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4561
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "frederick-north-lord-north",
+      "name": "Frederick North, Lord North",
+      "aliases": [
+        "Lord North"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Frederick_North,_Lord_North",
+      "attrs": {
+        "first_served": 1770,
+        "century": "18th century",
+        "party": "Tory",
+        "name_initial": "F",
+        "name_length": 23,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1260657,
+      "obscurity": {
+        "score": 0.4386,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260657,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4386
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ramsay-macdonald",
+      "name": "Ramsay MacDonald",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ramsay_MacDonald",
+      "attrs": {
+        "first_served": 1924,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "R",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1265465,
+      "obscurity": {
+        "score": 0.4035,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265465,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4035
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "spencer-perceval",
+      "name": "Spencer Perceval",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spencer_Perceval",
+      "attrs": {
+        "first_served": 1809,
+        "century": "19th century",
+        "party": "Tory",
+        "name_initial": "S",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1267003,
+      "obscurity": {
+        "score": 0.386,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1267003,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.386
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "winston-churchill",
       "name": "Winston Churchill",
-      "qid": "Q8016",
+      "aliases": [],
+      "qid": null,
       "wiki": "https://en.wikipedia.org/wiki/Winston_Churchill",
-      "pageviews": 4774401,
-      "obscurity": 0.0182
+      "attrs": {
+        "first_served": 1940,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "W",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6304804,
+      "obscurity": {
+        "score": 0.3719,
+        "band": "middling",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6304804,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0175,
+          "pointless_average_score": 51.0,
+          "pointless_obscurity": 0.49,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Winston Churchill",
+            "score_0_to_100": 51,
+            "episode": "Series 8 Episode 49",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-8/episode-49.html"
+          }
+        ]
+      }
     },
     {
+      "id": "william-pitt-the-younger",
+      "name": "William Pitt the Younger",
+      "aliases": [
+        "William Pitt"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger",
+      "attrs": {
+        "first_served": 1783,
+        "century": "18th century",
+        "party": "Tory",
+        "name_initial": "W",
+        "name_length": 21,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1267400,
+      "obscurity": {
+        "score": 0.3684,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1267400,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3684
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "benjamin-disraeli",
+      "name": "Benjamin Disraeli",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+      "attrs": {
+        "first_served": 1868,
+        "century": "19th century",
+        "party": "Conservative",
+        "name_initial": "B",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1269565,
+      "obscurity": {
+        "score": 0.3509,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269565,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3509
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-grenville-1st-baron-grenville",
+      "name": "William Grenville, 1st Baron Grenville",
+      "aliases": [
+        "Lord Grenville",
+        "William Wyndham Grenville"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Grenville,_1st_Baron_Grenville",
+      "attrs": {
+        "first_served": 1806,
+        "century": "19th century",
+        "party": "Whig",
+        "name_initial": "W",
+        "name_length": 33,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1270920,
+      "obscurity": {
+        "score": 0.3333,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270920,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "h-h-asquith",
+      "name": "H. H. Asquith",
+      "aliases": [
+        "Herbert Asquith"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/H._H._Asquith",
+      "attrs": {
+        "first_served": 1908,
+        "century": "20th century",
+        "party": "Liberal",
+        "name_initial": "H",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1271060,
+      "obscurity": {
+        "score": 0.3158,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271060,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3158
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rishi-sunak",
+      "name": "Rishi Sunak",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rishi_Sunak",
+      "attrs": {
+        "first_served": 2022,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3730372,
+      "obscurity": {
+        "score": 0.2982,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730372,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2982
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gordon-brown",
+      "name": "Gordon Brown",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gordon_Brown",
+      "attrs": {
+        "first_served": 2007,
+        "century": "21th century",
+        "party": "Labour",
+        "name_initial": "G",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3740500,
+      "obscurity": {
+        "score": 0.2807,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740500,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2807
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "anthony-eden",
+      "name": "Anthony Eden",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Anthony_Eden",
+      "attrs": {
+        "first_served": 1955,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3741612,
+      "obscurity": {
+        "score": 0.2632,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741612,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2632
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "clement-attlee",
+      "name": "Clement Attlee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Clement_Attlee",
+      "attrs": {
+        "first_served": 1945,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "C",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3742346,
+      "obscurity": {
+        "score": 0.2456,
+        "band": "obvious",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742346,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2456
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "theresa-may",
+      "name": "Theresa May",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Theresa_May",
+      "attrs": {
+        "first_served": 2016,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "T",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3743896,
+      "obscurity": {
+        "score": 0.2281,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743896,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2281
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "liz-truss",
+      "name": "Liz Truss",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Liz_Truss",
+      "attrs": {
+        "first_served": 2022,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "L",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3744170,
+      "obscurity": {
+        "score": 0.2105,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744170,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2105
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "alec-douglas-home",
+      "name": "Alec Douglas-Home",
+      "aliases": [
+        "Douglas-Home",
+        "Lord Home"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Alec_Douglas-Home",
+      "attrs": {
+        "first_served": 1963,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "A",
+        "name_length": 15,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3744482,
+      "obscurity": {
+        "score": 0.193,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744482,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.193
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john-major",
+      "name": "John Major",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Major",
+      "attrs": {
+        "first_served": 1990,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3747361,
+      "obscurity": {
+        "score": 0.1754,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3747361,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1754
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "david-cameron",
+      "name": "David Cameron",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/David_Cameron",
+      "attrs": {
+        "first_served": 2010,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "D",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3751463,
+      "obscurity": {
+        "score": 0.1719,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3751463,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0877,
+          "pointless_average_score": 80.0,
+          "pointless_obscurity": 0.2,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "David Cameron",
+            "score_0_to_100": 80,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "harold-wilson",
+      "name": "Harold Wilson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Harold_Wilson",
+      "attrs": {
+        "first_served": 1964,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "H",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3747816,
+      "obscurity": {
+        "score": 0.1579,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3747816,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1579
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "margaret-thatcher",
+      "name": "Margaret Thatcher",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "attrs": {
+        "first_served": 1979,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "M",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6298304,
+      "obscurity": {
+        "score": 0.1525,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6298304,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0702,
+          "pointless_average_score": 82.0,
+          "pointless_obscurity": 0.18,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Margaret Thatcher",
+            "score_0_to_100": 82,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "james-callaghan",
+      "name": "James Callaghan",
+      "aliases": [
+        "Jim Callaghan"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Callaghan",
+      "attrs": {
+        "first_served": 1976,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "J",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3749298,
+      "obscurity": {
+        "score": 0.1404,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3749298,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1404
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "harold-macmillan",
+      "name": "Harold Macmillan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Harold_Macmillan",
+      "attrs": {
+        "first_served": 1957,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "H",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3750028,
+      "obscurity": {
+        "score": 0.1228,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3750028,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1228
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tony-blair",
+      "name": "Tony Blair",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tony_Blair",
+      "attrs": {
+        "first_served": 1997,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6300117,
+      "obscurity": {
+        "score": 0.1182,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6300117,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0526,
+          "pointless_average_score": 86.0,
+          "pointless_obscurity": 0.14,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Tony Blair",
+            "score_0_to_100": 86,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "edward-heath",
+      "name": "Edward Heath",
+      "aliases": [
+        "Ted Heath"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_Heath",
+      "attrs": {
+        "first_served": 1970,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "E",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 3750069,
+      "obscurity": {
+        "score": 0.1053,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3750069,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1053
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "boris-johnson",
+      "name": "Boris Johnson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Boris_Johnson",
+      "attrs": {
+        "first_served": 2019,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "B",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6301799,
+      "obscurity": {
+        "score": 0.0351,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6301799,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0351
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "keir-starmer",
       "name": "Keir Starmer",
-      "qid": "Q6383803",
+      "aliases": [],
+      "qid": null,
       "wiki": "https://en.wikipedia.org/wiki/Keir_Starmer",
-      "pageviews": 5505946,
-      "obscurity": 0.0
+      "attrs": {
+        "first_served": 2024,
+        "century": "21th century",
+        "party": "Labour",
+        "name_initial": "K",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6308568,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308568,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
     }
   ]
 }

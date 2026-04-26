@@ -1,0 +1,2277 @@
+{
+  "slug": "uk-cities",
+  "name": "UK Cities",
+  "description": "UK places with official city status, including the 2022 Platinum Jubilee cities.",
+  "tags": [
+    "geography",
+    "uk",
+    "recurring"
+  ],
+  "answer_kind": "city",
+  "expected_count": 76,
+  "n_answers": 76,
+  "display_fields": [
+    "nation"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "uk-cities-by-nation",
+      "kind": "attr_equals_dynamic",
+      "attr": "nation",
+      "prompt": "UK cities in {value}"
+    }
+  ],
+  "sources": [
+    {
+      "label": "UK city status",
+      "url": "https://www.gov.uk/government/publications/list-of-cities/list-of-cities-html"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
+  "answers": [
+    {
+      "id": "st-asaph",
+      "name": "St Asaph",
+      "aliases": [
+        "Saint Asaph"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/St_Asaph",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 750872,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 750872,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lisburn",
+      "name": "Lisburn",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lisburn",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 752980,
+      "obscurity": {
+        "score": 0.9867,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 752980,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9867
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "armagh",
+      "name": "Armagh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Armagh",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 755764,
+      "obscurity": {
+        "score": 0.9733,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 755764,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9733
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bangor-northern-ireland",
+      "name": "Bangor",
+      "aliases": [
+        "Bangor NI"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bangor",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 760274,
+      "obscurity": {
+        "score": 0.96,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760274,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.96
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "st-davids",
+      "name": "St Davids",
+      "aliases": [
+        "Saint Davids"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/St_Davids",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 760339,
+      "obscurity": {
+        "score": 0.9467,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760339,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9467
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ely",
+      "name": "Ely",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ely",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "E",
+        "name_length": 3,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1247846,
+      "obscurity": {
+        "score": 0.9333,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1247846,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dunfermline",
+      "name": "Dunfermline",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dunfermline",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "D",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1248662,
+      "obscurity": {
+        "score": 0.92,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1248662,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.92
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "newry",
+      "name": "Newry",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Newry",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "N",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1249375,
+      "obscurity": {
+        "score": 0.9067,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249375,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9067
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ripon",
+      "name": "Ripon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ripon",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "R",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1252337,
+      "obscurity": {
+        "score": 0.8933,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252337,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8933
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wells",
+      "name": "Wells",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wells",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1261114,
+      "obscurity": {
+        "score": 0.88,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1261114,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.88
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bangor-wales",
+      "name": "Bangor",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bangor",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262021,
+      "obscurity": {
+        "score": 0.8667,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262021,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "truro",
+      "name": "Truro",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Truro",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "T",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1268233,
+      "obscurity": {
+        "score": 0.8533,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268233,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8533
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lichfield",
+      "name": "Lichfield",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lichfield",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1268899,
+      "obscurity": {
+        "score": 0.84,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1268899,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.84
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "perth",
+      "name": "Perth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Perth",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "P",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1905846,
+      "obscurity": {
+        "score": 0.8267,
+        "band": "pointless target",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1905846,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8267
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "carlisle",
+      "name": "Carlisle",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Carlisle",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1907552,
+      "obscurity": {
+        "score": 0.8133,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1907552,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8133
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lancaster",
+      "name": "Lancaster",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lancaster",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1909550,
+      "obscurity": {
+        "score": 0.8,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1909550,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "doncaster",
+      "name": "Doncaster",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Doncaster",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "D",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1910494,
+      "obscurity": {
+        "score": 0.7867,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1910494,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7867
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chichester",
+      "name": "Chichester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chichester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1915159,
+      "obscurity": {
+        "score": 0.7733,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1915159,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7733
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "st-albans",
+      "name": "St Albans",
+      "aliases": [
+        "Saint Albans"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/St_Albans",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1917502,
+      "obscurity": {
+        "score": 0.76,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917502,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.76
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wrexham",
+      "name": "Wrexham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wrexham",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "W",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1920146,
+      "obscurity": {
+        "score": 0.7467,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1920146,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7467
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chelmsford",
+      "name": "Chelmsford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chelmsford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1920409,
+      "obscurity": {
+        "score": 0.7333,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1920409,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "colchester",
+      "name": "Colchester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Colchester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1923739,
+      "obscurity": {
+        "score": 0.72,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1923739,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.72
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hereford",
+      "name": "Hereford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hereford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1924710,
+      "obscurity": {
+        "score": 0.7067,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924710,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7067
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wakefield",
+      "name": "Wakefield",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wakefield",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2729490,
+      "obscurity": {
+        "score": 0.6933,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2729490,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6933
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "winchester",
+      "name": "Winchester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Winchester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2730057,
+      "obscurity": {
+        "score": 0.68,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730057,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.68
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "salisbury",
+      "name": "Salisbury",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Salisbury",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2730474,
+      "obscurity": {
+        "score": 0.6667,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730474,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "peterborough",
+      "name": "Peterborough",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Peterborough",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2731874,
+      "obscurity": {
+        "score": 0.6533,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2731874,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6533
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "worcester",
+      "name": "Worcester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Worcester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2734207,
+      "obscurity": {
+        "score": 0.64,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2734207,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.64
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gloucester",
+      "name": "Gloucester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gloucester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2736864,
+      "obscurity": {
+        "score": 0.6267,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2736864,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6267
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "inverness",
+      "name": "Inverness",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Inverness",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "I",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 2738937,
+      "obscurity": {
+        "score": 0.6133,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2738937,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6133
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "newport",
+      "name": "Newport",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Newport",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2739505,
+      "obscurity": {
+        "score": 0.6,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739505,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "derry",
+      "name": "Derry",
+      "aliases": [
+        "Londonderry"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Derry",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "D",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2741283,
+      "obscurity": {
+        "score": 0.5867,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2741283,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5867
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "durham",
+      "name": "Durham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Durham",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "D",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 2743873,
+      "obscurity": {
+        "score": 0.5733,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2743873,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5733
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chester",
+      "name": "Chester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2744228,
+      "obscurity": {
+        "score": 0.56,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744228,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.56
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "preston",
+      "name": "Preston",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Preston",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2744936,
+      "obscurity": {
+        "score": 0.5467,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2744936,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5467
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "salford",
+      "name": "Salford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Salford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2751082,
+      "obscurity": {
+        "score": 0.5333,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751082,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "southend-on-sea",
+      "name": "Southend-on-Sea",
+      "aliases": [
+        "Southend"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Southend-on-Sea",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2751376,
+      "obscurity": {
+        "score": 0.52,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751376,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.52
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "stirling",
+      "name": "Stirling",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stirling",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2751966,
+      "obscurity": {
+        "score": 0.5067,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751966,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5067
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "exeter",
+      "name": "Exeter",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Exeter",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "E",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2753200,
+      "obscurity": {
+        "score": 0.4933,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2753200,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4933
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lincoln",
+      "name": "Lincoln",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lincoln",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2753308,
+      "obscurity": {
+        "score": 0.48,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2753308,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.48
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "canterbury",
+      "name": "Canterbury",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Canterbury",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2753599,
+      "obscurity": {
+        "score": 0.4667,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2753599,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "plymouth",
+      "name": "Plymouth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Plymouth",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3730914,
+      "obscurity": {
+        "score": 0.4533,
+        "band": "useful low scorer",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730914,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4533
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "coventry",
+      "name": "Coventry",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Coventry",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3732821,
+      "obscurity": {
+        "score": 0.44,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732821,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.44
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sunderland",
+      "name": "Sunderland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sunderland",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3733598,
+      "obscurity": {
+        "score": 0.4267,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733598,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4267
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "derby",
+      "name": "Derby",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Derby",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "D",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3733673,
+      "obscurity": {
+        "score": 0.4133,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733673,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4133
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wolverhampton",
+      "name": "Wolverhampton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wolverhampton",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3733837,
+      "obscurity": {
+        "score": 0.4,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733837,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bradford",
+      "name": "Bradford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bradford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3734165,
+      "obscurity": {
+        "score": 0.3867,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734165,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3867
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "milton-keynes",
+      "name": "Milton Keynes",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Milton_Keynes",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "M",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3736074,
+      "obscurity": {
+        "score": 0.3733,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3736074,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3733
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "portsmouth",
+      "name": "Portsmouth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Portsmouth",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3738263,
+      "obscurity": {
+        "score": 0.36,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738263,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.36
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "norwich",
+      "name": "Norwich",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Norwich",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3738630,
+      "obscurity": {
+        "score": 0.3467,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738630,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3467
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nottingham",
+      "name": "Nottingham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nottingham",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "N",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3740576,
+      "obscurity": {
+        "score": 0.3333,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740576,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dundee",
+      "name": "Dundee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dundee",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "D",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3741120,
+      "obscurity": {
+        "score": 0.32,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741120,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.32
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "southampton",
+      "name": "Southampton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Southampton",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3742743,
+      "obscurity": {
+        "score": 0.3067,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742743,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3067
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "leicester",
+      "name": "Leicester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Leicester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3744628,
+      "obscurity": {
+        "score": 0.2933,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744628,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2933
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "swansea",
+      "name": "Swansea",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Swansea",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3745449,
+      "obscurity": {
+        "score": 0.28,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745449,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.28
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kingston-upon-hull",
+      "name": "Kingston upon Hull",
+      "aliases": [
+        "Hull"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kingston_upon_Hull",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "K",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3746411,
+      "obscurity": {
+        "score": 0.2667,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3746411,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bath",
+      "name": "Bath",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bath",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3746996,
+      "obscurity": {
+        "score": 0.2533,
+        "band": "middling",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3746996,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2533
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "stoke-on-trent",
+      "name": "Stoke-on-Trent",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stoke-on-Trent",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3749525,
+      "obscurity": {
+        "score": 0.24,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3749525,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.24
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "westminster",
+      "name": "Westminster",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Westminster",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4911726,
+      "obscurity": {
+        "score": 0.2267,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4911726,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2267
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "york",
+      "name": "York",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/York",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "Y",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4912975,
+      "obscurity": {
+        "score": 0.2133,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4912975,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2133
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cambridge",
+      "name": "Cambridge",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cambridge",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4914134,
+      "obscurity": {
+        "score": 0.2,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4914134,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oxford",
+      "name": "Oxford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oxford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "O",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 4919270,
+      "obscurity": {
+        "score": 0.1867,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4919270,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1867
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sheffield",
+      "name": "Sheffield",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sheffield",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922882,
+      "obscurity": {
+        "score": 0.1733,
+        "band": "obvious",
+        "pointless_score": 83,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922882,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1733
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "newcastle-upon-tyne",
+      "name": "Newcastle upon Tyne",
+      "aliases": [
+        "Newcastle"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "N",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922939,
+      "obscurity": {
+        "score": 0.16,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922939,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.16
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "leeds",
+      "name": "Leeds",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Leeds",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4926335,
+      "obscurity": {
+        "score": 0.1467,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926335,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1467
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "aberdeen",
+      "name": "Aberdeen",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Aberdeen",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4927838,
+      "obscurity": {
+        "score": 0.1333,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927838,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cardiff",
+      "name": "Cardiff",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cardiff",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4930845,
+      "obscurity": {
+        "score": 0.12,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4930845,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.12
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "belfast",
+      "name": "Belfast",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Belfast",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4932086,
+      "obscurity": {
+        "score": 0.1067,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4932086,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1067
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bristol",
+      "name": "Bristol",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bristol",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4934623,
+      "obscurity": {
+        "score": 0.0933,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4934623,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0933
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "brighton-and-hove",
+      "name": "Brighton and Hove",
+      "aliases": [
+        "Brighton"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brighton_and_Hove",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4935578,
+      "obscurity": {
+        "score": 0.08,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935578,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.08
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "city-of-london",
+      "name": "City of London",
+      "aliases": [
+        "London"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/City_of_London",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6293850,
+      "obscurity": {
+        "score": 0.0667,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293850,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "edinburgh",
+      "name": "Edinburgh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edinburgh",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "E",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 6295499,
+      "obscurity": {
+        "score": 0.0533,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295499,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0533
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Liverpool",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6295554,
+      "obscurity": {
+        "score": 0.04,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295554,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.04
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "birmingham",
+      "name": "Birmingham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Birmingham",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6300099,
+      "obscurity": {
+        "score": 0.0267,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6300099,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0267
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "manchester",
+      "name": "Manchester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Manchester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6306640,
+      "obscurity": {
+        "score": 0.0133,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6306640,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0133
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "glasgow",
+      "name": "Glasgow",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Glasgow",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6310316,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310316,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

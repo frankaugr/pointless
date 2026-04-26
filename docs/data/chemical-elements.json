@@ -1,0 +1,3863 @@
+{
+  "slug": "chemical-elements",
+  "name": "Chemical Elements",
+  "description": "The 118 named chemical elements of the periodic table.",
+  "tags": [
+    "science",
+    "recurring",
+    "finite"
+  ],
+  "answer_kind": "element",
+  "expected_count": 118,
+  "n_answers": 118,
+  "display_fields": [
+    "symbol",
+    "atomic_number",
+    "family"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "elements-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "Elements of the periodic table whose name begins with a consonant"
+    },
+    {
+      "id": "elements-first-vowel-i",
+      "kind": "first_vowel",
+      "field": "name",
+      "value": "i",
+      "prompt": "Chemical elements whose first vowel is I"
+    },
+    {
+      "id": "elements-atomic-57-71",
+      "kind": "number_range",
+      "attr": "atomic_number",
+      "min": 57,
+      "max": 71,
+      "prompt": "Chemical elements with atomic numbers from 57 to 71"
+    },
+    {
+      "id": "elements-symbol-one-letter",
+      "kind": "text_length",
+      "attr": "symbol",
+      "value": 1,
+      "prompt": "Chemical elements with a one-letter symbol"
+    }
+  ],
+  "sources": [
+    {
+      "label": "IUPAC periodic table",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "generated_at": "2026-04-26T17:15:31Z",
+  "answers": [
+    {
+      "id": "roentgenium",
+      "name": "Roentgenium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Roentgenium",
+      "attrs": {
+        "atomic_number": 111,
+        "symbol": "Rg",
+        "family": "unknown",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 388484,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 388484,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "darmstadtium",
+      "name": "Darmstadtium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Darmstadtium",
+      "attrs": {
+        "atomic_number": 110,
+        "symbol": "Ds",
+        "family": "unknown",
+        "periodic_block": "",
+        "name_initial": "D",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 393246,
+      "obscurity": {
+        "score": 0.9915,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 393246,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9915
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hassium",
+      "name": "Hassium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hassium",
+      "attrs": {
+        "atomic_number": 108,
+        "symbol": "Hs",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 395075,
+      "obscurity": {
+        "score": 0.9829,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 395075,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9829
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "thulium",
+      "name": "Thulium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thulium",
+      "attrs": {
+        "atomic_number": 69,
+        "symbol": "Tm",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 397601,
+      "obscurity": {
+        "score": 0.9744,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 397601,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9744
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "holmium",
+      "name": "Holmium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Holmium",
+      "attrs": {
+        "atomic_number": 67,
+        "symbol": "Ho",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 398723,
+      "obscurity": {
+        "score": 0.9658,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 398723,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9658
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bohrium",
+      "name": "Bohrium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bohrium",
+      "attrs": {
+        "atomic_number": 107,
+        "symbol": "Bh",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 404200,
+      "obscurity": {
+        "score": 0.9573,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 404200,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9573
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "praseodymium",
+      "name": "Praseodymium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Praseodymium",
+      "attrs": {
+        "atomic_number": 59,
+        "symbol": "Pr",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 406240,
+      "obscurity": {
+        "score": 0.9487,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 406240,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9487
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "protactinium",
+      "name": "Protactinium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Protactinium",
+      "attrs": {
+        "atomic_number": 91,
+        "symbol": "Pa",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 406447,
+      "obscurity": {
+        "score": 0.9402,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 406447,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9402
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "meitnerium",
+      "name": "Meitnerium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Meitnerium",
+      "attrs": {
+        "atomic_number": 109,
+        "symbol": "Mt",
+        "family": "unknown",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 408968,
+      "obscurity": {
+        "score": 0.9316,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 408968,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9316
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "seaborgium",
+      "name": "Seaborgium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Seaborgium",
+      "attrs": {
+        "atomic_number": 106,
+        "symbol": "Sg",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 746151,
+      "obscurity": {
+        "score": 0.9231,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 746151,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9231
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "scandium",
+      "name": "Scandium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Scandium",
+      "attrs": {
+        "atomic_number": 21,
+        "symbol": "Sc",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 746882,
+      "obscurity": {
+        "score": 0.9145,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 746882,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9145
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rutherfordium",
+      "name": "Rutherfordium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rutherfordium",
+      "attrs": {
+        "atomic_number": 104,
+        "symbol": "Rf",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 747534,
+      "obscurity": {
+        "score": 0.906,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 747534,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.906
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "livermorium",
+      "name": "Livermorium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Livermorium",
+      "attrs": {
+        "atomic_number": 116,
+        "symbol": "Lv",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "L",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 748491,
+      "obscurity": {
+        "score": 0.8974,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 748491,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8974
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "erbium",
+      "name": "Erbium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Erbium",
+      "attrs": {
+        "atomic_number": 68,
+        "symbol": "Er",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "E",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 750278,
+      "obscurity": {
+        "score": 0.8889,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 750278,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8889
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "flerovium",
+      "name": "Flerovium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Flerovium",
+      "attrs": {
+        "atomic_number": 114,
+        "symbol": "Fl",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "F",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 751517,
+      "obscurity": {
+        "score": 0.8803,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 751517,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8803
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ytterbium",
+      "name": "Ytterbium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ytterbium",
+      "attrs": {
+        "atomic_number": 70,
+        "symbol": "Yb",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "Y",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 752919,
+      "obscurity": {
+        "score": 0.8718,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 752919,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8718
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "terbium",
+      "name": "Terbium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Terbium",
+      "attrs": {
+        "atomic_number": 65,
+        "symbol": "Tb",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 753162,
+      "obscurity": {
+        "score": 0.8632,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 753162,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8632
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mendelevium",
+      "name": "Mendelevium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mendelevium",
+      "attrs": {
+        "atomic_number": 101,
+        "symbol": "Md",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "M",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 755350,
+      "obscurity": {
+        "score": 0.8547,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 755350,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8547
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dubnium",
+      "name": "Dubnium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dubnium",
+      "attrs": {
+        "atomic_number": 105,
+        "symbol": "Db",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "D",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 756737,
+      "obscurity": {
+        "score": 0.8462,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 756737,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8462
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "copernicium",
+      "name": "Copernicium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Copernicium",
+      "attrs": {
+        "atomic_number": 112,
+        "symbol": "Cn",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 758363,
+      "obscurity": {
+        "score": 0.8376,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 758363,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8376
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lutetium",
+      "name": "Lutetium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lutetium",
+      "attrs": {
+        "atomic_number": 71,
+        "symbol": "Lu",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "L",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 759749,
+      "obscurity": {
+        "score": 0.8291,
+        "band": "pointless target",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 759749,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8291
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "berkelium",
+      "name": "Berkelium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Berkelium",
+      "attrs": {
+        "atomic_number": 97,
+        "symbol": "Bk",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "B",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 761290,
+      "obscurity": {
+        "score": 0.8205,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 761290,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8205
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "actinium",
+      "name": "Actinium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Actinium",
+      "attrs": {
+        "atomic_number": 89,
+        "symbol": "Ac",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 763752,
+      "obscurity": {
+        "score": 0.812,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763752,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.812
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "samarium",
+      "name": "Samarium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Samarium",
+      "attrs": {
+        "atomic_number": 62,
+        "symbol": "Sm",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 763856,
+      "obscurity": {
+        "score": 0.8034,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763856,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8034
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "promethium",
+      "name": "Promethium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Promethium",
+      "attrs": {
+        "atomic_number": 61,
+        "symbol": "Pm",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 764080,
+      "obscurity": {
+        "score": 0.7949,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 764080,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7949
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lawrencium",
+      "name": "Lawrencium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lawrencium",
+      "attrs": {
+        "atomic_number": 103,
+        "symbol": "Lr",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "L",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 764552,
+      "obscurity": {
+        "score": 0.7863,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 764552,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7863
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nihonium",
+      "name": "Nihonium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nihonium",
+      "attrs": {
+        "atomic_number": 113,
+        "symbol": "Nh",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 765429,
+      "obscurity": {
+        "score": 0.7778,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 765429,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7778
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "moscovium",
+      "name": "Moscovium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Moscovium",
+      "attrs": {
+        "atomic_number": 115,
+        "symbol": "Mc",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 769470,
+      "obscurity": {
+        "score": 0.7692,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769470,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7692
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dysprosium",
+      "name": "Dysprosium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dysprosium",
+      "attrs": {
+        "atomic_number": 66,
+        "symbol": "Dy",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "D",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 770076,
+      "obscurity": {
+        "score": 0.7607,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770076,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7607
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rubidium",
+      "name": "Rubidium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rubidium",
+      "attrs": {
+        "atomic_number": 37,
+        "symbol": "Rb",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1249137,
+      "obscurity": {
+        "score": 0.7521,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249137,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7521
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lanthanum",
+      "name": "Lanthanum",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lanthanum",
+      "attrs": {
+        "atomic_number": 57,
+        "symbol": "La",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1250022,
+      "obscurity": {
+        "score": 0.7436,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250022,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7436
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "niobium",
+      "name": "Niobium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Niobium",
+      "attrs": {
+        "atomic_number": 41,
+        "symbol": "Nb",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1250718,
+      "obscurity": {
+        "score": 0.735,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1250718,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.735
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rhenium",
+      "name": "Rhenium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rhenium",
+      "attrs": {
+        "atomic_number": 75,
+        "symbol": "Re",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1251803,
+      "obscurity": {
+        "score": 0.7265,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1251803,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7265
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ruthenium",
+      "name": "Ruthenium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ruthenium",
+      "attrs": {
+        "atomic_number": 44,
+        "symbol": "Ru",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1252195,
+      "obscurity": {
+        "score": 0.7179,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252195,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7179
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hafnium",
+      "name": "Hafnium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hafnium",
+      "attrs": {
+        "atomic_number": 72,
+        "symbol": "Hf",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1252350,
+      "obscurity": {
+        "score": 0.7094,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1252350,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7094
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tennessine",
+      "name": "Tennessine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tennessine",
+      "attrs": {
+        "atomic_number": 117,
+        "symbol": "Ts",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1253896,
+      "obscurity": {
+        "score": 0.7009,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1253896,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7009
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "indium",
+      "name": "Indium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Indium",
+      "attrs": {
+        "atomic_number": 49,
+        "symbol": "In",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "I",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 1254685,
+      "obscurity": {
+        "score": 0.6923,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1254685,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6923
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "fermium",
+      "name": "Fermium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Fermium",
+      "attrs": {
+        "atomic_number": 100,
+        "symbol": "Fm",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "F",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1255628,
+      "obscurity": {
+        "score": 0.6838,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255628,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6838
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "curium",
+      "name": "Curium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Curium",
+      "attrs": {
+        "atomic_number": 96,
+        "symbol": "Cm",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1255863,
+      "obscurity": {
+        "score": 0.6752,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1255863,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6752
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nobelium",
+      "name": "Nobelium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nobelium",
+      "attrs": {
+        "atomic_number": 102,
+        "symbol": "No",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "N",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1257138,
+      "obscurity": {
+        "score": 0.6667,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257138,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6667
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "europium",
+      "name": "Europium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Europium",
+      "attrs": {
+        "atomic_number": 63,
+        "symbol": "Eu",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1257675,
+      "obscurity": {
+        "score": 0.6581,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257675,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6581
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cerium",
+      "name": "Cerium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cerium",
+      "attrs": {
+        "atomic_number": 58,
+        "symbol": "Ce",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1258406,
+      "obscurity": {
+        "score": 0.6496,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1258406,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6496
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gadolinium",
+      "name": "Gadolinium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gadolinium",
+      "attrs": {
+        "atomic_number": 64,
+        "symbol": "Gd",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1260567,
+      "obscurity": {
+        "score": 0.641,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260567,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.641
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "yttrium",
+      "name": "Yttrium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Yttrium",
+      "attrs": {
+        "atomic_number": 39,
+        "symbol": "Y",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "Y",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1261908,
+      "obscurity": {
+        "score": 0.6325,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1261908,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6325
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "beryllium",
+      "name": "Beryllium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Beryllium",
+      "attrs": {
+        "atomic_number": 4,
+        "symbol": "Be",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1267342,
+      "obscurity": {
+        "score": 0.6239,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1267342,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6239
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vanadium",
+      "name": "Vanadium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Vanadium",
+      "attrs": {
+        "atomic_number": 23,
+        "symbol": "V",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "V",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1267825,
+      "obscurity": {
+        "score": 0.6154,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1267825,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6154
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oganesson",
+      "name": "Oganesson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oganesson",
+      "attrs": {
+        "atomic_number": 118,
+        "symbol": "Og",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "O",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1269904,
+      "obscurity": {
+        "score": 0.6068,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1269904,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6068
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "francium",
+      "name": "Francium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Francium",
+      "attrs": {
+        "atomic_number": 87,
+        "symbol": "Fr",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "F",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1270028,
+      "obscurity": {
+        "score": 0.5983,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1270028,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5983
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "astatine",
+      "name": "Astatine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Astatine",
+      "attrs": {
+        "atomic_number": 85,
+        "symbol": "At",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1271584,
+      "obscurity": {
+        "score": 0.5897,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271584,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5897
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tellurium",
+      "name": "Tellurium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tellurium",
+      "attrs": {
+        "atomic_number": 52,
+        "symbol": "Te",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1272516,
+      "obscurity": {
+        "score": 0.5812,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1272516,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5812
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "strontium",
+      "name": "Strontium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Strontium",
+      "attrs": {
+        "atomic_number": 38,
+        "symbol": "Sr",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1908587,
+      "obscurity": {
+        "score": 0.5726,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1908587,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5726
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "einsteinium",
+      "name": "Einsteinium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Einsteinium",
+      "attrs": {
+        "atomic_number": 99,
+        "symbol": "Es",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "E",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1909436,
+      "obscurity": {
+        "score": 0.5641,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1909436,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5641
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "thallium",
+      "name": "Thallium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thallium",
+      "attrs": {
+        "atomic_number": 81,
+        "symbol": "Tl",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1910286,
+      "obscurity": {
+        "score": 0.5556,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1910286,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5556
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "technetium",
+      "name": "Technetium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Technetium",
+      "attrs": {
+        "atomic_number": 43,
+        "symbol": "Tc",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1911294,
+      "obscurity": {
+        "score": 0.547,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1911294,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.547
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "osmium",
+      "name": "Osmium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Osmium",
+      "attrs": {
+        "atomic_number": 76,
+        "symbol": "Os",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "O",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1913264,
+      "obscurity": {
+        "score": 0.5385,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1913264,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5385
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "neptunium",
+      "name": "Neptunium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neptunium",
+      "attrs": {
+        "atomic_number": 93,
+        "symbol": "Np",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1915847,
+      "obscurity": {
+        "score": 0.5299,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1915847,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5299
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "germanium",
+      "name": "Germanium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Germanium",
+      "attrs": {
+        "atomic_number": 32,
+        "symbol": "Ge",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "G",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1916412,
+      "obscurity": {
+        "score": 0.5214,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1916412,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5214
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "antimony",
+      "name": "Antimony",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Antimony",
+      "attrs": {
+        "atomic_number": 51,
+        "symbol": "Sb",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1918101,
+      "obscurity": {
+        "score": 0.5128,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1918101,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5128
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "zirconium",
+      "name": "Zirconium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zirconium",
+      "attrs": {
+        "atomic_number": 40,
+        "symbol": "Zr",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "Z",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1921084,
+      "obscurity": {
+        "score": 0.5043,
+        "band": "useful low scorer",
+        "pointless_score": 50,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1921084,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5043
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "americium",
+      "name": "Americium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Americium",
+      "attrs": {
+        "atomic_number": 95,
+        "symbol": "Am",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1924044,
+      "obscurity": {
+        "score": 0.4957,
+        "band": "useful low scorer",
+        "pointless_score": 50,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924044,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4957
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tantalum",
+      "name": "Tantalum",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tantalum",
+      "attrs": {
+        "atomic_number": 73,
+        "symbol": "Ta",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1924161,
+      "obscurity": {
+        "score": 0.4872,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924161,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4872
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "molybdenum",
+      "name": "Molybdenum",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Molybdenum",
+      "attrs": {
+        "atomic_number": 42,
+        "symbol": "Mo",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1925265,
+      "obscurity": {
+        "score": 0.4786,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1925265,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4786
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "boron",
+      "name": "Boron",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Boron",
+      "attrs": {
+        "atomic_number": 5,
+        "symbol": "B",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1928539,
+      "obscurity": {
+        "score": 0.4701,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1928539,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4701
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "californium",
+      "name": "Californium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Californium",
+      "attrs": {
+        "atomic_number": 98,
+        "symbol": "Cf",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "C",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1928966,
+      "obscurity": {
+        "score": 0.4615,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1928966,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4615
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "caesium",
+      "name": "Caesium",
+      "aliases": [
+        "Cesium"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Caesium",
+      "attrs": {
+        "atomic_number": 55,
+        "symbol": "Cs",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2730403,
+      "obscurity": {
+        "score": 0.453,
+        "band": "useful low scorer",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730403,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.453
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iridium",
+      "name": "Iridium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iridium",
+      "attrs": {
+        "atomic_number": 77,
+        "symbol": "Ir",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "I",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 2732521,
+      "obscurity": {
+        "score": 0.4444,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2732521,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4444
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "neodymium",
+      "name": "Neodymium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neodymium",
+      "attrs": {
+        "atomic_number": 60,
+        "symbol": "Nd",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2735393,
+      "obscurity": {
+        "score": 0.4359,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2735393,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4359
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "barium",
+      "name": "Barium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Barium",
+      "attrs": {
+        "atomic_number": 56,
+        "symbol": "Ba",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2738873,
+      "obscurity": {
+        "score": 0.4274,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2738873,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4274
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bromine",
+      "name": "Bromine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bromine",
+      "attrs": {
+        "atomic_number": 35,
+        "symbol": "Br",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2739353,
+      "obscurity": {
+        "score": 0.4188,
+        "band": "middling",
+        "pointless_score": 58,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739353,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4188
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "selenium",
+      "name": "Selenium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Selenium",
+      "attrs": {
+        "atomic_number": 34,
+        "symbol": "Se",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2739806,
+      "obscurity": {
+        "score": 0.4103,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2739806,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4103
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bismuth",
+      "name": "Bismuth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bismuth",
+      "attrs": {
+        "atomic_number": 83,
+        "symbol": "Bi",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2741647,
+      "obscurity": {
+        "score": 0.4017,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2741647,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4017
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gallium",
+      "name": "Gallium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gallium",
+      "attrs": {
+        "atomic_number": 31,
+        "symbol": "Ga",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2745550,
+      "obscurity": {
+        "score": 0.3932,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2745550,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3932
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rhodium",
+      "name": "Rhodium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rhodium",
+      "attrs": {
+        "atomic_number": 45,
+        "symbol": "Rh",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2746475,
+      "obscurity": {
+        "score": 0.3846,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2746475,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3846
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "manganese",
+      "name": "Manganese",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Manganese",
+      "attrs": {
+        "atomic_number": 25,
+        "symbol": "Mn",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2747197,
+      "obscurity": {
+        "score": 0.3761,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747197,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3761
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cadmium",
+      "name": "Cadmium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cadmium",
+      "attrs": {
+        "atomic_number": 48,
+        "symbol": "Cd",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2747580,
+      "obscurity": {
+        "score": 0.3675,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747580,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3675
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "polonium",
+      "name": "Polonium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Polonium",
+      "attrs": {
+        "atomic_number": 84,
+        "symbol": "Po",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2749780,
+      "obscurity": {
+        "score": 0.359,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2749780,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.359
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "thorium",
+      "name": "Thorium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thorium",
+      "attrs": {
+        "atomic_number": 90,
+        "symbol": "Th",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2751231,
+      "obscurity": {
+        "score": 0.3504,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751231,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3504
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "phosphorus",
+      "name": "Phosphorus",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Phosphorus",
+      "attrs": {
+        "atomic_number": 15,
+        "symbol": "P",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3730614,
+      "obscurity": {
+        "score": 0.3419,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3419
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lithium",
+      "attrs": {
+        "atomic_number": 3,
+        "symbol": "Li",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3732892,
+      "obscurity": {
+        "score": 0.3333,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3732892,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3333
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tungsten",
+      "name": "Tungsten",
+      "aliases": [
+        "Wolfram"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tungsten",
+      "attrs": {
+        "atomic_number": 74,
+        "symbol": "W",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3733609,
+      "obscurity": {
+        "score": 0.3248,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733609,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3248
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "arsenic",
+      "name": "Arsenic",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Arsenic",
+      "attrs": {
+        "atomic_number": 33,
+        "symbol": "As",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3733869,
+      "obscurity": {
+        "score": 0.3162,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3733869,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3162
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chromium",
+      "name": "Chromium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chromium",
+      "attrs": {
+        "atomic_number": 24,
+        "symbol": "Cr",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3734405,
+      "obscurity": {
+        "score": 0.3077,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734405,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3077
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "palladium",
+      "name": "Palladium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Palladium",
+      "attrs": {
+        "atomic_number": 46,
+        "symbol": "Pd",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3734689,
+      "obscurity": {
+        "score": 0.2991,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734689,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2991
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cobalt",
+      "name": "Cobalt",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cobalt",
+      "attrs": {
+        "atomic_number": 27,
+        "symbol": "Co",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3734977,
+      "obscurity": {
+        "score": 0.2906,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734977,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2906
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "radon",
+      "name": "Radon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Radon",
+      "attrs": {
+        "atomic_number": 86,
+        "symbol": "Rn",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3739622,
+      "obscurity": {
+        "score": 0.2821,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3739622,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2821
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "xenon",
+      "name": "Xenon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Xenon",
+      "attrs": {
+        "atomic_number": 54,
+        "symbol": "Xe",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "X",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3740374,
+      "obscurity": {
+        "score": 0.2735,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740374,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2735
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "krypton",
+      "name": "Krypton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Krypton",
+      "attrs": {
+        "atomic_number": 36,
+        "symbol": "Kr",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "K",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3743899,
+      "obscurity": {
+        "score": 0.265,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743899,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.265
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "radium",
+      "name": "Radium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Radium",
+      "attrs": {
+        "atomic_number": 88,
+        "symbol": "Ra",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3744330,
+      "obscurity": {
+        "score": 0.2564,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744330,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2564
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "fluorine",
+      "name": "Fluorine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Fluorine",
+      "attrs": {
+        "atomic_number": 9,
+        "symbol": "F",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "F",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3744904,
+      "obscurity": {
+        "score": 0.2479,
+        "band": "obvious",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3744904,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2479
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "argon",
+      "name": "Argon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Argon",
+      "attrs": {
+        "atomic_number": 18,
+        "symbol": "Ar",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "A",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3751015,
+      "obscurity": {
+        "score": 0.2393,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751015,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2393
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "magnesium",
+      "name": "Magnesium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Magnesium",
+      "attrs": {
+        "atomic_number": 12,
+        "symbol": "Mg",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4913871,
+      "obscurity": {
+        "score": 0.2308,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913871,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2308
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "silicon",
+      "name": "Silicon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Silicon",
+      "attrs": {
+        "atomic_number": 14,
+        "symbol": "Si",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4916301,
+      "obscurity": {
+        "score": 0.2222,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4916301,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2222
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sulfur",
+      "name": "Sulfur",
+      "aliases": [
+        "Sulphur"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sulfur",
+      "attrs": {
+        "atomic_number": 16,
+        "symbol": "S",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4918918,
+      "obscurity": {
+        "score": 0.2137,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918918,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2137
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "plutonium",
+      "name": "Plutonium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Plutonium",
+      "attrs": {
+        "atomic_number": 94,
+        "symbol": "Pu",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4921937,
+      "obscurity": {
+        "score": 0.2051,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4921937,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2051
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "titanium",
+      "name": "Titanium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Titanium",
+      "attrs": {
+        "atomic_number": 22,
+        "symbol": "Ti",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4922285,
+      "obscurity": {
+        "score": 0.1966,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922285,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1966
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "neon",
+      "name": "Neon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neon",
+      "attrs": {
+        "atomic_number": 10,
+        "symbol": "Ne",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922359,
+      "obscurity": {
+        "score": 0.188,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922359,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.188
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tin",
+      "name": "Tin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tin",
+      "attrs": {
+        "atomic_number": 50,
+        "symbol": "Sn",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 3,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4922955,
+      "obscurity": {
+        "score": 0.1795,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922955,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1795
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nickel",
+      "name": "Nickel",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nickel",
+      "attrs": {
+        "atomic_number": 28,
+        "symbol": "Ni",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4926311,
+      "obscurity": {
+        "score": 0.1709,
+        "band": "obvious",
+        "pointless_score": 83,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926311,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1709
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iodine",
+      "name": "Iodine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iodine",
+      "attrs": {
+        "atomic_number": 53,
+        "symbol": "I",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "I",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 4926621,
+      "obscurity": {
+        "score": 0.1624,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926621,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1624
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "potassium",
+      "name": "Potassium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Potassium",
+      "attrs": {
+        "atomic_number": 19,
+        "symbol": "K",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4926989,
+      "obscurity": {
+        "score": 0.1538,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926989,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1538
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "chlorine",
+      "name": "Chlorine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chlorine",
+      "attrs": {
+        "atomic_number": 17,
+        "symbol": "Cl",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4927775,
+      "obscurity": {
+        "score": 0.1453,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927775,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1453
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "zinc",
+      "name": "Zinc",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zinc",
+      "attrs": {
+        "atomic_number": 30,
+        "symbol": "Zn",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "Z",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6286994,
+      "obscurity": {
+        "score": 0.1368,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6286994,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1368
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "aliases": [
+        "Quicksilver"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mercury_(element)",
+      "attrs": {
+        "atomic_number": 80,
+        "symbol": "Hg",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6287303,
+      "obscurity": {
+        "score": 0.1282,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287303,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1282
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "helium",
+      "name": "Helium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Helium",
+      "attrs": {
+        "atomic_number": 2,
+        "symbol": "He",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6288414,
+      "obscurity": {
+        "score": 0.1197,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6288414,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1197
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sodium",
+      "attrs": {
+        "atomic_number": 11,
+        "symbol": "Na",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6291293,
+      "obscurity": {
+        "score": 0.1111,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6291293,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1111
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lead",
+      "name": "Lead",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lead_(element)",
+      "attrs": {
+        "atomic_number": 82,
+        "symbol": "Pb",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "L",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6292603,
+      "obscurity": {
+        "score": 0.1026,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292603,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1026
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gold",
+      "attrs": {
+        "atomic_number": 79,
+        "symbol": "Au",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "G",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6292616,
+      "obscurity": {
+        "score": 0.094,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292616,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.094
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "copper",
+      "name": "Copper",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Copper",
+      "attrs": {
+        "atomic_number": 29,
+        "symbol": "Cu",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6292688,
+      "obscurity": {
+        "score": 0.0855,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292688,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0855
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Silver",
+      "attrs": {
+        "atomic_number": 47,
+        "symbol": "Ag",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6293094,
+      "obscurity": {
+        "score": 0.0769,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293094,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0769
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "uranium",
+      "name": "Uranium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Uranium",
+      "attrs": {
+        "atomic_number": 92,
+        "symbol": "U",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "U",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 6293228,
+      "obscurity": {
+        "score": 0.0684,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293228,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0684
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "aluminium",
+      "name": "Aluminium",
+      "aliases": [
+        "Aluminum"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Aluminium",
+      "attrs": {
+        "atomic_number": 13,
+        "symbol": "Al",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6295708,
+      "obscurity": {
+        "score": 0.0598,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295708,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0598
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hydrogen",
+      "name": "Hydrogen",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hydrogen",
+      "attrs": {
+        "atomic_number": 1,
+        "symbol": "H",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6296670,
+      "obscurity": {
+        "score": 0.0513,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6296670,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0513
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "calcium",
+      "name": "Calcium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Calcium",
+      "attrs": {
+        "atomic_number": 20,
+        "symbol": "Ca",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6297210,
+      "obscurity": {
+        "score": 0.0427,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6297210,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0427
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nitrogen",
+      "name": "Nitrogen",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nitrogen",
+      "attrs": {
+        "atomic_number": 7,
+        "symbol": "N",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6302934,
+      "obscurity": {
+        "score": 0.0342,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6302934,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0342
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "oxygen",
+      "name": "Oxygen",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oxygen",
+      "attrs": {
+        "atomic_number": 8,
+        "symbol": "O",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "O",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 6303796,
+      "obscurity": {
+        "score": 0.0256,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6303796,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0256
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "carbon",
+      "name": "Carbon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Carbon",
+      "attrs": {
+        "atomic_number": 6,
+        "symbol": "C",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6304929,
+      "obscurity": {
+        "score": 0.0171,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6304929,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0171
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iron",
+      "name": "Iron",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iron",
+      "attrs": {
+        "atomic_number": 26,
+        "symbol": "Fe",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "I",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 6309343,
+      "obscurity": {
+        "score": 0.0085,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6309343,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0085
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Platinum",
+      "attrs": {
+        "atomic_number": 78,
+        "symbol": "Pt",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6310836,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6310836,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}
