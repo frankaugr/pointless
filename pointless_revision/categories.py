@@ -25,15 +25,14 @@ UK_PRIME_MINISTERS = Category(
     name="UK Prime Ministers",
     description=(
         "Every person who has held the office of Prime Minister of the United Kingdom "
-        "(Wikidata Q14211)."
+        "(Wikidata Q14211). Real humans only — excludes fictional PMs from TV shows."
     ),
     sparql="""
         SELECT DISTINCT ?item ?itemLabel ?article WHERE {
           ?item p:P39/ps:P39 wd:Q14211 .
-          OPTIONAL {
-            ?article schema:about ?item ;
-                     schema:isPartOf <https://en.wikipedia.org/> .
-          }
+          ?item wdt:P31 wd:Q5 .
+          ?article schema:about ?item ;
+                   schema:isPartOf <https://en.wikipedia.org/> .
           SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
         }
         ORDER BY ?itemLabel
