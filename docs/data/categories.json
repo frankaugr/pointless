@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T16:17:19Z",
+  "generated_at": "2026-04-26T16:18:40Z",
   "categories": [
     {
       "slug": "uk-prime-ministers",
       "name": "UK Prime Ministers",
-      "description": "Every person who has held the office of Prime Minister of the United Kingdom (Wikidata Q14211).",
-      "n_answers": 64
+      "description": "Every person who has held the office of Prime Minister of the United Kingdom (Wikidata Q14211). Real humans only \u2014 excludes fictional PMs from TV shows.",
+      "n_answers": 59
     }
   ]
 }
