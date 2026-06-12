@@ -1,0 +1,538 @@
+{
+  "episode_id": "s35e29",
+  "episode_label": "Series 35 Episode 29",
+  "series": 35,
+  "episode": 29,
+  "pid": "m002wm3j",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wm3j",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "People, places and things beginning with C-A-P",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Capability Brown",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "Capability Brown... Down it goes to 19."
+        },
+        {
+          "answer": "Cappuccino",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rebekah",
+          "evidence_quote": "70 for cappuccino."
+        },
+        {
+          "answer": "Capulet",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "And you're on 54."
+        },
+        {
+          "answer": "Capsicum",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "28 for capsicum."
+        },
+        {
+          "answer": "Capote",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "Down it goes to 22, taking your total up to a lovely round 50."
+        },
+        {
+          "answer": "Capillary",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sid",
+          "evidence_quote": "It's a big one. 50."
+        },
+        {
+          "answer": "Capricorn",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rory",
+          "evidence_quote": "61 for Capricorn, taking your total up to 131."
+        },
+        {
+          "answer": "Capybara",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "down it goes to 27. Taking your total up to 46."
+        },
+        {
+          "answer": "Cappadocia",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Cappadocia... which was our lowest answer with five."
+        },
+        {
+          "answer": "Capstan",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Capstan. Perfect. And that goes for 12."
+        },
+        {
+          "answer": "Capri",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And that would have scored 27."
+        },
+        {
+          "answer": "Captcha",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Captcha with 31."
+        },
+        {
+          "answer": "Capital",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "51 people got capital."
+        },
+        {
+          "answer": "Captain",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A captain, which would have scored 69."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Actors who appeared in James Bond films starring Daniel Craig as 007",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Judi Dench",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "72 for Judi Dench."
+        },
+        {
+          "answer": "Rami Malek",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "21 for Rami Malek."
+        },
+        {
+          "answer": "Gemma Arterton",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "Gemma Arterton. Nine. Very well done, Hetty."
+        },
+        {
+          "answer": "Lashana Lynch",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "4 for Lashana Lynch, taking your total up to 13."
+        },
+        {
+          "answer": "Hugh Dennis",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sid",
+          "evidence_quote": "Down it goes to 31... taking your total up to 52."
+        },
+        {
+          "answer": "Ben Whishaw",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "13 for Ben Whishaw. Taking your total up to 85."
+        },
+        {
+          "answer": "Javier Bardem",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you would have scored 16 with Javier Bardem."
+        },
+        {
+          "answer": "Rory Kinnear",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rory Kinnear. That would have scored you 10."
+        },
+        {
+          "answer": "Ralph Fiennes",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ralph Fiennes would have scored you 42."
+        },
+        {
+          "answer": "Eva Green",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Eva Green. Yes, of course. 16!"
+        },
+        {
+          "answer": "Sarah Hadland",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "5 you would have got for her."
+        },
+        {
+          "answer": "Mads Mikkelsen",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Would've scored you 14 if you'd have got Mads."
+        },
+        {
+          "answer": "Naomie Harris",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Would have scored you 20 if you'd got Naomie Harris."
+        },
+        {
+          "answer": "Ana de Armas",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ana de Armas... Would have scored you 11."
+        },
+        {
+          "answer": "Lea Seydoux",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lea Seydoux. Would have scored you 6."
+        },
+        {
+          "answer": "Jeffrey Wright",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jeffrey Wright would have scored you 5."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Hit songs written by Tin Pan Alley songwriters (with two red herrings)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Alexander's Ragtime Band",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "2 of our 100 got that."
+        },
+        {
+          "answer": "Arizona Jamboree",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "it was one of our red herrings... no Arizona Jamboree."
+        },
+        {
+          "answer": "Take Me Out To The Ball Game",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that would have scored you 1."
+        },
+        {
+          "answer": "I'm Forever Blowing Bubbles",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "HOST",
+          "evidence_quote": "I'm Forever Blowing Bubbles and Bill Bailey... as our two pointless answers. And you are correct."
+        },
+        {
+          "answer": "Bill Bailey, Won't You Please Come Home",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "HOST",
+          "evidence_quote": "Bill Bailey, Won't You Please Come Home is actually a Tin Pan Alley song."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Facts revolving around the name Susan",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pevensie",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "Pevensie is right. That's a great answer. Very well done. 10 for Pevensie."
+        },
+        {
+          "answer": "Louise",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sid",
+          "evidence_quote": "Louise is right. 33 for Louise."
+        },
+        {
+          "answer": "Whitney Houston",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Whitney Houston, which would have scored you the lowest amount, which is 8."
+        },
+        {
+          "answer": "Corgi",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "next we have corgi, 39."
+        },
+        {
+          "answer": "Lazy",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the adjective is lazy, that's what we're looking for, with 34."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Birds with V-shaped or notched tails",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Arctic tern",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sid",
+          "evidence_quote": "Arctic tern is right. Down it goes to 19."
+        },
+        {
+          "answer": "Swift",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "Swift is right. That goes down to 38."
+        },
+        {
+          "answer": "Swallow",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "swallow, which you guessed correctly, which would have been worth 56."
+        },
+        {
+          "answer": "Black drongo",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The black drongo... that was worth two."
+        },
+        {
+          "answer": "Scissor-tailed flycatcher",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "a scissor-tailed flycatcher, which was our pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Missing final word of finance and economics abbreviations",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rate (APR)",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "Rate is right. Down to 51."
+        },
+        {
+          "answer": "Investment (ROI)",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sid",
+          "evidence_quote": "Return On Investment. That is absolutely right... 33 it goes down to."
+        },
+        {
+          "answer": "Recommended Retail Price (RRP)",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "RRP, Recommended Retail Price, which scored 72."
+        },
+        {
+          "answer": "Earnings Per Share (EPS)",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "EPS, Earnings Per Share, which scored 25."
+        },
+        {
+          "answer": "Gross National Product (GNP)",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gross National Product, which scored 40."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Perfect Ten Geography: countries or capital cities with exactly ten letters in their name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "El Salvador",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Emma",
+          "evidence_quote": "El Salvador down through the teens... Aw! 3."
+        },
+        {
+          "answer": "Addis Ababa",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Emma",
+          "evidence_quote": "Still going down with Addis Ababa... 1!"
+        },
+        {
+          "answer": "Paramaribo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Emma",
+          "evidence_quote": "Paramaribo was pointless. And it means you have won £1,000."
+        }
+      ]
+    }
+  ]
+}

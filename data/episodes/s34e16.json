@@ -1,0 +1,529 @@
+{
+  "episode_id": "s34e16",
+  "episode_label": "Series 34 Episode 16",
+  "series": 34,
+  "episode": 16,
+  "pid": "m002kvb5",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kvb5",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "First names of men and women who have competed in the 100m sprint at the Olympic Games (from initial, surname and year)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Usain (Bolt)",
+          "score": 88,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Glesni",
+          "evidence_quote": "88 is what it scores"
+        },
+        {
+          "answer": "Donovan (Bailey)",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Down we go to 13. Very well done indeed"
+        },
+        {
+          "answer": "Jesse (Owens)",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "45 for Jesse Owens. Not bad at all"
+        },
+        {
+          "answer": "Florence (Griffith Joyner)",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "25 is where you end up with Florence Griffith Joyner"
+        },
+        {
+          "answer": "Dina (Asher-Smith)",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Yanat",
+          "evidence_quote": "Down it goes to 37"
+        },
+        {
+          "answer": "Sally-Ann Fraser-Pryce",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "That is incorrect, and it scores 100 points"
+        },
+        {
+          "answer": "Fanny (Blankers-Koen)",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "14! ... 27, your total"
+        },
+        {
+          "answer": "Linford (Christie)",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "that's 70, taking your total up to 158"
+        },
+        {
+          "answer": "Noah (Lyles)",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That is Noah... That's 14"
+        },
+        {
+          "answer": "Elaine (Thompson-Herah)",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Elaine Thompson-Herah. And that would have scored you three"
+        },
+        {
+          "answer": "Dorothy (Hyman)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dorothy Hyman. Would have scored you one"
+        },
+        {
+          "answer": "Shelly-Ann (Fraser-Pryce)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was a great score. Seven"
+        },
+        {
+          "answer": "Wilma (Rudolph)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "which would have scored you one. Wilma Rudolph"
+        },
+        {
+          "answer": "Carl (Lewis)",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The legend that is Carl Lewis, 51"
+        },
+        {
+          "answer": "Julien (Alfred)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Julien Alfred scored two"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Words in the Woodland Trust A-Z of British Trees containing at least one of the letters L, E, A or F",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Larch",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "down to 17. Very well done indeed"
+        },
+        {
+          "answer": "Hornbeam",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "Oh, it goes down to 1"
+        },
+        {
+          "answer": "Willow",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Yanat",
+          "evidence_quote": "21 for willow"
+        },
+        {
+          "answer": "Fir",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "Down it goes to 21 ... the same score as willow"
+        },
+        {
+          "answer": "Douglas (fir)",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "that goes down to 3"
+        },
+        {
+          "answer": "Cypress",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "down it goes to 1"
+        },
+        {
+          "answer": "European",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had European, as in European larch"
+        },
+        {
+          "answer": "Goat",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Goat, as in goat willow, was pointless"
+        },
+        {
+          "answer": "Hemlock",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Hemlock, as in western hemlock"
+        },
+        {
+          "answer": "Leyland",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Leyland, which was Leyland cypress"
+        },
+        {
+          "answer": "London",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "London, as in London plane"
+        },
+        {
+          "answer": "Norway",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Norway, as in Norway spruce, Norway maple"
+        },
+        {
+          "answer": "Plymouth",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "There was Plymouth - Plymouth pear"
+        },
+        {
+          "answer": "Spindle",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You've also got spindle and whitebeam"
+        },
+        {
+          "answer": "Whitebeam",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You've also got spindle and whitebeam"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Which of these six names are famous sculptors (find the two pointless sculptors)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rachel Whiteread",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "Rachel Whiteread is definitely a sculptor. And it's a pointless answer!"
+        },
+        {
+          "answer": "Shirazeh Houshiary",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "a pointless one as well!"
+        },
+        {
+          "answer": "Constantin Brancusi",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Constantin Brancusi ... He would have scored you 4"
+        },
+        {
+          "answer": "Alberto Giacometti",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alberto Giacometti, was a famous Swiss sculptor. He scored 1"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Types of boats from a picture and the first letter of its name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Coracle",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Coracle is right. And down that goes to 27"
+        },
+        {
+          "answer": "Pedalo",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "Pedalo, absolutely right. That goes down to 52"
+        },
+        {
+          "answer": "Dinghy",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "C is dinghy. 57, that would have scored"
+        },
+        {
+          "answer": "Ferry",
+          "score": 85,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Highest on the board. 85"
+        },
+        {
+          "answer": "Pontoon",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "6 is what it would have scored you"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Singers or groups that perform UK top 40 singles featuring the syllable 'na' sung repeatedly",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rihanna",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "Rihanna, absolutely right. And that goes down to 17"
+        },
+        {
+          "answer": "Pink",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "33 for Pink"
+        },
+        {
+          "answer": "My Chemical Romance",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "My Chemical Romance ... 2"
+        },
+        {
+          "answer": "One Direction",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "This is One Direction ... 25 you would score"
+        },
+        {
+          "answer": "Wilson Pickett",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's Wilson Pickett ... Pointless answer"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Names of punctuation marks and symbols, given as anagrams with letters in alphabetical order",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hyphen",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Hyphen... gets you're down to 24"
+        },
+        {
+          "answer": "Semicolon",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "Semicolon is right ... it goes down to 10"
+        },
+        {
+          "answer": "Comma",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Comma would have scored you 64"
+        },
+        {
+          "answer": "Ampersand",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ampersand. ... 2"
+        },
+        {
+          "answer": "Back slash",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Back slash, would have scored you 9"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Climate Change: cities that hosted UN Climate Change Conferences (Cop) 1995-Cop 28, or countries (other than the UK) where fossil fuels produce less than 50% of electricity (2023)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Peru",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Andrew",
+          "evidence_quote": "down it goes to 1! ... one person said Peru"
+        },
+        {
+          "answer": "Switzerland",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Milly",
+          "evidence_quote": "3 for Switzerland!"
+        },
+        {
+          "answer": "Truro",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Milly",
+          "evidence_quote": "Truro hasn't hosted the Cop conference ... that is incorrect"
+        }
+      ]
+    }
+  ]
+}

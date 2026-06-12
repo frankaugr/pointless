@@ -1,0 +1,486 @@
+{
+  "episode_id": "s34e02",
+  "episode_label": "Series 34 Episode 2",
+  "series": 34,
+  "episode": 2,
+  "pid": "m002jwwh",
+  "source_url": "https://www.bbc.co.uk/programmes/m002jwwh",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Seven definitions of words that are also terms used in art (with initials and number of letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Medium",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "Medium is right. Down it goes to 44."
+        },
+        {
+          "answer": "Brush",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "Brush is right. Down it goes to 33."
+        },
+        {
+          "answer": "Mobile",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Millie",
+          "evidence_quote": "Mobile is right. 57 for mobile."
+        },
+        {
+          "answer": "Contour",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "it is right. 57 is our high score, 33 is our low. And you pass them both. There we are, 19."
+        },
+        {
+          "answer": "Canvas",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Keith",
+          "evidence_quote": "You would've got 26 for canvas."
+        },
+        {
+          "answer": "Sketch",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Keith",
+          "evidence_quote": "Sketch had 30."
+        },
+        {
+          "answer": "Paper",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": "Keith",
+          "evidence_quote": "the lowest score on the board was the one that you said, paper, which had 9."
+        },
+        {
+          "answer": "Relief",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Down it goes to 32. Needed 37, got 32, takes your total up to 51."
+        },
+        {
+          "answer": "Panorama",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "Panorama is absolutely right. Down that goes to 40, taking your total up to 97."
+        },
+        {
+          "answer": "Gallery",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "Down it goes to 27. Our second-lowest score so far, very well done, taking your total up to a lovely, round 60."
+        },
+        {
+          "answer": "Cameo",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelly",
+          "evidence_quote": "Cameo's right. Gets you through. Look at that, down it goes to 45, taking your total up to 89."
+        },
+        {
+          "answer": "Miniature",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Kelly",
+          "evidence_quote": "We've got miniature there, which is the breeds, that would've got you 24."
+        },
+        {
+          "answer": "Proof",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Kelly",
+          "evidence_quote": "An argument is a proof. That was 21."
+        },
+        {
+          "answer": "Mosaic",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": "Kelly",
+          "evidence_quote": "if you had only said mosaic out loud, it was 3!"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Any four-letter word in the online Collins Dictionary formed by changing one letter of the word \"park\" (remaining letters kept in original positions)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pars",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "That is very good, indeed. Pars, 3."
+        },
+        {
+          "answer": "Sark",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "Sark. It is absolutely right. That goes down to 7."
+        },
+        {
+          "answer": "Pare",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Pare is right. Down to 19 for pare."
+        },
+        {
+          "answer": "Perk",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Perk is right. 39 for perk, taking your total up to 58."
+        },
+        {
+          "answer": "Lark",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "Oh! 51! The lark didn't descend far enough, taking your total up to 58"
+        },
+        {
+          "answer": "Pack",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelly",
+          "evidence_quote": "Pack. Can we get you below that? Yes, we can. That goes down to 17."
+        },
+        {
+          "answer": "Parc",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "That is incorrect and scores you 100 points. 158 is your total."
+        },
+        {
+          "answer": "Nark",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "It's right. It ends up at 10, but it had done its job the minute it was right."
+        },
+        {
+          "answer": "Paik",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We've got three pointless answers. P-A-I-K, pronounced paik, is a Scots and Northern England term"
+        },
+        {
+          "answer": "Para",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Para, now it is an abbreviation... para is also a unit of currency in Serbia"
+        },
+        {
+          "answer": "Yark",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "yark, Y-A-R-K, an archaic word meaning to make ready."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Parts of a Formula 1 car (six options: two scoring, two pointless, two not part of a car)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Halo",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "Halo's right. Oh, down to 3!"
+        },
+        {
+          "answer": "Duocoque",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "the duocoque, sorry, no, that's not a correct answer."
+        },
+        {
+          "answer": "Lower wishbone",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's a pointless answer! And it's part of the double wishbone suspension system on a car."
+        },
+        {
+          "answer": "Roll hoop",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Let's say roll hoop is pointless. Because that's the hoop structure that sits above and behind the head"
+        },
+        {
+          "answer": "Sidepods",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The sidepods improve the air flow between the front and the rear wheels, and that would've scored you a 2."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Sunday Times 2024 list of best places to live in the UK (every other letter shown)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "North Berwick",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelly",
+          "evidence_quote": "North Berwick, absolutely right. Down it goes to 19."
+        },
+        {
+          "answer": "Abergavenny",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Abergavenny is right. That goes down to 34."
+        },
+        {
+          "answer": "Clerkenwell",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That was seven... would have got you, that, seven. That was correct."
+        },
+        {
+          "answer": "Portstewart",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "it's a pointless answer. Nobody got it right. But you would have done."
+        },
+        {
+          "answer": "Milton Keynes",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Milton Keynes would have got to 57."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Well-known things connected with the word \"wall\" (initials given as clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Firewall",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "I'm afraid firewall, incorrect."
+        },
+        {
+          "answer": "Banksy",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelly",
+          "evidence_quote": "It is right. Very well done, indeed. It goes down to 58"
+        },
+        {
+          "answer": "Manhattan",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The New York borough, Manhattan. You got that right. 51 people got that right."
+        },
+        {
+          "answer": "Fourth wall",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "yes, it is indeed the fourth wall, not the firewall... That scored 13."
+        },
+        {
+          "answer": "Humpty Dumpty",
+          "score": 74,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was the highest-scoring one with 74, which was, of course, Humpty Dumpty."
+        },
+        {
+          "answer": "Afrojack",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It would have scored four. And it's Afrojack."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Acts/artists with a UK Top 40 single containing the word \"work\" anywhere in its title (up to end of July 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dolly Parton",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Dolly Parton, an incorrect answer... the title of the song is 9 to 5, without the word in it at all."
+        },
+        {
+          "answer": "Kelly Rowland",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Kelly Rowland, right, took us down to two."
+        },
+        {
+          "answer": "Kate Bush",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Oh, one! ... Down to two, then down to one. This Woman's Work by Kate Bush."
+        },
+        {
+          "answer": "Donna Summer",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We've got Donna Summer, She Works Hard For The Money."
+        },
+        {
+          "answer": "Katy Perry",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We've got Katy Perry, Firework."
+        },
+        {
+          "answer": "Stevie Wonder",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Stevie Wonder, We Can Work It Out, his Beatles cover."
+        },
+        {
+          "answer": "The Verve",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And The Verve, The Drugs Don't Work."
+        }
+      ]
+    }
+  ]
+}

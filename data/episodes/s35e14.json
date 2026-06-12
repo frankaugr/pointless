@@ -1,0 +1,495 @@
+{
+  "episode_id": "s35e14",
+  "episode_label": "Series 35 Episode 14",
+  "series": 35,
+  "episode": 14,
+  "pid": "m002vq6w",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vq6w",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words in the online Collins Dictionary that are three letters long and end with the letter P",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "hip",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "Hip is right. 30 for hip."
+        },
+        {
+          "answer": "zap",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Zap is right. ... Goes down to 13."
+        },
+        {
+          "answer": "pap",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Pap is right. ... You are there on 17."
+        },
+        {
+          "answer": "pip",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jasmine",
+          "evidence_quote": "It was right. ... 34 for pip."
+        },
+        {
+          "answer": "bop",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Syma",
+          "evidence_quote": "Bop is good. It's very good. Down it goes to 15."
+        },
+        {
+          "answer": "asp",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Christine",
+          "evidence_quote": "Asp is right. ... it goes down to 3."
+        },
+        {
+          "answer": "yip",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bob",
+          "evidence_quote": "yip does the job. ... That goes down to 1."
+        },
+        {
+          "answer": "imp",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antek",
+          "evidence_quote": "Imp. Very good. Down it goes to 3."
+        },
+        {
+          "answer": "hep",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Hep scored 1."
+        },
+        {
+          "answer": "dup",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Dup - an old-fashioned term meaning to open something."
+        },
+        {
+          "answer": "gup",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gup - a word of Indian origin that means gossip."
+        },
+        {
+          "answer": "kep",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kep - Scots word meaning to catch."
+        },
+        {
+          "answer": "kop",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "kop - that comes from Afrikaans for a small hill or a mountain."
+        },
+        {
+          "answer": "oop",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "An oop - Scots word to bind together."
+        },
+        {
+          "answer": "urp",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "an urp - a shortening of the word burp."
+        },
+        {
+          "answer": "ump",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ump - an informal name for an umpire."
+        },
+        {
+          "answer": "yep",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Yep, zep. Loads of them."
+        },
+        {
+          "answer": "zep",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Yep, zep. Loads of them."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "One-word titles of UK top ten hits by Madonna (identify from definitions, name the least recognised)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sorry",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "Sorry. It is right. ... Down that goes to 25."
+        },
+        {
+          "answer": "Celebration",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "It is right. 25 is the only score ... 41 is where Celebration ends up."
+        },
+        {
+          "answer": "Music",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Music is right. ... 42 for Music."
+        },
+        {
+          "answer": "Holiday",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Holiday would have got you 57"
+        },
+        {
+          "answer": "Rain",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rain, 64"
+        },
+        {
+          "answer": "Secret",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "and Secret, 44."
+        },
+        {
+          "answer": "Fever",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bob",
+          "evidence_quote": "Fever is right. 47 for Fever"
+        },
+        {
+          "answer": "Erotica",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Christine",
+          "evidence_quote": "It's absolutely right. ... 25 is what it scores"
+        },
+        {
+          "answer": "Borderline",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antek",
+          "evidence_quote": "Borderline is right. ... down it goes to 17."
+        },
+        {
+          "answer": "Frozen",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Frozen was 49."
+        },
+        {
+          "answer": "Hollywood",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hollywood, 59."
+        },
+        {
+          "answer": "Jump",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Jump, 56."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Catholic ecclesiastical titles (find the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "tanager",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Antek",
+          "evidence_quote": "A tanager, unfortunately, is a red herring. It's a bird"
+        },
+        {
+          "answer": "postulator",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Postulator. ... It's right. And it's one of those."
+        },
+        {
+          "answer": "nuncio",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "A nuncio, an ambassador of the Pope ... That scored 1."
+        },
+        {
+          "answer": "abbess",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Abbess, also correct, but would have scored you 5."
+        },
+        {
+          "answer": "rector",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the head of a religious community. And that was pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Famous people called Angela (identify from pictures, name the least known)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Angela Bassett",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antek",
+          "evidence_quote": "Angela Bassett is right. ... Down it goes to 7."
+        },
+        {
+          "answer": "Angela Harknett",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Bad luck. Very close ... It is Angela Hartnett"
+        },
+        {
+          "answer": "Angela Hartnett",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Angela Hartnett would have got you 3."
+        },
+        {
+          "answer": "Angela Lansbury",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Angela Lansbury would have gotten you 53."
+        },
+        {
+          "answer": "Angela Rayner",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Angela Rayner ... 58"
+        },
+        {
+          "answer": "Angela Davis",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Angela Davis, a US academic ... would have gotten 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Terms for moves and positions used in ballet (alternate letters removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "arabesque",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Arabesque is right. Down it goes to 23."
+        },
+        {
+          "answer": "saute",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antek",
+          "evidence_quote": "Saute is right. ... Down it goes to 3."
+        },
+        {
+          "answer": "pirouette",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pirouette would have scored you 40."
+        },
+        {
+          "answer": "plie",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Plie, 32."
+        },
+        {
+          "answer": "releve",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "releve scored 5."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Tracks on the 2018 Broadway cast recording of Mean Girls, or acting credits in the 2024 film Mean Girls",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Stupid With Love",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Antek",
+          "evidence_quote": "Stupid With Love is absolutely right. ... 3 for Stupid With Love."
+        },
+        {
+          "answer": "Auli'i Cravalho",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Antek",
+          "evidence_quote": "Auli'i Cravalho has just won you £3,250."
+        },
+        {
+          "answer": "It Roars",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Antek",
+          "evidence_quote": "It Roars, Revenge Party and I'd Rather Be Me were all pointless."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "episode_id": "s34e45",
+  "episode_label": "Series 34 Episode 45",
+  "series": 34,
+  "episode": 45,
+  "pid": "m002tsg0",
+  "source_url": "https://www.bbc.co.uk/programmes/m002tsg0",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words containing the letters 'OO' (from clues, with initial letter and number of letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Toothless",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Down to 10. Superb start."
+        },
+        {
+          "answer": "Maroon",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "maroon goes down to 44"
+        },
+        {
+          "answer": "Teaspoon",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "40 for teaspoon. Well done."
+        },
+        {
+          "answer": "Mushroom",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "73 for mushroom, Michael."
+        },
+        {
+          "answer": "Foot",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That was straightforward to a lot of people - 60 people"
+        },
+        {
+          "answer": "Kookaburra",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "39 people said kookaburra"
+        },
+        {
+          "answer": "Saskatoon",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Saskatoon - eight people."
+        },
+        {
+          "answer": "Cameroon",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Down it goes to 28. Very good."
+        },
+        {
+          "answer": "Cocoon",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Down it goes to 39. 79, your total."
+        },
+        {
+          "answer": "Bamboo",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "53, taking your total up to 97."
+        },
+        {
+          "answer": "Moonlight",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "It's a great answer, 9."
+        },
+        {
+          "answer": "Football",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You're right about football. That is quite a popular one. Would have got 73."
+        },
+        {
+          "answer": "Tattoo",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the military performance that also is body art, a tattoo, that would have got you 55"
+        },
+        {
+          "answer": "Ballroom",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the answer is ballroom. And that would have got you 3"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Actors who have played the Doctor in Doctor Who (per DoctorWho.TV, up to end of June 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "David Tennant",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "63 for David Tennant."
+        },
+        {
+          "answer": "John Tyler",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "Not John Tyler. No John Tyler, I'm afraid."
+        },
+        {
+          "answer": "William Hartnell",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "that goes down to 18. Very well done."
+        },
+        {
+          "answer": "Sylvester McCoy",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Down again to 18. Very well done."
+        },
+        {
+          "answer": "Ncuti Gatwa",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "Down it goes to 5. Very well done indeed."
+        },
+        {
+          "answer": "Christopher Eccleston",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "Down to 21, taking your total up to 84."
+        },
+        {
+          "answer": "Jodie Whittaker",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "He was three points higher than Jodie Whittaker."
+        },
+        {
+          "answer": "Matt Smith",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Matt Smith might have been in Doctor Who...scored 27"
+        },
+        {
+          "answer": "Paul McGann",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Paul McGann scored 5."
+        },
+        {
+          "answer": "David Bradley",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "David Bradley and Jo Martin scored 1."
+        },
+        {
+          "answer": "Jo Martin",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "David Bradley and Jo Martin scored 1."
+        },
+        {
+          "answer": "John Hurt",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The two pointless answers are John Hurt, who was the War Doctor"
+        },
+        {
+          "answer": "Richard Hurndall",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Richard Hurndall, who played the First Doctor in the 1983 episode The Five Doctors"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Hit songs that feature mandolin playing (find the pointless ones among six options including red herrings)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dance Tonight",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Oh, 1! GROANS"
+        },
+        {
+          "answer": "Cutting Carrots",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Cutting Carrots. Let's see if that is a pointless mandolin-featuring song. No."
+        },
+        {
+          "answer": "Losing My Religion",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It would have scored 5, REM's Losing My Religion."
+        },
+        {
+          "answer": "Glory Days",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "those are both pointless - Glory Days and Iris"
+        },
+        {
+          "answer": "Iris",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "those are both pointless - Glory Days and Iris"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Dishes from around the world often served as side dishes (from images, first and last letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Edamame",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "Edamame is right."
+        },
+        {
+          "answer": "Dauphinoise potatoes",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "17 for dauphinoise potatoes."
+        },
+        {
+          "answer": "Coleslaw",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "coleslaw. That was answered by 65 people."
+        },
+        {
+          "answer": "Saag aloo",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "B, saag aloo, 45 people knew that."
+        },
+        {
+          "answer": "Caponata",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That was a pointless answer, if you'd gone for caponata."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Novels by Charles Dickens (titles cut off before first appearance of letter C or D)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Pickwick Papers",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Down it goes to 7. Very well done."
+        },
+        {
+          "answer": "Little Dorrit",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "it's at 27 for Little Dorrit"
+        },
+        {
+          "answer": "Great Expectations",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Great Expectations, popular...that would have got 67"
+        },
+        {
+          "answer": "A Tale Of Two Cities",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A Tale Of Two Cities, that would have got you 66."
+        },
+        {
+          "answer": "The Old Curiosity Shop",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Old Curiosity Shop, 19, so not a bad answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Two-word objects where the second word is 'pin' (give the first word, initial letter and length given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bobby pin",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "Down it goes to 23."
+        },
+        {
+          "answer": "Drawing pin",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "37 for drawing pin."
+        },
+        {
+          "answer": "Rolling pin",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rolling pin would have got you 57."
+        },
+        {
+          "answer": "Safety pin",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "safety pin, which 51 people got"
+        },
+        {
+          "answer": "Gudgeon pin",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One person got it."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Queens Of Pop On Tour - tracks performed live by Beyonce on the Renaissance tour (Cardiff, 17 May 2023) or by Madonna on The Celebration Tour (London O2, 14 Oct 2023)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Savage",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Helen",
+          "evidence_quote": "You've done it! Very well done indeed...Savage was a pointless answer."
+        },
+        {
+          "answer": "Formation",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Helen",
+          "evidence_quote": "And it is pointless! Very well done indeed."
+        },
+        {
+          "answer": "Naughty Girl",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Helen",
+          "evidence_quote": "Naughty Girl, another pointless answer"
+        }
+      ]
+    }
+  ]
+}

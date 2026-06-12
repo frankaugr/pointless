@@ -1,0 +1,538 @@
+{
+  "episode_id": "s34e15",
+  "episode_label": "Series 34 Episode 15",
+  "series": 34,
+  "episode": 15,
+  "pid": "m002kjr8",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kjr8",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Definitions of portmanteau words (first letter and number of letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bromance",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "Bromance is right. Down we go to 41"
+        },
+        {
+          "answer": "Podcast",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "Podcast is right. 41 is our only score at the moment. You passed it. Down to 24"
+        },
+        {
+          "answer": "Webinar",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "there you are, 8, single digits for webinar"
+        },
+        {
+          "answer": "Frenemy",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Glesni",
+          "evidence_quote": "Down to 14. Very well done indeed, Glesni"
+        },
+        {
+          "answer": "Brunch",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Brunch would have scored you 56"
+        },
+        {
+          "answer": "Breathalyser",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Breath and analyser, 43"
+        },
+        {
+          "answer": "Motel",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "From motor and hotel, 42"
+        },
+        {
+          "answer": "Gastropub",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "that's 18, taking your total up to 32"
+        },
+        {
+          "answer": "Oxbridge",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "You needed 32. You got 30"
+        },
+        {
+          "answer": "Cosplay",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Barry",
+          "evidence_quote": "17. You wanted 16, you've got 17"
+        },
+        {
+          "answer": "Bollywood",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "there it is, bang-on 50, taking your total up to 91"
+        },
+        {
+          "answer": "Hangry",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hangry is hungry and angry. It gets you 32"
+        },
+        {
+          "answer": "Smog",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Smog is smoke and fog. 45"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Words of four letters or more featuring in the title of any UK top 40 single by Stevie Wonder",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Love",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "33. Very well done. Love features in five Stevie Wonder hits"
+        },
+        {
+          "answer": "Your",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "That's a pointless answer. And being a pointless answer, it adds £250"
+        },
+        {
+          "answer": "Stay",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Glesni",
+          "evidence_quote": "that's incorrect. It scores you 100 points"
+        },
+        {
+          "answer": "Mine",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "No. I'm so sorry. However, membership of the 200 Club is yours"
+        },
+        {
+          "answer": "Happy",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "27 for happy, taking your total up to 27"
+        },
+        {
+          "answer": "Superstition",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Barry",
+          "evidence_quote": "There we are, 23. 56, your total"
+        },
+        {
+          "answer": "Boogie",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Boogie from Boogie On Reggae Woman, that was pointless"
+        },
+        {
+          "answer": "Dream",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Dream from Never Had A Dream Come True"
+        },
+        {
+          "answer": "Girl",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Girl from That Girl, that was pointless"
+        },
+        {
+          "answer": "Heaven",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Heaven from Heaven Help Us All also pointless"
+        },
+        {
+          "answer": "Jammin'",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Jammin' from Master Blaster (Jammin')"
+        },
+        {
+          "answer": "Wish",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Wish from I Wish, a very popular Stevie song"
+        },
+        {
+          "answer": "Wondering",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Wondering from I'm Wondering"
+        },
+        {
+          "answer": "Work",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Work from his cover of The Beatles' We Can Work It Out"
+        },
+        {
+          "answer": "Yesterday",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Yesterday from Yester-Me, Yester-you, Yesterday - all pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Books recommended by Oprah Winfrey as part of Oprah's Book Club (find the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Behold The Dreamers",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "And it scores 1"
+        },
+        {
+          "answer": "The Deep End Of The Ocean",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "And it's a pointless one as well. Very well done indeed"
+        },
+        {
+          "answer": "Cane River",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cane River was pointless as well. It was part of her book club"
+        },
+        {
+          "answer": "Nightcrawling",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nightcrawling would have scored you 4"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Names of tropical fish (drawn by Trevor Nelson, alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lionfish",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "Lionfish absolutely right. And that goes down to 19"
+        },
+        {
+          "answer": "Caribbean blue tuna",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "That is tuna, but it's tang and it would've scored you two"
+        },
+        {
+          "answer": "Clownfish",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Finding Nemo is a clownfish, that would score you 47"
+        },
+        {
+          "answer": "Puffer fish",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The puffer fish, 64"
+        },
+        {
+          "answer": "Rainbow parrotfish",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Parrotfish. Rainbow parrotfish... It would've scored you 4"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Historical events with one part written as an anagram (unscramble the missing part)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Boston Tea Party",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "Boston Tea Party is absolutely right. That goes down to 29"
+        },
+        {
+          "answer": "Gunpowder Plot",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Absolutely right. Oh, close! But no"
+        },
+        {
+          "answer": "Harold Wilson",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Harold Wilson, Prime Minister. 35 that would have scored you"
+        },
+        {
+          "answer": "Queen Victoria",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Queen Victoria, 43, was not the highest"
+        },
+        {
+          "answer": "Battle of Hastings",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Battle of Hastings. 46 points that would've scored you"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Facts related to the word 'call' (give the most obscure answer)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Moby Dick",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "Moby Dick. Down to 21. Very well done indeed"
+        },
+        {
+          "answer": "Jenny Agutter",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "Jenny Agutter is absolutely right. Down it goes to 27"
+        },
+        {
+          "answer": "Carly Rae Jepsen",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Carly Rae Jepsen would have scored 11"
+        },
+        {
+          "answer": "Better Call Saul",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Better Call Saul was a spin-off of, as you knew, Breaking Bad, 25"
+        },
+        {
+          "answer": "Number 9 (doctor's orders bingo call)",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "\"doctor's orders\" is the usual bingo call for the single-digit number 9. 19"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Top 50 egg-producing countries (FAO 2022) / Delia Smith How To Cook recipes with 'egg' in title",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sri Lanka",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Camilla",
+          "evidence_quote": "Oh! Not Sri Lanka... Sri Lanka incorrect as it turns out"
+        },
+        {
+          "answer": "Philippines",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Camilla",
+          "evidence_quote": "Philippines absolutely right. It just has to be pointless... You've done it"
+        },
+        {
+          "answer": "Taiwan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Camilla",
+          "evidence_quote": "Taiwan would have also been a wrong answer, by the way, as it's not a country"
+        },
+        {
+          "answer": "Bangladesh",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "you did also name Bangladesh, Pakistan and Kazakhstan, which were all pointless"
+        },
+        {
+          "answer": "Pakistan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bangladesh, Pakistan and Kazakhstan, which were all pointless"
+        },
+        {
+          "answer": "Kazakhstan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bangladesh, Pakistan and Kazakhstan, which were all pointless"
+        }
+      ]
+    }
+  ]
+}

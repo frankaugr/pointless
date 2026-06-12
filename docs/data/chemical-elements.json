@@ -71,7 +71,7 @@
       "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
     }
   ],
-  "generated_at": "2026-04-26T17:32:33Z",
+  "generated_at": "2026-06-12T16:22:06Z",
   "answers": [
     {
       "id": "roentgenium",
@@ -124,17 +124,39 @@
       },
       "pageviews": 393246,
       "obscurity": {
-        "score": 0.9915,
+        "score": 0.9979,
         "band": "pointless target",
-        "pointless_score": 1,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
           "pageviews": 393246,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9915
+          "pageview_obscurity": 0.9915,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Darmstadtium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Darmstadtium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
       }
     },
     {
@@ -156,17 +178,192 @@
       },
       "pageviews": 395075,
       "obscurity": {
-        "score": 0.9829,
+        "score": 0.9957,
         "band": "pointless target",
-        "pointless_score": 2,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
           "pageviews": 395075,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9829
+          "pageview_obscurity": 0.9829,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Hassium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Hassium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "protactinium",
+      "name": "Protactinium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Protactinium",
+      "attrs": {
+        "atomic_number": 91,
+        "symbol": "Pa",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 406447,
+      "obscurity": {
+        "score": 0.985,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 406447,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9402,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Protactinium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Protactinium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "scandium",
+      "name": "Scandium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Scandium",
+      "attrs": {
+        "atomic_number": 21,
+        "symbol": "Sc",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 746882,
+      "obscurity": {
+        "score": 0.9786,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 746882,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9145,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Scandium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
+      }
+    },
+    {
+      "id": "livermorium",
+      "name": "Livermorium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Livermorium",
+      "attrs": {
+        "atomic_number": 116,
+        "symbol": "Lv",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "L",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 748491,
+      "obscurity": {
+        "score": 0.9744,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 748491,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8974,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Livermorium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Livermorium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 24",
+            "date": null,
+            "question_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs"
+          }
+        ]
       }
     },
     {
@@ -202,6 +399,159 @@
       }
     },
     {
+      "id": "seaborgium",
+      "name": "Seaborgium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Seaborgium",
+      "attrs": {
+        "atomic_number": 106,
+        "symbol": "Sg",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 746151,
+      "obscurity": {
+        "score": 0.9733,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 746151,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9231,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Seaborgium",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ytterbium",
+      "name": "Ytterbium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ytterbium",
+      "attrs": {
+        "atomic_number": 70,
+        "symbol": "Yb",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "Y",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 752919,
+      "obscurity": {
+        "score": 0.9679,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 752919,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8718,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Ytterbium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rutherfordium",
+      "name": "Rutherfordium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rutherfordium",
+      "attrs": {
+        "atomic_number": 104,
+        "symbol": "Rf",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 747534,
+      "obscurity": {
+        "score": 0.9665,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 747534,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.906,
+          "pointless_average_score": 1.33,
+          "pointless_obscurity": 0.9867,
+          "pointless_observations": 3
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Rutherfordium",
+            "score_0_to_100": 4,
+            "episode": "Series 34 Episode 11",
+            "date": null,
+            "question_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Rutherfordium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Rutherfordium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 24",
+            "date": null,
+            "question_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs"
+          }
+        ]
+      }
+    },
+    {
       "id": "holmium",
       "name": "Holmium",
       "aliases": [],
@@ -231,6 +581,51 @@
           "pageview_obscurity": 0.9658
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "terbium",
+      "name": "Terbium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Terbium",
+      "attrs": {
+        "atomic_number": 65,
+        "symbol": "Tb",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 753162,
+      "obscurity": {
+        "score": 0.9658,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 753162,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8632,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Terbium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
       }
     },
     {
@@ -298,35 +693,138 @@
       }
     },
     {
-      "id": "protactinium",
-      "name": "Protactinium",
+      "id": "dysprosium",
+      "name": "Dysprosium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Protactinium",
+      "wiki": "https://en.wikipedia.org/wiki/Dysprosium",
       "attrs": {
-        "atomic_number": 91,
-        "symbol": "Pa",
-        "family": "actinide",
+        "atomic_number": 66,
+        "symbol": "Dy",
+        "family": "lanthanide",
         "periodic_block": "f-block",
-        "name_initial": "P",
-        "name_length": 12,
+        "name_initial": "D",
+        "name_length": 10,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "o"
       },
-      "pageviews": 406447,
+      "pageviews": 770076,
       "obscurity": {
         "score": 0.9402,
         "band": "pointless target",
-        "pointless_score": 6,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 406447,
+          "pageviews": 770076,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9402
+          "pageview_obscurity": 0.7607,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Dysprosium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lawrencium",
+      "name": "Lawrencium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lawrencium",
+      "attrs": {
+        "atomic_number": 103,
+        "symbol": "Lr",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "L",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 764552,
+      "obscurity": {
+        "score": 0.9391,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 764552,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7863,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Lawrencium",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "moscovium",
+      "name": "Moscovium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Moscovium",
+      "attrs": {
+        "atomic_number": 115,
+        "symbol": "Mc",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 769470,
+      "obscurity": {
+        "score": 0.9348,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 769470,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7692,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Moscovium",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
       }
     },
     {
@@ -362,131 +860,426 @@
       }
     },
     {
-      "id": "seaborgium",
-      "name": "Seaborgium",
+      "id": "rhenium",
+      "name": "Rhenium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Seaborgium",
+      "wiki": "https://en.wikipedia.org/wiki/Rhenium",
       "attrs": {
-        "atomic_number": 106,
-        "symbol": "Sg",
+        "atomic_number": 75,
+        "symbol": "Re",
         "family": "transition metal",
         "periodic_block": "",
-        "name_initial": "S",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1251803,
+      "obscurity": {
+        "score": 0.9316,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1251803,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7265,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Rhenium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tennessine",
+      "name": "Tennessine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tennessine",
+      "attrs": {
+        "atomic_number": 117,
+        "symbol": "Ts",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "T",
         "name_length": 10,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 746151,
+      "pageviews": 1253896,
       "obscurity": {
-        "score": 0.9231,
+        "score": 0.9252,
         "band": "pointless target",
-        "pointless_score": 8,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 746151,
+          "pageviews": 1253896,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9231
+          "pageview_obscurity": 0.7009,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Tennessine",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
       }
     },
     {
-      "id": "scandium",
-      "name": "Scandium",
+      "id": "curium",
+      "name": "Curium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Scandium",
+      "wiki": "https://en.wikipedia.org/wiki/Curium",
       "attrs": {
-        "atomic_number": 21,
-        "symbol": "Sc",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "S",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 746882,
-      "obscurity": {
-        "score": 0.9145,
-        "band": "pointless target",
-        "pointless_score": 9,
-        "pointless_band": "excellent",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 746882,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9145
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "rutherfordium",
-      "name": "Rutherfordium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Rutherfordium",
-      "attrs": {
-        "atomic_number": 104,
-        "symbol": "Rf",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "R",
-        "name_length": 13,
+        "atomic_number": 96,
+        "symbol": "Cm",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "C",
+        "name_length": 6,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "u"
       },
-      "pageviews": 747534,
+      "pageviews": 1255863,
       "obscurity": {
-        "score": 0.906,
+        "score": 0.9151,
         "band": "pointless target",
-        "pointless_score": 9,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 747534,
+          "pageviews": 1255863,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.906
+          "pageview_obscurity": 0.6752,
+          "pointless_average_score": 0.5,
+          "pointless_obscurity": 0.995,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Curium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Curium",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
       }
     },
     {
-      "id": "livermorium",
-      "name": "Livermorium",
+      "id": "europium",
+      "name": "Europium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Livermorium",
+      "wiki": "https://en.wikipedia.org/wiki/Europium",
       "attrs": {
-        "atomic_number": 116,
-        "symbol": "Lv",
-        "family": "post-transition metal",
+        "atomic_number": 63,
+        "symbol": "Eu",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1257675,
+      "obscurity": {
+        "score": 0.9145,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1257675,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6581,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Europium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cerium",
+      "name": "Cerium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cerium",
+      "attrs": {
+        "atomic_number": 58,
+        "symbol": "Ce",
+        "family": "lanthanide",
+        "periodic_block": "f-block",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1258406,
+      "obscurity": {
+        "score": 0.9124,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1258406,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6496,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Cerium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Cerium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yttrium",
+      "name": "Yttrium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Yttrium",
+      "attrs": {
+        "atomic_number": 39,
+        "symbol": "Y",
+        "family": "transition metal",
         "periodic_block": "",
-        "name_initial": "L",
-        "name_length": 11,
+        "name_initial": "Y",
+        "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 748491,
+      "pageviews": 1261908,
+      "obscurity": {
+        "score": 0.9081,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1261908,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6325,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Yttrium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
+      }
+    },
+    {
+      "id": "oganesson",
+      "name": "Oganesson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oganesson",
+      "attrs": {
+        "atomic_number": 118,
+        "symbol": "Og",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "O",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1269904,
+      "obscurity": {
+        "score": 0.9017,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1269904,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6068,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Oganesson",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
+      }
+    },
+    {
+      "id": "astatine",
+      "name": "Astatine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Astatine",
+      "attrs": {
+        "atomic_number": 85,
+        "symbol": "At",
+        "family": "halogen",
+        "periodic_block": "",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1271584,
       "obscurity": {
         "score": 0.8974,
         "band": "pointless target",
-        "pointless_score": 10,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 748491,
+          "pageviews": 1271584,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8974
+          "pageview_obscurity": 0.5897,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Astatine",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tellurium",
+      "name": "Tellurium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tellurium",
+      "attrs": {
+        "atomic_number": 52,
+        "symbol": "Te",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1272516,
+      "obscurity": {
+        "score": 0.8953,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1272516,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5812,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Tellurium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
       }
     },
     {
@@ -522,6 +1315,69 @@
       }
     },
     {
+      "id": "neptunium",
+      "name": "Neptunium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neptunium",
+      "attrs": {
+        "atomic_number": 93,
+        "symbol": "Np",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "N",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1915847,
+      "obscurity": {
+        "score": 0.8825,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1915847,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5299,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 3
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Neptunium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Neptunium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Neptunium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
+      }
+    },
+    {
       "id": "flerovium",
       "name": "Flerovium",
       "aliases": [],
@@ -554,67 +1410,264 @@
       }
     },
     {
-      "id": "ytterbium",
-      "name": "Ytterbium",
+      "id": "germanium",
+      "name": "Germanium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ytterbium",
+      "wiki": "https://en.wikipedia.org/wiki/Germanium",
       "attrs": {
-        "atomic_number": 70,
-        "symbol": "Yb",
-        "family": "lanthanide",
-        "periodic_block": "f-block",
-        "name_initial": "Y",
+        "atomic_number": 32,
+        "symbol": "Ge",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "G",
         "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 752919,
+      "pageviews": 1916412,
       "obscurity": {
-        "score": 0.8718,
+        "score": 0.8803,
         "band": "pointless target",
-        "pointless_score": 13,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 752919,
+          "pageviews": 1916412,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8718
+          "pageview_obscurity": 0.5214,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Germanium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
       }
     },
     {
-      "id": "terbium",
-      "name": "Terbium",
+      "id": "zirconium",
+      "name": "Zirconium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Terbium",
+      "wiki": "https://en.wikipedia.org/wiki/Zirconium",
       "attrs": {
-        "atomic_number": 65,
-        "symbol": "Tb",
-        "family": "lanthanide",
-        "periodic_block": "f-block",
-        "name_initial": "T",
-        "name_length": 7,
+        "atomic_number": 40,
+        "symbol": "Zr",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "Z",
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1921084,
+      "obscurity": {
+        "score": 0.8761,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1921084,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5043,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Zirconium",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Zirconium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "californium",
+      "name": "Californium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Californium",
+      "attrs": {
+        "atomic_number": 98,
+        "symbol": "Cf",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "C",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1928966,
+      "obscurity": {
+        "score": 0.8579,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1928966,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4615,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Californium",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Californium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 24",
+            "date": null,
+            "question_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs"
+          }
+        ]
+      }
+    },
+    {
+      "id": "einsteinium",
+      "name": "Einsteinium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Einsteinium",
+      "attrs": {
+        "atomic_number": 99,
+        "symbol": "Es",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "E",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
         "first_vowel": "e"
       },
-      "pageviews": 753162,
+      "pageviews": 1909436,
       "obscurity": {
-        "score": 0.8632,
+        "score": 0.856,
         "band": "pointless target",
-        "pointless_score": 14,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 753162,
+          "pageviews": 1909436,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8632
+          "pageview_obscurity": 0.5641,
+          "pointless_average_score": 4.67,
+          "pointless_obscurity": 0.9533,
+          "pointless_observations": 3
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Einsteinium",
+            "score_0_to_100": 12,
+            "episode": "Series 34 Episode 11",
+            "date": null,
+            "question_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Einsteinium",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Einsteinium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "strontium",
+      "name": "Strontium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Strontium",
+      "attrs": {
+        "atomic_number": 38,
+        "symbol": "Sr",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1908587,
+      "obscurity": {
+        "score": 0.8557,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1908587,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5726,
+          "pointless_average_score": 5.0,
+          "pointless_obscurity": 0.95,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Strontium",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
       }
     },
     {
@@ -650,6 +1703,96 @@
       }
     },
     {
+      "id": "bismuth",
+      "name": "Bismuth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bismuth",
+      "attrs": {
+        "atomic_number": 83,
+        "symbol": "Bi",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2741647,
+      "obscurity": {
+        "score": 0.8504,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2741647,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4017,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Bismuth",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gallium",
+      "name": "Gallium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gallium",
+      "attrs": {
+        "atomic_number": 31,
+        "symbol": "Ga",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2745550,
+      "obscurity": {
+        "score": 0.8483,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2745550,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3932,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Gallium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
+      }
+    },
+    {
       "id": "dubnium",
       "name": "Dubnium",
       "aliases": [],
@@ -679,6 +1822,96 @@
           "pageview_obscurity": 0.8462
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "rhodium",
+      "name": "Rhodium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rhodium",
+      "attrs": {
+        "atomic_number": 45,
+        "symbol": "Rh",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2746475,
+      "obscurity": {
+        "score": 0.8462,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2746475,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3846,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Rhodium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "manganese",
+      "name": "Manganese",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Manganese",
+      "attrs": {
+        "atomic_number": 25,
+        "symbol": "Mn",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2747197,
+      "obscurity": {
+        "score": 0.844,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2747197,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3761,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Manganese",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
       }
     },
     {
@@ -714,6 +1947,51 @@
       }
     },
     {
+      "id": "thorium",
+      "name": "Thorium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Thorium",
+      "attrs": {
+        "atomic_number": 90,
+        "symbol": "Th",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2751231,
+      "obscurity": {
+        "score": 0.8376,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2751231,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3504,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Thorium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
+      }
+    },
+    {
       "id": "lutetium",
       "name": "Lutetium",
       "aliases": [],
@@ -743,6 +2021,51 @@
           "pageview_obscurity": 0.8291
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "palladium",
+      "name": "Palladium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Palladium",
+      "attrs": {
+        "atomic_number": 46,
+        "symbol": "Pd",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3734689,
+      "obscurity": {
+        "score": 0.8248,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3734689,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2991,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Palladium",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
       }
     },
     {
@@ -778,6 +2101,141 @@
       }
     },
     {
+      "id": "radon",
+      "name": "Radon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Radon",
+      "attrs": {
+        "atomic_number": 86,
+        "symbol": "Rn",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "R",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3739622,
+      "obscurity": {
+        "score": 0.8205,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3739622,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2821,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Radon",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xenon",
+      "name": "Xenon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Xenon",
+      "attrs": {
+        "atomic_number": 54,
+        "symbol": "Xe",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "X",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3740374,
+      "obscurity": {
+        "score": 0.8184,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3740374,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2735,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Xenon",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 5",
+            "date": null,
+            "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lithium",
+      "attrs": {
+        "atomic_number": 3,
+        "symbol": "Li",
+        "family": "alkali metal",
+        "periodic_block": "",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3732892,
+      "obscurity": {
+        "score": 0.8183,
+        "band": "very obscure",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3732892,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3333,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Lithium",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 11",
+            "date": null,
+            "question_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6"
+          }
+        ]
+      }
+    },
+    {
       "id": "actinium",
       "name": "Actinium",
       "aliases": [],
@@ -807,6 +2265,51 @@
           "pageview_obscurity": 0.812
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "selenium",
+      "name": "Selenium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Selenium",
+      "attrs": {
+        "atomic_number": 34,
+        "symbol": "Se",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2739806,
+      "obscurity": {
+        "score": 0.8076,
+        "band": "very obscure",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2739806,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4103,
+          "pointless_average_score": 6.0,
+          "pointless_obscurity": 0.94,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Selenium",
+            "score_0_to_100": 6,
+            "episode": "Series 34 Episode 6",
+            "date": null,
+            "question_text": "Chemical elements containing the letter G, C, S, or E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+          }
+        ]
       }
     },
     {
@@ -874,35 +2377,102 @@
       }
     },
     {
-      "id": "lawrencium",
-      "name": "Lawrencium",
+      "id": "boron",
+      "name": "Boron",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lawrencium",
+      "wiki": "https://en.wikipedia.org/wiki/Boron",
       "attrs": {
-        "atomic_number": 103,
-        "symbol": "Lr",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "L",
-        "name_length": 10,
+        "atomic_number": 5,
+        "symbol": "B",
+        "family": "metalloid",
+        "periodic_block": "",
+        "name_initial": "B",
+        "name_length": 5,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "a"
+        "first_vowel": "o"
       },
-      "pageviews": 764552,
+      "pageviews": 1928539,
+      "obscurity": {
+        "score": 0.7925,
+        "band": "very obscure",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1928539,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4701,
+          "pointless_average_score": 10.0,
+          "pointless_obscurity": 0.9,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Boron",
+            "score_0_to_100": 10,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "plutonium",
+      "name": "Plutonium",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Plutonium",
+      "attrs": {
+        "atomic_number": 94,
+        "symbol": "Pu",
+        "family": "actinide",
+        "periodic_block": "f-block",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4921937,
       "obscurity": {
         "score": 0.7863,
         "band": "very obscure",
-        "pointless_score": 21,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 764552,
+          "pageviews": 4921937,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7863
+          "pageview_obscurity": 0.2051,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Plutonium",
+            "score_0_to_100": 3,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Plutonium",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 19",
+            "date": null,
+            "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+          }
+        ]
       }
     },
     {
@@ -933,70 +2503,6 @@
           "pageviews": 765429,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.7778
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "moscovium",
-      "name": "Moscovium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Moscovium",
-      "attrs": {
-        "atomic_number": 115,
-        "symbol": "Mc",
-        "family": "post-transition metal",
-        "periodic_block": "",
-        "name_initial": "M",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 769470,
-      "obscurity": {
-        "score": 0.7692,
-        "band": "very obscure",
-        "pointless_score": 23,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 769470,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7692
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "dysprosium",
-      "name": "Dysprosium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Dysprosium",
-      "attrs": {
-        "atomic_number": 66,
-        "symbol": "Dy",
-        "family": "lanthanide",
-        "periodic_block": "f-block",
-        "name_initial": "D",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 770076,
-      "obscurity": {
-        "score": 0.7607,
-        "band": "very obscure",
-        "pointless_score": 24,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 770076,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7607
         },
         "evidence": []
       }
@@ -1098,38 +2604,6 @@
       }
     },
     {
-      "id": "rhenium",
-      "name": "Rhenium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Rhenium",
-      "attrs": {
-        "atomic_number": 75,
-        "symbol": "Re",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "R",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 1251803,
-      "obscurity": {
-        "score": 0.7265,
-        "band": "very obscure",
-        "pointless_score": 27,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1251803,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7265
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "ruthenium",
       "name": "Ruthenium",
       "aliases": [],
@@ -1159,6 +2633,51 @@
           "pageview_obscurity": 0.7179
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "neon",
+      "name": "Neon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neon",
+      "attrs": {
+        "atomic_number": 10,
+        "symbol": "Ne",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922359,
+      "obscurity": {
+        "score": 0.7145,
+        "band": "very obscure",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4922359,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.188,
+          "pointless_average_score": 11.0,
+          "pointless_obscurity": 0.89,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Neon",
+            "score_0_to_100": 11,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -1194,35 +2713,48 @@
       }
     },
     {
-      "id": "tennessine",
-      "name": "Tennessine",
+      "id": "potassium",
+      "name": "Potassium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tennessine",
+      "wiki": "https://en.wikipedia.org/wiki/Potassium",
       "attrs": {
-        "atomic_number": 117,
-        "symbol": "Ts",
-        "family": "halogen",
+        "atomic_number": 19,
+        "symbol": "K",
+        "family": "alkali metal",
         "periodic_block": "",
-        "name_initial": "T",
-        "name_length": 10,
+        "name_initial": "P",
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "o"
       },
-      "pageviews": 1253896,
+      "pageviews": 4926989,
       "obscurity": {
-        "score": 0.7009,
+        "score": 0.6985,
         "band": "very obscure",
-        "pointless_score": 30,
+        "pointless_score": 12,
         "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 1253896,
+          "pageviews": 4926989,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7009
+          "pageview_obscurity": 0.1538,
+          "pointless_average_score": 12.0,
+          "pointless_obscurity": 0.88,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Potassium",
+            "score_0_to_100": 12,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
       }
     },
     {
@@ -1290,35 +2822,48 @@
       }
     },
     {
-      "id": "curium",
-      "name": "Curium",
+      "id": "magnesium",
+      "name": "Magnesium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Curium",
+      "wiki": "https://en.wikipedia.org/wiki/Magnesium",
       "attrs": {
-        "atomic_number": 96,
-        "symbol": "Cm",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "C",
-        "name_length": 6,
+        "atomic_number": 12,
+        "symbol": "Mg",
+        "family": "alkaline earth metal",
+        "periodic_block": "",
+        "name_initial": "M",
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "u"
+        "first_vowel": "a"
       },
-      "pageviews": 1255863,
+      "pageviews": 4913871,
       "obscurity": {
-        "score": 0.6752,
+        "score": 0.6727,
         "band": "very obscure",
-        "pointless_score": 32,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 1255863,
+          "pageviews": 4913871,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6752
+          "pageview_obscurity": 0.2308,
+          "pointless_average_score": 18.0,
+          "pointless_obscurity": 0.82,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Magnesium",
+            "score_0_to_100": 18,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
       }
     },
     {
@@ -1354,67 +2899,102 @@
       }
     },
     {
-      "id": "europium",
-      "name": "Europium",
+      "id": "zinc",
+      "name": "Zinc",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Europium",
+      "wiki": "https://en.wikipedia.org/wiki/Zinc",
       "attrs": {
-        "atomic_number": 63,
-        "symbol": "Eu",
-        "family": "lanthanide",
-        "periodic_block": "f-block",
-        "name_initial": "E",
-        "name_length": 8,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "e"
+        "atomic_number": 30,
+        "symbol": "Zn",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "Z",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
       },
-      "pageviews": 1257675,
+      "pageviews": 6286994,
       "obscurity": {
-        "score": 0.6581,
-        "band": "useful low scorer",
-        "pointless_score": 34,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "score": 0.6642,
+        "band": "very obscure",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 1257675,
+          "pageviews": 6286994,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6581
+          "pageview_obscurity": 0.1368,
+          "pointless_average_score": 16.0,
+          "pointless_obscurity": 0.84,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Zinc",
+            "score_0_to_100": 16,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
-      "id": "cerium",
-      "name": "Cerium",
+      "id": "chlorine",
+      "name": "Chlorine",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Cerium",
+      "wiki": "https://en.wikipedia.org/wiki/Chlorine",
       "attrs": {
-        "atomic_number": 58,
-        "symbol": "Ce",
-        "family": "lanthanide",
-        "periodic_block": "f-block",
+        "atomic_number": 17,
+        "symbol": "Cl",
+        "family": "halogen",
+        "periodic_block": "",
         "name_initial": "C",
-        "name_length": 6,
+        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "o"
       },
-      "pageviews": 1258406,
+      "pageviews": 4927775,
       "obscurity": {
-        "score": 0.6496,
-        "band": "useful low scorer",
-        "pointless_score": 35,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "score": 0.6626,
+        "band": "very obscure",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 1258406,
+          "pageviews": 4927775,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6496
+          "pageview_obscurity": 0.1453,
+          "pointless_average_score": 16.5,
+          "pointless_obscurity": 0.835,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Chlorine",
+            "score_0_to_100": 12,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          },
+          {
+            "category": "chemical-elements",
+            "answer": "Chlorine",
+            "score_0_to_100": 21,
+            "episode": "Series 35 Episode 28",
+            "date": null,
+            "question_text": "Chemical elements that contain the letter I once and once only",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+          }
+        ]
       }
     },
     {
@@ -1445,38 +3025,6 @@
           "pageviews": 1260567,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.641
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "yttrium",
-      "name": "Yttrium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Yttrium",
-      "attrs": {
-        "atomic_number": 39,
-        "symbol": "Y",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "Y",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 1261908,
-      "obscurity": {
-        "score": 0.6325,
-        "band": "useful low scorer",
-        "pointless_score": 37,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1261908,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6325
         },
         "evidence": []
       }
@@ -1546,38 +3094,6 @@
       }
     },
     {
-      "id": "oganesson",
-      "name": "Oganesson",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Oganesson",
-      "attrs": {
-        "atomic_number": 118,
-        "symbol": "Og",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "O",
-        "name_length": 9,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "o"
-      },
-      "pageviews": 1269904,
-      "obscurity": {
-        "score": 0.6068,
-        "band": "useful low scorer",
-        "pointless_score": 39,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1269904,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6068
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "francium",
       "name": "Francium",
       "aliases": [],
@@ -1610,131 +3126,93 @@
       }
     },
     {
-      "id": "astatine",
-      "name": "Astatine",
+      "id": "iron",
+      "name": "Iron",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Astatine",
+      "wiki": "https://en.wikipedia.org/wiki/Iron",
       "attrs": {
-        "atomic_number": 85,
-        "symbol": "At",
-        "family": "halogen",
+        "atomic_number": 26,
+        "symbol": "Fe",
+        "family": "transition metal",
         "periodic_block": "",
-        "name_initial": "A",
-        "name_length": 8,
+        "name_initial": "I",
+        "name_length": 4,
         "starts_with_vowel": true,
         "starts_with_consonant": false,
-        "first_vowel": "a"
+        "first_vowel": "i"
       },
-      "pageviews": 1271584,
+      "pageviews": 6309343,
       "obscurity": {
-        "score": 0.5897,
+        "score": 0.5946,
         "band": "useful low scorer",
-        "pointless_score": 41,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 1271584,
+          "pageviews": 6309343,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5897
+          "pageview_obscurity": 0.0085,
+          "pointless_average_score": 21.0,
+          "pointless_obscurity": 0.79,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Iron",
+            "score_0_to_100": 21,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
-      "id": "tellurium",
-      "name": "Tellurium",
+      "id": "nickel",
+      "name": "Nickel",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tellurium",
+      "wiki": "https://en.wikipedia.org/wiki/Nickel",
       "attrs": {
-        "atomic_number": 52,
-        "symbol": "Te",
-        "family": "metalloid",
+        "atomic_number": 28,
+        "symbol": "Ni",
+        "family": "transition metal",
         "periodic_block": "",
-        "name_initial": "T",
-        "name_length": 9,
+        "name_initial": "N",
+        "name_length": 6,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "i"
       },
-      "pageviews": 1272516,
+      "pageviews": 4926311,
       "obscurity": {
-        "score": 0.5812,
+        "score": 0.5602,
         "band": "useful low scorer",
-        "pointless_score": 42,
+        "pointless_score": 31,
         "pointless_band": "playable",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 1272516,
+          "pageviews": 4926311,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5812
+          "pageview_obscurity": 0.1709,
+          "pointless_average_score": 31.0,
+          "pointless_obscurity": 0.69,
+          "pointless_observations": 1
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "strontium",
-      "name": "Strontium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Strontium",
-      "attrs": {
-        "atomic_number": 38,
-        "symbol": "Sr",
-        "family": "alkaline earth metal",
-        "periodic_block": "",
-        "name_initial": "S",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1908587,
-      "obscurity": {
-        "score": 0.5726,
-        "band": "useful low scorer",
-        "pointless_score": 43,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1908587,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5726
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "einsteinium",
-      "name": "Einsteinium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Einsteinium",
-      "attrs": {
-        "atomic_number": 99,
-        "symbol": "Es",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "E",
-        "name_length": 11,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "e"
-      },
-      "pageviews": 1909436,
-      "obscurity": {
-        "score": 0.5641,
-        "band": "useful low scorer",
-        "pointless_score": 44,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1909436,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5641
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Nickel",
+            "score_0_to_100": 31,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -1767,6 +3245,51 @@
           "pageview_obscurity": 0.5556
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "copper",
+      "name": "Copper",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Copper",
+      "attrs": {
+        "atomic_number": 29,
+        "symbol": "Cu",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6292688,
+      "obscurity": {
+        "score": 0.5539,
+        "band": "useful low scorer",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6292688,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0855,
+          "pointless_average_score": 29.0,
+          "pointless_obscurity": 0.71,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Copper",
+            "score_0_to_100": 29,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -1834,70 +3357,6 @@
       }
     },
     {
-      "id": "neptunium",
-      "name": "Neptunium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Neptunium",
-      "attrs": {
-        "atomic_number": 93,
-        "symbol": "Np",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "N",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 1915847,
-      "obscurity": {
-        "score": 0.5299,
-        "band": "useful low scorer",
-        "pointless_score": 47,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1915847,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5299
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "germanium",
-      "name": "Germanium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Germanium",
-      "attrs": {
-        "atomic_number": 32,
-        "symbol": "Ge",
-        "family": "metalloid",
-        "periodic_block": "",
-        "name_initial": "G",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 1916412,
-      "obscurity": {
-        "score": 0.5214,
-        "band": "useful low scorer",
-        "pointless_score": 48,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1916412,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5214
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "antimony",
       "name": "Antimony",
       "aliases": [],
@@ -1930,35 +3389,48 @@
       }
     },
     {
-      "id": "zirconium",
-      "name": "Zirconium",
+      "id": "titanium",
+      "name": "Titanium",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Zirconium",
+      "wiki": "https://en.wikipedia.org/wiki/Titanium",
       "attrs": {
-        "atomic_number": 40,
-        "symbol": "Zr",
+        "atomic_number": 22,
+        "symbol": "Ti",
         "family": "transition metal",
         "periodic_block": "",
-        "name_initial": "Z",
-        "name_length": 9,
+        "name_initial": "T",
+        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 1921084,
+      "pageviews": 4922285,
       "obscurity": {
-        "score": 0.5043,
+        "score": 0.5066,
         "band": "useful low scorer",
-        "pointless_score": 50,
+        "pointless_score": 39,
         "pointless_band": "playable",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 1921084,
+          "pageviews": 4922285,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5043
+          "pageview_obscurity": 0.1966,
+          "pointless_average_score": 39.0,
+          "pointless_obscurity": 0.61,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Titanium",
+            "score_0_to_100": 39,
+            "episode": "Series 35 Episode 1",
+            "date": null,
+            "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+          }
+        ]
       }
     },
     {
@@ -2053,70 +3525,6 @@
           "pageviews": 1925265,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.4786
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "boron",
-      "name": "Boron",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Boron",
-      "attrs": {
-        "atomic_number": 5,
-        "symbol": "B",
-        "family": "metalloid",
-        "periodic_block": "",
-        "name_initial": "B",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1928539,
-      "obscurity": {
-        "score": 0.4701,
-        "band": "useful low scorer",
-        "pointless_score": 53,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1928539,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4701
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "californium",
-      "name": "Californium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Californium",
-      "attrs": {
-        "atomic_number": 98,
-        "symbol": "Cf",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "C",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 1928966,
-      "obscurity": {
-        "score": 0.4615,
-        "band": "useful low scorer",
-        "pointless_score": 54,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1928966,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4615
         },
         "evidence": []
       }
@@ -2284,163 +3692,93 @@
       }
     },
     {
-      "id": "selenium",
-      "name": "Selenium",
+      "id": "krypton",
+      "name": "Krypton",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Selenium",
+      "wiki": "https://en.wikipedia.org/wiki/Krypton",
       "attrs": {
-        "atomic_number": 34,
-        "symbol": "Se",
-        "family": "nonmetal",
+        "atomic_number": 36,
+        "symbol": "Kr",
+        "family": "noble gas",
         "periodic_block": "",
-        "name_initial": "S",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 2739806,
-      "obscurity": {
-        "score": 0.4103,
-        "band": "middling",
-        "pointless_score": 59,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2739806,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4103
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "bismuth",
-      "name": "Bismuth",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bismuth",
-      "attrs": {
-        "atomic_number": 83,
-        "symbol": "Bi",
-        "family": "post-transition metal",
-        "periodic_block": "",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 2741647,
-      "obscurity": {
-        "score": 0.4017,
-        "band": "middling",
-        "pointless_score": 60,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2741647,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4017
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "gallium",
-      "name": "Gallium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Gallium",
-      "attrs": {
-        "atomic_number": 31,
-        "symbol": "Ga",
-        "family": "post-transition metal",
-        "periodic_block": "",
-        "name_initial": "G",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2745550,
-      "obscurity": {
-        "score": 0.3932,
-        "band": "middling",
-        "pointless_score": 61,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2745550,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3932
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "rhodium",
-      "name": "Rhodium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Rhodium",
-      "attrs": {
-        "atomic_number": 45,
-        "symbol": "Rh",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "R",
+        "name_initial": "K",
         "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "o"
       },
-      "pageviews": 2746475,
+      "pageviews": 3743899,
       "obscurity": {
-        "score": 0.3846,
+        "score": 0.4037,
         "band": "middling",
-        "pointless_score": 62,
+        "pointless_score": 55,
         "pointless_band": "high scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 2746475,
+          "pageviews": 3743899,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3846
+          "pageview_obscurity": 0.265,
+          "pointless_average_score": 55.0,
+          "pointless_obscurity": 0.45,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Krypton",
+            "score_0_to_100": 55,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
-      "id": "manganese",
-      "name": "Manganese",
+      "id": "argon",
+      "name": "Argon",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Manganese",
+      "wiki": "https://en.wikipedia.org/wiki/Argon",
       "attrs": {
-        "atomic_number": 25,
-        "symbol": "Mn",
-        "family": "transition metal",
+        "atomic_number": 18,
+        "symbol": "Ar",
+        "family": "noble gas",
         "periodic_block": "",
-        "name_initial": "M",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
+        "name_initial": "A",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
         "first_vowel": "a"
       },
-      "pageviews": 2747197,
+      "pageviews": 3751015,
       "obscurity": {
-        "score": 0.3761,
+        "score": 0.3748,
         "band": "middling",
-        "pointless_score": 62,
+        "pointless_score": 58,
         "pointless_band": "high scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 2747197,
+          "pageviews": 3751015,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3761
+          "pageview_obscurity": 0.2393,
+          "pointless_average_score": 58.0,
+          "pointless_obscurity": 0.42,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Argon",
+            "score_0_to_100": 58,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -2508,38 +3846,6 @@
       }
     },
     {
-      "id": "thorium",
-      "name": "Thorium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Thorium",
-      "attrs": {
-        "atomic_number": 90,
-        "symbol": "Th",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "T",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 2751231,
-      "obscurity": {
-        "score": 0.3504,
-        "band": "middling",
-        "pointless_score": 65,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2751231,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3504
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "phosphorus",
       "name": "Phosphorus",
       "aliases": [],
@@ -2572,35 +3878,93 @@
       }
     },
     {
-      "id": "lithium",
-      "name": "Lithium",
+      "id": "carbon",
+      "name": "Carbon",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lithium",
+      "wiki": "https://en.wikipedia.org/wiki/Carbon",
       "attrs": {
-        "atomic_number": 3,
-        "symbol": "Li",
-        "family": "alkali metal",
+        "atomic_number": 6,
+        "symbol": "C",
+        "family": "nonmetal",
         "periodic_block": "",
-        "name_initial": "L",
-        "name_length": 7,
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6304929,
+      "obscurity": {
+        "score": 0.3418,
+        "band": "middling",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6304929,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0171,
+          "pointless_average_score": 55.0,
+          "pointless_obscurity": 0.45,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Carbon",
+            "score_0_to_100": 55,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Silver",
+      "attrs": {
+        "atomic_number": 47,
+        "symbol": "Ag",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 6,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 3732892,
+      "pageviews": 6293094,
       "obscurity": {
-        "score": 0.3333,
+        "score": 0.3417,
         "band": "middling",
-        "pointless_score": 67,
+        "pointless_score": 57,
         "pointless_band": "high scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 3732892,
+          "pageviews": 6293094,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3333
+          "pageview_obscurity": 0.0769,
+          "pointless_average_score": 57.0,
+          "pointless_obscurity": 0.43,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Silver",
+            "score_0_to_100": 57,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -2702,35 +4066,48 @@
       }
     },
     {
-      "id": "palladium",
-      "name": "Palladium",
+      "id": "lead",
+      "name": "Lead",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Palladium",
+      "wiki": "https://en.wikipedia.org/wiki/Lead_(element)",
       "attrs": {
-        "atomic_number": 46,
-        "symbol": "Pd",
-        "family": "transition metal",
+        "atomic_number": 82,
+        "symbol": "Pb",
+        "family": "post-transition metal",
         "periodic_block": "",
-        "name_initial": "P",
-        "name_length": 9,
+        "name_initial": "L",
+        "name_length": 4,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "a"
+        "first_vowel": "e"
       },
-      "pageviews": 3734689,
+      "pageviews": 6292603,
       "obscurity": {
-        "score": 0.2991,
+        "score": 0.3031,
         "band": "middling",
-        "pointless_score": 70,
+        "pointless_score": 63,
         "pointless_band": "high scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 3734689,
+          "pageviews": 6292603,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2991
+          "pageview_obscurity": 0.1026,
+          "pointless_average_score": 63.0,
+          "pointless_obscurity": 0.37,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Lead",
+            "score_0_to_100": 63,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -2761,102 +4138,6 @@
           "pageviews": 3734977,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.2906
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "radon",
-      "name": "Radon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Radon",
-      "attrs": {
-        "atomic_number": 86,
-        "symbol": "Rn",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "R",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 3739622,
-      "obscurity": {
-        "score": 0.2821,
-        "band": "middling",
-        "pointless_score": 72,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3739622,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2821
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "xenon",
-      "name": "Xenon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Xenon",
-      "attrs": {
-        "atomic_number": 54,
-        "symbol": "Xe",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "X",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 3740374,
-      "obscurity": {
-        "score": 0.2735,
-        "band": "middling",
-        "pointless_score": 73,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3740374,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2735
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "krypton",
-      "name": "Krypton",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Krypton",
-      "attrs": {
-        "atomic_number": 36,
-        "symbol": "Kr",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "K",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3743899,
-      "obscurity": {
-        "score": 0.265,
-        "band": "middling",
-        "pointless_score": 74,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3743899,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.265
         },
         "evidence": []
       }
@@ -2926,67 +4207,48 @@
       }
     },
     {
-      "id": "argon",
-      "name": "Argon",
+      "id": "tin",
+      "name": "Tin",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Argon",
+      "wiki": "https://en.wikipedia.org/wiki/Tin",
       "attrs": {
-        "atomic_number": 18,
-        "symbol": "Ar",
-        "family": "noble gas",
+        "atomic_number": 50,
+        "symbol": "Sn",
+        "family": "post-transition metal",
         "periodic_block": "",
-        "name_initial": "A",
-        "name_length": 5,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 3751015,
-      "obscurity": {
-        "score": 0.2393,
-        "band": "obvious",
-        "pointless_score": 76,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3751015,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2393
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "magnesium",
-      "name": "Magnesium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Magnesium",
-      "attrs": {
-        "atomic_number": 12,
-        "symbol": "Mg",
-        "family": "alkaline earth metal",
-        "periodic_block": "",
-        "name_initial": "M",
-        "name_length": 9,
+        "name_initial": "T",
+        "name_length": 3,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "a"
+        "first_vowel": "i"
       },
-      "pageviews": 4913871,
+      "pageviews": 4922955,
       "obscurity": {
-        "score": 0.2308,
+        "score": 0.2399,
         "band": "obvious",
-        "pointless_score": 77,
+        "pointless_score": 74,
         "pointless_band": "high scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 4913871,
+          "pageviews": 4922955,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2308
+          "pageview_obscurity": 0.1795,
+          "pointless_average_score": 74.0,
+          "pointless_obscurity": 0.26,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Tin",
+            "score_0_to_100": 74,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -3056,166 +4318,6 @@
       }
     },
     {
-      "id": "plutonium",
-      "name": "Plutonium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Plutonium",
-      "attrs": {
-        "atomic_number": 94,
-        "symbol": "Pu",
-        "family": "actinide",
-        "periodic_block": "f-block",
-        "name_initial": "P",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 4921937,
-      "obscurity": {
-        "score": 0.2051,
-        "band": "obvious",
-        "pointless_score": 79,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4921937,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2051
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "titanium",
-      "name": "Titanium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Titanium",
-      "attrs": {
-        "atomic_number": 22,
-        "symbol": "Ti",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "T",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 4922285,
-      "obscurity": {
-        "score": 0.1966,
-        "band": "obvious",
-        "pointless_score": 80,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4922285,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1966
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "neon",
-      "name": "Neon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Neon",
-      "attrs": {
-        "atomic_number": 10,
-        "symbol": "Ne",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "N",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4922359,
-      "obscurity": {
-        "score": 0.188,
-        "band": "obvious",
-        "pointless_score": 81,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4922359,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.188
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "tin",
-      "name": "Tin",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tin",
-      "attrs": {
-        "atomic_number": 50,
-        "symbol": "Sn",
-        "family": "post-transition metal",
-        "periodic_block": "",
-        "name_initial": "T",
-        "name_length": 3,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 4922955,
-      "obscurity": {
-        "score": 0.1795,
-        "band": "obvious",
-        "pointless_score": 82,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4922955,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1795
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "nickel",
-      "name": "Nickel",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Nickel",
-      "attrs": {
-        "atomic_number": 28,
-        "symbol": "Ni",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "N",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 4926311,
-      "obscurity": {
-        "score": 0.1709,
-        "band": "obvious",
-        "pointless_score": 83,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4926311,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1709
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "iodine",
       "name": "Iodine",
       "aliases": [],
@@ -3243,102 +4345,6 @@
           "pageviews": 4926621,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1624
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "potassium",
-      "name": "Potassium",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Potassium",
-      "attrs": {
-        "atomic_number": 19,
-        "symbol": "K",
-        "family": "alkali metal",
-        "periodic_block": "",
-        "name_initial": "P",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 4926989,
-      "obscurity": {
-        "score": 0.1538,
-        "band": "obvious",
-        "pointless_score": 85,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4926989,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1538
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "chlorine",
-      "name": "Chlorine",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Chlorine",
-      "attrs": {
-        "atomic_number": 17,
-        "symbol": "Cl",
-        "family": "halogen",
-        "periodic_block": "",
-        "name_initial": "C",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 4927775,
-      "obscurity": {
-        "score": 0.1453,
-        "band": "obvious",
-        "pointless_score": 85,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4927775,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1453
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "zinc",
-      "name": "Zinc",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Zinc",
-      "attrs": {
-        "atomic_number": 30,
-        "symbol": "Zn",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "Z",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6286994,
-      "obscurity": {
-        "score": 0.1368,
-        "band": "obvious",
-        "pointless_score": 86,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6286994,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1368
         },
         "evidence": []
       }
@@ -3375,6 +4381,51 @@
           "pageview_obscurity": 0.1282
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gold",
+      "attrs": {
+        "atomic_number": 79,
+        "symbol": "Au",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "G",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6292616,
+      "obscurity": {
+        "score": 0.121,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6292616,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.094,
+          "pointless_average_score": 87.0,
+          "pointless_obscurity": 0.13,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "chemical-elements",
+            "answer": "Gold",
+            "score_0_to_100": 87,
+            "episode": "Series 35 Episode 15",
+            "date": null,
+            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+          }
+        ]
       }
     },
     {
@@ -3437,134 +4488,6 @@
           "pageviews": 6291293,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1111
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "lead",
-      "name": "Lead",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lead_(element)",
-      "attrs": {
-        "atomic_number": 82,
-        "symbol": "Pb",
-        "family": "post-transition metal",
-        "periodic_block": "",
-        "name_initial": "L",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 6292603,
-      "obscurity": {
-        "score": 0.1026,
-        "band": "obvious",
-        "pointless_score": 90,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6292603,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1026
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "gold",
-      "name": "Gold",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Gold",
-      "attrs": {
-        "atomic_number": 79,
-        "symbol": "Au",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "G",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 6292616,
-      "obscurity": {
-        "score": 0.094,
-        "band": "obvious",
-        "pointless_score": 91,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6292616,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.094
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "copper",
-      "name": "Copper",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Copper",
-      "attrs": {
-        "atomic_number": 29,
-        "symbol": "Cu",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "C",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 6292688,
-      "obscurity": {
-        "score": 0.0855,
-        "band": "obvious",
-        "pointless_score": 91,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6292688,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0855
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "silver",
-      "name": "Silver",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Silver",
-      "attrs": {
-        "atomic_number": 47,
-        "symbol": "Ag",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "S",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6293094,
-      "obscurity": {
-        "score": 0.0769,
-        "band": "obvious",
-        "pointless_score": 92,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6293094,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0769
         },
         "evidence": []
       }
@@ -3759,70 +4682,6 @@
           "pageviews": 6303796,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0256
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "carbon",
-      "name": "Carbon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Carbon",
-      "attrs": {
-        "atomic_number": 6,
-        "symbol": "C",
-        "family": "nonmetal",
-        "periodic_block": "",
-        "name_initial": "C",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 6304929,
-      "obscurity": {
-        "score": 0.0171,
-        "band": "obvious",
-        "pointless_score": 98,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6304929,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0171
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "iron",
-      "name": "Iron",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Iron",
-      "attrs": {
-        "atomic_number": 26,
-        "symbol": "Fe",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "I",
-        "name_length": 4,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "i"
-      },
-      "pageviews": 6309343,
-      "obscurity": {
-        "score": 0.0085,
-        "band": "obvious",
-        "pointless_score": 99,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6309343,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0085
         },
         "evidence": []
       }

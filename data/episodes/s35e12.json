@@ -1,0 +1,486 @@
+{
+  "episode_id": "s35e12",
+  "episode_label": "Series 35 Episode 12",
+  "series": 35,
+  "episode": 12,
+  "pid": "m002vdzg",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vdzg",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Any nation other than Team GB that won at least one medal of any colour at the 2024 Summer Olympic Games in Paris",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "South Korea",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "down to seven. Very well done indeed."
+        },
+        {
+          "answer": "Pakistan",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Syma",
+          "evidence_quote": "Three for Pakistan. Very well done, Syma."
+        },
+        {
+          "answer": "Kenya",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Kenya joining Daniel and Rosie on seven."
+        },
+        {
+          "answer": "Ethiopia",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Five for Ethiopia. Very well done indeed."
+        },
+        {
+          "answer": "North Korea",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "You needed one, you got one. That takes your total up to six."
+        },
+        {
+          "answer": "Czechia",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Christine",
+          "evidence_quote": "down it goes to one! This is a terrific answer."
+        },
+        {
+          "answer": "Canada",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jasmine",
+          "evidence_quote": "17 for Canada, taking your total up to 20."
+        },
+        {
+          "answer": "Kazakhstan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rosie",
+          "evidence_quote": "That's a pointless answer and being pointless, it adds £250"
+        },
+        {
+          "answer": "Austria",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we've got Austria, Bahrain, Chile"
+        },
+        {
+          "answer": "Bahrain",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we've got Austria, Bahrain, Chile"
+        },
+        {
+          "answer": "Chile",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we've got Austria, Bahrain, Chile"
+        },
+        {
+          "answer": "Croatia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Croatia, Dominican Republic, Guatemala"
+        },
+        {
+          "answer": "Dominican Republic",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Croatia, Dominican Republic, Guatemala"
+        },
+        {
+          "answer": "Guatemala",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Croatia, Dominican Republic, Guatemala"
+        },
+        {
+          "answer": "Iran",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Iran, Slovenia, Uganda"
+        },
+        {
+          "answer": "Slovenia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Iran, Slovenia, Uganda"
+        },
+        {
+          "answer": "Uganda",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Iran, Slovenia, Uganda"
+        },
+        {
+          "answer": "Refugee Olympic Team",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Another good pointless answer was the Refugee Olympic Team"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Pairs of compound words that change meaning when the order of their components is reversed (given definitions of both)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "huntsman, manhunts",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rosie",
+          "evidence_quote": "That goes down to 5. 5, very well done indeed. Huntsman, manhunts."
+        },
+        {
+          "answer": "takeout, outtake",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Christine",
+          "evidence_quote": "26 for takeout, outtake."
+        },
+        {
+          "answer": "overhang, hangover",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "31 for overhang, hangover."
+        },
+        {
+          "answer": "houseboat, boathouse",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's houseboat, boathouse. 19. Nice."
+        },
+        {
+          "answer": "birdsong, songbird",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "birdsong, songbird. Would have given you 9."
+        },
+        {
+          "answer": "bookcase, casebook",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And bookcase, casebook. Yes. For 10."
+        },
+        {
+          "answer": "uphold, holdup",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Down it goes to 6, which is the second-lowest score of the whole round"
+        },
+        {
+          "answer": "outlook, lookout",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "12 for outlook, lookout, taking your total up to 38."
+        },
+        {
+          "answer": "gunshot, shotgun",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "There we are, 22, taking your total up to 27."
+        },
+        {
+          "answer": "workhouse, housework",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "workhouse, housework. Mm-hm. 17."
+        },
+        {
+          "answer": "oversleep, sleepover",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "oversleep and sleepover. 41."
+        },
+        {
+          "answer": "watchdog, dogwatch",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Is watchdog, dogwatch. Would have gotten you 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Identify which options are pointless characters from In The Night Garden (two scoring, two pointless, two not characters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tombliboo Eee",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "Definitely a character from In The Night Garden. Oh, 5!"
+        },
+        {
+          "answer": "Tittifers",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Yep, it's right. Ah! Well done. Well done on that pointless answer."
+        },
+        {
+          "answer": "The Ninky Nonk",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Ninky Nonk, a train... Scored you 7."
+        },
+        {
+          "answer": "The Haahoos",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Five enormous pillowy creatures. Pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Question 1",
+      "category_text": "People whose surnames are or sound like comparative adjectives (first name and first letter given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Kieran Trippier",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "Kieran Trippier is right. That goes down to 31."
+        },
+        {
+          "answer": "Ben Stiller",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Ben Stiller is right. And that goes down to 53."
+        },
+        {
+          "answer": "Deontay Wilder",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Deontay Wilder would have gotten you 32."
+        },
+        {
+          "answer": "Pernille Harder",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pernille Harder, she's the Danish football captain. That would have gotten you 3."
+        },
+        {
+          "answer": "Catherine Keener",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Catherine Keener, an actor from Being John Malkovich... 5."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Question 2",
+      "category_text": "Acts performing UK top 40 singles with titles relating to outer space",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sam Smith",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Is it right, though? No, not Sam Smith"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rosie",
+          "evidence_quote": "you are correct... it goes down to 18."
+        },
+        {
+          "answer": "Bananarama",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Venus, number eight in 1986, would have got you 24."
+        },
+        {
+          "answer": "Sam Ryder",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "runner-up in the Eurovision Song Contest, scored 11."
+        },
+        {
+          "answer": "David Bowie",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Life On Mars? would have gotten you 25"
+        },
+        {
+          "answer": "Inspiral Carpets",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Saturn 5, it's called... That got you 3 points."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Films nominated for an award at the 96th Academy Awards (March 2024) or anyone nominated for an acting award",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Banshees Of Inisherin",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Daniel",
+          "evidence_quote": "they were nominated the previous year, 2023."
+        },
+        {
+          "answer": "Barry Keoghan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Daniel",
+          "evidence_quote": "might Barry Keoghan be pointless? Oh! No!"
+        },
+        {
+          "answer": "The Boy And The Heron",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Daniel",
+          "evidence_quote": "The Boy And The Heron. It's pointless! Very well done indeed."
+        }
+      ]
+    }
+  ]
+}

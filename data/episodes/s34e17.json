@@ -1,0 +1,423 @@
+{
+  "episode_id": "s34e17",
+  "episode_label": "Series 34 Episode 17",
+  "series": 34,
+  "episode": 17,
+  "pid": "m002kv95",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cardiff",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Glesni",
+          "evidence_quote": "Cardiff is right. And down it goes to 25."
+        },
+        {
+          "answer": "Chelmsford",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "Down it goes to one, Esther!"
+        },
+        {
+          "answer": "Canterbury",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "There you are on five for Canterbury."
+        },
+        {
+          "answer": "Newry",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "That's a pointless answer. It adds £250 to today's jackpot."
+        },
+        {
+          "answer": "Bangor",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Scores you one. Very well done indeed. Taking your total up to one."
+        },
+        {
+          "answer": "Dundee",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "Down it goes to two. Superb."
+        },
+        {
+          "answer": "Durham",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Yanat",
+          "evidence_quote": "Yes! You are through. Very well done indeed. Down to six."
+        },
+        {
+          "answer": "Derry",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "One for Derry. There we are."
+        },
+        {
+          "answer": "Stanley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Stanley in the Falklands, and Stoke-on-Trent."
+        },
+        {
+          "answer": "Stoke-on-Trent",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Stanley in the Falklands, and Stoke-on-Trent."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Famous people who won something in 2024 (identify from clues with initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nicole Scherzinger",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "Nicole Scherzinger. Good answer. Down it goes to 34."
+        },
+        {
+          "answer": "Mary Earps",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "You pass it. 16. Brilliant."
+        },
+        {
+          "answer": "Mark Cavendish",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Mark Cavendish, 17. Well done."
+        },
+        {
+          "answer": "Keir Starmer",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Keir Starmer, obviously, at the top... He scored 70."
+        },
+        {
+          "answer": "Anna Lapwood",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Anna Lapwood is the organist... Pointless answer!"
+        },
+        {
+          "answer": "David Potts",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's David Potts. Yeah, he would've scored you six."
+        },
+        {
+          "answer": "Michelle Obama",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "43 for Michelle Obama, taking your total up to a nice round 60."
+        },
+        {
+          "answer": "Emma Stone",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "Down we go to 16."
+        },
+        {
+          "answer": "Raye",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Yanat",
+          "evidence_quote": "Down it goes to ten. Very well done indeed."
+        },
+        {
+          "answer": "Lewis Hamilton",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's the Formula 1 champion... would have scored you 67."
+        },
+        {
+          "answer": "Amitav Ghosh",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Amitav Ghosh is his name. And it's a pointless answer."
+        },
+        {
+          "answer": "Iga Swiatek",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Iga Swiatek. And you'd have would scored three"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Which of these six are titles of Father Brown stories by GK Chesterton (find the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Passion Of Saint Tibulus",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "That's actually from Father Ted, and not Father Brown."
+        },
+        {
+          "answer": "The Salad Of Colonel Cray",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "The Salad is a pointless Father Brown story."
+        },
+        {
+          "answer": "The Vampire Of The Village",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The Vampire Of The Village... Absolutely pointless."
+        },
+        {
+          "answer": "The Hammer Of God",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Hammer Of God is a Father Brown story, and five out of 100 people said so."
+        },
+        {
+          "answer": "The Worst Crime In The World",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Worst Crime In The World - one point."
+        },
+        {
+          "answer": "The Ear Of Artemis",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "There is a story called The Eye Of Apollo, but no The Ear Of Artemis."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Names of percussion instruments used in music from various parts of the world (with alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Steel drum",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Steel drum is right. Down it goes to 54."
+        },
+        {
+          "answer": "Tabla",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "Tabla is right, and it beats steel drum. Down it goes to nine."
+        },
+        {
+          "answer": "Cabasa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cabasa. And that would have been a pointless answer."
+        },
+        {
+          "answer": "Maracas",
+          "score": 81,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "81 for maracas. That was the most popular answer."
+        },
+        {
+          "answer": "Taiko",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Taiko. And it would have scored you five."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Tom Cruise feature film titles with one letter changed in each word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rain Man",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Esther",
+          "evidence_quote": "Rain Man is absolutely right. This is a great answer. Down it goes to 12."
+        },
+        {
+          "answer": "Eyes Wide Shut",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "40 for Eyes Wide Shut."
+        },
+        {
+          "answer": "Top Gun",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Top Gun. Would have scored you 64. In fact, the highest score on the board."
+        },
+        {
+          "answer": "Jack Reacher",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jack Reacher, absolutely. 26, that would have scored you."
+        },
+        {
+          "answer": "The Firm",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "There you go, The Firm. And it would have scored you four"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any word of six or fewer letters in Collins Dictionary online beginning with A and ending with M, or beginning with P and ending with M",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Possum",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "To one for possum!"
+        },
+        {
+          "answer": "Annum",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "To one again!"
+        },
+        {
+          "answer": "Psalm",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Psalm... for five! Five! How can that have five?!"
+        }
+      ]
+    }
+  ]
+}

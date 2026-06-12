@@ -1,0 +1,558 @@
+{
+  "episode_id": "s35e10",
+  "episode_label": "Series 35 Episode 10",
+  "series": 35,
+  "episode": 10,
+  "pid": "m002vdyh",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vdyh",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Clues to types of mythical or supernatural creatures (with first letter and number of letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Faun",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Edward",
+          "evidence_quote": "And down it goes for 12. This is a terrific score, Edward."
+        },
+        {
+          "answer": "Sphinx",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graham",
+          "evidence_quote": "Sphinx is right. 12 is the only score we have at the moment. 20 for sphinx."
+        },
+        {
+          "answer": "Banshee",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "There we are. 28 for banshee."
+        },
+        {
+          "answer": "Yeti",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Yeti's right. 28 is our high score, 12 is our low. 44 for Yeti."
+        },
+        {
+          "answer": "Zombie",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I can give you zombie for the reanimated corpse. Nice. That scored 54."
+        },
+        {
+          "answer": "Unicorn",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I can give you unicorn for the mythical horse-like creature. 64."
+        },
+        {
+          "answer": "Chimera",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Best answer on the board, 7."
+        },
+        {
+          "answer": "Chupacabra",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ross",
+          "evidence_quote": "down it goes to 8. This is superb. Taking your total up to 52."
+        },
+        {
+          "answer": "Griffin",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rosie",
+          "evidence_quote": "You needed 23, you got 23, taking your total up to 51."
+        },
+        {
+          "answer": "Phoenix",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Natalie",
+          "evidence_quote": "Phoenix is right. 56 for phoenix, taking your total up to 76."
+        },
+        {
+          "answer": "Vampire",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "look at that, 59 for vampire. Very well done indeed, Sue. Taking your total up to 71."
+        },
+        {
+          "answer": "Elf",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Elf I knew. 45."
+        },
+        {
+          "answer": "Troll",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "then troll for the cave-dwelling giant. Yes, that would have been a 37."
+        },
+        {
+          "answer": "Selkie",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Selkie. Yeah. That would have got you 7."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Any act that has had at least five different albums at number one in the UK albums charts",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Blur",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Blur is right. Look at that. Down to 5, Sue. Very well done indeed. 5 for Blur."
+        },
+        {
+          "answer": "U2",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rosie",
+          "evidence_quote": "Down goes U2. Another great answer, 4, for U2."
+        },
+        {
+          "answer": "David Bowie",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "4, there you are, joining Rosie and Daniel on 4."
+        },
+        {
+          "answer": "Queen",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ross",
+          "evidence_quote": "Queen is right. 23 for Queen, Ross, taking your total up to 27."
+        },
+        {
+          "answer": "Fleetwood Mac",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "That scores you 100 points, takes your total up to 104. They had four number one albums"
+        },
+        {
+          "answer": "Coldplay",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Edward",
+          "evidence_quote": "Down it goes to 13. Takes your total up to 18. You are in the head-to-head."
+        },
+        {
+          "answer": "Bruce Springsteen",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Bruce Springsteen, Celine Dion, obviously."
+        },
+        {
+          "answer": "Celine Dion",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Bruce Springsteen, Celine Dion, obviously."
+        },
+        {
+          "answer": "Eminem",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Eminem, George Michael, Paul McCartney, Prince and Rod Stewart."
+        },
+        {
+          "answer": "George Michael",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Eminem, George Michael, Paul McCartney, Prince and Rod Stewart."
+        },
+        {
+          "answer": "Paul McCartney",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Eminem, George Michael, Paul McCartney, Prince and Rod Stewart."
+        },
+        {
+          "answer": "Prince",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Eminem, George Michael, Paul McCartney, Prince and Rod Stewart."
+        },
+        {
+          "answer": "Rod Stewart",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Eminem, George Michael, Paul McCartney, Prince and Rod Stewart."
+        },
+        {
+          "answer": "Arctic Monkeys",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And one point for Arctic Monkeys, Ariana Grande, Bon Jovi, Drake, Green Day, Iron Maiden, The Killers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And one point for Arctic Monkeys, Ariana Grande, Bon Jovi, Drake, Green Day, Iron Maiden, The Killers"
+        },
+        {
+          "answer": "Bon Jovi",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And one point for Arctic Monkeys, Ariana Grande, Bon Jovi, Drake, Green Day, Iron Maiden, The Killers"
+        },
+        {
+          "answer": "Drake",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And one point for Arctic Monkeys, Ariana Grande, Bon Jovi, Drake, Green Day, Iron Maiden, The Killers"
+        },
+        {
+          "answer": "Green Day",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And one point for Arctic Monkeys, Ariana Grande, Bon Jovi, Drake, Green Day, Iron Maiden, The Killers"
+        },
+        {
+          "answer": "Iron Maiden",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And one point for Arctic Monkeys, Ariana Grande, Bon Jovi, Drake, Green Day, Iron Maiden, The Killers"
+        },
+        {
+          "answer": "The Killers",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Killers - I feel like that might be more your wheelhouse."
+        },
+        {
+          "answer": "The Police",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Police, Phil Collins, Olly Murs."
+        },
+        {
+          "answer": "Phil Collins",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Police, Phil Collins, Olly Murs."
+        },
+        {
+          "answer": "Olly Murs",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Police, Phil Collins, Olly Murs."
+        }
+      ]
+    },
+    {
+      "round_label": "Pointless Trove",
+      "category_text": "UK offshore wind farms (six options: two scoring, two pointless, two not wind farms)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Scroby Sands",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Lesley",
+          "evidence_quote": "Shall we find out if Scroby Sands is a pointless UK offshore wind farm? It's an offshore wind farm in the UK. Aah!"
+        },
+        {
+          "answer": "Triton Knoll",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sue",
+          "evidence_quote": "We like the sound of Triton Knoll. Oh! Look at that!"
+        },
+        {
+          "answer": "Harrison",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the red herrings - Harrison doesn't exist."
+        },
+        {
+          "answer": "Excalibur",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Excalibur is one of the Arthurian gas fields in the North Sea."
+        },
+        {
+          "answer": "Greater Gabbard",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And we have Greater Gabbard, it's off the coast of Suffolk, for 1."
+        },
+        {
+          "answer": "Beatrice",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beatrice, it's a wind farm off Caithness coast and that scored 4."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Well-known interior designers (with initials given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "William Morris",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "William Morris is right. And that goes down to 15. A good answer."
+        },
+        {
+          "answer": "Terence Conran",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Terence Conran is right. It has to beat 15. And it does. Down it goes to 6."
+        },
+        {
+          "answer": "Kelly Hoppen",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kelly Hoppen was absolutely right. Would have got you 10."
+        },
+        {
+          "answer": "Laurence Llewelyn-Bowen",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Laurence Llewelyn-Bowen, 42."
+        },
+        {
+          "answer": "Michelle Ogundehin",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And Michelle Ogundehin... that was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Original works on which reimagined classics (parallel literature) were based (with initials given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Adventures Of Huckleberry Finn",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Down it goes to 5. 5 for James."
+        },
+        {
+          "answer": "Nineteen Eighty-Four",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Down it goes... Ooh. 9."
+        },
+        {
+          "answer": "Gone With The Wind",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gone With The Wind at 43"
+        },
+        {
+          "answer": "Pride And Prejudice",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pride And Prejudice would have gotten you 28"
+        },
+        {
+          "answer": "The Wind In The Willows",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Wind In The Willows was 24."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Music Composition: types of musical composition or musical expressions and tempo instructions (Collins Dictionary online words list)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pianissimo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "You've done it! Look at that! ... a pointless answer, which means you have won today's jackpot"
+        },
+        {
+          "answer": "Andante",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Still going down with andante. Andante to 2."
+        },
+        {
+          "answer": "Brave",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "your third answer, brave, wasn't actually on Collins' list"
+        }
+      ]
+    }
+  ]
+}

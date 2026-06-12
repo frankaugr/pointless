@@ -1,0 +1,583 @@
+{
+  "episode_id": "s34e41",
+  "episode_label": "Series 34 Episode 41",
+  "series": 34,
+  "episode": 41,
+  "pid": "m002r77c",
+  "source_url": "https://www.bbc.co.uk/programmes/m002r77c",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Surname of any UK Prime Minister (1721–Aug 2024) that contains at least one repeated letter",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Thatcher",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jacqueline",
+          "evidence_quote": "There we are. 48. 48 for Thatcher. Two Ts. Two Hs."
+        },
+        {
+          "answer": "Chamberlain",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Trevor",
+          "evidence_quote": "Oh, look at that, Trevor. Three. This is superb."
+        },
+        {
+          "answer": "Macmillan",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Down it goes to 16. Very well done indeed."
+        },
+        {
+          "answer": "Eden",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rachel",
+          "evidence_quote": "That's a brilliant score. Seven for Eden."
+        },
+        {
+          "answer": "Perceval",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "That's a pointless answer and it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Walpole",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debi",
+          "evidence_quote": "One! That's fantastic. I'm sorry it wasn't one lower"
+        },
+        {
+          "answer": "Pitt",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elliot",
+          "evidence_quote": "Down and down it goes to three. Exactly the same score as Trevor."
+        },
+        {
+          "answer": "Callaghan",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Reynold",
+          "evidence_quote": "Down it goes. A brilliant answer, you see. Five."
+        },
+        {
+          "answer": "Canning",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "Alexander",
+          "evidence_quote": "George Canning, you say? Spot-on."
+        },
+        {
+          "answer": "Douglas-Home",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Alec Douglas-Home. Gascoyne-Cecil would have been on there."
+        },
+        {
+          "answer": "Gascoyne-Cecil",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gascoyne-Cecil would have been on there."
+        },
+        {
+          "answer": "Primrose",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We had Primrose and John Russell."
+        },
+        {
+          "answer": "Russell",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We had Primrose and John Russell."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Identify UK film titles from re-translated foreign release titles (given initials, a star and year), and find the least-known",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Thelma and Louise",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Trevor",
+          "evidence_quote": "Thelma and Louise. Is right, Trevor, and it goes down to 27."
+        },
+        {
+          "answer": "The Fast And The Furious",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debi",
+          "evidence_quote": "39 for Wild Speed."
+        },
+        {
+          "answer": "The Hangover",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rachel",
+          "evidence_quote": "The Hangover, nine. Very well done indeed, Rachel."
+        },
+        {
+          "answer": "Jaws",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the French name for Jaws - would have scored 62"
+        },
+        {
+          "answer": "The Parent Trap",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Parent Trap is a German translation, would have scored 19"
+        },
+        {
+          "answer": "Green Book",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "That is a score of one for Green Book, a Peruvian title."
+        },
+        {
+          "answer": "Eternal Sunshine Of The Spotless Mind",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Down it goes, brilliantly, to four, taking your total up to 13."
+        },
+        {
+          "answer": "Coming To America",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "25, taking your total up to 64."
+        },
+        {
+          "answer": "Booksmart",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elliot",
+          "evidence_quote": "it is a pointless answer. Very, very well done indeed, Elliot."
+        },
+        {
+          "answer": "Home Alone",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "of course, Home Alone. That would have scored 73."
+        },
+        {
+          "answer": "Alien",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alien, that's absolutely right as well, Elliot, would have scored 51."
+        },
+        {
+          "answer": "Bad Boys",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "was Bad Boys, yeah, that would have scored 28."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Pointless US state flowers (find a pointless one among six options, two of which are not state flowers)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Black-eyed Susan",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Oh, one person! Probably Susan."
+        },
+        {
+          "answer": "Syringa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elliot",
+          "evidence_quote": "Is syringa a pointless US state flower? Syringa's right. And it's pointless."
+        },
+        {
+          "answer": "Goldenrod",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Goldenrod is a scoring answer, it's the flower of both Kentucky and Nebraska - would have scored three"
+        },
+        {
+          "answer": "Pasque flower",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "South Dakota's state flower is the pasque flower, pointless answer"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify comedians who appeared on Mock The Week from pictures",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rosie Jones",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Rosie Jones is right. It's a good answer as well. Look at that. Down it goes to five."
+        },
+        {
+          "answer": "Sindhu Vee",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elliot",
+          "evidence_quote": "Sindhu Vee is right. And that wins it... It's a pointless answer."
+        },
+        {
+          "answer": "Michael McIntyre",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Michael McIntyre scored 35."
+        },
+        {
+          "answer": "Dara O Briain",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "so, appropriately, he got a score of 17"
+        },
+        {
+          "answer": "Romesh Ranganathan",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Romesh Ranganathan you also got, Elliot, which would have scored 13"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Missing creatures from lines of the nursery rhyme Who Killed Cock Robin?",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sparrow",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Trevor",
+          "evidence_quote": "Sparrow is right. 26 for Sparrow."
+        },
+        {
+          "answer": "Dove",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Dove is right. And Dove wins it for you. Down it goes to 16"
+        },
+        {
+          "answer": "Owl",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "if you'd have gone for Owl, that would have scored 11"
+        },
+        {
+          "answer": "Linnet",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Four points for Linnet"
+        },
+        {
+          "answer": "Kite",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Kite would have scored two."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Cheeses known for hole-shaped bubbles, with alternate letters removed",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Gouda",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Gouda is right. That goes down to 50."
+        },
+        {
+          "answer": "Havarti",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Trevor",
+          "evidence_quote": "Havarti is right. And it gets you through. Down it goes to six."
+        },
+        {
+          "answer": "Roquefort",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Roquefort, that would have got 52."
+        },
+        {
+          "answer": "Jarlsberg",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jarlsberg. It is indeed. That would have scored 25."
+        },
+        {
+          "answer": "Fontina",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the pointless answer on the board, Fontina."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Capital city of any mainland African or mainland European country that has a coastline",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Accra",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Elliot",
+          "evidence_quote": "Oh, nine for Accra. It's a lot higher than I was expecting."
+        },
+        {
+          "answer": "Tripoli",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Trevor",
+          "evidence_quote": "No, three for Tripoli."
+        },
+        {
+          "answer": "Asmara",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Elliot",
+          "evidence_quote": "Asmara was a pointless answer and has just won you £2,000."
+        },
+        {
+          "answer": "Maputo",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Yeah, Maputo. But that would have scored one."
+        },
+        {
+          "answer": "Algiers",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "A couple of others you did mention which were pointless - Algiers, Freetown, both pointless answers."
+        },
+        {
+          "answer": "Freetown",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Algiers, Freetown, both pointless answers"
+        },
+        {
+          "answer": "Brazzaville",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The capital is Brazzaville. That was also pointless."
+        },
+        {
+          "answer": "Djibouti",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Djibouti, capital of Djibouti."
+        },
+        {
+          "answer": "Kinshasa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kinshasa, capital of DR Congo."
+        },
+        {
+          "answer": "Monrovia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Monrovia, the capital of Liberia."
+        },
+        {
+          "answer": "Ljubljana",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ljubljana, capital of Slovenia."
+        },
+        {
+          "answer": "Riga",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Riga in Latvia."
+        },
+        {
+          "answer": "Tirana",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Tirana in Albania."
+        },
+        {
+          "answer": "Zagreb",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Or Zagreb in Croatia."
+        }
+      ]
+    }
+  ]
+}

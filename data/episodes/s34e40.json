@@ -1,0 +1,396 @@
+{
+  "episode_id": "s34e40",
+  "episode_label": "Series 34 Episode 40",
+  "series": 34,
+  "episode": 40,
+  "pid": "m002r75p",
+  "source_url": "https://www.bbc.co.uk/programmes/m002r75p",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words or names that sound like two letters of the alphabet read together (from clues given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cutie",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Reynold",
+          "evidence_quote": "Cutie is absolutely right. And it's a great start. Down and down and down we go. Reynold, this is extraordinary. 20."
+        },
+        {
+          "answer": "Oti",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "Oti is absolutely right. 20 is the only score we have at the moment. And you pass it. Down to 16."
+        },
+        {
+          "answer": "Elsie",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Elsie Tanner is right. 20 is the high score, 16 is the low. 42."
+        },
+        {
+          "answer": "Emmy",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Emmy is absolutely right. 42 is our high score, and you pass it. Down to 23 with Emmy."
+        },
+        {
+          "answer": "Seedy",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "HOST",
+          "evidence_quote": "Seedy is correct. You'd have got one for that."
+        },
+        {
+          "answer": "Peaty",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "HOST",
+          "evidence_quote": "Peaty is indeed correct. Seven for that one."
+        },
+        {
+          "answer": "Ivy",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "HOST",
+          "evidence_quote": "Ivy. Which would have got 38."
+        },
+        {
+          "answer": "Tepee",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Deb",
+          "evidence_quote": "Tepee's good. Not bad. 39, taking your total up to 62."
+        },
+        {
+          "answer": "Cayenne",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katherine",
+          "evidence_quote": "Cayenne is right. Look at that. And down it goes to four."
+        },
+        {
+          "answer": "Excess",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "That takes you down to 13, taking your total up to 29."
+        },
+        {
+          "answer": "Essay",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jacqueline",
+          "evidence_quote": "We needed 41. You've got 41. Takes your total up to 61."
+        },
+        {
+          "answer": "Icy",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "HOST",
+          "evidence_quote": "Icy would be absolutely right and would have got a score of 17."
+        },
+        {
+          "answer": "Eighty",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "HOST",
+          "evidence_quote": "Eighty would have got a score of 24."
+        },
+        {
+          "answer": "Beattie",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "HOST",
+          "evidence_quote": "It is James Beattie, yes. The only pointless answer on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Male boxers who became world heavyweight champion between July 1921 and June 2024 (WBA/NBA, IBF, WBC, WBO)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Riddick Bowe",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Reynold",
+          "evidence_quote": "Down it goes, a pointless answer. Fantastic work."
+        },
+        {
+          "answer": "Buster Douglas",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "Is Buster Douglas taking us that same way? Yes, it is! Very well done indeed, Sylvester. That is another pointless answer"
+        },
+        {
+          "answer": "Floyd Patterson",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katherine",
+          "evidence_quote": "It's right, Floyd Patterson. Oh, one person got Floyd Patterson."
+        },
+        {
+          "answer": "Tim Witherspoon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "It's another pointless answer! Very well indeed, Emma."
+        },
+        {
+          "answer": "Sonny Liston",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "It's definitely right. Four for Sonny Liston. Four, taking your total up to four."
+        },
+        {
+          "answer": "George Foreman",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jacqueline",
+          "evidence_quote": "George Foreman, absolutely right. Listen, it's not bad, Jacqueline. 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head tiebreak",
+      "category_text": "Which of these six are UK film and/or TV studios (two scoring, two pointless, two not studios)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tatws Pum Munud Studios",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "are they pointless studios? Oh, no. Bad luck."
+        },
+        {
+          "answer": "Bottle Yard Studios",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Bottle Yard Studios, is that pointless? It's a studio. And it's pointless. Very well done indeed."
+        },
+        {
+          "answer": "Peregrine Studio",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "COHOST",
+          "evidence_quote": "the other pointless answer would have been Peregrine Studio. That's in Goldthorpe in South Yorkshire."
+        },
+        {
+          "answer": "Wardpark Studios",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "Wardpark Studios in Cumbernauld, near Glasgow. That would have scored one."
+        },
+        {
+          "answer": "Church Fenton Studios",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "another score of one would have been Church Fenton Studios, Tadcaster, North Yorkshire."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Foods or dishes invented since the end of WWII (with alternate letters shown)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Carpaccio",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "Carpaccio is right. Oh, that's a very good score. Nine for carpaccio."
+        },
+        {
+          "answer": "Tartiflette",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katherine",
+          "evidence_quote": "Down it goes for two. This is a phenomenal answer."
+        },
+        {
+          "answer": "Ciabatta",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "Ciabatta, yeah. That would have scored 42, and that was invented in 1982."
+        },
+        {
+          "answer": "Banoffee pie",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "the banoffee pie, said to have been invented in 1972. It's British, and that would have scored you 65."
+        },
+        {
+          "answer": "Chicken tikka masala",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "chicken tikka masala. ... Yeah, a score of 70 for that."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Artist or band who made these songs that feature clapping",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Jamiroquai",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Jamiroquai is absolutely right. That's a good answer. Down it goes to 14."
+        },
+        {
+          "answer": "Meghan Trainor",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "Meghan Trainor, absolutely right. ... Ah! 24 for Meghan Trainor."
+        },
+        {
+          "answer": "Dua Lipa",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "If you guys had gone for Dua Lipa, which was E, it still wouldn't quite have been enough. It would have scored 19."
+        },
+        {
+          "answer": "Village People",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "Village People was B, would have been 25."
+        },
+        {
+          "answer": "Edwin Starr",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "COHOST",
+          "evidence_quote": "if you had got the final one, D, Edwin Starr, would have scored two points."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Words of at least four letters in the lyrics of the song Nellie The Elephant (excluding title words)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Trumpety",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Katherine",
+          "evidence_quote": "Still going down with trumpety to two! Oh, that's annoying. Not a pointless answer."
+        },
+        {
+          "answer": "Taught",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Emma",
+          "evidence_quote": "And it is! Very well done indeed. ... Taught was a pointless answer and it has just won you £3,000."
+        },
+        {
+          "answer": "Mandalay",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Emma",
+          "evidence_quote": "Your third answer, Mandalay, was also pointless. Excellent."
+        }
+      ]
+    }
+  ]
+}

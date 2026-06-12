@@ -1,0 +1,466 @@
+{
+  "episode_id": "s35e19",
+  "episode_label": "Series 35 Episode 19",
+  "series": 35,
+  "episode": 19,
+  "pid": "m002w0dt",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dysprosium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ameer",
+          "evidence_quote": "It's a pointless answer, Ameer. Straight out of the traps with a pointless answer."
+        },
+        {
+          "answer": "Boron",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cicely",
+          "evidence_quote": "Boron, 10. Not bad. 10 for boron."
+        },
+        {
+          "answer": "Zirconium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "It's another pointless answer. It adds another £250"
+        },
+        {
+          "answer": "Lawrencium",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Angie",
+          "evidence_quote": "Oh, one for lawrencium. Very well done indeed."
+        },
+        {
+          "answer": "Rhodium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "It's a pointless answer! Very well done indeed."
+        },
+        {
+          "answer": "Plutonium",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Plutonium is absolutely right. Down... Yes. Down to 1."
+        },
+        {
+          "answer": "Rubinium",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Antoinette",
+          "evidence_quote": "No rubinium. That scores you 100 points, takes your total up to 110."
+        },
+        {
+          "answer": "Protactinium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abbas",
+          "evidence_quote": "in 1961... protactinium has been a pointless answer. Oh, and it is again!"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Pairs of musicians where the surname of the first is the first name of the second (give the shared name)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lewis (Leona Lewis / Lewis Capaldi)",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ameer",
+          "evidence_quote": "67, for Leona Lewis Capaldi."
+        },
+        {
+          "answer": "Grace (Kenya Grace / Grace Jones)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Oh, look at that. Down to 21."
+        },
+        {
+          "answer": "Lynn (Tami Lynn / Lynn Anderson)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Angie",
+          "evidence_quote": "Look at that. 6. Very well done indeed, Angie."
+        },
+        {
+          "answer": "Perry (Katy Perry / Perry Como)",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Katy Perry Como... That would have got you 71."
+        },
+        {
+          "answer": "Simon (Carly Simon / Simon Webbe)",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "up top we have Simon for 47"
+        },
+        {
+          "answer": "Joel (Billy Joel / Joel Corry)",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Joel - Billy Joel Corry, 27."
+        },
+        {
+          "answer": "Cat (Doja Cat / Cat Burns)",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "And it's a great score - 29, taking your total up to 35."
+        },
+        {
+          "answer": "Wilson (Mari Wilson / Wilson Pickett)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "Down that goes to 21. Exactly the same score as Karen"
+        },
+        {
+          "answer": "Jackson (Janet Jackson Starr)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Abbas",
+          "evidence_quote": "Not Jackson. Scores you 100 points, taking your total up to 167."
+        },
+        {
+          "answer": "Faith (Paloma Faith / Faith Hill)",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Paloma Faith Hill. Yes, 72."
+        },
+        {
+          "answer": "Richard (Cliff Richard / Richard Ashcroft)",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cliff Richard Ashcroft. Mm-hm. 58."
+        },
+        {
+          "answer": "Kay (Janet Kay / Kay Starr)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Janet Kay Starr. And that would have scored you two."
+        },
+        {
+          "answer": "Benson (George Benson / Benson Boone)",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Benson Boone, 14."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Books in The Baby-Sitters Club series by Ann M Martin",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Beth Finds The Palace Beautiful",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Beth - that was the title of a chapter of Little Women... not Ann M Martin"
+        },
+        {
+          "answer": "Dawn And The Big Sleepover",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "It's a book in the Baby-Sitters series. Oh, one person knew that."
+        },
+        {
+          "answer": "Claudia And The Phantom Phone Calls",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that was book number two in the series, and that scored 1"
+        },
+        {
+          "answer": "Kristy's Worst Idea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The two pointless answers were Kristy's Worst Idea. That's number 100"
+        },
+        {
+          "answer": "The Secret Life of Mary Anne Spier",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The final pointless answer was The Secret Life of Mary Anne Spier"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Counties in the Republic of Ireland from picture clues",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sligo",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Sligo is right. And down that goes to 28."
+        },
+        {
+          "answer": "Waterford",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "Waterford is right. Oh, 48 for Waterford."
+        },
+        {
+          "answer": "Mayo",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mayo would have scored you 35."
+        },
+        {
+          "answer": "Kerry",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kerry Katona, so 61."
+        },
+        {
+          "answer": "Limerick",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "a limerick about limericks for Limerick. Scores 58."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Female horror movie leads (scream queens) with alternate letters removed",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Jamie Lee Curtis",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "Jamie Lee Curtis is right... There we are, 25."
+        },
+        {
+          "answer": "Lupita Ngo",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "It was Lupita Nyong'o. Close. That would have scored you three."
+        },
+        {
+          "answer": "Neve Campbell",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Neve Campbell up top, 24."
+        },
+        {
+          "answer": "Janet Leigh",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Janet Leigh scored 16."
+        },
+        {
+          "answer": "Anya Taylor-Joy",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "down the bottom, Anya Taylor-Joy scored 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Things involving the word 'fountain'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rome",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Rome is right. That goes down to 50."
+        },
+        {
+          "answer": "Francescans",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "Not Francescans... It was Cistercian monks."
+        },
+        {
+          "answer": "Cistercian",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was Cistercian monks. That would have scored you 1."
+        },
+        {
+          "answer": "Ayn Rand",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The novelist was Ayn Rand, scores 2."
+        },
+        {
+          "answer": "Hyde Park",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hyde Park scored 25."
+        },
+        {
+          "answer": "Stacy's Mom",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Stacy's Mom...has got it going on. Yeah! Great tune. 10."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Wisden Cricketers of the Year since 1950 who represented India or the West Indies",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Chris Gayle",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Chris Gayle, the Six Machine?! Not a correct answer."
+        },
+        {
+          "answer": "Daren Sammy",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "not Chris Gayle, not Daren Sammy"
+        },
+        {
+          "answer": "Shivnarine Chanderpaul",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Shivnarine Chanderpaul has just won £2,000 for you."
+        }
+      ]
+    }
+  ]
+}

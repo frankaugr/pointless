@@ -56,7 +56,7 @@
       "url": "https://www.royal.uk/kings-and-queens-1066"
     }
   ],
-  "generated_at": "2026-04-26T17:32:33Z",
+  "generated_at": "2026-06-12T16:22:06Z",
   "answers": [
     {
       "id": "william-ii",
@@ -109,17 +109,74 @@
       },
       "pageviews": 1905614,
       "obscurity": {
-        "score": 0.9756,
+        "score": 0.9789,
         "band": "pointless target",
         "pointless_score": 2,
         "pointless_band": "excellent",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
           "pageviews": 1905614,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9756
+          "pageview_obscurity": 0.9756,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Henry III",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "william-iv",
+      "name": "William IV",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_IV",
+      "attrs": {
+        "reign_start": 1830,
+        "century": "19th century",
+        "house": "Hanover",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1913500,
+      "obscurity": {
+        "score": 0.9545,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1913500,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.878,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "William IV",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
       }
     },
     {
@@ -154,6 +211,52 @@
       }
     },
     {
+      "id": "stephen",
+      "name": "Stephen",
+      "aliases": [
+        "King Stephen"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stephen",
+      "attrs": {
+        "reign_start": 1135,
+        "century": "12th century",
+        "house": "Blois",
+        "name_initial": "S",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1920953,
+      "obscurity": {
+        "score": 0.9334,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1920953,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8537,
+          "pointless_average_score": 4.0,
+          "pointless_obscurity": 0.96,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Stephen",
+            "score_0_to_100": 4,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
       "id": "henry-i",
       "name": "Henry I",
       "aliases": [],
@@ -182,6 +285,94 @@
           "pageview_obscurity": 0.9268
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "edward-vi",
+      "name": "Edward VI",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edward_VI",
+      "attrs": {
+        "reign_start": 1547,
+        "century": "16th century",
+        "house": "Tudor",
+        "name_initial": "E",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2743712,
+      "obscurity": {
+        "score": 0.9254,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2743712,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7317,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Edward VI",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "henry-ii",
+      "name": "Henry II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_II",
+      "attrs": {
+        "reign_start": 1154,
+        "century": "12th century",
+        "house": "Plantagenet",
+        "name_initial": "H",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2735548,
+      "obscurity": {
+        "score": 0.924,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2735548,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7561,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Henry II",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
       }
     },
     {
@@ -216,67 +407,234 @@
       }
     },
     {
-      "id": "william-iv",
-      "name": "William IV",
+      "id": "mary-ii",
+      "name": "Mary II",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/William_IV",
+      "wiki": "https://en.wikipedia.org/wiki/Mary_II",
       "attrs": {
-        "reign_start": 1830,
-        "century": "19th century",
-        "house": "Hanover",
-        "name_initial": "W",
-        "name_length": 9,
+        "reign_start": 1689,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "M",
+        "name_length": 6,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "i"
+        "first_vowel": "a"
       },
-      "pageviews": 1913500,
+      "pageviews": 2751225,
       "obscurity": {
-        "score": 0.878,
+        "score": 0.9024,
         "band": "pointless target",
-        "pointless_score": 12,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 1913500,
+          "pageviews": 2751225,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.878
+          "pageview_obscurity": 0.6098,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Mary II",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 18",
+            "date": null,
+            "question_text": "17th-Century History: monarchs of Britain/England alive in the 17th century, or Royal Society founders/presidents of that century",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq9r"
+          }
+        ]
       }
     },
     {
-      "id": "stephen",
-      "name": "Stephen",
-      "aliases": [
-        "King Stephen"
-      ],
+      "id": "henry-vi",
+      "name": "Henry VI",
+      "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Stephen",
+      "wiki": "https://en.wikipedia.org/wiki/Henry_VI",
       "attrs": {
-        "reign_start": 1135,
-        "century": "12th century",
-        "house": "Blois",
-        "name_initial": "S",
+        "reign_start": 1422,
+        "century": "15th century",
+        "house": "Lancaster",
+        "name_initial": "H",
         "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 1920953,
+      "pageviews": 2749213,
       "obscurity": {
-        "score": 0.8537,
+        "score": 0.901,
         "band": "pointless target",
-        "pointless_score": 15,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 1920953,
+          "pageviews": 2749213,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8537
+          "pageview_obscurity": 0.6341,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Henry VI",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "james-ii",
+      "name": "James II",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_II",
+      "attrs": {
+        "reign_start": 1685,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2746514,
+      "obscurity": {
+        "score": 0.8996,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2746514,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6585,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "James II",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "william-iii",
+      "name": "William III",
+      "aliases": [
+        "William of Orange"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_III",
+      "attrs": {
+        "reign_start": 1689,
+        "century": "17th century",
+        "house": "Orange",
+        "name_initial": "W",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2752285,
+      "obscurity": {
+        "score": 0.8865,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2752285,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.561,
+          "pointless_average_score": 0.5,
+          "pointless_obscurity": 0.995,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "William III",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 18",
+            "date": null,
+            "question_text": "17th-Century History: monarchs of Britain/England alive in the 17th century, or Royal Society founders/presidents of that century",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq9r"
+          },
+          {
+            "category": "english-british-monarchs",
+            "answer": "William III",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "george-v",
+      "name": "George V",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_V",
+      "attrs": {
+        "reign_start": 1910,
+        "century": "20th century",
+        "house": "Windsor",
+        "name_initial": "G",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3740118,
+      "obscurity": {
+        "score": 0.8509,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3740118,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4634,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "George V",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
       }
     },
     {
@@ -373,65 +731,137 @@
       }
     },
     {
-      "id": "henry-ii",
-      "name": "Henry II",
+      "id": "george-vi",
+      "name": "George VI",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Henry_II",
+      "wiki": "https://en.wikipedia.org/wiki/George_VI",
       "attrs": {
-        "reign_start": 1154,
-        "century": "12th century",
-        "house": "Plantagenet",
-        "name_initial": "H",
-        "name_length": 7,
+        "reign_start": 1936,
+        "century": "20th century",
+        "house": "Windsor",
+        "name_initial": "G",
+        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 2735548,
+      "pageviews": 4915354,
       "obscurity": {
-        "score": 0.7561,
+        "score": 0.7646,
         "band": "very obscure",
-        "pointless_score": 24,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 2735548,
+          "pageviews": 4915354,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7561
+          "pageview_obscurity": 0.2683,
+          "pointless_average_score": 7.0,
+          "pointless_obscurity": 0.93,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "George VI",
+            "score_0_to_100": 7,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
       }
     },
     {
-      "id": "edward-vi",
-      "name": "Edward VI",
+      "id": "charles-ii",
+      "name": "Charles II",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Edward_VI",
+      "wiki": "https://en.wikipedia.org/wiki/Charles_II",
       "attrs": {
-        "reign_start": 1547,
-        "century": "16th century",
-        "house": "Tudor",
-        "name_initial": "E",
-        "name_length": 8,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "e"
+        "reign_start": 1660,
+        "century": "17th century",
+        "house": "Stuart",
+        "name_initial": "C",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
       },
-      "pageviews": 2743712,
+      "pageviews": 4924097,
       "obscurity": {
-        "score": 0.7317,
+        "score": 0.7374,
         "band": "very obscure",
-        "pointless_score": 27,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 2743712,
+          "pageviews": 4924097,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7317
+          "pageview_obscurity": 0.2195,
+          "pointless_average_score": 9.0,
+          "pointless_obscurity": 0.91,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Charles II",
+            "score_0_to_100": 9,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "aliases": [
+        "King John"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John",
+      "attrs": {
+        "reign_start": 1199,
+        "century": "12th century",
+        "house": "Plantagenet",
+        "name_initial": "J",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4930913,
+      "obscurity": {
+        "score": 0.7266,
+        "band": "very obscure",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4930913,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1463,
+          "pointless_average_score": 8.0,
+          "pointless_obscurity": 0.92,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "John",
+            "score_0_to_100": 8,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
       }
     },
     {
@@ -497,99 +927,6 @@
       }
     },
     {
-      "id": "james-ii",
-      "name": "James II",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/James_II",
-      "attrs": {
-        "reign_start": 1685,
-        "century": "17th century",
-        "house": "Stuart",
-        "name_initial": "J",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2746514,
-      "obscurity": {
-        "score": 0.6585,
-        "band": "useful low scorer",
-        "pointless_score": 34,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2746514,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6585
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "henry-vi",
-      "name": "Henry VI",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Henry_VI",
-      "attrs": {
-        "reign_start": 1422,
-        "century": "15th century",
-        "house": "Lancaster",
-        "name_initial": "H",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 2749213,
-      "obscurity": {
-        "score": 0.6341,
-        "band": "useful low scorer",
-        "pointless_score": 37,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2749213,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6341
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "mary-ii",
-      "name": "Mary II",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Mary_II",
-      "attrs": {
-        "reign_start": 1689,
-        "century": "17th century",
-        "house": "Stuart",
-        "name_initial": "M",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2751225,
-      "obscurity": {
-        "score": 0.6098,
-        "band": "useful low scorer",
-        "pointless_score": 39,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2751225,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6098
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "george-iv",
       "name": "George IV",
       "aliases": [],
@@ -621,36 +958,49 @@
       }
     },
     {
-      "id": "william-iii",
-      "name": "William III",
+      "id": "victoria",
+      "name": "Victoria",
       "aliases": [
-        "William of Orange"
+        "Queen Victoria"
       ],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/William_III",
+      "wiki": "https://en.wikipedia.org/wiki/Victoria",
       "attrs": {
-        "reign_start": 1689,
-        "century": "17th century",
-        "house": "Orange",
-        "name_initial": "W",
-        "name_length": 10,
+        "reign_start": 1837,
+        "century": "19th century",
+        "house": "Hanover",
+        "name_initial": "V",
+        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 2752285,
+      "pageviews": 6290570,
       "obscurity": {
-        "score": 0.561,
+        "score": 0.5508,
         "band": "useful low scorer",
-        "pointless_score": 44,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 2752285,
+          "pageviews": 6290570,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.561
+          "pageview_obscurity": 0.0732,
+          "pointless_average_score": 29.0,
+          "pointless_obscurity": 0.71,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "english-british-monarchs",
+            "answer": "Victoria",
+            "score_0_to_100": 29,
+            "episode": "Series 35 Episode 6",
+            "date": null,
+            "question_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002v39j"
+          }
+        ]
       }
     },
     {
@@ -742,37 +1092,6 @@
           "pageviews": 3738134,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.4878
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "george-v",
-      "name": "George V",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/George_V",
-      "attrs": {
-        "reign_start": 1910,
-        "century": "20th century",
-        "house": "Windsor",
-        "name_initial": "G",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 3740118,
-      "obscurity": {
-        "score": 0.4634,
-        "band": "useful low scorer",
-        "pointless_score": 54,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3740118,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4634
         },
         "evidence": []
       }
@@ -1004,37 +1323,6 @@
       }
     },
     {
-      "id": "george-vi",
-      "name": "George VI",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/George_VI",
-      "attrs": {
-        "reign_start": 1936,
-        "century": "20th century",
-        "house": "Windsor",
-        "name_initial": "G",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4915354,
-      "obscurity": {
-        "score": 0.2683,
-        "band": "middling",
-        "pointless_score": 73,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4915354,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2683
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "edward-viii",
       "name": "Edward VIII",
       "aliases": [],
@@ -1061,37 +1349,6 @@
           "pageviews": 4916014,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.2439
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "charles-ii",
-      "name": "Charles II",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Charles_II",
-      "attrs": {
-        "reign_start": 1660,
-        "century": "17th century",
-        "house": "Stuart",
-        "name_initial": "C",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 4924097,
-      "obscurity": {
-        "score": 0.2195,
-        "band": "obvious",
-        "pointless_score": 78,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4924097,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2195
         },
         "evidence": []
       }
@@ -1161,39 +1418,6 @@
       }
     },
     {
-      "id": "john",
-      "name": "John",
-      "aliases": [
-        "King John"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/John",
-      "attrs": {
-        "reign_start": 1199,
-        "century": "12th century",
-        "house": "Plantagenet",
-        "name_initial": "J",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 4930913,
-      "obscurity": {
-        "score": 0.1463,
-        "band": "obvious",
-        "pointless_score": 85,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4930913,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1463
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "richard-iii",
       "name": "Richard III",
       "aliases": [],
@@ -1251,39 +1475,6 @@
           "pageviews": 6288468,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0976
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "victoria",
-      "name": "Victoria",
-      "aliases": [
-        "Queen Victoria"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Victoria",
-      "attrs": {
-        "reign_start": 1837,
-        "century": "19th century",
-        "house": "Hanover",
-        "name_initial": "V",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6290570,
-      "obscurity": {
-        "score": 0.0732,
-        "band": "obvious",
-        "pointless_score": 93,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6290570,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0732
         },
         "evidence": []
       }

@@ -1,0 +1,540 @@
+{
+  "episode_id": "s35e06",
+  "episode_label": "Series 35 Episode 6",
+  "series": 35,
+  "episode": 6,
+  "pid": "m002v39j",
+  "source_url": "https://www.bbc.co.uk/programmes/m002v39j",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Comic or humorous novels with a missing word removed from the title (first and last letters, year and author given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Love in a Cold Climate",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Louise",
+          "evidence_quote": "climate is absolutely spot-on. Down it goes to 45"
+        },
+        {
+          "answer": "In Case of Emergency",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sam",
+          "evidence_quote": "Emergency is absolutely right... down it goes to 22"
+        },
+        {
+          "answer": "Grown Ups",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "It is Grown Ups. Very well done indeed... 61 for Grown Ups"
+        },
+        {
+          "answer": "Lucky Jim",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jamie",
+          "evidence_quote": "Well, it's right... Lucky Jamie on 38"
+        },
+        {
+          "answer": "White Teeth",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "55 people knew that one"
+        },
+        {
+          "answer": "Right Ho, Jeeves",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Right Ho, Jeeves, yes, would have got 26"
+        },
+        {
+          "answer": "The Sellout",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's The Sellout. And that would have been not a pointless, but a three"
+        },
+        {
+          "answer": "High Fidelity",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicki",
+          "evidence_quote": "High Fidelity... spot on... Down to 45, taking your total up to 83"
+        },
+        {
+          "answer": "The Secret Diary of Adrian Mole",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Luke",
+          "evidence_quote": "Secret's right. 55 for secret, taking your total up to 116"
+        },
+        {
+          "answer": "Queenie",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "It goes down, goes to 13... taking your total up to 35"
+        },
+        {
+          "answer": "The Satsuma Complex",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "Satsuma's spot-on... down it goes to five... lowest score of the entire round"
+        },
+        {
+          "answer": "The Buddha of Suburbia",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Buddha of Suburbia... That would have scored you 18"
+        },
+        {
+          "answer": "Cold Comfort Farm",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cold Comfort Farm, that would have scored you 29"
+        },
+        {
+          "answer": "Three Men in a Boat",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Three Men in a Boat... that would have scored you 66"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Kings or Queens of England (or later Great Britain/UK) from 1066 who were immediately succeeded by a monarch with a different regnal name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "King Stephen",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "And that is also what happened. Very well done indeed, Simon. Four"
+        },
+        {
+          "answer": "George V",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "Absolutely right, George V... two for George V"
+        },
+        {
+          "answer": "Queen Victoria",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicki",
+          "evidence_quote": "Queen Victoria is right. 29 for Queen Victoria"
+        },
+        {
+          "answer": "Charles II",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jamie",
+          "evidence_quote": "Charles II is right... Down it goes to nine... total up to 38"
+        },
+        {
+          "answer": "George VI",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sam",
+          "evidence_quote": "It's definitely right... Seven. Taking your total up to nine"
+        },
+        {
+          "answer": "King John",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Louise",
+          "evidence_quote": "King John is right... down it goes to eight, taking your total up to 12"
+        },
+        {
+          "answer": "Henry II",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Henry II, Henry III, James II and William IV"
+        },
+        {
+          "answer": "Henry III",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Henry II, Henry III, James II and William IV"
+        },
+        {
+          "answer": "James II",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Henry II, Henry III, James II and William IV"
+        },
+        {
+          "answer": "William IV",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Henry II, Henry III, James II and William IV"
+        },
+        {
+          "answer": "Henry VI",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Henry VI. Edward VI and William III"
+        },
+        {
+          "answer": "Edward VI",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Henry VI. Edward VI and William III"
+        },
+        {
+          "answer": "William III",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Henry VI. Edward VI and William III"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1 (jackpot builder)",
+      "category_text": "Spot the pointless Premier League footballer nicknames from six options (two scoring, two pointless, two never played in PL)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "One Size Fitz 'All (Fitz Hall)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "One Size is right. Oh, and it's a pointless answer"
+        },
+        {
+          "answer": "The Divine Ponytail (Roberto Baggio)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "No! I'm afraid it's not... Roberto Baggio, who never played in the Premier League"
+        },
+        {
+          "answer": "The Baby-Faced Assassin (Ole Gunnar Solskjaer)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Baby-Faced Assassin. That would have got you one point"
+        },
+        {
+          "answer": "Big Meeks (Micah Richards)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The other one that would have got you a point would be Big Meeks"
+        },
+        {
+          "answer": "Slim Reaper (Kevin Durant)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Slim Reaper was incorrect. One of the nicknames of NBA basketball player Kevin Durant"
+        },
+        {
+          "answer": "The Romford Pele (Ray Parlour)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Romford Pele would have got you the pointless answer. That's Ray Parlour"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Name these five famous women pictured wearing suits",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Vicky McClure",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sam",
+          "evidence_quote": "Vicky McClure is right. Oh, it's a very good answer. Five for Vicky McClure"
+        },
+        {
+          "answer": "Tracey Emin",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "It is Tracey Emin... 11 for Tracey Emin"
+        },
+        {
+          "answer": "Kamala Harris",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "C, Kamala Harris, and that would have scored 46"
+        },
+        {
+          "answer": "Denise Lewis",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A is Denise Lewis. 21 people knew that was Denise"
+        },
+        {
+          "answer": "Charli XCX",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "D, it's Charli XCX. And only four people knew that was Charli XCX"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Name the acts performing five songs whose titles begin with the word \"You're\"",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cilla Black",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "Cilla Black is absolutely right. 21 for Cilla Black"
+        },
+        {
+          "answer": "Carly Simon",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "It is Carly Simon... 12 for Carly Simon"
+        },
+        {
+          "answer": "Babybird",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Babybird. Classic. Scored six"
+        },
+        {
+          "answer": "Rod Stewart",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "distinctive husky voice... 22 people"
+        },
+        {
+          "answer": "Olive",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "this is Olive, You're Not Alone... that would have scored three"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Winners or runners-up of The Apprentice (UK), or Lord Sugar's associates who interviewed candidates in the latter stages (series 1, 2005 to series 18, 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Karren Brady",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Down we go with Karren Brady to 18"
+        },
+        {
+          "answer": "Marnie Smith",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "No. Bad luck. Not Marnie Smith"
+        },
+        {
+          "answer": "Leah Williams",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Oh, no. Not Leah Williams, I'm afraid"
+        },
+        {
+          "answer": "Tim Campbell",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you might be thinking of Tim Campbell, but he scored one"
+        },
+        {
+          "answer": "Linda Plant",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "is, of course, Linda Plant... She scored one"
+        },
+        {
+          "answer": "Luisa Zissman",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had Luisa Zissman. She was a runner-up in series nine"
+        },
+        {
+          "answer": "Mark Wright",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mark Wright won series ten"
+        },
+        {
+          "answer": "Marnie Swindells",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Marnie Swindells, as I said, won in 2023"
+        },
+        {
+          "answer": "Tom Pellereau",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Tom Pellereau, the inventor, won series seven"
+        },
+        {
+          "answer": "Ricky Martin",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "He was also pointless in that category, so he was a... He would have been a really good one to go for"
+        },
+        {
+          "answer": "Alan Watts",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there was only one other pointless answer, and that was Alan Watts"
+        }
+      ]
+    }
+  ]
+}

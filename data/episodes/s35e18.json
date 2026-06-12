@@ -1,0 +1,504 @@
+{
+  "episode_id": "s35e18",
+  "episode_label": "Series 35 Episode 18",
+  "series": 35,
+  "episode": 18,
+  "pid": "m002vq9r",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vq9r",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Famous people known by a four-letter, single-word name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Seal",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antoinette",
+          "evidence_quote": "Seal is right. And down it goes to 44."
+        },
+        {
+          "answer": "Dave",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ameer",
+          "evidence_quote": "Dave - look at that! Down to 7."
+        },
+        {
+          "answer": "Pink",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "69 for Pink."
+        },
+        {
+          "answer": "Raye",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "There you are on double the low, 14."
+        },
+        {
+          "answer": "Moby",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Down to 15, which takes your total up to 29."
+        },
+        {
+          "answer": "Nena",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "It is Nena. Oh, look at that. Down to 2."
+        },
+        {
+          "answer": "Pele",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abbas",
+          "evidence_quote": "35, taking your total up to 42."
+        },
+        {
+          "answer": "Bono",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cicely",
+          "evidence_quote": "that scores you 59, taking your total up to 103."
+        },
+        {
+          "answer": "Mika",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That is Mika. That would score you 7."
+        },
+        {
+          "answer": "Cher",
+          "score": 86,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was right, but would score you 86."
+        },
+        {
+          "answer": "Iman",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Iman was for 4."
+        },
+        {
+          "answer": "Flea",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Flea, scores you 12."
+        },
+        {
+          "answer": "Lulu",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lulu, 60."
+        },
+        {
+          "answer": "Nemo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That was a pointless answer."
+        },
+        {
+          "answer": "Dido",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That scored 18."
+        },
+        {
+          "answer": "Pepa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And that was a pointless answer, too."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Things in the art world connected to the United Kingdom (with initials given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Quentin Blake",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abbas",
+          "evidence_quote": "Down it goes to 29. Very well done indeed, Abbas."
+        },
+        {
+          "answer": "Marcus Rashford",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "30 for Marcus Rashford. Not bad."
+        },
+        {
+          "answer": "Kew Gardens",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Kew Gardens is absolutely right. And down it goes to 17."
+        },
+        {
+          "answer": "Bloomsbury Group",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was the Bloomsbury Group, not Bloomingham. Would have scored you 6."
+        },
+        {
+          "answer": "Jenny Eclair",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "She scored 1."
+        },
+        {
+          "answer": "Banksy",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Bristol was correct - 35 points."
+        },
+        {
+          "answer": "Timothy Spall",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "14 for Timothy Spall. Terrific answer."
+        },
+        {
+          "answer": "Horse (Whistlejacket)",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "How many of our 100 said horse? Horse... ..isn't bad. Down it goes to 33."
+        },
+        {
+          "answer": "Tolstoy Galleries",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ameer",
+          "evidence_quote": "No, I'm afraid not the Tolstoy Galleries. that scores you 100 points"
+        },
+        {
+          "answer": "Tate",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tate would give you 41."
+        },
+        {
+          "answer": "Chris Ofili",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chris Ofili, elephant dung... Indeed. 1."
+        },
+        {
+          "answer": "Lowry",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lowry was the painter. Yes, at 31 points."
+        },
+        {
+          "answer": "Joe Lycett",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Joe Lycett. Bang-on. 7."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head tiebreak",
+      "category_text": "Which of six options are European volcanoes (two scoring, two pointless, two wrong)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Monte Vulture",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Monte Vulture, in the Apennine chain in southern Italy - that scored 2."
+        },
+        {
+          "answer": "Nomanisan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "The volcanic Nomanisan Island is the secret headquarters of evil genius Syndrome"
+        },
+        {
+          "answer": "Tvashtar",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's a volcano, but it's on Jupiter's moon Io."
+        },
+        {
+          "answer": "Nea Kameni",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "an active volcano near the island of Santorini, and that was pointless"
+        },
+        {
+          "answer": "Beerenberg",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beerenberg in Norway, it's mostly covered by glaciers, and that scored 5."
+        },
+        {
+          "answer": "Puy de Dome",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Puy de Dome in the Massif Central in central France, and that was pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Name these five mushrooms (from drawings, alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Chicken of the woods",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Chicken of the woods is absolutely right. Down it goes to 13."
+        },
+        {
+          "answer": "Meryl",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "No, bad luck. Not meryl."
+        },
+        {
+          "answer": "Morel",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was morel. It scores 14."
+        },
+        {
+          "answer": "Oyster",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Then we have oyster. 25."
+        },
+        {
+          "answer": "Fly agaric",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The fly agaric. this is classic toadstool situation. 4."
+        },
+        {
+          "answer": "Shaggy parasol",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the final one, a pointless answer. It's a...shaggy parasol!"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "English words formed by rebracketing (gaining/losing an initial N), with current first letters",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nick",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Col",
+          "evidence_quote": "No, not nick. nick does fit the definition, but there's never been \"an ick\""
+        },
+        {
+          "answer": "Nickname",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Nickname, absolutely right. Wins you the point. And down that goes to 8."
+        },
+        {
+          "answer": "Notch",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Notch comes from \"an oche\". That would have scored 14"
+        },
+        {
+          "answer": "Apron",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "changed from \"a napron\". Apron scored 62."
+        },
+        {
+          "answer": "Newt",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And newt. An ewt, yes, 41."
+        },
+        {
+          "answer": "Aitchbone",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the one that eluded everybody is aitchbone. It was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "17th-Century History: monarchs of Britain/England alive in the 17th century, or Royal Society founders/presidents of that century",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "William III",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sylvia",
+          "evidence_quote": "William III was a pointless answer, so you are definitely taking home today's jackpot"
+        },
+        {
+          "answer": "William II",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Sylvia",
+          "evidence_quote": "No. That is incorrect. William II was in the 11th century"
+        },
+        {
+          "answer": "Mary II",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sylvia",
+          "evidence_quote": "As your last answer, Mary II was also pointless."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "episode_id": "s35e30",
+  "episode_label": "Series 35 Episode 30",
+  "series": 35,
+  "episode": 30,
+  "pid": "m002wm4p",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Stafford",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rory",
+          "evidence_quote": "Not Stafford. That scores you 100 points."
+        },
+        {
+          "answer": "Plymouth",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "Plymouth is right. Down it goes to 6."
+        },
+        {
+          "answer": "St Asaph",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "6 is our low score. And you've passed that. It's down to 1."
+        },
+        {
+          "answer": "Peterborough",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "Peterborough is right. And you're down to 2."
+        },
+        {
+          "answer": "Lincoln",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "Down it goes to 12. Very well done indeed. Taking your total up to 14."
+        },
+        {
+          "answer": "St Davids",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "Absolutely. Look at that. Down to 3."
+        },
+        {
+          "answer": "Salford",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "A pointless answer to boot. And being a pointless answer, it adds £250"
+        },
+        {
+          "answer": "Loughborough",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rebekah",
+          "evidence_quote": "Loughborough, I'm afraid, not a city, though."
+        },
+        {
+          "answer": "Newry",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "you could have had... Newry, Salford - which Kris said. And Southend-on-Sea."
+        },
+        {
+          "answer": "Southend-on-Sea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Salford - which Kris said. And Southend-on-Sea."
+        },
+        {
+          "answer": "Stanley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we could have had Stanley in the Falklands."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Well-known nieces and nephews of well-known people (with initials given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sabrina Carpenter",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "Sabrina Carpenter. Down it goes to 11."
+        },
+        {
+          "answer": "Victoria",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "Victoria is right. And that goes down to 59."
+        },
+        {
+          "answer": "Emily Atack",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "59 is our high score and you passed that. 11 is our low score, and you pass that. Down to 6."
+        },
+        {
+          "answer": "Ewan McGregor",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you were right about Ewan McGregor. That was worth 26."
+        },
+        {
+          "answer": "Angelina Jolie",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the star of Tomb Raider and the Maleficent films, that is Angelina Jolie, which is 41."
+        },
+        {
+          "answer": "Alex Iwobi",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the footballer that we were looking for is Alex Iwobi, worth 12."
+        },
+        {
+          "answer": "Emma Roberts",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "Emma Roberts. It's right. Down it goes to 16."
+        },
+        {
+          "answer": "Arthur Balfour",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "Arthur Balfour. Look at that. 10."
+        },
+        {
+          "answer": "Frank Lampard",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "Frank Lampard? It's right. Down it goes to 29, taking your total up to a lovely round 40."
+        },
+        {
+          "answer": "Dionne Warwick",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The top is Dionne Warwick. Correct. That's 32."
+        },
+        {
+          "answer": "Joe Swift",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The next one is Joe Swift. And that is actually the lowest answer with 6."
+        },
+        {
+          "answer": "George Clooney",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "George Clooney, which would have scored 42."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Internet search engines (two scoring, two pointless, two not real search engines)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "BizarreFruit",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "BizarreFruit. No! Hmm."
+        },
+        {
+          "answer": "Swisscows",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "It's a search engine. Come on, Swisscows. Oh!"
+        },
+        {
+          "answer": "Mojeek",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answer was Mojeek, which is a British search engine."
+        },
+        {
+          "answer": "Ecosia",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ecosia, which is a search engine, the greenest way to search... worth 2."
+        },
+        {
+          "answer": "Brave",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we have Brave, which is a search engine worth 3."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Types of beds (from pictures with alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "trunkie",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "saying trunkie. Shall we see if it's right? No. Bad luck."
+        },
+        {
+          "answer": "futon",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "Futon. Absolutely right. Very well done. Down it goes to 65."
+        },
+        {
+          "answer": "truckle",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "if you had meant truckle, that would have been worth 5."
+        },
+        {
+          "answer": "loft",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A is loft, which you guessed correctly, that's 39."
+        },
+        {
+          "answer": "Murphy",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "C, which is Murphy, worth 11."
+        },
+        {
+          "answer": "four-poster",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "this glorious four-poster, which you got correct. 45."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Anagrams of ways a batter can be given out in cricket (Laws of Cricket, MCC)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "bowled",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "Yeah, 57 for bowled. High-scorer there."
+        },
+        {
+          "answer": "stumped",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hetty",
+          "evidence_quote": "That wins it for you. You're back in the game. 33."
+        },
+        {
+          "answer": "caught",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "caught was worth 46."
+        },
+        {
+          "answer": "leg before wicket",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Leg before wicket, 27."
+        },
+        {
+          "answer": "hit the ball twice",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It is hit the ball twice... One person got that right."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Stylish musical films (Tatler May 2022), given a character, actor and release year",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "La La Land",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "La La Land is right. Down it goes to 19."
+        },
+        {
+          "answer": "Greased Lightning",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "No, not Greased Lightning"
+        },
+        {
+          "answer": "Grease",
+          "score": 85,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I think you meant Grease. That was worth 85"
+        },
+        {
+          "answer": "My Fair Lady",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Eliza Doolittle, that will be from My Fair Lady. That was worth 29."
+        },
+        {
+          "answer": "Singin' In The Rain",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Singin' In The Rain, that's worth 32."
+        },
+        {
+          "answer": "West Side Story",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Anita, Rita Moreno... West Side Story... Worth the lowest score, 13."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Acts that have had a UK top 40 single with the word 'Rhythm' or 'Blues' (plural) in its title",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Beyonce",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Katie",
+          "evidence_quote": "It was a long shot, not a pointless answer."
+        },
+        {
+          "answer": "Bob Dylan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Hetty",
+          "evidence_quote": "Bob Dylan. No. There we are."
+        },
+        {
+          "answer": "Elton John",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Katie",
+          "evidence_quote": "It's definitely right... 10 there for Elton John."
+        }
+      ]
+    }
+  ]
+}

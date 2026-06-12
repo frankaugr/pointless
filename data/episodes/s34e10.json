@@ -1,0 +1,387 @@
+{
+  "episode_id": "s34e10",
+  "episode_label": "Series 34 Episode 10",
+  "series": 34,
+  "episode": 10,
+  "pid": "m002k74n",
+  "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Any act that has represented the United Kingdom at the Eurovision Song Contest (1957-2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sam Ryder",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrea",
+          "evidence_quote": "Down to 11. It's a cracking answer."
+        },
+        {
+          "answer": "Olly Alexander",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jayden",
+          "evidence_quote": "Down to 9. 9, Jayden! Single digits."
+        },
+        {
+          "answer": "The Shadows",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Down you go to 2. Tony, very well done."
+        },
+        {
+          "answer": "Celine Dion",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Connor",
+          "evidence_quote": "I'm sorry, Connor. That's 100 points. Not Celine Dion."
+        },
+        {
+          "answer": "Katrina And The Waves",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Siobhan",
+          "evidence_quote": "Down that goes to 18, taking your total up to 118."
+        },
+        {
+          "answer": "Sandie Shaw",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jennifer",
+          "evidence_quote": "Down goes Sandie Shaw to 33, taking your total up to 35."
+        },
+        {
+          "answer": "Gina G",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Down to 5. Our second lowest score of the round."
+        },
+        {
+          "answer": "Mike Moran and Lynsey de Paul",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "thank goodness it was a pointless answer. Very well done. That adds £250"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Cities located on the continent of Asia (given first letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Karachi",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Karachi is right. Down it goes to 22."
+        },
+        {
+          "answer": "Jakarta",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jennifer",
+          "evidence_quote": "Jakarta passes it. Down to 10."
+        },
+        {
+          "answer": "Dubai",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jayden",
+          "evidence_quote": "27 for Dubai. Not bad."
+        },
+        {
+          "answer": "Ulaanbaatar",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And that would have scored you 5. It was the lowest of the scores."
+        },
+        {
+          "answer": "Bangkok",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We just say Bangkok instead, and it scored 30."
+        },
+        {
+          "answer": "Tokyo",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was Tokyo and that would have scored 41."
+        },
+        {
+          "answer": "Singapore",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Singapore takes you down to 29, taking your total up to 56."
+        },
+        {
+          "answer": "Beijing",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "31 is what that scores. 41 your total."
+        },
+        {
+          "answer": "Kuala Lumpur",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrea",
+          "evidence_quote": "You needed 33. You got 33, taking your total up to 55"
+        },
+        {
+          "answer": "Seoul",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It scored 24."
+        },
+        {
+          "answer": "Mandalay",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Well, Mandalay would have scored you 14."
+        },
+        {
+          "answer": "Samarkand",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest score of all, Samarkand, which scored just 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head warm-up",
+      "category_text": "Spot the pointless crocodilians from six options (two pointless, two scoring, two red herrings)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Gharial",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "It's a crocodilian. Ah. 4."
+        },
+        {
+          "answer": "Tomistoma",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jennifer",
+          "evidence_quote": "Shall we see if Tomistoma is a pointless crocodilian? It's a crocodilian. Yes!"
+        },
+        {
+          "answer": "Morelet's crocodile",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Morelet's crocodile was the other pointless answer there."
+        },
+        {
+          "answer": "Spectacled caiman",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "that was the spectacled caiman, and that would have scored you 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Films where the colour pink made a significant contribution (initials and year given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mean Girls",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrea",
+          "evidence_quote": "Mean Girls is right. Down it goes to 54."
+        },
+        {
+          "answer": "Barbie",
+          "score": 87,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jennifer",
+          "evidence_quote": "Barbie...is right! 87 for Barbie."
+        },
+        {
+          "answer": "Pretty In Pink",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pretty In Pink. That would have scored you 34."
+        },
+        {
+          "answer": "Legally Blonde",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Legally Blonde was E, 48."
+        },
+        {
+          "answer": "Funny Face",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Funny Face. That would have scored you 3."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Styles of car body type (alternate letters missing)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hatchback",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jennifer",
+          "evidence_quote": "Hatchback is good. 49. Not bad."
+        },
+        {
+          "answer": "Coupe",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Down to 31 for coupe."
+        },
+        {
+          "answer": "Saloon",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you gave us saloon at the top there, which would have scored 26"
+        },
+        {
+          "answer": "Convertible",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "at the bottom, convertible, 21."
+        },
+        {
+          "answer": "Supermini",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the supermini. The last one on the board would have scored 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Anyone who received an acting credit for the 2011 film One Day or the 2024 Netflix mini series One Day (IMDb as of June 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Colin Firth",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Andrea",
+          "evidence_quote": "Colin Firth. Nope. Bad luck, not Colin Firth"
+        },
+        {
+          "answer": "David Morrissey",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Adrian",
+          "evidence_quote": "Shall we see if he was in the 2011 film One Day? David Morrissey."
+        },
+        {
+          "answer": "Aisling Bea",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Andrea",
+          "evidence_quote": "Aisling Bea - shall we see if that's right? Ah, well, I'm so sorry."
+        }
+      ]
+    }
+  ]
+}

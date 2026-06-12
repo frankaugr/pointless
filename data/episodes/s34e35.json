@@ -1,0 +1,547 @@
+{
+  "episode_id": "s34e35",
+  "episode_label": "Series 34 Episode 35",
+  "series": 34,
+  "episode": 35,
+  "pid": "m002pwmh",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pwmh",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "US presidents with part of their name missing (the missing part also answers a separate clue)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dexter",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Alfie",
+          "evidence_quote": "not Dexter, Alfie. That scores you 100 points"
+        },
+        {
+          "answer": "Hoover",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Hoover is absolutely right... 47 is what that scores"
+        },
+        {
+          "answer": "Quincy",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Darren",
+          "evidence_quote": "20 for Quincy. Very well done"
+        },
+        {
+          "answer": "Carter",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nicola",
+          "evidence_quote": "39 is where you end up with Carter"
+        },
+        {
+          "answer": "Clinton",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Nicola",
+          "evidence_quote": "Bill Clinton, 65"
+        },
+        {
+          "answer": "Madison",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Madison... That would have scored 8"
+        },
+        {
+          "answer": "Lincoln",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Highest on the board, 73"
+        },
+        {
+          "answer": "Pierce",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Franklin Pierce, for 1. The best answer on the board"
+        },
+        {
+          "answer": "Washington",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "That W is an initial... scores you 100 points and takes your total up to 139"
+        },
+        {
+          "answer": "Ulysses",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hallie",
+          "evidence_quote": "Ulysses is right. That goes down to 31"
+        },
+        {
+          "answer": "Garfield",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "26. Taking your total up to 73"
+        },
+        {
+          "answer": "Wilson",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Zan",
+          "evidence_quote": "48 for Woodrow Wilson, taking your total up to 148"
+        },
+        {
+          "answer": "Obama",
+          "score": 75,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Barack Obama would have been 75"
+        },
+        {
+          "answer": "Harding",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Warren G Harding, which would have been... a pointless answer"
+        },
+        {
+          "answer": "Bush",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "George W Bush would have got 50"
+        },
+        {
+          "answer": "Cleveland",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Grover Cleveland would have got 18 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Instruments played by competitors in the BBC Young Musician category finals or grand final, 2014-2022",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Oboe",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Oboe is right. Down it goes to 18"
+        },
+        {
+          "answer": "French horn",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hallie",
+          "evidence_quote": "French horn is right... Down to 9"
+        },
+        {
+          "answer": "Tenor horn",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Nicola",
+          "evidence_quote": "That's incorrect. Scores you 100 points"
+        },
+        {
+          "answer": "Cello",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Cello is right. Down it goes to 36"
+        },
+        {
+          "answer": "Harp",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Darren",
+          "evidence_quote": "Harp is absolutely right... 20, takes your total up to 29"
+        },
+        {
+          "answer": "Balalaika",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "Balalaika scores you 100 points. Takes your total up to 118"
+        },
+        {
+          "answer": "Saxophone",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Saxophone... would have got 18"
+        },
+        {
+          "answer": "Bass trombone",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bass trombone would have been a pointless answer"
+        },
+        {
+          "answer": "Flugelhorn",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "As would have a flugelhorn"
+        },
+        {
+          "answer": "Bassoon",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nine points for bassoon"
+        },
+        {
+          "answer": "Tuba",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Seven points for tuba"
+        },
+        {
+          "answer": "Recorder",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Three points for a recorder"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Find the pointless famous fictional dragons from a list of six (two scoring, two pointless, two not dragons)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lee Jun Fan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Darren",
+          "evidence_quote": "Oh, no! Not Lee Jun Fan"
+        },
+        {
+          "answer": "Glaurung",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Glaurung is a dragon. And it's a pointless one as well"
+        },
+        {
+          "answer": "Elliott",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You'd have got one point for that"
+        },
+        {
+          "answer": "Vermithrax Pejorative",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It is pointless. The dragon from the 1981 film Dragonslayer"
+        },
+        {
+          "answer": "Dreamfyre",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dreamfyre, as you said, was from House Of The Dragon, with 1"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify edible fish shown in the water (with first letters given) - lowest scoring",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Haddock",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hallie",
+          "evidence_quote": "Haddock is right. That goes down to 25"
+        },
+        {
+          "answer": "Dover sole",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Dover sole is right. 32 for Dover sole"
+        },
+        {
+          "answer": "Cod",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cod would have got 65 on the board"
+        },
+        {
+          "answer": "Halibut",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Halibut would have got you 10"
+        },
+        {
+          "answer": "Tuna",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "finally tuna with 64"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Surnames of the Walmington-on-Sea platoon in Dad's Army (letters rearranged alphabetically)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mainwaring",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Mainwaring is right. 33 for Mainwaring"
+        },
+        {
+          "answer": "Jones",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Darren",
+          "evidence_quote": "Jones is right. It's a big one, though. 58 for Jones"
+        },
+        {
+          "answer": "Frazer",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "not Zefrar, but... Frazer for 23"
+        },
+        {
+          "answer": "Godfrey",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Godfrey would have got 27"
+        },
+        {
+          "answer": "Cheeseman",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Cheeseman. Score of 1"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Facts about Rihanna - answer the one fewest people knew",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Umbrella",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Darren",
+          "evidence_quote": "Umbrella is right. That goes down to 41"
+        },
+        {
+          "answer": "Barbados",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Barbados... It's right. And it wins the point... 29 for Barbados"
+        },
+        {
+          "answer": "Coldplay",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the bottom one as well, which is Coldplay... that scored 8"
+        },
+        {
+          "answer": "Fenty",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "would have scored 19 with Fenty"
+        },
+        {
+          "answer": "Shontelle",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the top answer would have been Shontelle, with 3"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any track on Massive Attack's Collected (2006) or Portishead's albums Dummy, Portishead or Third",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Five Man Army",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Cal",
+          "evidence_quote": "Five Man Army was a pointless answer"
+        },
+        {
+          "answer": "Butterfly Caught",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Cal",
+          "evidence_quote": "There's the second pointless answer"
+        },
+        {
+          "answer": "Biscuit",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Cal",
+          "evidence_quote": "Biscuit was another pointless answer"
+        },
+        {
+          "answer": "Inertia Creeps",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Inertia Creeps as well... That also would have been a pointless answer"
+        },
+        {
+          "answer": "Future Proof",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answers were Future Proof and What Your Soul Sings"
+        },
+        {
+          "answer": "What Your Soul Sings",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answers were Future Proof and What Your Soul Sings"
+        }
+      ]
+    }
+  ]
+}

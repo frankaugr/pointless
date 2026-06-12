@@ -1,0 +1,682 @@
+{
+  "episode_id": "s35e27",
+  "episode_label": "Series 35 Episode 27",
+  "series": 35,
+  "episode": 27,
+  "pid": "m002wb1f",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wb1f",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Surname of any UK Prime Minister whose surname does not contain the letters P or M",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Disraeli",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haleema",
+          "evidence_quote": "Down to one! What a great start to the show!"
+        },
+        {
+          "answer": "Churchill",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farrah",
+          "evidence_quote": "Down it goes to 39. Very good."
+        },
+        {
+          "answer": "Truss",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Down she goes. 26."
+        },
+        {
+          "answer": "Wilson",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "You're on 24. Not bad at all."
+        },
+        {
+          "answer": "Gladstone",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "we get you down to three"
+        },
+        {
+          "answer": "Bonar Law",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "That is a pointless answer, and it means it adds £250"
+        },
+        {
+          "answer": "Lloyd George",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elisha",
+          "evidence_quote": "Oh, down to two, taking your total up to 41."
+        },
+        {
+          "answer": "Brown",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aized",
+          "evidence_quote": "34 for Brown. Very well done indeed."
+        },
+        {
+          "answer": "Arthur Balfour",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "you could have had Arthur Balfour, George Canning"
+        },
+        {
+          "answer": "George Canning",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arthur Balfour, George Canning, William Cavendish-Bentinck"
+        },
+        {
+          "answer": "William Cavendish-Bentinck",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "William Cavendish-Bentinck, Augustus FitzRoy"
+        },
+        {
+          "answer": "Augustus FitzRoy",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Augustus FitzRoy, Robert Gascoyne-Cecil"
+        },
+        {
+          "answer": "Robert Gascoyne-Cecil",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Robert Gascoyne-Cecil, Bonar Law"
+        },
+        {
+          "answer": "Lord North",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Lord North, John Stuart and Arthur Wellesley"
+        },
+        {
+          "answer": "John Stuart",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Lord North, John Stuart and Arthur Wellesley"
+        },
+        {
+          "answer": "Arthur Wellesley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arthur Wellesley, aka the Duke of Wellington"
+        },
+        {
+          "answer": "Addington",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Other pointless answers were Addington, Cavendish, Jenkinson, Robinson and Watson-Wentworth"
+        },
+        {
+          "answer": "Cavendish",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Addington, Cavendish, Jenkinson, Robinson and Watson-Wentworth"
+        },
+        {
+          "answer": "Jenkinson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Addington, Cavendish, Jenkinson, Robinson and Watson-Wentworth"
+        },
+        {
+          "answer": "Robinson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Addington, Cavendish, Jenkinson, Robinson and Watson-Wentworth"
+        },
+        {
+          "answer": "Watson-Wentworth",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Addington, Cavendish, Jenkinson, Robinson and Watson-Wentworth"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Words/phrases (with letter counts and a clue) which are also terms used in social media",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tag",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haleema",
+          "evidence_quote": "Tag, quite right. Down it goes to 39."
+        },
+        {
+          "answer": "Carousel",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "you pass it, substantially. 18."
+        },
+        {
+          "answer": "Profile",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "32 for profile"
+        },
+        {
+          "answer": "Spam",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "spam, because that would have scored you 72"
+        },
+        {
+          "answer": "Platform",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we have platform - going for 42"
+        },
+        {
+          "answer": "Stitch",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the little blue creature alien is Stitch, which went for 53"
+        },
+        {
+          "answer": "Reel",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "39 for reel, taking your total up to 71"
+        },
+        {
+          "answer": "Virus",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "it is incorrect, and we shall find out the correct answer right at the end"
+        },
+        {
+          "answer": "Viral",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aized",
+          "evidence_quote": "Viral is right, and it gets you through. 16."
+        },
+        {
+          "answer": "Troll",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The first we have is troll. That was 48."
+        },
+        {
+          "answer": "Engagement",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that's engagement, 27"
+        },
+        {
+          "answer": "Avatar",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Avatar. You were correct. 19."
+        },
+        {
+          "answer": "Stream",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the narrow river, stream...would have given you 34"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Characters in the musical Les Miserables (or the Victor Hugo novel) - two pointless, two scoring, two red herrings",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bayard",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Aized",
+          "evidence_quote": "No, not Bayard."
+        },
+        {
+          "answer": "Prouvaire",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Oh, very well done indeed!"
+        },
+        {
+          "answer": "Babet",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Babet scored one."
+        },
+        {
+          "answer": "Madame Thenardier",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "she's the innkeeper's wife...Which scored two."
+        },
+        {
+          "answer": "Fauchelevent",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Fauchelevent is the other pointless answer."
+        },
+        {
+          "answer": "Phoebus",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Phoebus, which is also a red herring! A character from The Hunchback of Notre Dame"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Items of clothing and accessories worn by being wrapped or draped around the body",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dhori",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Aized",
+          "evidence_quote": "Oh, bad luck. Not dhori."
+        },
+        {
+          "answer": "Kimono",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "it absolutely is right! Scored 71."
+        },
+        {
+          "answer": "Dhoti",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "B is dhoti, which would have given you three"
+        },
+        {
+          "answer": "Pashmina",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "pashmina, which is 33"
+        },
+        {
+          "answer": "Kilt",
+          "score": 87,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "E, is kilt, which would have given you 87"
+        },
+        {
+          "answer": "Ta'ovala",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "our pointless answer is ta'ovala, which is a Tongan wraparound skirt"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Reality TV show titles with one letter changed in each word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hunted",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "Hunted is right. 27."
+        },
+        {
+          "answer": "Glow Up",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aized",
+          "evidence_quote": "Glow Up is absolutely right...Goes down to nine."
+        },
+        {
+          "answer": "Love Island",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Love Island, which would have scored you 67"
+        },
+        {
+          "answer": "Interior Design Masters with Alan Carr",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Interior Design Masters with Alan Carr, 13"
+        },
+        {
+          "answer": "Don't Tell the Bride",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Don't Tell the Bride with 52"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Flavours of crisps found in the UK, with names translated into Spanish",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Smoky bacon",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aized",
+          "evidence_quote": "It's right. And down it goes to 12."
+        },
+        {
+          "answer": "Sea salt",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Sea salt's right. 36 for sea salt"
+        },
+        {
+          "answer": "Roast chicken",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "first is roast chicken, which would have got you 37"
+        },
+        {
+          "answer": "Prawn cocktail",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "prawn cocktail, 42"
+        },
+        {
+          "answer": "Cheese and onion",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "cheese and onion, my personal favourite, 54"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any fruit or vegetable on the National Farmers' Union's Seasonal Guide to British Fruit and Veg chart",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Butternut squash",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "You've done it! Butternut squash is a pointless answer!"
+        },
+        {
+          "answer": "Bitter gourd",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "let us find out if bitter gourd is a pointless answer...Oh, no."
+        },
+        {
+          "answer": "Celeriac",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "your third answer of celeriac was also pointless"
+        },
+        {
+          "answer": "Apricots",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "apricots, beetroot, broad beans, fennel"
+        },
+        {
+          "answer": "Beetroot",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "apricots, beetroot, broad beans, fennel"
+        },
+        {
+          "answer": "Broad beans",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "apricots, beetroot, broad beans, fennel"
+        },
+        {
+          "answer": "Fennel",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "broad beans, fennel, purple-sprouting broccoli"
+        },
+        {
+          "answer": "Purple-sprouting broccoli",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "fennel, purple-sprouting broccoli, rocket"
+        },
+        {
+          "answer": "Rocket",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "purple-sprouting broccoli, rocket, runner beans"
+        },
+        {
+          "answer": "Runner beans",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "rocket, runner beans, spinach"
+        },
+        {
+          "answer": "Spinach",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "runner beans, spinach, spring onion and sweetcorn"
+        },
+        {
+          "answer": "Spring onion",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "spinach, spring onion and sweetcorn"
+        },
+        {
+          "answer": "Sweetcorn",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "spring onion and sweetcorn"
+        }
+      ]
+    }
+  ]
+}

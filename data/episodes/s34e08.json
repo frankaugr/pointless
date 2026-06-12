@@ -1,0 +1,432 @@
+{
+  "episode_id": "s34e08",
+  "episode_label": "Series 34 Episode 8",
+  "series": 34,
+  "episode": 8,
+  "pid": "m002k73n",
+  "source_url": "https://www.bbc.co.uk/programmes/m002k73n",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Name the artist who had a hit with these songs that never reached number 1 in the UK charts (initials and year given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Billie Eilish (Bad Guy)",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Billie Eilish, absolutely right. Down... ..down it goes, to 15."
+        },
+        {
+          "answer": "Wizzard (I Wish It Could Be Christmas Everyday)",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "It is Wizzard. Still going down. Down to 30."
+        },
+        {
+          "answer": "The Verve (Bitter Sweet Symphony)",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Imran",
+          "evidence_quote": "The Verve, absolutely right. ... 23 is where you end up with The Verve."
+        },
+        {
+          "answer": "Billy Joel (Livin' On A Prayer)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "No, Jane. I'm sorry. A different BJ. That scores you 100 points."
+        },
+        {
+          "answer": "Bon Jovi (Livin' On A Prayer)",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "if you got Bon Jovi, actually, 57 people did know that"
+        },
+        {
+          "answer": "The Killers (Mr Brightside)",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Killers, Mr Brightside. Yes. 27, that would have scored."
+        },
+        {
+          "answer": "Beyonce (Halo)",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I think Halo is Beyonce. Yes, it is. 34 people knew that."
+        },
+        {
+          "answer": "Anne-Marie",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And to at least ten people because that's how many people recognised it."
+        },
+        {
+          "answer": "Tracy Chapman (Fast Car)",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Philip",
+          "evidence_quote": "Tracy Chapman. Absolutely on the money. 35 for Tracy Chapman"
+        },
+        {
+          "answer": "Adele (Set Fire To The Rain)",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ellie",
+          "evidence_quote": "Adele is right. Down it goes to 33"
+        },
+        {
+          "answer": "Fleetwood Mac (Dreams)",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Usha",
+          "evidence_quote": "Fleetwood Mac is right. It's a cracking answer. Look at that. 10."
+        },
+        {
+          "answer": "Harry Styles (Watermelon Sugar)",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Margery",
+          "evidence_quote": "Down it goes to 26. ... 26 for Harry Styles"
+        },
+        {
+          "answer": "Nirvana",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I can give you Nirvana at the top. Yeah. That would have got you 36."
+        },
+        {
+          "answer": "Idina Menzel (Let It Go)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "..was Idina Menzel. And that was actually the lowest score on the board. ... That was just 4."
+        },
+        {
+          "answer": "The Weeknd (Save Your Tears)",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Weeknd. ... You and 11 other people."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Five categories from literature, each with five answers (Shakespeare tragedies, Bennet sisters in Pride and Prejudice, Lord of the Rings characters, Golden Ticket winners, sequels to Noughts and Crosses)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Othello",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Margery",
+          "evidence_quote": "28 for Othello. Very well done."
+        },
+        {
+          "answer": "Kitty",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Usha",
+          "evidence_quote": "And Kitty is a pointless answer, if you please, Usha."
+        },
+        {
+          "answer": "Boromir",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ellie",
+          "evidence_quote": "Boromir's right. ... Boromir down to 4."
+        },
+        {
+          "answer": "Violet Beauregarde",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Imran",
+          "evidence_quote": "It's absolutely right. Gets you through. And down to 10."
+        },
+        {
+          "answer": "Lydia",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "It's absolutely right. You are through. Ah! Down to 2."
+        },
+        {
+          "answer": "Gimli",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Gimli is right. ... Down to 5. Brilliant score."
+        },
+        {
+          "answer": "Cymbeline",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": null,
+          "evidence_quote": "Cymbeline. ... It's a pointless answer. Well done."
+        },
+        {
+          "answer": "Coriolanus",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Coriolanus and Cymbeline, as you said, Xander. They were both pointless."
+        },
+        {
+          "answer": "Augustus Gloop",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the wonderfully named Augustus Gloop, who was actually the lowest score"
+        },
+        {
+          "answer": "Double Cross",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Double Cross in that order, with Double Cross actually being a pointless score"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Star signs (pictures and symbols with blanks for letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Libra",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "It is right. Very good indeed. Libra scoring you 46."
+        },
+        {
+          "answer": "Virgo",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ellie",
+          "evidence_quote": "Virgo, absolutely right. Has to beat 46. And it does. ... 16"
+        },
+        {
+          "answer": "Taurus",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Taurus, indeed it is, A. Scored 43."
+        },
+        {
+          "answer": "Capricorn",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Capricorn, 21."
+        },
+        {
+          "answer": "Pisces",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Pisces would have scored a whopping 64."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "TV consumer affairs shows with vowels removed from the titles",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Joe Lycett's Got Your Back",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ellie",
+          "evidence_quote": "Very well done indeed. 11 for that."
+        },
+        {
+          "answer": "Rogue Traders",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "Rogue Traders, absolutely right. Ah! 34 for Rogue Traders."
+        },
+        {
+          "answer": "Fake Britain",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Fake Britain. Yes, you were right on that. 44 people knew that."
+        },
+        {
+          "answer": "That's Life!",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's Life! 69."
+        },
+        {
+          "answer": "Watchdog",
+          "score": 80,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Watchdog, 80 people knew the answer to that."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Tiebreaker Warmup",
+      "category_text": "Which of these six are pointless Mediterranean cruise ports (two scoring, two pointless, two not ports)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dubrovnik",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "It's a Mediterranean cruise port. ... Goes down to 9."
+        },
+        {
+          "answer": "Mykonos",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ellie",
+          "evidence_quote": "Well, it's right. And it's pointless. Very well done indeed."
+        },
+        {
+          "answer": "Saint-Tropez",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "you also named the other pointless, which is Saint-Tropez"
+        },
+        {
+          "answer": "Algiers",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Algiers would have scored 1 point because it is a port."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Countries (other than UK) or national capitals whose name has at least two different letters of the alphabet appearing twice",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mexico City",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Down we go into single figures. Still going down with Mexico City. ... You've done it!"
+        },
+        {
+          "answer": "Tanzania",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Still going down with Tanzania. Still going... Yep. Yes! You've done it."
+        },
+        {
+          "answer": "Ouagadougou",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Still going down with Ouagadougou. ... We have done it! ... Ouagadougou is your third pointless answer"
+        }
+      ]
+    }
+  ]
+}

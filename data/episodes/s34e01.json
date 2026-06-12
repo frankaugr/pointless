@@ -1,0 +1,457 @@
+{
+  "episode_id": "s34e01",
+  "episode_label": "Series 34 Episode 1",
+  "series": 34,
+  "episode": 1,
+  "pid": "m002jwx4",
+  "source_url": "https://www.bbc.co.uk/programmes/m002jwx4",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Teams that took part in the Euro 2024 finals (men's European Football Championship)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Italy",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelly",
+          "evidence_quote": "Italy. 57 of our 100 people thought that was right, too."
+        },
+        {
+          "answer": "Romania",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fego",
+          "evidence_quote": "Down it goes to five. This is terrific. Five for Romania."
+        },
+        {
+          "answer": "Croatia",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Down it goes to 14. Very well done indeed. 14 for Croatia."
+        },
+        {
+          "answer": "Switzerland",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "There we are, 26. Nice middling score. Perfect. 26."
+        },
+        {
+          "answer": "North Macedonia",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Millie",
+          "evidence_quote": "I'm sorry it's not. It scores you 100 points, takes your total up to 126"
+        },
+        {
+          "answer": "The Netherlands",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "The Netherlands is right. Down it goes to 39."
+        },
+        {
+          "answer": "Hungary",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robbie",
+          "evidence_quote": "Hungary's right. Oh, it's better than that. It's seven."
+        },
+        {
+          "answer": "Portugal",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "43 is what it scores. Taking your total up to a lovely round 100."
+        },
+        {
+          "answer": "Czech Republic (Czechia)",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The lowest actually was the Czech Republic. Only three people out of the 100"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Five-letter terms and people from the field of science (initial letter given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Liver",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "Liver's right. 34. That's good, isn't it?"
+        },
+        {
+          "answer": "Curie",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robbie",
+          "evidence_quote": "Curie is right. Down to 13."
+        },
+        {
+          "answer": "Argon",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "You pass the high. There we are on 23."
+        },
+        {
+          "answer": "Acute",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And acute. That would have given you 36."
+        },
+        {
+          "answer": "Venus",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It scored 60."
+        },
+        {
+          "answer": "Metre",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the equator, of course, is a metre. That scored 19."
+        },
+        {
+          "answer": "Orion",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "It's right. Not bad. 32. Taking your total up to 55."
+        },
+        {
+          "answer": "Femur",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fego",
+          "evidence_quote": "Femur's right. Oh, not quite enough. 48 for femur."
+        },
+        {
+          "answer": "Larva",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelly",
+          "evidence_quote": "larva - absolutely right. And that goes down to 45"
+        },
+        {
+          "answer": "Higgs",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "That scored 4, which actually was the lowest of the scores"
+        },
+        {
+          "answer": "Alloy",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that would have got you 27"
+        },
+        {
+          "answer": "Genus",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And 15 people got that right as well."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Exercise apps (find the pointless ones to add to the jackpot)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Find What Feels Good",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robbie",
+          "evidence_quote": "It's an exercise app. Very well done indeed. A pointless exercise app."
+        },
+        {
+          "answer": "Stretchit",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "it's another pointless exercise app. Two from two."
+        },
+        {
+          "answer": "Betterme",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Betterme... fitness app that strengthens your brain and your body. That scored 3."
+        },
+        {
+          "answer": "Shreddy",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Shreddy... that would have scored you 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "People with the surname Turner (from five pictures)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sophie Turner",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robbie",
+          "evidence_quote": "Absolutely right. Down it goes to 20."
+        },
+        {
+          "answer": "Anthea Turner",
+          "score": 68,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Anthea Turner, 68."
+        },
+        {
+          "answer": "Ted Turner",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The one that was the lowest score was Ted Turner... would have scored you 4."
+        },
+        {
+          "answer": "Aidan Turner",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Aidan Turner, who appeared in Poldark, that was D and would have got you 24."
+        },
+        {
+          "answer": "Tina Turner",
+          "score": 94,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Everybody knows Tina Turner, of course. I mean, that had a score of 94."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Plants that grow well in pots (anagrams with letters in alphabetical order)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hosta",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Hosta. Absolutely right. Down, it goes to 25."
+        },
+        {
+          "answer": "Winter pansy",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robbie",
+          "evidence_quote": "Winter pansy is absolutely right. Down it goes to 46."
+        },
+        {
+          "answer": "Mint",
+          "score": 87,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "mint would have scored you 87."
+        },
+        {
+          "answer": "Hellebore",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hellebore would have scored you 7."
+        },
+        {
+          "answer": "Cyclamen",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cyclamen, yes, and that had two."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "People and things related to the word 'charm'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rabbit",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robbie",
+          "evidence_quote": "Rabbit is right. 70."
+        },
+        {
+          "answer": "Pedro Almodovar",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "it didn't come good for you... the correct answer to the surrealist Spanish film director, who is Luis Bunuel"
+        },
+        {
+          "answer": "Luis Bunuel",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had only a score of 2 for the correct answer to the surrealist Spanish film director"
+        },
+        {
+          "answer": "Devon",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Devon, which is where the wormcharming happens... that scored 15."
+        },
+        {
+          "answer": "The Smiths",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was the Smiths. That would have given you 28."
+        },
+        {
+          "answer": "Cinderella",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cinderella, of course, is the pantomime... that scored 60."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Tennis players who represented Australia and won the Australian Open singles, or represented France and won the French Open singles",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nick Kyrgios",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Robbie",
+          "evidence_quote": "Nick Kyrgios. Incorrect. Let's not dwell on that."
+        },
+        {
+          "answer": "John Isner",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Robbie",
+          "evidence_quote": "John Isner actually is not French at all. He's an American"
+        },
+        {
+          "answer": "Nicolas Mahut",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Robbie",
+          "evidence_quote": "Not Nicolas Mahut either... he's never got past the third round in the French Open"
+        }
+      ]
+    }
+  ]
+}

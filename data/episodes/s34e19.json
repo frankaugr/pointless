@@ -1,0 +1,405 @@
+{
+  "episode_id": "s34e19",
+  "episode_label": "Series 34 Episode 19",
+  "series": 34,
+  "episode": 19,
+  "pid": "m002kvf7",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kvf7",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Films whose titles take the form 'The ___ Of ___'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Silence Of The Lambs",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jean",
+          "evidence_quote": "It is absolutely right. And it goes down to 55."
+        },
+        {
+          "answer": "The Wizard Of Oz",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ethan",
+          "evidence_quote": "62 for The Wizard Of Oz."
+        },
+        {
+          "answer": "The Color Of Money",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Down that goes to 21. This is superb."
+        },
+        {
+          "answer": "The Master Of Zorro",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "That's 100 points, I'm afraid. Incorrect."
+        },
+        {
+          "answer": "The Mask Of Zorro",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was The Mask Of Zorro... 30, that would have scored you."
+        },
+        {
+          "answer": "The Last King Of Scotland",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Good film. Idi Amin. 11."
+        },
+        {
+          "answer": "The Umbrellas Of Cherbourg",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's The Umbrellas Of Cherbourg. Pointless answer."
+        },
+        {
+          "answer": "The Shape Of Water",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the second-best score on the board with 4."
+        },
+        {
+          "answer": "The Prince Of Thieves",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "I'm afraid that's incorrect. Scores you 100 points."
+        },
+        {
+          "answer": "The Jewel Of The Nile",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "Down it goes to 39."
+        },
+        {
+          "answer": "The Pursuit Of Happyness",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fez",
+          "evidence_quote": "it takes you down... to 12."
+        },
+        {
+          "answer": "The Guns Of Navarone",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bill",
+          "evidence_quote": "Down it goes to 30. Very well done. 85, your total."
+        },
+        {
+          "answer": "The Wolf Of Wall Street",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Wolf Of Wall Street, at the top? 34, that would have scored you."
+        },
+        {
+          "answer": "The Sound Of Music",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Sound Of Music, 49."
+        },
+        {
+          "answer": "The Prince Of Tides",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is The Prince... Of Tides... that would have scored you 2."
+        },
+        {
+          "answer": "The Tragedy Of Macbeth",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The Tragedy... Macbeth! Pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Planets, dwarf planets or moons in our solar system containing at least one letter of the word 'space'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pollux",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jean",
+          "evidence_quote": "that is an incorrect answer. Scores you 100 points. Pollux is a star, not a moon."
+        },
+        {
+          "answer": "Jupiter",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Jupiter scores 53."
+        },
+        {
+          "answer": "Titan",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fez",
+          "evidence_quote": "down it goes to 7. Very well done indeed, Fez."
+        },
+        {
+          "answer": "Phobos",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ethan",
+          "evidence_quote": "2 for Phobos, taking your total up to 9."
+        },
+        {
+          "answer": "Neptune",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "Just 40, taking your total up to 93."
+        },
+        {
+          "answer": "Pluto",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bill",
+          "evidence_quote": "down it goes to 57. Your total is 157."
+        },
+        {
+          "answer": "Calypso",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Calypso, a moon of Satan. Satan! Saturn."
+        },
+        {
+          "answer": "Haumea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Oh, Haumea. Yes."
+        },
+        {
+          "answer": "Ophelia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "this, my sister's name, Ophelia. It's a planet."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Members of Black Sabbath",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Vinnie Appice",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ethan",
+          "evidence_quote": "Vinnie Appice most definitely a member of Black Sabbath... One."
+        },
+        {
+          "answer": "Cosy Powell",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "He'd previously played in Rainbow and, of course, a pointless answer."
+        },
+        {
+          "answer": "Ronnie James Dio",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ronnie James Dio was in Black Sabbath... That would have scored you 11."
+        },
+        {
+          "answer": "Geoff Nicholls",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Geoff Nicholls was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Capital cities of island countries",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Antananarivo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ethan",
+          "evidence_quote": "Another pointless answer, adding another £250 to today's jackpot"
+        },
+        {
+          "answer": "Valletta",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "Valletta is right. It's another great score. 15."
+        },
+        {
+          "answer": "Havana",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Havana, Cuba. 44 points, you would have got for that."
+        },
+        {
+          "answer": "Tokyo",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tokyo - 48, that's scored you."
+        },
+        {
+          "answer": "Reykjavik",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It IS Reykjavik... that would have scored you 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Cuts of steak (which our 100 found toughest)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Chateaubriand",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "Chateaubriand is right. That goes down to 21."
+        },
+        {
+          "answer": "Bavette",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ethan",
+          "evidence_quote": "Bavette is right. And look at that. Down it goes to five."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Top 50 all-time NBA scorers, or NBA teams that have won the NBA finals more than once since 1947",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Karl Malone",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Karl Malone was a pointless answer, which means you are taking home today's jackpot"
+        },
+        {
+          "answer": "Milwaukee Bucks",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Oh! One. In which case, huge congratulations"
+        },
+        {
+          "answer": "Houston Rockets",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Houston Rockets was also pointless, by the way."
+        }
+      ]
+    }
+  ]
+}

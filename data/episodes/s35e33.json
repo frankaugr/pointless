@@ -1,0 +1,493 @@
+{
+  "episode_id": "s35e33",
+  "episode_label": "Series 35 Episode 33",
+  "series": 35,
+  "episode": 33,
+  "pid": "m002wm6q",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wm6q",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:15:39+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Name any of the 16 national teams that took part in the finals of the UEFA Women's Euro 2025 football tournament (July 2025)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Slovakia",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Manjit",
+          "evidence_quote": "not Slovakia, as it turns out... That scores you 100 points."
+        },
+        {
+          "answer": "Sweden",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "Sweden. This is right. Very good. Down it goes to 37."
+        },
+        {
+          "answer": "Portugal",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Portugal is right. ...there - 40 for Portugal."
+        },
+        {
+          "answer": "England",
+          "score": 85,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Neil",
+          "evidence_quote": "I'm going to say England... There we go. 85."
+        },
+        {
+          "answer": "Poland",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Poland is right. Oh! 16."
+        },
+        {
+          "answer": "Spain",
+          "score": 79,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynda",
+          "evidence_quote": "Spain is right. ...79 for Spain"
+        },
+        {
+          "answer": "Croatia",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sehajta",
+          "evidence_quote": "that is incorrect... up to 137, it having scored 100. Not Croatia."
+        },
+        {
+          "answer": "Switzerland",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alan",
+          "evidence_quote": "Switzerland is right. It gets you through. 30."
+        },
+        {
+          "answer": "Wales",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "if you'd gone for Wales, you wouldn't have gone through. They scored 44."
+        },
+        {
+          "answer": "Belgium",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "we have 21 for Belgium"
+        },
+        {
+          "answer": "Denmark",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "17 for Denmark"
+        },
+        {
+          "answer": "Poland",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "16 for Poland"
+        },
+        {
+          "answer": "Iceland",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "12 for Iceland"
+        },
+        {
+          "answer": "Finland",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the best answer of all was Finland, which scored 11"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Science and technology terms beginning with the letter W (given as clues with letter counts)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Weft",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alan",
+          "evidence_quote": "weft? That goes down to 19. Very well done."
+        },
+        {
+          "answer": "Watt",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Watt - is it right? 38 is what Watt scores you."
+        },
+        {
+          "answer": "White",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Neil",
+          "evidence_quote": "White is right. ...34 for white."
+        },
+        {
+          "answer": "Winter",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "winter is the season... That would have scored you 66."
+        },
+        {
+          "answer": "Waxing",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is waxing and that would have scored you 14."
+        },
+        {
+          "answer": "Waggle dance",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It's a waggle dance... And that scored 5."
+        },
+        {
+          "answer": "Wisdom teeth",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "wisdom teeth. ...Good. 44."
+        },
+        {
+          "answer": "Winchester",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynda",
+          "evidence_quote": "Winchester. ...Down it goes to 15."
+        },
+        {
+          "answer": "Worms",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Manjit",
+          "evidence_quote": "Yes, they can. ...Down to 17."
+        },
+        {
+          "answer": "Weight",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "weight might be the measure of force... Stick with it. 24."
+        },
+        {
+          "answer": "Water",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Water. Correct. 39."
+        },
+        {
+          "answer": "Weber",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Weber. ...That was worth 3. That was the lowest-scoring answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Which of these six names are real-life famous opera singers (two scoring, two pointless, two not opera singers at all)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Peter Pears",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alan",
+          "evidence_quote": "It's a pointless answer! Very well done indeed."
+        },
+        {
+          "answer": "Brenda Boozer",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Brenda Boozer is an opera singer. And a pointless one to boot!"
+        },
+        {
+          "answer": "Lawrence Brownlee",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "An American opera singer. Scored 1."
+        },
+        {
+          "answer": "Cecilia Bartoli",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cecilia Bartoli is definitely an opera singer... And that was worth 2."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify these UK buildings that are examples of Brutalist architecture (from pictures and alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Preston Bus Station",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alan",
+          "evidence_quote": "Preston Bus Station - absolutely right... That goes down to 18."
+        },
+        {
+          "answer": "University of East Anglia",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "It is UEA. And it wins the point for you... Down it goes to 16."
+        },
+        {
+          "answer": "Park Hill Estate",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Park Hill Estate. Yes. Correct. In Sheffield. That would have scored you 4."
+        },
+        {
+          "answer": "National Theatre",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You got National Theatre, which scored 31."
+        },
+        {
+          "answer": "Clifton Cathedral",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Clifton... In Bristol. Scored 2. Our lowest-scoring answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Facts about the band Blur (from clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Banksy",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynda",
+          "evidence_quote": "It is Banksy. And down goes Banksy to 30."
+        },
+        {
+          "answer": "Parklife",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alan",
+          "evidence_quote": "Parklife is right. And it beats Banksy... Down it goes to 12."
+        },
+        {
+          "answer": "Mallard",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the iconic steam locomotive on the cover is the Mallard, which scored 4."
+        },
+        {
+          "answer": "Stuart Maconie",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the radio DJ who wrote the book is Stuart Maconie. And that was a pointless answer."
+        },
+        {
+          "answer": "Oasis",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the group that they beat to number one was Oasis, which would have scored 36."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Christmas pantomime characters with letters in alphabetical order (with the panto named)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Widow Twankey",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alan",
+          "evidence_quote": "Widow Twankey is right and goes down to 57."
+        },
+        {
+          "answer": "Captain Hook",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Captain Hook, 62."
+        },
+        {
+          "answer": "Buttons",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you had said Buttons, you would have been through to the final with 54."
+        },
+        {
+          "answer": "Carabosse",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that is Carabosse... Scored 4."
+        },
+        {
+          "answer": "Fleshcreep",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Fleshcreep scored 1. Well done at home if you got that."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Anyone with an acting credit in the 2023 film Guardians Of The Galaxy Vol 3 (including voice) or the title of any song on the soundtrack to any of the three Guardians Of The Galaxy films",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bradley Cooper",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Alan",
+          "evidence_quote": "Bradley Cooper is right... We go down into the teens... To 9."
+        },
+        {
+          "answer": "Vin Diesel",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Alan",
+          "evidence_quote": "Vin Diesel taking us valiantly down... Oh! 10."
+        },
+        {
+          "answer": "Michael Rooker",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Alan",
+          "evidence_quote": "Michael Rooker - absolutely pointless and has won you £2,750."
+        }
+      ]
+    }
+  ]
+}

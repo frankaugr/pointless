@@ -1,0 +1,637 @@
+{
+  "episode_id": "s34e05",
+  "episode_label": "Series 34 Episode 5",
+  "series": 34,
+  "episode": 5,
+  "pid": "m002jwyq",
+  "source_url": "https://www.bbc.co.uk/programmes/m002jwyq",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Emotions, feelings or states of mind missing from these novel titles (begins with given letter)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Old Curiosity Shop (Curiosity)",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "The Old Curiosity Shop. It is. And down it goes to 43."
+        },
+        {
+          "answer": "The Grapes Of Wrath (Wrath)",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "There you are, 47. Nice and close."
+        },
+        {
+          "answer": "Women In Love (Love)",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "61 for Women In Love."
+        },
+        {
+          "answer": "Pride And Prejudice (Pride)",
+          "score": 89,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Angela",
+          "evidence_quote": "89 for Pride. Anyway, look, it's a great answer."
+        },
+        {
+          "answer": "Hate (William Faulkner title)",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Um, Hate? It is. 14 people knew that."
+        },
+        {
+          "answer": "The Sound And The Fury (Fury)",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Sound And The Fury. 16 for that."
+        },
+        {
+          "answer": "A Rage In Harlem (Rage)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest score, and that is A Rage In Harlem by Chester Himes. And that would have scored you six."
+        },
+        {
+          "answer": "Where Angels Fear To Tread (Fear)",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gordon",
+          "evidence_quote": "Fear. Of course. And down it goes to 51."
+        },
+        {
+          "answer": "A Damsel In Distress (Distress)",
+          "score": 79,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "Distress. Ooh, look at that. 79."
+        },
+        {
+          "answer": "The Ministry Of Utmost Happiness (Happiness)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shiva",
+          "evidence_quote": "Utmost Happiness going right the way down to four."
+        },
+        {
+          "answer": "War And Peace (Peace)",
+          "score": 75,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "75. There we are. Oh! Taking your total up to 118."
+        },
+        {
+          "answer": "Separation Anxiety (Anxiety)",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "It is Anxiety. Down you go to 31."
+        },
+        {
+          "answer": "Sorrow (Salman Rushdie title)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Gordon",
+          "evidence_quote": "I'm afraid that's incorrect. Scores you 100 points."
+        },
+        {
+          "answer": "The Joy Luck Club (Joy)",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Joy Luck Club, if you had gone with that, would have given you 19."
+        },
+        {
+          "answer": "Shame (Salman Rushdie title)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "that was actually the lowest score on the board. It would have scored two. And the word is Shame."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "People named in the Shaw Trust's Disability Power 100 list or Hall of Fame (with initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Warwick Davis",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Warwick Davis down to 34."
+        },
+        {
+          "answer": "Kaleena Cox",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "I'm afraid that is incorrect. And scores you 100 points."
+        },
+        {
+          "answer": "Ellie Simmonds",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shiva",
+          "evidence_quote": "Ellie Simmonds. Absolutely right. ... Down you go to 17."
+        },
+        {
+          "answer": "Tammy Grey-Thompson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "That scores you 100 points and takes your total up to 117."
+        },
+        {
+          "answer": "Jonnie Peacock",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Jonnie Peacock is right. ... Down it goes to nine."
+        },
+        {
+          "answer": "Tanni Grey-Thompson",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "Down it goes to six, taking your total up to a beautiful round 40."
+        },
+        {
+          "answer": "Kadeena Cox",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "She's KADEENA Cox. And that would have got you one."
+        },
+        {
+          "answer": "Stephen Hawking",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Stephen Hawking. He scored 50."
+        },
+        {
+          "answer": "Ruth Madeley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ruth Madeley. Yes. She was a pointless answer, by the way."
+        },
+        {
+          "answer": "Chris Packham",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chris Packham there at 29."
+        },
+        {
+          "answer": "Rosie Jones",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rosie Jones. 16."
+        },
+        {
+          "answer": "Kare Adenegan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "KA, Kare Adenegan, a wheelchair athlete, and that was a pointless answer."
+        },
+        {
+          "answer": "Lee Ridley",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "LR, Lee Ridley. And that was one."
+        },
+        {
+          "answer": "Anne Hegerty",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Anne Hegerty? Yeah. She scored 18."
+        },
+        {
+          "answer": "Steve Brown",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "wheelchair rugby player Steve Brown. He would have gained you two."
+        },
+        {
+          "answer": "Rose Ayling-Ellis",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "R A-E, Rose Ayling-Ellis scored two."
+        },
+        {
+          "answer": "Alex Brooker",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's Alex Brooker. ... That was 11."
+        },
+        {
+          "answer": "Lenny Rush",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "LR. It was a pointless answer. He's Lenny Rush."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "German rivers (find the pointless ones from six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Entweder",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "You're going to go for Entweder. Shall we see if Entweder is a pointless German river? No!"
+        },
+        {
+          "answer": "Wupper",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Wupper. ... Oh, it's a German river. It is indeed a tributary of the Rhine"
+        },
+        {
+          "answer": "Peene",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the other one that is a river is, um, Peene there. And that scored one."
+        },
+        {
+          "answer": "Weser",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Weser is a river. And if you'd got that, you would have got eight."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Things that lost their trademark by becoming generic terms (with initial letter)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Butterscotch",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Butterscotch. Absolutely right. ... 11 for butterscotch."
+        },
+        {
+          "answer": "Canola",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Canola is right. ... Down it goes to ten for canola!"
+        },
+        {
+          "answer": "Aspirin",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Aspirin got 65 correct there."
+        },
+        {
+          "answer": "Pilates",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pilates. That would have scored 38."
+        },
+        {
+          "answer": "Escalator",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "and escalator, 63."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Plants in the mint family (with alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Catnip",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Catnip is right. ... That goes down to ten."
+        },
+        {
+          "answer": "Hyssop",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Eight for hyssop."
+        },
+        {
+          "answer": "Sage",
+          "score": 82,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You actually got sage right, B, there. And that would have scored you 82."
+        },
+        {
+          "answer": "Basil",
+          "score": 91,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Basil, yes. 91."
+        },
+        {
+          "answer": "Dragonhead",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Dragonhead. Absolutely. That was the pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Types of trousers (anagrams with initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pinstripes",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "There isn't one with pinstripes. ... that's the expected result."
+        },
+        {
+          "answer": "Pedal pushers",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Pedal pushers was the lowest score on the board at one."
+        },
+        {
+          "answer": "Chinos",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Well, chinos at the bottom. Yep. That would have got you 18."
+        },
+        {
+          "answer": "Flares",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Flares in the middle. 17."
+        },
+        {
+          "answer": "Hipsters",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And hipsters. Yeah, that was eight."
+        },
+        {
+          "answer": "Cargo pants",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cargo pants. That would have got you two."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Actors who won Best Comedy Performance or Villain Of The Year at the British Soap Awards (1999-2023)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Anne Kirkbride (Villain Of The Year)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Vicky",
+          "evidence_quote": "I'm afraid no, not Annie Kirkbride. Not as a villain."
+        },
+        {
+          "answer": "Mike Smith (Villain Of The Year)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Danny",
+          "evidence_quote": "Shall we find out if Mike Smith is a pointless answer? No!"
+        },
+        {
+          "answer": "Anne Kirkbride (Best Comedy Performance)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Vicky",
+          "evidence_quote": "Coming back now as best comedy performance. ... Oh, no. I'm sorry."
+        },
+        {
+          "answer": "John Savident",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the best comedy performance, you could have had John Savident."
+        },
+        {
+          "answer": "Nina Wadia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nina Wadia. Zainab Masood she played in EastEnders."
+        },
+        {
+          "answer": "Simon Gregson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Simon Gregson played Steve McDonald in Coronation Street."
+        },
+        {
+          "answer": "Tameka Empson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Tameka Empson, who played Kim Fox in EastEnders. In fact, everyone was pointless"
+        },
+        {
+          "answer": "Alex Ferns",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "villain of the year, you could have had Alex Ferns, who played Little Mo's abusive husband Trevor"
+        },
+        {
+          "answer": "Charlie Brooks",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Charlie Brooks played Janine Butcher in EastEnders"
+        },
+        {
+          "answer": "Gemma Bissix",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gemma Bissix, who was Clare Devine in Hollyoaks"
+        },
+        {
+          "answer": "Larry Lamb",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Larry Lamb, who was Archie Mitchell in EastEnders. And again, there were lots and lots of pointless answers."
+        }
+      ]
+    }
+  ]
+}

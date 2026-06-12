@@ -1,0 +1,576 @@
+{
+  "episode_id": "s35e09",
+  "episode_label": "Series 35 Episode 9",
+  "series": 35,
+  "episode": 9,
+  "pid": "m002vdwg",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vdwg",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Yaounde",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gillian",
+          "evidence_quote": "That's a pointless answer and being pointless, it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Minsk",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Minsk is right. Oh, one person!"
+        },
+        {
+          "answer": "Stanley",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jina",
+          "evidence_quote": "Incorrect. That scores you 100 points."
+        },
+        {
+          "answer": "Valletta",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Oh, three for Valletta."
+        },
+        {
+          "answer": "Luanda",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ross",
+          "evidence_quote": "one person got Luanda. It's still a great score. It takes your total up to four."
+        },
+        {
+          "answer": "Ankara",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bella",
+          "evidence_quote": "Two for Ankara, taking your total up to 102."
+        },
+        {
+          "answer": "Quito",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Edward",
+          "evidence_quote": "Quito is right. Oh, down to one."
+        },
+        {
+          "answer": "Marrakech",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Che Wai",
+          "evidence_quote": "Not Marrakech. ... Scores you 100 points."
+        },
+        {
+          "answer": "Algiers",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Algiers, the capital of Algeria."
+        },
+        {
+          "answer": "Asuncion",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Asuncion, Paraguay."
+        },
+        {
+          "answer": "Caracas",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Caracas, my favourite. I would have gone for Caracas in Venezuela."
+        },
+        {
+          "answer": "Havana",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Havana for Cuba."
+        },
+        {
+          "answer": "Juba",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Juba for South Sudan."
+        },
+        {
+          "answer": "Montevideo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Montevideo for Uruguay."
+        },
+        {
+          "answer": "Nassau",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nassau in the Bahamas."
+        },
+        {
+          "answer": "Ouagadougou",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ouagadougou in Burkina Faso"
+        },
+        {
+          "answer": "Zagreb",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Zagreb in Croatia."
+        },
+        {
+          "answer": "Rabat",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Rabat is the capital. And that was actually a pointless answer"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "People born in the Chinese Year of the Snake (identified from clues and initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Vera Lynn",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Che Wai",
+          "evidence_quote": "It IS Vera Lynn. There we are. 47."
+        },
+        {
+          "answer": "Anna Pavlova",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Edward",
+          "evidence_quote": "Down he goes to 15. Anna Pavlova."
+        },
+        {
+          "answer": "Diane Abbott",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "you pass it with Diane Abbott, down to 31."
+        },
+        {
+          "answer": "Bobby Moore",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that's Bobby Moore, and that would have scored 35."
+        },
+        {
+          "answer": "Marlee Matlin",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the first deaf performer was Marlee Matlin. And only four people knew"
+        },
+        {
+          "answer": "Michelle Wie",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "won her first major title at the 2014 US Women's Open is Michelle Wie, who scored just one."
+        },
+        {
+          "answer": "Audrey Hepburn",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ross",
+          "evidence_quote": "it scores you 34, taking your total up to 65."
+        },
+        {
+          "answer": "Ronald Searle",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Ronald Searle. I'm so sorry, Sue! That takes your total up to 115, scoring you 100 points."
+        },
+        {
+          "answer": "Thierry Henry",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gillian",
+          "evidence_quote": "50 for Thierry Henry, taking your total up to 97."
+        },
+        {
+          "answer": "Rochelle Humes",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rochelle Humes was a slightly better answer to have there. She would have scored 21."
+        },
+        {
+          "answer": "Andrew Wiles",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The mathematician was Andrew Wiles. Three people knew that."
+        },
+        {
+          "answer": "Johannes Brahms",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Johannes Brahms. ... only six people knew that."
+        },
+        {
+          "answer": "Reg Smythe",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the cartoonist was Reg Smythe. 12 people knew that."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Racecourses (courses) raced at Cowes Week Sailing Regatta 2024",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Red Poll",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Shall we see if Red Poll is a pointless course at Cowes? Oh, no. Bad luck."
+        },
+        {
+          "answer": "Browndown",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Che Wai",
+          "evidence_quote": "It's a course at Cowes Week. Ah, look at that!"
+        },
+        {
+          "answer": "The Boss",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And then The Boss was the other pointless one."
+        },
+        {
+          "answer": "Royal Cork",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the ones that would have scored 1, Royal Cork and Powder Byrne."
+        },
+        {
+          "answer": "Powder Byrne",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the ones that would have scored 1, Royal Cork and Powder Byrne."
+        },
+        {
+          "answer": "Hadley's Wharf",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "There is no Hadley's Wharf, but there is a Kemps Quay in Southampton."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Visual clues to words and phrases associated with the Regency era of the 19th century (with alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Modiste",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Modiste is right. And that goes down to 2."
+        },
+        {
+          "answer": "Promenade",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gillian",
+          "evidence_quote": "Promenade is right. ... 1 for promenade!"
+        },
+        {
+          "answer": "Betrothal",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Betrothal was the last one, E. That would have scored 29."
+        },
+        {
+          "answer": "Debutante",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "C was debutante, as you said. 38 people knew that."
+        },
+        {
+          "answer": "Dance card",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "dance card for A. And that would have scored you 18."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Common names of chemical compounds in the class of organic acids (with alternate letters missing)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ascorbic acid",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gillian",
+          "evidence_quote": "Ascorbic acid is absolutely right. And that goes down to 11."
+        },
+        {
+          "answer": "Acetic acid",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Oh, 49 for acetic acid."
+        },
+        {
+          "answer": "Citric acid",
+          "score": 78,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You said citric acid. Correct. That's the first one. 78 people knew that."
+        },
+        {
+          "answer": "Lactic acid",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had lactic acid. That was 64 people knew that."
+        },
+        {
+          "answer": "Oxalic acid",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the one found in rhubarb leaves is oxalic acid. Eight people knew that"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Acts that received nul points in the final of the Eurovision Song Contest (1957–2024) OR batters with at least 25 career ducks in men's international cricket",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bardo",
+          "score": 76,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Bardo got 76 points and finished seventh"
+        },
+        {
+          "answer": "Jessica Garlick",
+          "score": 111,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Jessica Garlick actually did very well, coming third with 111 points."
+        },
+        {
+          "answer": "Scooch",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Scooch didn't do well. They finished second to bottom, but they still managed to get 19 points"
+        },
+        {
+          "answer": "Domenico Modugno",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "from Italy in 1966, Domenico Modugno."
+        },
+        {
+          "answer": "Jahn Teigen",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "From Norway in 1978, you could have had Jahn Teigen for Mil Etter Mil."
+        },
+        {
+          "answer": "James Newman",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "From the United Kingdom in 2021, James Newman. He got nul points"
+        },
+        {
+          "answer": "Olly Alexander",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "dear Olly Alexander from the United Kingdom. ... Nul from the televote."
+        },
+        {
+          "answer": "Courtney Walsh",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Courtney Walsh of the West Indies, 54 ducks."
+        },
+        {
+          "answer": "Marcus Trescothick",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Marcus Trescothick, England, 25 ducks."
+        },
+        {
+          "answer": "Muttiah Muralitharan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Muttiah Muralitharan, the great Sri Lankan bowler. ... most ducks, with 59."
+        },
+        {
+          "answer": "Ricky Ponting",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ricky Ponting, of course. 39 ducks."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "episode_id": "s35e28",
+  "episode_label": "Series 35 Episode 28",
+  "series": 35,
+  "episode": 28,
+  "pid": "m002wb2b",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Book titles missing a word ending in -ING; name the missing -ING word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tipping (Tipping The Velvet)",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elisha",
+          "evidence_quote": "Tipping. It is absolutely right. And it goes down to 20."
+        },
+        {
+          "answer": "Fishing (Salmon Fishing In The Yemen)",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "36 for fishing."
+        },
+        {
+          "answer": "Shining (The Shining)",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "40 for Shining."
+        },
+        {
+          "answer": "Looking (Through The Looking Glass)",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rory",
+          "evidence_quote": "66 for Through The Looking Glass And What Alice Found There."
+        },
+        {
+          "answer": "Catching (Catching Fire)",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Catching Fire. That would have got you 9."
+        },
+        {
+          "answer": "Lying (One Of Us Is Lying)",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "One Of Us Is Lying. And that would have got you a nice 19."
+        },
+        {
+          "answer": "Watching (Their Eyes Were Watching God)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Eyes Were Watching God, with the lowest answer of 4."
+        },
+        {
+          "answer": "Wuthering (Wuthering Heights)",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rebekah",
+          "evidence_quote": "Wuthering. Down it goes to 52."
+        },
+        {
+          "answer": "Madding (Far From The Madding Crowd)",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "down it goes to 42... taking your total up to 82."
+        },
+        {
+          "answer": "Loathing (Fear And Loathing in Las Vegas)",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "Down it goes to 29."
+        },
+        {
+          "answer": "Haunting (The Haunting of Hill House)",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farrah",
+          "evidence_quote": "down and down and down it goes. 25."
+        },
+        {
+          "answer": "Vanishing (The Vanishing Half)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Vanishing Half by Brit Bennett, which scored 1."
+        },
+        {
+          "answer": "Talking (No One Is Talking About This)",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "No One Is Talking About This. You were right, Farrah. With 12."
+        },
+        {
+          "answer": "Being (The Unbearable Lightness of Being)",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Unbearable Lightness of Being. And that would have got you 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Chemical elements that contain the letter I once and once only",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Chlorine",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farrah",
+          "evidence_quote": "Chlorine. 21."
+        },
+        {
+          "answer": "Magnesium",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "Magnesium passes that. 18."
+        },
+        {
+          "answer": "Hassium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "That's a pointless answer... adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Darmstadtium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "That is a pointless answer, another one."
+        },
+        {
+          "answer": "Curium",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Down to 1. This is perfect."
+        },
+        {
+          "answer": "Yterium",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Elisha",
+          "evidence_quote": "that scored you 100 points. It takes your total up to 121."
+        },
+        {
+          "answer": "Ytterbium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we do have ytterbium... and yttrium... both of those were pointless"
+        },
+        {
+          "answer": "Yttrium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we do have ytterbium... and yttrium... both of those were pointless"
+        },
+        {
+          "answer": "Neptunium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "which Andy said... and neptunium."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot Builder",
+      "category_text": "Varieties of cherry (spot the pointless cherry variety)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Montmorency",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "Three of our hundred knew the Montmorency."
+        },
+        {
+          "answer": "De la Rocha",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "De la Rocha is one of our red herrings."
+        },
+        {
+          "answer": "Early Rivers",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "You could have had Early Rivers, scoring 1."
+        },
+        {
+          "answer": "Tamara",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "our two pointless answers are Tamara and Waterloo."
+        },
+        {
+          "answer": "Waterloo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "our two pointless answers are Tamara and Waterloo."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Earthshot Prize presenters - name the most obscure",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mo Salah",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andy",
+          "evidence_quote": "Mo Salah - absolutely right. And that goes down to 40."
+        },
+        {
+          "answer": "Emma Watson",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "Emma Watson beats it. Look at that."
+        },
+        {
+          "answer": "Robert Irwin",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "B - Robert Irwin... Would have scored you 6."
+        },
+        {
+          "answer": "Winnie Harlow",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "our lowest answer was C, supermodel Winnie Harlow scoring 3."
+        },
+        {
+          "answer": "Emma Thompson",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we have Emma Thompson, scoring 33."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Name the artists of pop songs featuring orchestral string instruments",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dexys Midnight Runners",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "Dexys Midnight Runners. Down it goes to 28."
+        },
+        {
+          "answer": "Lee Marvin",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kath",
+          "evidence_quote": "No, I'm afraid not Lee Marvin."
+        },
+        {
+          "answer": "Elbow",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Oh, Elbow... that would have scored 12."
+        },
+        {
+          "answer": "Louis Armstrong",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Louis Armstrong - scored 31."
+        },
+        {
+          "answer": "Alexander Rybak",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "This is Alexander Rybak... this scored 5."
+        },
+        {
+          "answer": "Britney Spears",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Britney Spears, Toxic... that scored 41."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Board games that have won the Spiel des Jahres, or geographical territories on a Risk board",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Settlers of Catan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "The Settlers of Catan is a pointless answer."
+        },
+        {
+          "answer": "Carcassonne",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "That is also a pointless answer!"
+        },
+        {
+          "answer": "Terraforming Mars",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Terraforming Mars hasn't won the award."
+        }
+      ]
+    }
+  ]
+}

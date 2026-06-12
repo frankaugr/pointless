@@ -1,0 +1,477 @@
+{
+  "episode_id": "s34e42",
+  "episode_label": "Series 34 Episode 42",
+  "series": 34,
+  "episode": 42,
+  "pid": "m002rk9r",
+  "source_url": "https://www.bbc.co.uk/programmes/m002rk9r",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words ending in the letters A-C (with first letter and length clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Almanac",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Melanie",
+          "evidence_quote": "Almanac is right. Down it goes to 35."
+        },
+        {
+          "answer": "Tupac",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Reynold",
+          "evidence_quote": "33 for Tupac. Just two below."
+        },
+        {
+          "answer": "Celeriac",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Celeriac, absolutely right. ... 27."
+        },
+        {
+          "answer": "Isaac",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rachel",
+          "evidence_quote": "Isaac is right. And there it is, 44 for Isaac."
+        },
+        {
+          "answer": "Insomniac",
+          "score": 80,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored you 80."
+        },
+        {
+          "answer": "Muntjac",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Muntjac is the small Asian deer. ... That would have scored 20."
+        },
+        {
+          "answer": "Bibliomaniac",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored you five."
+        },
+        {
+          "answer": "Shellac",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "18 for shellac, taking your total up to 62."
+        },
+        {
+          "answer": "Sumac",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "Down it goes to 13. Brilliant work."
+        },
+        {
+          "answer": "Lilac",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jacqueline",
+          "evidence_quote": "43 for lilac. 76 your total."
+        },
+        {
+          "answer": "Cognac",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Down it goes to 36. ... taking your total up to 71."
+        },
+        {
+          "answer": "Bergerac",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A classic, but it scored 40."
+        },
+        {
+          "answer": "Dirac",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would be Dirac and would have scored three."
+        },
+        {
+          "answer": "Zodiac",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Zodiac was the answer, 45."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "People recognised in the 2024 King's Birthday Honours list (16 faces shown)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ally McCoist",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Ally McCoist. Absolutely right. ... Down it goes to 30."
+        },
+        {
+          "answer": "Simon Le Bon",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Debbie",
+          "evidence_quote": "Simon Le Bon absolutely right, Debbie. ... 20."
+        },
+        {
+          "answer": "Heather Small",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "It is Heather Small. ... Down it goes to four."
+        },
+        {
+          "answer": "Tracey Emin",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rachel",
+          "evidence_quote": "Tracey Emin's right. Oh, bang on the red line. ... 25"
+        },
+        {
+          "answer": "Susie Dent",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Susie Dent is right. ... 12 takes your total up to 32."
+        },
+        {
+          "answer": "Armando Iannucci",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Melanie",
+          "evidence_quote": "Seven for Armando Iannucci taking your total up to 37."
+        },
+        {
+          "answer": "Imelda Staunton",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Imelda Staunton you mentioned, would have been 15."
+        },
+        {
+          "answer": "Alan Bates",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alan Bates would have scored three."
+        },
+        {
+          "answer": "Shobna Gulati",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Shobna Gulati would have scored you four."
+        },
+        {
+          "answer": "Gordon Brown",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You knew Gordon Brown at 59"
+        },
+        {
+          "answer": "Mark Cavendish",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the cycling legend Mark Cavendish would have scored three."
+        },
+        {
+          "answer": "Rebecca Ferguson",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "She would have scored six."
+        },
+        {
+          "answer": "Graeme Souness",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Not Gordon Strachan but Graeme Souness, would have scored 26."
+        },
+        {
+          "answer": "Rose Ayling-Ellis",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Strictly champion Rose Ayling-Ellis with a score of four."
+        },
+        {
+          "answer": "Anya Hindmarch",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Anya Hindmarch, a pointless answer."
+        },
+        {
+          "answer": "Monica Ali",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answer on the board, Brick Lane author Monica Ali."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder (Stephen King characters)",
+      "category_text": "Identify the pointless Stephen King characters from six options (two scoring, two pointless, two not Stephen King characters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ben Hanscom",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "And it's a pointless one. Very well done indeed, Debbie and Adrian."
+        },
+        {
+          "answer": "Sadie Dunhill",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rachel",
+          "evidence_quote": "Oh, one person got Sadie Dunhill."
+        },
+        {
+          "answer": "John Coffey",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "John Coffey, a character in The Green Mile, scored three."
+        },
+        {
+          "answer": "Sue Snell",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Sue Snell was your other pointless answer, from Carrie."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Anagrams of five African rivers",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Zambezi",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Zambezi is right. Down that goes to 41."
+        },
+        {
+          "answer": "Congo",
+          "score": 75,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Congo is right. There we are, 75 for Congo."
+        },
+        {
+          "answer": "Nile",
+          "score": 85,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the other one being the Nile, which would have scored 85."
+        },
+        {
+          "answer": "Orange",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Orange River. ... Which would have scored four."
+        },
+        {
+          "answer": "Sankuru",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the pointless answer in the middle there, Sankuru."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Picture clues to hairstyles done at a barber's (with first and last initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mullet",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Mullet is absolutely right and down it goes to 65."
+        },
+        {
+          "answer": "Buzz cut",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adrian",
+          "evidence_quote": "Buzz cut is right and it wins it. By three! Down it goes to 62."
+        },
+        {
+          "answer": "Faux hawk",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Faux hawk. ... 16."
+        },
+        {
+          "answer": "Flat top",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "59 for the flat top."
+        },
+        {
+          "answer": "Pompadour",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the best answer would have been C, pompadour, which would have scored three."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Anyone credited with an acting performance in given ancient/legendary history films (Troy, Alexander)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Brad Pitt",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Debbie",
+          "evidence_quote": "27 for Brad Pitt."
+        },
+        {
+          "answer": "Morgan Freeman",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Adrian",
+          "evidence_quote": "Morgan Freeman. No. All right. He wasn't in Alexander."
+        },
+        {
+          "answer": "Eric Bana",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Adrian",
+          "evidence_quote": "Six for Eric Bana. That was a really good answer, though!"
+        }
+      ]
+    }
+  ]
+}

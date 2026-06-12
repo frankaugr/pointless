@@ -1,0 +1,459 @@
+{
+  "episode_id": "s35e32",
+  "episode_label": "Series 35 Episode 32",
+  "series": 35,
+  "episode": 32,
+  "pid": "m002wm67",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wm67",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Taco ingredients from BBC Food recipes, with the key ingredient translated into Spanish (give the English translation)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Chilli (guindilla)",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Down it goes to 42. 42 for chilli."
+        },
+        {
+          "answer": "Lamb (cordero)",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "34 for lamb. Very good."
+        },
+        {
+          "answer": "Cumin seeds (comino)",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "42 is our high score, 34 is our low. And we now have a new low"
+        },
+        {
+          "answer": "Radishes (rabanos)",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "11 for that. Well done."
+        },
+        {
+          "answer": "Flour (harina)",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Nick",
+          "evidence_quote": "Harina, flour. Yes, flour. And that scored 53."
+        },
+        {
+          "answer": "Steak (filete)",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Nick",
+          "evidence_quote": "Filete, steak. It is. And that scored 50."
+        },
+        {
+          "answer": "Aubergine (berenjenas)",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was actually aubergine. Which scored 8."
+        },
+        {
+          "answer": "Corn (maiz)",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Carole",
+          "evidence_quote": "20 is what it scores you, taking your total up to 31."
+        },
+        {
+          "answer": "Lettuce (lechugas)",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sehajta",
+          "evidence_quote": "47 for that, Sehajta. That takes your total up to 74."
+        },
+        {
+          "answer": "Garlic (ajo)",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "41, taking your total up to 75."
+        },
+        {
+          "answer": "Cheese (zanahoria)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lynda",
+          "evidence_quote": "Not cheese. Something else that we grate beginning with C. Hmm. I'm afraid incorrect."
+        },
+        {
+          "answer": "Carrot (zanahoria)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "is carrot... which scored 7... which was actually the lowest score on the board"
+        },
+        {
+          "answer": "Pork",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "answer number two, which was pork, 11"
+        },
+        {
+          "answer": "Yoghurt (yogur)",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And then of course you got this right, yoghurt, 54."
+        },
+        {
+          "answer": "Cauliflower",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the final answer was cauliflower, scoring 53"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Words in the Collins Dictionary formed by changing one letter of the word 'bat' (letters keep their positions)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tat",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "Tat is right. Tat goes down to 38."
+        },
+        {
+          "answer": "Bot",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sehajta",
+          "evidence_quote": "We are now on 19. Very well done indeed."
+        },
+        {
+          "answer": "Lat",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "And Nick is on 6. Very well done indeed. Lat."
+        },
+        {
+          "answer": "Bay",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Carole",
+          "evidence_quote": "And that's on 8. Superb work. Takes your total up to 14."
+        },
+        {
+          "answer": "Bap",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "a nice economy there, 13. Taking your total up to 32."
+        },
+        {
+          "answer": "Baa",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "Down to 2. Look at that, Kris. The best at the very end there."
+        },
+        {
+          "answer": "Bae",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "They were - bae, which is a modern slang term for a romantic partner."
+        },
+        {
+          "answer": "Bai",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bai, a mist occurring in China and Japan during the spring and autumn."
+        },
+        {
+          "answer": "Bao",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "bao, a steamed dumpling in Chinese cuisine"
+        },
+        {
+          "answer": "Wat",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We also have wat, a monastery or temple in parts of Asia, as in Angkor Wat."
+        },
+        {
+          "answer": "Xat",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "finally xat, a carved totem pole of various Native American peoples"
+        },
+        {
+          "answer": "Sat",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sat, which scored 53."
+        },
+        {
+          "answer": "Mat",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mat, which scored 58."
+        },
+        {
+          "answer": "Cat",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "sat just above mat is cat with 70"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Identify which of six options are species of snail (find the pointless snails)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Candy cane snail",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "It's a snail. Oh, two people knew that one."
+        },
+        {
+          "answer": "Geography cone",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "It's a snail. And it's a pointless snail. Very well done indeed."
+        },
+        {
+          "answer": "Assassin",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Then we have Assassin, which scored 2."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Five people not primarily known as models who made catwalk cameos - name the most obscure",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Gary Oldman",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Gary Oldman, absolutely right. Down it goes to 19."
+        },
+        {
+          "answer": "Macaulay Culkin",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "It is indeed right. 28 for Macaulay Culkin."
+        },
+        {
+          "answer": "Serena Williams",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A is Serena Williams, which would've scored you 16"
+        },
+        {
+          "answer": "Gwendoline Christie",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "C, who is Gwendoline Christie, which is the lowest score, 3"
+        },
+        {
+          "answer": "Usain Bolt",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Usain Bolt, who would have scored you 7"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Types of message/communication with letters in alphabetical order - unscramble them",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Morse code",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "It is right. 60 for Morse code."
+        },
+        {
+          "answer": "Flag semaphore",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Flag semaphore is absolutely right and it wins you the point... 19 for flag semaphore."
+        },
+        {
+          "answer": "Smoke signal",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we've had smoke signal. And that would have scored 35."
+        },
+        {
+          "answer": "Fax",
+          "score": 94,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Fax, 94."
+        },
+        {
+          "answer": "Yodelling",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Which would have scored 7, the lowest score."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Ancient Egyptian gods/goddesses on the British Museum list, or named characters (other than Cleopatra) in the 1963 film Cleopatra",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ra",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Nick",
+          "evidence_quote": "Oh, 19 for Ra. Hmm. OK, not a pointless answer."
+        },
+        {
+          "answer": "Isis",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Nick",
+          "evidence_quote": "23 said Isis."
+        },
+        {
+          "answer": "Pompey",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Nick",
+          "evidence_quote": "The film begins after Caesar's defeat of Pompey, so he wasn't in Cleopatra."
+        }
+      ]
+    }
+  ]
+}

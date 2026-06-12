@@ -63,7 +63,7 @@
       "url": "https://www.usa.gov/states-and-territories"
     }
   ],
-  "generated_at": "2026-04-26T17:32:33Z",
+  "generated_at": "2026-06-12T16:22:06Z",
   "answers": [
     {
       "id": "south-dakota-capital",
@@ -93,6 +93,49 @@
           "pageview_obscurity": 1.0
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "north-dakota-capital",
+      "name": "Bismarck",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bismarck",
+      "attrs": {
+        "state": "North Dakota",
+        "region": "Midwest",
+        "name_initial": "B",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 754641,
+      "obscurity": {
+        "score": 0.9823,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 754641,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9592,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Bismarck",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
       }
     },
     {
@@ -126,33 +169,89 @@
       }
     },
     {
-      "id": "north-dakota-capital",
-      "name": "Bismarck",
+      "id": "maine-capital",
+      "name": "Augusta",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bismarck",
+      "wiki": "https://en.wikipedia.org/wiki/Augusta",
       "attrs": {
-        "state": "North Dakota",
+        "state": "Maine",
+        "region": "Northeast",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1257088,
+      "obscurity": {
+        "score": 0.9592,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1257088,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8367,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Augusta",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nebraska-capital",
+      "name": "Lincoln",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lincoln",
+      "attrs": {
+        "state": "Nebraska",
         "region": "Midwest",
-        "name_initial": "B",
-        "name_length": 8,
+        "name_initial": "L",
+        "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 754641,
+      "pageviews": 1259472,
       "obscurity": {
-        "score": 0.9592,
+        "score": 0.9541,
         "band": "pointless target",
-        "pointless_score": 4,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 754641,
+          "pageviews": 1259472,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9592
+          "pageview_obscurity": 0.8163,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Lincoln",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
       }
     },
     {
@@ -216,6 +315,49 @@
       }
     },
     {
+      "id": "oklahoma-capital",
+      "name": "Oklahoma City",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oklahoma_City",
+      "attrs": {
+        "state": "Oklahoma",
+        "region": "South",
+        "name_initial": "O",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1910593,
+      "obscurity": {
+        "score": 0.9133,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1910593,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6531,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Oklahoma City",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
       "id": "montana-capital",
       "name": "Helena",
       "aliases": [],
@@ -276,6 +418,51 @@
       }
     },
     {
+      "id": "minnesota-capital",
+      "name": "Saint Paul",
+      "aliases": [
+        "St Paul"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Paul",
+      "attrs": {
+        "state": "Minnesota",
+        "region": "Midwest",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2744614,
+      "obscurity": {
+        "score": 0.8622,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2744614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.449,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Saint Paul",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
       "id": "arkansas-capital",
       "name": "Little Rock",
       "aliases": [],
@@ -306,63 +493,261 @@
       }
     },
     {
-      "id": "maine-capital",
-      "name": "Augusta",
+      "id": "wisconsin-capital",
+      "name": "Madison",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Augusta",
+      "wiki": "https://en.wikipedia.org/wiki/Madison",
       "attrs": {
-        "state": "Maine",
-        "region": "Northeast",
-        "name_initial": "A",
+        "state": "Wisconsin",
+        "region": "Midwest",
+        "name_initial": "M",
         "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2747003,
+      "obscurity": {
+        "score": 0.852,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2747003,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4082,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Madison",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "indiana-capital",
+      "name": "Indianapolis",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Indianapolis",
+      "attrs": {
+        "state": "Indiana",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 2751419,
+      "obscurity": {
+        "score": 0.8418,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2751419,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3673,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Indianapolis",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maryland-capital",
+      "name": "Annapolis",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Annapolis",
+      "attrs": {
+        "state": "Maryland",
+        "region": "South",
+        "name_initial": "A",
+        "name_length": 9,
         "starts_with_vowel": true,
         "starts_with_consonant": false,
         "first_vowel": "a"
       },
-      "pageviews": 1257088,
+      "pageviews": 2752851,
       "obscurity": {
         "score": 0.8367,
         "band": "pointless target",
-        "pointless_score": 16,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 1257088,
+          "pageviews": 2752851,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8367
+          "pageview_obscurity": 0.3469,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Annapolis",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
       }
     },
     {
-      "id": "nebraska-capital",
-      "name": "Lincoln",
+      "id": "hawaii-capital",
+      "name": "Honolulu",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lincoln",
+      "wiki": "https://en.wikipedia.org/wiki/Honolulu",
       "attrs": {
-        "state": "Nebraska",
-        "region": "Midwest",
-        "name_initial": "L",
-        "name_length": 7,
+        "state": "Hawaii",
+        "region": "West",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3736626,
+      "obscurity": {
+        "score": 0.819,
+        "band": "very obscure",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3736626,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3061,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Honolulu",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "virginia-capital",
+      "name": "Richmond",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richmond",
+      "attrs": {
+        "state": "Virginia",
+        "region": "South",
+        "name_initial": "R",
+        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 1259472,
+      "pageviews": 3739119,
       "obscurity": {
         "score": 0.8163,
         "band": "very obscure",
-        "pointless_score": 18,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 1259472,
+          "pageviews": 3739119,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8163
+          "pageview_obscurity": 0.2653,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Richmond",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ohio-capital",
+      "name": "Columbus",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Columbus",
+      "attrs": {
+        "state": "Ohio",
+        "region": "Midwest",
+        "name_initial": "C",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3740354,
+      "obscurity": {
+        "score": 0.8112,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3740354,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2449,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Columbus",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
       }
     },
     {
@@ -396,6 +781,49 @@
       }
     },
     {
+      "id": "washington-capital",
+      "name": "Olympia",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Olympia",
+      "attrs": {
+        "state": "Washington",
+        "region": "West",
+        "name_initial": "O",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 3747366,
+      "obscurity": {
+        "score": 0.7755,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3747366,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.102,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Olympia",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
+      }
+    },
+    {
       "id": "kansas-capital",
       "name": "Topeka",
       "aliases": [],
@@ -423,6 +851,49 @@
           "pageview_obscurity": 0.7755
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "new-york-capital",
+      "name": "Albany",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Albany",
+      "attrs": {
+        "state": "New York",
+        "region": "Northeast",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 4925433,
+      "obscurity": {
+        "score": 0.7578,
+        "band": "very obscure",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4925433,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0612,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-state-capitals",
+            "answer": "Albany",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 3",
+            "date": null,
+            "question_text": "US states or state capitals that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwzf"
+          }
+        ]
       }
     },
     {
@@ -571,36 +1042,6 @@
           "pageviews": 1908939,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.6735
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "oklahoma-capital",
-      "name": "Oklahoma City",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Oklahoma_City",
-      "attrs": {
-        "state": "Oklahoma",
-        "region": "South",
-        "name_initial": "O",
-        "name_length": 12,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "o"
-      },
-      "pageviews": 1910593,
-      "obscurity": {
-        "score": 0.6531,
-        "band": "useful low scorer",
-        "pointless_score": 35,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1910593,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6531
         },
         "evidence": []
       }
@@ -876,38 +1317,6 @@
       }
     },
     {
-      "id": "minnesota-capital",
-      "name": "Saint Paul",
-      "aliases": [
-        "St Paul"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Saint_Paul",
-      "attrs": {
-        "state": "Minnesota",
-        "region": "Midwest",
-        "name_initial": "S",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2744614,
-      "obscurity": {
-        "score": 0.449,
-        "band": "middling",
-        "pointless_score": 55,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2744614,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.449
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "tennessee-capital",
       "name": "Nashville",
       "aliases": [],
@@ -933,36 +1342,6 @@
           "pageviews": 2744880,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.4286
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "wisconsin-capital",
-      "name": "Madison",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Madison",
-      "attrs": {
-        "state": "Wisconsin",
-        "region": "Midwest",
-        "name_initial": "M",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2747003,
-      "obscurity": {
-        "score": 0.4082,
-        "band": "middling",
-        "pointless_score": 59,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2747003,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4082
         },
         "evidence": []
       }
@@ -998,66 +1377,6 @@
       }
     },
     {
-      "id": "indiana-capital",
-      "name": "Indianapolis",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Indianapolis",
-      "attrs": {
-        "state": "Indiana",
-        "region": "Midwest",
-        "name_initial": "I",
-        "name_length": 12,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "i"
-      },
-      "pageviews": 2751419,
-      "obscurity": {
-        "score": 0.3673,
-        "band": "middling",
-        "pointless_score": 63,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2751419,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3673
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "maryland-capital",
-      "name": "Annapolis",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Annapolis",
-      "attrs": {
-        "state": "Maryland",
-        "region": "South",
-        "name_initial": "A",
-        "name_length": 9,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 2752851,
-      "obscurity": {
-        "score": 0.3469,
-        "band": "middling",
-        "pointless_score": 65,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2752851,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3469
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "georgia-capital",
       "name": "Atlanta",
       "aliases": [],
@@ -1088,36 +1407,6 @@
       }
     },
     {
-      "id": "hawaii-capital",
-      "name": "Honolulu",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Honolulu",
-      "attrs": {
-        "state": "Hawaii",
-        "region": "West",
-        "name_initial": "H",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3736626,
-      "obscurity": {
-        "score": 0.3061,
-        "band": "middling",
-        "pointless_score": 69,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3736626,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3061
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "colorado-capital",
       "name": "Denver",
       "aliases": [],
@@ -1143,66 +1432,6 @@
           "pageviews": 3737874,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.2857
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "virginia-capital",
-      "name": "Richmond",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Richmond",
-      "attrs": {
-        "state": "Virginia",
-        "region": "South",
-        "name_initial": "R",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 3739119,
-      "obscurity": {
-        "score": 0.2653,
-        "band": "middling",
-        "pointless_score": 73,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3739119,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2653
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "ohio-capital",
-      "name": "Columbus",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Columbus",
-      "attrs": {
-        "state": "Ohio",
-        "region": "Midwest",
-        "name_initial": "C",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3740354,
-      "obscurity": {
-        "score": 0.2449,
-        "band": "obvious",
-        "pointless_score": 76,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3740354,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2449
         },
         "evidence": []
       }
@@ -1388,36 +1617,6 @@
       }
     },
     {
-      "id": "washington-capital",
-      "name": "Olympia",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Olympia",
-      "attrs": {
-        "state": "Washington",
-        "region": "West",
-        "name_initial": "O",
-        "name_length": 7,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "o"
-      },
-      "pageviews": 3747366,
-      "obscurity": {
-        "score": 0.102,
-        "band": "obvious",
-        "pointless_score": 90,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3747366,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.102
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "michigan-capital",
       "name": "Lansing",
       "aliases": [],
@@ -1443,36 +1642,6 @@
           "pageviews": 3749159,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0816
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "new-york-capital",
-      "name": "Albany",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Albany",
-      "attrs": {
-        "state": "New York",
-        "region": "Northeast",
-        "name_initial": "A",
-        "name_length": 6,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 4925433,
-      "obscurity": {
-        "score": 0.0612,
-        "band": "obvious",
-        "pointless_score": 94,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4925433,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0612
         },
         "evidence": []
       }

@@ -1,0 +1,493 @@
+{
+  "episode_id": "s34e34",
+  "episode_label": "Series 34 Episode 34",
+  "series": 34,
+  "episode": 34,
+  "pid": "m002pvh0",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pvh0",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Title of any of the first ten or the most recent ten of the 25 official James Bond films (Eon Productions, 1962-2021)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Quantum Of Solace",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Quantum Of Solace, absolutely right. It's a good answer, Emma. Down to 8."
+        },
+        {
+          "answer": "GoldenEye",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Excellent answer. XANDER EXHALES Sailing beautifully close to the wind there. 9 is your reward."
+        },
+        {
+          "answer": "Skyfall",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lola",
+          "evidence_quote": "Skyfall is good. 9 is our high score. 8 is our low at the moment. 32 for Skyfall."
+        },
+        {
+          "answer": "Spectre",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Zan",
+          "evidence_quote": "You pass the high. Down to 12. APPLAUSE 12 for Spectre."
+        },
+        {
+          "answer": "No Time To Die",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alfie",
+          "evidence_quote": "No Time To Die is right. Gets you through. Oh, just! Look at that. 17."
+        },
+        {
+          "answer": "Casino Royale",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Su",
+          "evidence_quote": "Casino Royale is right. And it goes down to 26"
+        },
+        {
+          "answer": "Goldfinger",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "It's definitely right. Oh! 48 you needed, 49 you got."
+        },
+        {
+          "answer": "For Your Eyes Only",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "I'm sorry, that scores you 100 points, Arthur, takes your total up to 108."
+        },
+        {
+          "answer": "On Her Majesty's Secret Service",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "On Her Majesty's Secret Service, that would have scored 8."
+        },
+        {
+          "answer": "Tomorrow Never Dies",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You would have got 3 for Tomorrow Never Dies."
+        },
+        {
+          "answer": "The World Is Not Enough",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the best answer would have been The World Is Not Enough... which would have got 2"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Six-letter parts of the human body (from definitions and first letter)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Palate",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "It is palate. Palate, 62."
+        },
+        {
+          "answer": "Aorta",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Su",
+          "evidence_quote": "Apart from anything else, it's five letters. That scores you 100 points. Sorry, Su."
+        },
+        {
+          "answer": "Artery",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alfie",
+          "evidence_quote": "Artery is absolutely right. ..it goes down to 54"
+        },
+        {
+          "answer": "Dermis",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dermis. 26."
+        },
+        {
+          "answer": "Kidney",
+          "score": 76,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is indeed. That would have got you 76."
+        },
+        {
+          "answer": "Halex",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Halex. Halex. Would have got 6."
+        },
+        {
+          "answer": "Neurone",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Neurone? Would have scored 30."
+        },
+        {
+          "answer": "Sterna",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Zan",
+          "evidence_quote": "that scores you 100 points, takes your total up to 154"
+        },
+        {
+          "answer": "Septum",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lola",
+          "evidence_quote": "Septum is right. Gets you through. ... 41, taking your total up to 141."
+        },
+        {
+          "answer": "Enamel",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Enamel is right. 77 is what it scores."
+        },
+        {
+          "answer": "Temple",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "18 for temple."
+        },
+        {
+          "answer": "Pelvis",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd had gone with pelvis, you would have scored 52."
+        },
+        {
+          "answer": "Spleen",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lymphatic system, we are looking at the spleen. ... That would have got 25."
+        },
+        {
+          "answer": "Fornix",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And that last one is a pointless answer. Fornix."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head money round",
+      "category_text": "Marathons held in the UK (two scoring, two pointless, two not real)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Farnham Pilgrim Marathon",
+          "score": 2,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emily",
+          "evidence_quote": "Farnham Pilgrim. Very well done indeed. Absolutely right. Oh! Two people."
+        },
+        {
+          "answer": "Dickens Marathon",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lola",
+          "evidence_quote": "The Dickens Marathon, is it a pointless marathon? Oh, bad luck."
+        },
+        {
+          "answer": "Magna Carta Marathon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Magna Carta Marathon is a thing. It is held in Runnymede... Pointless answer."
+        },
+        {
+          "answer": "Turkey Trot Marathon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answer, the Turkey Trot Marathon held in Huntingdon"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Cities described as the Venice of the North/East or similar (with first letter and country)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bruges",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "Bruges is right. APPLAUSE 47 for Bruges."
+        },
+        {
+          "answer": "Arles",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Su",
+          "evidence_quote": "No. I'm afraid, once again, it's numbers of letters letting you down there, Su."
+        },
+        {
+          "answer": "Amiens",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Amiens would have been the right answer... And two people knew it."
+        },
+        {
+          "answer": "Birmingham",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Birmingham. Yeah. That would have got 52."
+        },
+        {
+          "answer": "Udaipur",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You'd be right in saying that. That would have scored you 4."
+        },
+        {
+          "answer": "Bangkok",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's Bangkok. It is indeed. 43."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "People born on a Friday the 13th (with initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Samuel Beckett",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Su",
+          "evidence_quote": "Samuel Beckett is right. And down he goes to 11."
+        },
+        {
+          "answer": "Mary-Kate Olsen",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "Mary-Kate Olsen is right. Oh, this is going to be... 15 for Mary-Kate Olsen."
+        },
+        {
+          "answer": "Sara Cox",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sara Cox is a good friend of mine... That would have got 32."
+        },
+        {
+          "answer": "Fidel Castro",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Then we've got Fidel Castro. ... 64."
+        },
+        {
+          "answer": "Peabo Bryson",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "This is Peabo Bryson. ... 17 the score for that"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Sherlock Holmes stories with a colour in the title (colourful word as alphabetical anagram)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pince-Nez (The Adventure of the Golden Pince-Nez)",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cal",
+          "evidence_quote": "That's absolutely right. That's a good answer. APPLAUSE 12 for Pince-Nez."
+        },
+        {
+          "answer": "Carbuncle (The Adventure of the Blue Carbuncle)",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Su",
+          "evidence_quote": "Carbuncle is absolutely right. ... And look, it wins! ... 3 for carbuncle."
+        },
+        {
+          "answer": "A Study In Scarlet",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A Study In Scarlet, that would have got 52."
+        },
+        {
+          "answer": "The Five Orange Pips",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pips. The Five Orange Pips was 56."
+        },
+        {
+          "answer": "The Adventure of Silver Blaze",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The adventure of Silver... Blaze. Would have been 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Songs in 21st century school musicals: songs from Disney's High School Musical film trilogy, or UK top 40 singles credited to the cast of Glee",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "School Is Fun",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Su",
+          "evidence_quote": "No... not School Is Fun, I am afraid."
+        },
+        {
+          "answer": "Crazier",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Lola",
+          "evidence_quote": "No, I'm afraid not Crazier."
+        },
+        {
+          "answer": "We're All In This Together",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Lola",
+          "evidence_quote": "We're All In This Together is absolutely right. ... Still going down... To 2."
+        }
+      ]
+    }
+  ]
+}

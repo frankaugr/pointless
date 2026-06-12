@@ -1,0 +1,520 @@
+{
+  "episode_id": "s34e33",
+  "episode_label": "Series 34 Episode 33",
+  "series": 34,
+  "episode": 33,
+  "pid": "m002pvhk",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pvhk",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "UK number one singles with a missing word ending in 'ing' (artist and year given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Thinking (Thinking Out Loud - Ed Sheeran)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michelle",
+          "evidence_quote": "It is indeed Thinking Out Loud. And down that goes to 17."
+        },
+        {
+          "answer": "Bleeding (Bleeding Love - Leona Lewis)",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rezwan",
+          "evidence_quote": "Bleeding is right. 17 is the only score we have at the moment. And 40 for Bleeding."
+        },
+        {
+          "answer": "Spinning (Spinning Around - Kylie Minogue)",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Spinning is absolutely right. 40 is still our high score, until now. 53 for Spinning."
+        },
+        {
+          "answer": "Rising (House Of The Rising Sun - The Animals)",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "House Of The Rising Sun scores you 73."
+        },
+        {
+          "answer": "I Knew You Were Waiting (Aretha Franklin and George Michael)",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that is right, and that would have been 47 points"
+        },
+        {
+          "answer": "I Hear You Knocking (Dave Edmunds)",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I Hear You Knocking, boo-boo. And that was 22 points."
+        },
+        {
+          "answer": "Sleeping (Sleeping Satellite - Tasmin Archer)",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Sleeping Satellite, and that was the lowest score which was at 16 points."
+        },
+        {
+          "answer": "Blinding (Blinding Lights - The Weeknd)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ali",
+          "evidence_quote": "Blinding. It IS blinding. Very well done indeed. Down it goes to 21."
+        },
+        {
+          "answer": "Being (Being With You - Smokey Robinson)",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "Being is absolutely spot-on. You're in Round Two. Down to 18"
+        },
+        {
+          "answer": "Killing (Killing Me Softly - Fugees)",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Yusuf",
+          "evidence_quote": "That scores you 70, takes your total up to 110."
+        },
+        {
+          "answer": "Feeling (I Gotta Feeling - Black Eyed Peas)",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "It IS right and it gets you into Round Two, Damien. Down it goes to 41"
+        },
+        {
+          "answer": "Wrecking (Wrecking Ball)",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wrecking Ball, which was 57"
+        },
+        {
+          "answer": "You'll Never Stop Me Loving You",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You'll Never Stop Me Loving You. That was 66."
+        },
+        {
+          "answer": "Walking (Walking Behind You)",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "it was Walking Behind You, and that would have got three points. That was the lowest on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Surnames of Wimbledon Ladies' or Men's Singles champions (Open era 1968-2024) containing any letter of L, O, V or E",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ivanisevic (said Isanisevic)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Michelle",
+          "evidence_quote": "That's incorrect. It scores you 100 points. I'm really sorry, Michelle."
+        },
+        {
+          "answer": "Hewitt",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "That's a pointless answer, and being a pointless answer, it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Navratilova (said Ravnatilova)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ali",
+          "evidence_quote": "that scores you 100 points. Sorry, Ali."
+        },
+        {
+          "answer": "Sharapova",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "Another pointless answer and that adds another £250 to today's jackpot"
+        },
+        {
+          "answer": "Evert",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "2 for Chris Evert, taking your total up to 2."
+        },
+        {
+          "answer": "Davenport",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "Another pointless answer, which adds another £250 to today's jackpot"
+        },
+        {
+          "answer": "Agassi",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "Not for Agassi. That scores you 100, takes your total up to 200."
+        },
+        {
+          "answer": "Nadal",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "Nadal is right. And that scores you 8"
+        },
+        {
+          "answer": "Bartoli",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had... ..Bartoli, Davenport, which we heard, Halep, Hewitt"
+        },
+        {
+          "answer": "Halep",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bartoli, Davenport, which we heard, Halep, Hewitt"
+        },
+        {
+          "answer": "Kerber",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kerber, Krajicek, Mauresmo, Novotna, Sharapova"
+        },
+        {
+          "answer": "Krajicek",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kerber, Krajicek, Mauresmo, Novotna, Sharapova"
+        },
+        {
+          "answer": "Mauresmo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kerber, Krajicek, Mauresmo, Novotna, Sharapova"
+        },
+        {
+          "answer": "Novotna",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kerber, Krajicek, Mauresmo, Novotna, Sharapova"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot booster",
+      "category_text": "Podcasts that have won awards at the British Podcast Awards (two scoring, two pointless, two wrong)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bloody Mabel",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Bloody Mabel, this was a red herring."
+        },
+        {
+          "answer": "Beef And Dairy",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "It absolutely is an award-winning podcast... It's a pointless one as well."
+        },
+        {
+          "answer": "Media Storm",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And there was Media Storm - that scored one."
+        },
+        {
+          "answer": "Dear Daughter",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Dear Daughter - that scored ten."
+        },
+        {
+          "answer": "Get Birding",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answer was Get Birding. It won the Climate Award in 2022."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Types of geological features (with alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mushroom rock",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "9 for mushroom rock."
+        },
+        {
+          "answer": "Fault line",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "Down to 32."
+        },
+        {
+          "answer": "Canyon",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "C, it was canyon, and that would have been 46 points."
+        },
+        {
+          "answer": "Arch",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "E would have been arch. But that was 49 points."
+        },
+        {
+          "answer": "Caldera",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's caldera... because it was 5 points."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Royal houses of historical European monarchs (with reign dates and alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Grimaldi",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ali",
+          "evidence_quote": "Grimaldi is right. Down it goes to 11."
+        },
+        {
+          "answer": "Romanov",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "Romanov absolutely right. Ooh, it's a high score! 67."
+        },
+        {
+          "answer": "Savoy",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The next one after that was Savoy, which scored 33."
+        },
+        {
+          "answer": "Orange",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "At the top is Orange - you were correct - which was 26."
+        },
+        {
+          "answer": "Braganza",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Braganza, which would have been 5 points. That was the lowest on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "TV dramas set in seaside towns and villages (initials, two stars and first broadcast year given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Broadchurch",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "Broadchurch absolutely right. That goes down to 39."
+        },
+        {
+          "answer": "Beyond Paradise",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ali",
+          "evidence_quote": "Beyond Paradise is absolutely right... Down it goes, in fact, to 19"
+        },
+        {
+          "answer": "Doc Martin",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you did say, Ali, Doc Martin, which would have been 67 points."
+        },
+        {
+          "answer": "Grace",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had Grace, the second, which would have been 12 points"
+        },
+        {
+          "answer": "Sanditon",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "we had Sanditon, which was the lowest points, coming in at 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Words in names of New York City Subway stations on Manhattan, or words of 4+ letters in the lyrics to Theme From New York, New York by Frank Sinatra",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Kitchen",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Marcus",
+          "evidence_quote": "No kitchen there. So let's move swiftly on"
+        },
+        {
+          "answer": "Leaving",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Marcus",
+          "evidence_quote": "leaving is absolutely spot-on... 12."
+        },
+        {
+          "answer": "Heap",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Marcus",
+          "evidence_quote": "you've done it! ... Heap was a pointless answer. You have won £6,000."
+        }
+      ]
+    }
+  ]
+}

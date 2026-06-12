@@ -1,0 +1,423 @@
+{
+  "episode_id": "s34e25",
+  "episode_label": "Series 34 Episode 25",
+  "series": 34,
+  "episode": 25,
+  "pid": "m002l577",
+  "source_url": "https://www.bbc.co.uk/programmes/m002l577",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Surname of any US President whose surname contains at least one of the letters P, R, E or S",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Madison",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "And down it goes to one, Kirsteen"
+        },
+        {
+          "answer": "Monroe",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Clive",
+          "evidence_quote": "That's a pointless answer"
+        },
+        {
+          "answer": "Van Buren",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alex",
+          "evidence_quote": "It's another pointless answer"
+        },
+        {
+          "answer": "Coolidge",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Matt",
+          "evidence_quote": "You join the high scorers on one"
+        },
+        {
+          "answer": "Truman",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "Down to three for Truman"
+        },
+        {
+          "answer": "Roosevelt",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "19 for Roosevelt, taking your total up to 19"
+        },
+        {
+          "answer": "Hoover",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ruth",
+          "evidence_quote": "That goes down to five"
+        },
+        {
+          "answer": "Grant",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "It's superb. That is another pointless answer"
+        },
+        {
+          "answer": "Arthur",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And Arthur was also pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Six clues to things described as 'on a' something, with initials given as clues",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Snakes On A Plane",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "And down it goes to 24"
+        },
+        {
+          "answer": "We Go On A Bear Hunt",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ruth",
+          "evidence_quote": "No, I'm sorry, Ruth. That is not right. That scores you 100 points"
+        },
+        {
+          "answer": "Wishing On A Star",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "And you pass that. 15"
+        },
+        {
+          "answer": "Soap on a rope",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Oh, soap on a rope, 63 points"
+        },
+        {
+          "answer": "We're Going On A Bear Hunt",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We're Going On A Bear Hunt for ten points"
+        },
+        {
+          "answer": "Ode On A Grecian Urn",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Absolutely correct, with eight points"
+        },
+        {
+          "answer": "Ants on a log",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "ants on a log, with two points"
+        },
+        {
+          "answer": "Turns on a sixpence",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Matt",
+          "evidence_quote": "Lovely low score, 26"
+        },
+        {
+          "answer": "Cat On A Hot Tin Roof",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Clive",
+          "evidence_quote": "And down it goes to 31"
+        },
+        {
+          "answer": "Winter Scene On A Canal",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "Look at that, down to one"
+        },
+        {
+          "answer": "Puppet On A String",
+          "score": 74,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "and that was 74 points"
+        },
+        {
+          "answer": "Strangers On A Train",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Strangers On A Train, which was at nine points"
+        },
+        {
+          "answer": "Bowline on a bight",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bowline on a bight, which was a pointless answer"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Six options of which four are real casino games (two scoring, two pointless) and two are red herrings",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Teacup",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "Is teacup a pointless casino game? Oh, no"
+        },
+        {
+          "answer": "Sic bo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "it's got to be pointless. Come on, sic bo. Oh!"
+        },
+        {
+          "answer": "Baccarat",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "baccarat is four points"
+        },
+        {
+          "answer": "Keno",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's a game. And it scored one"
+        },
+        {
+          "answer": "Kalooki",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "so kalooki is pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Bands or solo artists who have had a concert tour that grossed more than $300 million (from images)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pink Floyd",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Shall we see if that's right? Not Pink Floyd"
+        },
+        {
+          "answer": "Taylor Swift",
+          "score": 81,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "Taylor Swift, 81 points"
+        },
+        {
+          "answer": "Beyonce",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the fabulous Beyonce. 63 points"
+        },
+        {
+          "answer": "Garth Brooks",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "B, Garth Brooks at 11 points"
+        },
+        {
+          "answer": "AC/DC",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is AC/DC. 30 points"
+        },
+        {
+          "answer": "Bad Bunny",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "D is Bad Bunny at three points"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Things associated with a visit to a health spa, with letters arranged in alphabetical order",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Exfoliation",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "Down it goes to six"
+        },
+        {
+          "answer": "Facial",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Oh, 48 for facial"
+        },
+        {
+          "answer": "Hydrotherapy",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "there was hydrotherapy, which was ten"
+        },
+        {
+          "answer": "Pedicure",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pedicure, which was 19"
+        },
+        {
+          "answer": "Massage",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "massage was 46"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Feature films for which Jodie Foster or Saoirse Ronan received an acting credit (teenage Oscar nominees)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Beaver",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Rashid",
+          "evidence_quote": "Very well done indeed! £2,000 is yours!"
+        },
+        {
+          "answer": "Maverick",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Rashid",
+          "evidence_quote": "Maverick also a pointless answer"
+        },
+        {
+          "answer": "Alice Doesn't Live Here Anymore",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Rashid",
+          "evidence_quote": "That was another pointless answer. You've completed the triple"
+        }
+      ]
+    }
+  ]
+}

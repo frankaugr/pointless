@@ -1,0 +1,475 @@
+{
+  "episode_id": "s34e38",
+  "episode_label": "Series 34 Episode 38",
+  "series": 34,
+  "episode": 38,
+  "pid": "m002r74g",
+  "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Ice cream flavours translated literally into Italian — translate them back into English",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rum and raisin",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Rum and raisin is right. Down it goes to 44."
+        },
+        {
+          "answer": "Neapolitan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Not Neapolitan. I'm sorry. It scores you 100 points, Tony."
+        },
+        {
+          "answer": "Hazelnut",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "Hazelnut's right. ... Down to 12."
+        },
+        {
+          "answer": "Strawberry",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Strawberry is absolutely right. ... 34 is what you end up with"
+        },
+        {
+          "answer": "Cookies and cream",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you could have gone for cookies and cream, which would have got you a score of 13"
+        },
+        {
+          "answer": "Nougat (torrone)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is nougat. ... Six points for that."
+        },
+        {
+          "answer": "Coffee (caffe)",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You said coffee. ... That would have got 70 points on the board."
+        },
+        {
+          "answer": "Lemon (limone)",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "limone, of course, is lemon. ... so 67"
+        },
+        {
+          "answer": "Raspberry",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "Raspberry. Absolutely on the money. ... And down it goes to 12."
+        },
+        {
+          "answer": "Salted caramel",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "Down to 41, taking your total up to 53."
+        },
+        {
+          "answer": "Raspberry ripple",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Deb",
+          "evidence_quote": "I'm afraid it's not raspberry ripple. ... That scores you 100 points"
+        },
+        {
+          "answer": "Rocky road",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steph",
+          "evidence_quote": "It is rocky road and it's a good answer as well. Down it goes. Three"
+        },
+        {
+          "answer": "Coconut (cocco)",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was a really good score of nine, if you'd have said coconut"
+        },
+        {
+          "answer": "Vanilla (vaniglia)",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Vaniglia, you were absolutely right. 46 at the top."
+        },
+        {
+          "answer": "Chocolate (cioccolato)",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cioccolato was 40. A score of 40 for chocolate."
+        },
+        {
+          "answer": "Pistachio (pistacchio)",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "38 people couldn't guess pistachio. Pistachio, 62."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "UK top 40 singles by or featuring these chart acts with three or fewer words in the title",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "I.O.U. by Destiny's Child",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Nope, I'm afraid not. That scores you 100 points. Sorry, Tony."
+        },
+        {
+          "answer": "Black Magic (Little Mix)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amir",
+          "evidence_quote": "Black Magic is right. Down it goes to 17."
+        },
+        {
+          "answer": "Hair (Little Mix)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Hair's right. ... Down to four."
+        },
+        {
+          "answer": "My Girl (Madness)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "My Girl is absolutely right. ... Four for My Girl."
+        },
+        {
+          "answer": "Survivor (Destiny's Child)",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "Survivor's right. And you are through ... Down it goes to 20"
+        },
+        {
+          "answer": "Some Might Say (Oasis)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steph",
+          "evidence_quote": "That is a pointless answer, and it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Cardiac Arrest (Madness)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "for Madness... Cardiac Arrest, you're right."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "TV sitcoms shown with characters sitting on couches (initials of show titles given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Everybody Hates Chris",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Everybody Hates Chris is right. And down it goes to ten."
+        },
+        {
+          "answer": "The Royle Family",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "The Royle Family, absolutely right. ... 53 for The Royle Family."
+        },
+        {
+          "answer": "Friday Night Dinner",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd have gone for Friday Night Dinner, which was B, you would have got 27 points."
+        },
+        {
+          "answer": "Vicious",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "if you'd gone for D, Vicious... ..then you would have scored four."
+        },
+        {
+          "answer": "Ghosts",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ghosts, which would have scored 24."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Welsh language names for UK cities — give the English names",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Plymouth (Aberplym)",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "13 for Plymouth."
+        },
+        {
+          "answer": "Hereford (Henffordd)",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "Hereford is right. 47 for Hereford."
+        },
+        {
+          "answer": "Manchester (Manceinion)",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Manchester. That would have scored 71."
+        },
+        {
+          "answer": "Edinburgh (Caeredin)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Edinburgh would have scored seven."
+        },
+        {
+          "answer": "Bristol (Bryste)",
+          "score": 76,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Bryste, as was mentioned, is Bristol, would have scored 76."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Bones of the human skull (with alternate letters removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nasal",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Nasal's right. Nasal goes down to 48."
+        },
+        {
+          "answer": "Mandilla",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sylvester",
+          "evidence_quote": "No, not mandilla, which means very well done indeed, Georgia and Jak."
+        },
+        {
+          "answer": "Mandible",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored 19 and got you through."
+        },
+        {
+          "answer": "Maxilla",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The top answer, maxilla. ... that would have scored 23."
+        },
+        {
+          "answer": "Zygomatic",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Zygomatic would have scored five."
+        },
+        {
+          "answer": "Vomer",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there is a pointless answer and that's the final one ... Vomer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Common names for famous internet memes (two scoring, two pointless, two wrong)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Kombucha Girl",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": null,
+          "evidence_quote": "It's a meme. And it's a pointless meme. Very well done indeed."
+        },
+        {
+          "answer": "How Do You Do, Fellow Kids?",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": null,
+          "evidence_quote": "How Do You Do, Fellow Kids? Is that a pointless meme? It's right."
+        },
+        {
+          "answer": "This Is Fine",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "This Is Fine ... You'd have got one point for that."
+        },
+        {
+          "answer": "Distracted Boyfriend",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "also five points for Distracted Boyfriend"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Titles in the 'That's Not My...' touchy-feely book series by Fiona Watt",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "That's Not My Fairy",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "down with That's Not My Fairy. ... to three"
+        },
+        {
+          "answer": "That's Not My Reindeer",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Down we go. Still going down ... passing three, to one."
+        },
+        {
+          "answer": "That's Not My Dolly",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "You've done it! ... Dolly was a pointless answer. You have won today's jackpot"
+        }
+      ]
+    }
+  ]
+}

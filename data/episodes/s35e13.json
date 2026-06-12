@@ -1,0 +1,628 @@
+{
+  "episode_id": "s35e13",
+  "episode_label": "Series 35 Episode 13",
+  "series": 35,
+  "episode": 13,
+  "pid": "m002vdz8",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vdz8",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Constellations: given the Latin name and a definition of the English name, name the constellation",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Peacock (Pavo)",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jasmine",
+          "evidence_quote": "Peacock is right. Down it goes to 57."
+        },
+        {
+          "answer": "Altar (Ara)",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Altar is right. 57 is our only score and you fly past it. 45"
+        },
+        {
+          "answer": "Shield (Scutum)",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Scutum down to 39, Charlie."
+        },
+        {
+          "answer": "Arrow (Sagitta)",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Caoimhe",
+          "evidence_quote": "67 for arrow."
+        },
+        {
+          "answer": "Dragon (Draco)",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we have dragon - Draco - up the top at 62"
+        },
+        {
+          "answer": "Giraffe",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "giraffe at 61"
+        },
+        {
+          "answer": "Swan (Cygnus)",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "swan, as you mentioned, would have given you 59"
+        },
+        {
+          "answer": "Keel (Carina)",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Myles",
+          "evidence_quote": "Keel is right. That goes down to 39."
+        },
+        {
+          "answer": "Furnace (Fornax)",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Christine",
+          "evidence_quote": "48, that's what that scores, taking your total up to 87."
+        },
+        {
+          "answer": "Crane (Grus)",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Crane absolutely right. Gets you through. There we go, 35."
+        },
+        {
+          "answer": "Fox (Vulpecula)",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Syma",
+          "evidence_quote": "57, exactly the same score as Jasmine had in the first pass"
+        },
+        {
+          "answer": "Clock",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "clock up top, 53"
+        },
+        {
+          "answer": "Dolphin",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dolphin - I love dolphins - 62"
+        },
+        {
+          "answer": "Cup",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cup, 61"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Women portrayed in the 'Work In Progress' mural at the National Portrait Gallery",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ada Lovelace",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "that's a pointless answer! Ada Lovelace, being a pointless answer"
+        },
+        {
+          "answer": "Elizabeth Fry",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "she's not. We've gone from one extreme to the other. That scores you 100 points."
+        },
+        {
+          "answer": "Amy Winehouse",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Caoimhe",
+          "evidence_quote": "Amy Winehouse gets you down to 60."
+        },
+        {
+          "answer": "Kate Bush",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Myles",
+          "evidence_quote": "Kate Bush is right. And gets you through. 33"
+        },
+        {
+          "answer": "Carol Ann Duffy",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Christine",
+          "evidence_quote": "It's a pointless answer. Being a pointless answer, it adds another £250"
+        },
+        {
+          "answer": "Lolly Adefope",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Is it right? No! That scores you 100 points."
+        },
+        {
+          "answer": "Margaret Smith",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "No, not Margaret Smith"
+        },
+        {
+          "answer": "Joan Armatrading",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Joan Armatrading. Down it goes to 10"
+        },
+        {
+          "answer": "Vivienne Westwood",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Vivienne Westwood, queen of the corsets, would have gotten you 20"
+        },
+        {
+          "answer": "Tanni Grey-Thompson",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tanni Grey-Thompson, top right. Would have scored you 7"
+        },
+        {
+          "answer": "Nicola Adams",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nicola Adams at 6"
+        },
+        {
+          "answer": "Emma Thompson",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Emma Thompson scored 21"
+        },
+        {
+          "answer": "Shirley Bassey",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Shirley Bassey - 50"
+        },
+        {
+          "answer": "Virginia Woolf",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Virginia Woolf - 3"
+        },
+        {
+          "answer": "Kate Moss",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kate Moss - 32, down the bottom"
+        },
+        {
+          "answer": "Helen Sharman",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Helen Sharman scored 3"
+        },
+        {
+          "answer": "Emmeline Pankhurst",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "that's Emmeline Pankhurst. She was pointless."
+        },
+        {
+          "answer": "Zadie Smith",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Zadie Smith was also a pointless answer."
+        },
+        {
+          "answer": "Kate Adie",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kate Adie would have scored you 8"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot booster",
+      "category_text": "Words that feature in the song Supercalifragilisticexpialidocious from Mary Poppins",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Indubitably",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Indubitably is definitely in it. And it's a pointless answer."
+        },
+        {
+          "answer": "Supercalifragilisticexpialidocious backwards (Docious...)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Caoimhe",
+          "evidence_quote": "it's definitely in the song, as you say. And it's the other pointless answer!"
+        },
+        {
+          "answer": "Clever",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Clever and diddle also scored points - 1 and 2 respectively"
+        },
+        {
+          "answer": "Diddle",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Clever and diddle also scored points - 1 and 2 respectively"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Facts about Scarlet",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Mysterons",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Mysterons is absolutely right and it scores you 18."
+        },
+        {
+          "answer": "Doja Cat",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Myles",
+          "evidence_quote": "Doja Cat is right. And it wins it for you! Down it goes to 10."
+        },
+        {
+          "answer": "Sherlock Holmes (A Study In Scarlet)",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You were right not to go for Sherlock Holmes. 22, it would have gotten you."
+        },
+        {
+          "answer": "Wanda",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wanda at 12"
+        },
+        {
+          "answer": "Scarlett Moffatt",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Scarlett Moffatt - 24"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Fashion items popular in the noughties (with alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Velour tracksuit",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Myles",
+          "evidence_quote": "Velour tracksuit. Down to 20."
+        },
+        {
+          "answer": "Cropped cardigan",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "Cropped cardigan. Wins it for you. 18 for cropped cardigan."
+        },
+        {
+          "answer": "Ballet pumps",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ballet pumps, although they don't look particularly balletic in this. 21."
+        },
+        {
+          "answer": "Skinny jeans",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Skinny jeans - 43 - you got."
+        },
+        {
+          "answer": "Handkerchief skirt",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "handkerchief skirt would have gotten you 13"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Trivial Pursuit categories with letters rearranged into alphabetical order",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sport and Leisure",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "No, I'm afraid not... we had to accept the exact answer, Sports and Leisure."
+        },
+        {
+          "answer": "Science and Nature",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Myles",
+          "evidence_quote": "Absolutely right. That wins you the point. Goes down to 35."
+        },
+        {
+          "answer": "Sports and Leisure",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sports and Leisure scored 23"
+        },
+        {
+          "answer": "Geography",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Geography was 69 at the top of the board"
+        },
+        {
+          "answer": "Entertainment",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Entertainment at 28"
+        },
+        {
+          "answer": "History",
+          "score": 86,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And History at 86"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Cities that have held the title of European Capital of Culture or American Capital of Culture (up to 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "New Orleans",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Not New Orleans."
+        },
+        {
+          "answer": "Vienna",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Oh, no! Not Vienna."
+        },
+        {
+          "answer": "Derry",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "might Derry be pointless? No... Derry was a UK City of Culture, not a European Capital of Culture."
+        },
+        {
+          "answer": "Antwerp",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Loads of pointless here - Antwerp, Bologna, Galway as well."
+        },
+        {
+          "answer": "Bologna",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Loads of pointless here - Antwerp, Bologna, Galway as well."
+        },
+        {
+          "answer": "Galway",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Loads of pointless here - Antwerp, Bologna, Galway as well."
+        },
+        {
+          "answer": "Asuncion",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Asuncion in Paraguay."
+        },
+        {
+          "answer": "Cordoba",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cordoba, Argentina."
+        },
+        {
+          "answer": "Panama City",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Panama City in Panama"
+        },
+        {
+          "answer": "Santo Domingo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Santo Domingo in Dominican Republic"
+        }
+      ]
+    }
+  ]
+}

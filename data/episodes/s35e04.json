@@ -1,0 +1,405 @@
+{
+  "episode_id": "s35e04",
+  "episode_label": "Series 35 Episode 4",
+  "series": 35,
+  "episode": 4,
+  "pid": "m002v37p",
+  "source_url": "https://www.bbc.co.uk/programmes/m002v37p",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Name any country (other than the UK) smaller in area than the United States but larger than the United Arab Emirates, according to the CIA World Factbook",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "France",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "there it is, 55 for France"
+        },
+        {
+          "answer": "Latvia",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Vicki",
+          "evidence_quote": "That's incorrect, Vicki. That scored you 100 points"
+        },
+        {
+          "answer": "Mali",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kamilia",
+          "evidence_quote": "That's a pointless answer! And that therefore adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Poland",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Poland is right. Passes our high score. And our middling score. Comes in quite close to our bottom score, 14"
+        },
+        {
+          "answer": "Kenya",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Samantha",
+          "evidence_quote": "Goes down to three. So that gives you a score of 17"
+        },
+        {
+          "answer": "Mexico",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "It scores 11 and it takes your total up to 11"
+        },
+        {
+          "answer": "Guinea-Bissau",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jamie",
+          "evidence_quote": "That scores you 100 points, takes your total up to 200"
+        },
+        {
+          "answer": "Suriname",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Another pointless answer! It adds another £250 to today's jackpot"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name the act behind pairs of singles and albums that were simultaneously number one in their respective UK charts",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Beatles",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Down that goes to 41. That's not too bad. 41"
+        },
+        {
+          "answer": "Spice Girls",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "not the Spice Girls. That scores you 100 points"
+        },
+        {
+          "answer": "T'Pau",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Samantha",
+          "evidence_quote": "T'Pau - absolutely right. 32. Very well done indeed"
+        },
+        {
+          "answer": "Sugababes",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "They would've scored you 19 if you'd said that"
+        },
+        {
+          "answer": "ABBA",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "62 of our 100 people did get that one"
+        },
+        {
+          "answer": "Wet Wet Wet",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that was known by... 15 people knew that"
+        },
+        {
+          "answer": "One Direction",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that's One Direction. Only eight people knew that"
+        },
+        {
+          "answer": "Blondie",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Down to 47. Very well done indeed. Taking your total up to 79"
+        },
+        {
+          "answer": "Gnarls Barkley",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kamilia",
+          "evidence_quote": "Down it goes to eight. Our best score of the whole round so far"
+        },
+        {
+          "answer": "Hear'Say",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Down it goes to 19. Brilliant. Taking your total up very neatly to 60"
+        },
+        {
+          "answer": "Oasis",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "everyone knows that! Yeah, 51 people knew that"
+        },
+        {
+          "answer": "Kings Of Leon",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would've been 23 if you'd said Kings Of Leon"
+        },
+        {
+          "answer": "The Human League",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Human League is correct. And that would've scored 26"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Find the pointless cover star of Attitude magazine",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Grace Jones",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "as for Grace Jones, I'm afraid she's never appeared on the cover of Attitude"
+        },
+        {
+          "answer": "Ncuti Gatwa",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Definitely a cover star of Attitude magazine. Ah, and one of those!"
+        },
+        {
+          "answer": "Louis Smith",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Louis Smith, the Olympic gymnast, who was on the cover in 2014. And Louis was a pointless answer"
+        },
+        {
+          "answer": "Kathy Burke",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Kathy Burke would've scored one. She was on in 1999"
+        },
+        {
+          "answer": "Jonathan Bailey",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Jonathan Bailey, from Bridgerton, he was on it in 2021, would've scored you two"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Members of the gourd family (pictures with first and last letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Butternut squash",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Samantha",
+          "evidence_quote": "Butternut squash is right. 67 for butternut squash"
+        },
+        {
+          "answer": "Courgette",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Courgette is right. Oh, my goodness! Courgette! Oh, 66 to 67!"
+        },
+        {
+          "answer": "Chayote",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "that was a chayote. And that would've been a pointless answer"
+        },
+        {
+          "answer": "Watermelon",
+          "score": 90,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would've scored you 90 for watermelon"
+        },
+        {
+          "answer": "Loofah",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "poor D - would be loofah. And that would've scored you three"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Events from the BBC reboot of Gladiators (letters rearranged alphabetically)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hang Tough",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Hang Tough is right. And it goes down to 31!"
+        },
+        {
+          "answer": "The Wall",
+          "score": 75,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "The Wall is right. 75 for The Wall"
+        },
+        {
+          "answer": "Eliminator",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "which is actually the Eliminator. And if you'd said that, that would've got you 12"
+        },
+        {
+          "answer": "Duel",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Duel. 38 people said that"
+        },
+        {
+          "answer": "Collision",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the one to get, really, was Collision. And that would've scored you one point"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any word in the name of a UK motorway service area, or any word of four or more letters in the lyrics of 2-4-6-8 Motorway by the Tom Robinson Band",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tebay",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Still going down with Tebay to three! OK, not a pointless answer"
+        },
+        {
+          "answer": "Forest",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Still going down with forest... ..to two!"
+        },
+        {
+          "answer": "Lane",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "You've done it! Lane has just won you £1,750!"
+        }
+      ]
+    }
+  ]
+}

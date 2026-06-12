@@ -1,0 +1,468 @@
+{
+  "episode_id": "s35e02",
+  "episode_label": "Series 35 Episode 2",
+  "series": 35,
+  "episode": 2,
+  "pid": "m002tsjc",
+  "source_url": "https://www.bbc.co.uk/programmes/m002tsjc",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Identify the famous person you think fewest people will recognise enjoying a cup of tea",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Helena Bonham Carter",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Helena Bonham Carter is right... And that goes down to eight."
+        },
+        {
+          "answer": "Joanna Page",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "That scored you 100 points."
+        },
+        {
+          "answer": "Harry Redknapp",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "21 for Harry Redknapp."
+        },
+        {
+          "answer": "Larry Grayson",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "20 for Larry Grayson."
+        },
+        {
+          "answer": "Natalie Imbruglia",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Natalie Imbruglia. Look at that. Down to 4."
+        },
+        {
+          "answer": "Jennifer Lawrence",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elle",
+          "evidence_quote": "You are through. A 10, taking your total up to 31."
+        },
+        {
+          "answer": "Pippa Middleton",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Samantha",
+          "evidence_quote": "That scores you 100 points. Takes your total up to 200."
+        },
+        {
+          "answer": "John Lennon",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Erica",
+          "evidence_quote": "John Lennon is right. And that goes down to 29."
+        },
+        {
+          "answer": "John Betjeman",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "John Betjeman. And that would have been a pointless answer."
+        },
+        {
+          "answer": "Shailene Woodley",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One person knew that. Shailene."
+        },
+        {
+          "answer": "Dusty Springfield",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It would have got you a score of one."
+        },
+        {
+          "answer": "Frank Sinatra",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "14 people thought they were. And they were Frank Sinatra."
+        },
+        {
+          "answer": "Muhammad Ali",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Muhammad Ali, 28 people."
+        },
+        {
+          "answer": "Lady Gaga",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Would have got you 34."
+        },
+        {
+          "answer": "Rishi Sunak",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rishi Sunak there with a mug of tea. He scored 39."
+        },
+        {
+          "answer": "Margaret Thatcher",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "on the left is Margaret Thatcher. And 39 people knew her."
+        },
+        {
+          "answer": "Queen Camilla",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Then we have Queen Camilla. 42 people knew that."
+        },
+        {
+          "answer": "Nelson Mandela",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nelson Mandela would have scored 43."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name the West End musical from a song, the character who performs it and the show's initials",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sister Act",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Erica",
+          "evidence_quote": "Sister Act is right and it's very good. Look at that, Erica. Down it goes to five."
+        },
+        {
+          "answer": "Matilda",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elle",
+          "evidence_quote": "Matilda is right. 48 for Matilda."
+        },
+        {
+          "answer": "Hadestown",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Hadestown is right. And it scores you one."
+        },
+        {
+          "answer": "Phantom of the Opera",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you had, that would have got you 10."
+        },
+        {
+          "answer": "Wicked",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I'm Not That Girl sung by Elphaba was from Wicked and that would have scored you 21."
+        },
+        {
+          "answer": "The Lion King",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Lion King, it was a big score, 63."
+        },
+        {
+          "answer": "Cabaret",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Cabaret is right. Gets you through, Miles. Down it goes to 23."
+        },
+        {
+          "answer": "The Book Of Mormon",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "Down it goes to six, taking your total up to 54."
+        },
+        {
+          "answer": "Les Miserables",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "It's right. You're through. Down it goes to 33."
+        },
+        {
+          "answer": "Frozen",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Young Anna, that's going to be a big score. Frozen. 62."
+        },
+        {
+          "answer": "Standing At The Sky's Edge",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Sky's Edge... that would have been a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Only Fools and Horses episodes (find the pointless episodes)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Buon Natale",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Buon Natale is an episode of Citizen Smith"
+        },
+        {
+          "answer": "He Ain't Heavy, He's My Uncle",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Erica",
+          "evidence_quote": "It's right. Oh! One person remembered it."
+        },
+        {
+          "answer": "Sickness And Wealth",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the top and bottom ones were the pointless answers. Sickness And Wealth was the one with the seance."
+        },
+        {
+          "answer": "May The Force Be With You",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "May The Force Be With You is the one where Jim Broadbent first appears."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify these animals classified as rodents (from alternate letters of their names)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Capybara",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "Capybara is right. Down that goes for 39."
+        },
+        {
+          "answer": "Lemming",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Lemming wins! Look at that. Down goes lemming to 22."
+        },
+        {
+          "answer": "Agouti",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would've scored you three."
+        },
+        {
+          "answer": "Porcupine",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd gone with porcupine, that would have scored you 47."
+        },
+        {
+          "answer": "Hutia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the Cuban hutia is described as the size of a small dog. And that was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Name these sausages from around the world (first and last letters removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Saveloy",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Saveloy is right. Down goes saveloy to 14."
+        },
+        {
+          "answer": "Chipolata",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Chipolata is right. It's a big score, 64."
+        },
+        {
+          "answer": "Merguez",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "One that neither team seem to know was merguez. And that would have scored you five."
+        },
+        {
+          "answer": "Salami",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you were right to say salami at the top. But that was known by a lot of people. That was 66."
+        },
+        {
+          "answer": "Kargyong",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the second one, kargyong, and that would have been a pointless answer. It's a yak sausage"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Films by former Neighbours stars (acting credit for Margot Robbie or Guy Pearce)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Prestige",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Chris",
+          "evidence_quote": "Might it be The Prestige? Nope."
+        },
+        {
+          "answer": "Priscilla, Queen of the Desert",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Chris",
+          "evidence_quote": "Seven for Priscilla, Queen of the Desert."
+        },
+        {
+          "answer": "The Time Machine",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Chris",
+          "evidence_quote": "Still going down... 2!"
+        }
+      ]
+    }
+  ]
+}

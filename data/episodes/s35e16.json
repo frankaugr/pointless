@@ -1,0 +1,495 @@
+{
+  "episode_id": "s35e16",
+  "episode_label": "Series 35 Episode 16",
+  "series": 35,
+  "episode": 16,
+  "pid": "m002vq84",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vq84",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Identify the feature film from a clickbait-headline-style clue, with initials and year of release given",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Juggernaut",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Mark",
+          "evidence_quote": "It's not Juggernaut, is it?... That scores you 100 points."
+        },
+        {
+          "answer": "The Curious Case of Benjamin Button",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "is absolutely right. And down it goes, to eight."
+        },
+        {
+          "answer": "A Quiet Place",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "At 16 is where you end up with A Quiet Place."
+        },
+        {
+          "answer": "Chitty Chitty Bang Bang",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Chitty Chitty Bang Bang is right... Look at that. 11."
+        },
+        {
+          "answer": "Four Weddings and a Funeral",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The one remaining one was Four Weddings and a Funeral... would have scored you four."
+        },
+        {
+          "answer": "Jaws",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Top left, Jaws, was 28."
+        },
+        {
+          "answer": "The Sound of Music",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Sound of Music, 29."
+        },
+        {
+          "answer": "The Silence of the Lambs",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Silence of the Lambs, 21."
+        },
+        {
+          "answer": "Big",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Big was 15."
+        },
+        {
+          "answer": "Gremlins",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "those pesky little Gremlins at 30."
+        },
+        {
+          "answer": "The Great Escape",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bob",
+          "evidence_quote": "That goes down to 35, taking your total up to 46."
+        },
+        {
+          "answer": "Cinderella",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Down to 30. Taking your total up to 46."
+        },
+        {
+          "answer": "The Lord of the Rings: The Fellowship of the Ring",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "That goes down to three. That is a phenomenal answer."
+        },
+        {
+          "answer": "The Devil Wears Prada",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jackie",
+          "evidence_quote": "And down it goes to 13. It's a great score."
+        },
+        {
+          "answer": "Wonka",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wonka would have got you 27."
+        },
+        {
+          "answer": "Mrs Doubtfire",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "18 for Mrs Doubtfire."
+        },
+        {
+          "answer": "Jerry Maguire",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jerry Maguire, top right. Yes. Eight."
+        },
+        {
+          "answer": "The Sixth Sense",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "12 for The Sixth Sense. Well done."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Three UK train station names sharing the same missing final word — give the shared word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Docks",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "Docks is absolutely right... Down it goes to nine."
+        },
+        {
+          "answer": "Harbour",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Harbour is right. Down to 12."
+        },
+        {
+          "answer": "Vale",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bob",
+          "evidence_quote": "22. Where's the justice in that, Bob? 22 for Vale."
+        },
+        {
+          "answer": "Beach",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beach - Blackpool Pleasure, Cooden and Severn - would have scored you 46."
+        },
+        {
+          "answer": "Victoria",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Up top, Victoria at 34."
+        },
+        {
+          "answer": "International",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And International, 24."
+        },
+        {
+          "answer": "Bridge",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "how many of our 100 said Bridge?... Down and down and down that goes to 13."
+        },
+        {
+          "answer": "Junction",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "37 for Junction. Taking your total up to 49."
+        },
+        {
+          "answer": "Parkway",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Parkway is absolutely right... 19 is what it scores."
+        },
+        {
+          "answer": "Airport",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Airport, 41 up the top."
+        },
+        {
+          "answer": "Central",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Central, 33."
+        },
+        {
+          "answer": "Ferry",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rock Ferry... Would have scored you four."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Which of these six are pointless books by sports stars (two scoring, two pointless, two not books by sports stars)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "You Have the Power",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Oh, one! GROANS One person got that."
+        },
+        {
+          "answer": "Blood, Sweat and Tyres",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Bob",
+          "evidence_quote": "it's not by a motorsport star. It's actually the title of a book by the Hairy Bikers."
+        },
+        {
+          "answer": "Behind the Mask",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Behind the Mask is an autobiography by Tyson Fury. Would have got you three."
+        },
+        {
+          "answer": "The Breakfast Club Adventures: The Beast Beyond the Fence",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the first of a series by Marcus Rashford. It was a pointless answer."
+        },
+        {
+          "answer": "Loose Head",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Loose Head: Confessions of an (un)professional rugby player is by Joe Marler."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify the people wearing outfits featuring floral patterns",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dwayne Johnson",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "Dwayne Johnson is right. 73 is what it scores."
+        },
+        {
+          "answer": "Katherine Ryan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "No, not Katherine Ryan... that was not Katherine Ryan, but Kim Kardashian."
+        },
+        {
+          "answer": "Kim Kardashian",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "She was compared to a sofa. And that scored 40."
+        },
+        {
+          "answer": "Nile Rodgers",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nile Rodgers, co-founder of Chic... That would have scored you 11."
+        },
+        {
+          "answer": "Bella Ramsey",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Bella Ramsey, best known from Game of Thrones, they scored five points."
+        },
+        {
+          "answer": "Dougie Poynter",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Dougie Poynter is the bassist of band McFly, and that was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Things that can be done backwards/with your back to something, with letters in reverse alphabetical order",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Swimming backstroke",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Swimming backstroke... is right. That's a good answer. 20."
+        },
+        {
+          "answer": "Judging on The Voice",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "Judging on The Voice is absolutely right. And it wins it for you... Down it goes to ten."
+        },
+        {
+          "answer": "Tug of war",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tug of war, you got it right. 42 it would have gotten you."
+        },
+        {
+          "answer": "Rowing",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rowing, 15 up the top."
+        },
+        {
+          "answer": "Throwing a wedding bouquet",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wedding bouquet... One. One that would have got you."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Name a sculptor with work outdoors at the Yorkshire Sculpture Park, or an artist exhibited on the Fourth Plinth in Trafalgar Square (1999–Oct 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Barbara Hepworth",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Annie",
+          "evidence_quote": "We're into single figures with Barbara Hepworth. Six."
+        },
+        {
+          "answer": "Antony Gormley",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Annie",
+          "evidence_quote": "Still going down with Antony Gormley to... five."
+        },
+        {
+          "answer": "Ai Weiwei",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Annie",
+          "evidence_quote": "Oh, no. Bad luck... Ai Weiwei has been in a sculpture park, but he's not got anything in there at the moment."
+        }
+      ]
+    }
+  ]
+}

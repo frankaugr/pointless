@@ -1,0 +1,691 @@
+{
+  "episode_id": "s34e23",
+  "episode_label": "Series 34 Episode 23",
+  "series": 34,
+  "episode": 23,
+  "pid": "m002l54g",
+  "source_url": "https://www.bbc.co.uk/programmes/m002l54g",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "BBC Food website recipe titles with a fruit removed (first and last letters given) - name the missing fruit",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Yuzu",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hester",
+          "evidence_quote": "Down that goes to seven. Single digits."
+        },
+        {
+          "answer": "Peach",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jill",
+          "evidence_quote": "56 for peach. That's quite a high score."
+        },
+        {
+          "answer": "Mango",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Seven is our low score, and you go near it. 21."
+        },
+        {
+          "answer": "Watermelon",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "there you are on 12! Very well done indeed, Ben."
+        },
+        {
+          "answer": "Blueberry",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Blueberry muffins. Which was 49 points."
+        },
+        {
+          "answer": "Apple",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we've got apple - scored 44"
+        },
+        {
+          "answer": "Lemon",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Um, lemon. Yes, at 62 points."
+        },
+        {
+          "answer": "Avocado",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chau",
+          "evidence_quote": "58 for avocado. Takes your total up to 70."
+        },
+        {
+          "answer": "Pomegranate",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Down to one, if you please."
+        },
+        {
+          "answer": "Agave",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Not agave. That scores you 100 points."
+        },
+        {
+          "answer": "Lime",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kaylee",
+          "evidence_quote": "Lime is right. Down it goes to 55."
+        },
+        {
+          "answer": "Pears",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was pears. And that was at 32 points."
+        },
+        {
+          "answer": "Cherry",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cherry Bakewell. And that was 52 points."
+        },
+        {
+          "answer": "Sloe",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was sloe gin fizz and it was 25 points."
+        },
+        {
+          "answer": "Ackee",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ackee and saltfish. 12 points that would have been."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Full-length stage musicals with music composed by Andrew Lloyd Webber or lyrics by Tim Rice (or both)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Joseph And The Amazing Technicolor Dreamcoat",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hester",
+          "evidence_quote": "Hester, 12 is what you score for that."
+        },
+        {
+          "answer": "Cinderella",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Cinderella - down to four."
+        },
+        {
+          "answer": "Cats",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chau",
+          "evidence_quote": "That goes down to 49. 49 for Cats."
+        },
+        {
+          "answer": "Starlight Express",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "17, Starlight Express, taking your total up to 66."
+        },
+        {
+          "answer": "Chess",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Down we go to eight, taking your total up to a beautiful 12."
+        },
+        {
+          "answer": "Priscilla, Queen Of The Desert",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kaylee",
+          "evidence_quote": "that scores you 100 points and takes your total up to 112"
+        },
+        {
+          "answer": "Whistle Down The Wind",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "two points for Whistle Down The Wind"
+        },
+        {
+          "answer": "Aladdin",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "one point each for Aladdin"
+        },
+        {
+          "answer": "Beauty And The Beast",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "one point each for Aladdin, Beauty And The Beast"
+        },
+        {
+          "answer": "Love Never Dies",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Love Never Dies - and that's a lie!"
+        },
+        {
+          "answer": "The Wizard Of Oz",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Wizard Of Oz and School Of Rock"
+        },
+        {
+          "answer": "School Of Rock",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Wizard Of Oz and School Of Rock"
+        },
+        {
+          "answer": "Aida",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "here are our pointless answers. Aida, Tim Rice wrote with Elton John"
+        },
+        {
+          "answer": "Blondel",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Blondel and From Here To Eternity"
+        },
+        {
+          "answer": "From Here To Eternity",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Blondel and From Here To Eternity"
+        },
+        {
+          "answer": "Heathcliff",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we've got Heathcliff, another Tim Rice"
+        },
+        {
+          "answer": "Song And Dance",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Song And Dance, and Stephen Ward, both Lloyd Webber"
+        },
+        {
+          "answer": "Stephen Ward",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Song And Dance, and Stephen Ward, both Lloyd Webber"
+        },
+        {
+          "answer": "The Beautiful Game",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The Beautiful Game, The Woman In White and Tycoon"
+        },
+        {
+          "answer": "The Woman In White",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The Beautiful Game, The Woman In White and Tycoon"
+        },
+        {
+          "answer": "Tycoon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The Woman In White and Tycoon, another Tim Rice"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot booster",
+      "category_text": "Twin Peaks characters (find the pointless ones among six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Gail Bell",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Gail Bell was a red herring... there was no Gail Bell"
+        },
+        {
+          "answer": "Garland Briggs",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "Garland Briggs... Definitely a character from Twin Peaks. And look at that."
+        },
+        {
+          "answer": "Pete Martell",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And Pete Martell was the other pointless answer."
+        },
+        {
+          "answer": "Laura Palmer",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Laura Palmer scored 12 and Shelly Johnson scored six."
+        },
+        {
+          "answer": "Shelly Johnson",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Shelly Johnson scored six"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Preston",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "down to 33 with Preston"
+        },
+        {
+          "answer": "Kendal",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "It takes the point for you. 20."
+        },
+        {
+          "answer": "Liverpool",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Yes, Liverpool. 62 points."
+        },
+        {
+          "answer": "Wolverhampton",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's Wolverhampton... That would have been five points"
+        },
+        {
+          "answer": "Coventry",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Coventry, that's right. And that would have been 41 points."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Famous paintings (one word in each title given as an anagram) - solve the anagrams",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Raft of the Medusa",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "Raft is right. Down to 30."
+        },
+        {
+          "answer": "Impression, Sunrise",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Sunrise is absolutely right... Three is what it scores"
+        },
+        {
+          "answer": "The Scream",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The top one was The Scream at 48 points"
+        },
+        {
+          "answer": "Mona Lisa",
+          "score": 68,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mona Lisa was the fourth one down and that would have been 68 points"
+        },
+        {
+          "answer": "The Garden of Earthly Delights",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Garden of Earthly Delights, which would have been 11 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Things that contain a double I (the letter I repeated immediately)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Avicii",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Avicii absolutely right... Down that goes to 23."
+        },
+        {
+          "answer": "Dmitrov",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "gone for Dmiitrov for Medvedev's first name... No, bad luck."
+        },
+        {
+          "answer": "Hawaii",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hawaii scored 46"
+        },
+        {
+          "answer": "Pompeii",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pompeii scored 49"
+        },
+        {
+          "answer": "Daniil",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "and Daniil is 3"
+        },
+        {
+          "answer": "Sacroiliitis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It is sacroiliitis. Pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Named animal characters in the Madagascar film series, or any single word in the English name of a living lemur species",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ruffed",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Amy",
+          "evidence_quote": "You've done it!... Ruffed is a pointless answer."
+        },
+        {
+          "answer": "Bellied",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Amy",
+          "evidence_quote": "Down we go with bellied into the single figure... there we are."
+        },
+        {
+          "answer": "Sitfaka",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Amy",
+          "evidence_quote": "sitfaka wasn't a pointless answer"
+        },
+        {
+          "answer": "Cleese's",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "here are some of the pointless answers you could have had. Cleese's, giant"
+        },
+        {
+          "answer": "Giant",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cleese's, giant, and there is sifaka, and woolly"
+        },
+        {
+          "answer": "Sifaka",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "and there is sifaka, and woolly"
+        },
+        {
+          "answer": "Woolly",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there is sifaka, and woolly"
+        },
+        {
+          "answer": "Gia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "animal characters in the Madagascar film. Gia, a jaguar"
+        },
+        {
+          "answer": "Rico",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Rico, a penguin"
+        },
+        {
+          "answer": "Vitaly",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Vitaly, a tiger"
+        },
+        {
+          "answer": "Zuba",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Zuba, a lion, voiced by one of my favourite comedians, Bernie Mac"
+        },
+        {
+          "answer": "Freddie the Dog",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Freddie the Dog, voiced by Vinnie Jones"
+        },
+        {
+          "answer": "Mort",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mort, who was a lemur"
+        }
+      ]
+    }
+  ]
+}

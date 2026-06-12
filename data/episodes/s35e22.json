@@ -1,0 +1,592 @@
+{
+  "episode_id": "s35e22",
+  "episode_label": "Series 35 Episode 22",
+  "series": 35,
+  "episode": 22,
+  "pid": "m002w0j0",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w0j0",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words that both begin and end with the letter R (from clues, with number of letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Render",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lawrence",
+          "evidence_quote": "Render is good. Down it goes to 44."
+        },
+        {
+          "answer": "Receiver",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelli",
+          "evidence_quote": "down to 20 for receiver. Very well done indeed, Kelli."
+        },
+        {
+          "answer": "Rapier",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "28 is where you end up with rapier."
+        },
+        {
+          "answer": "Roger",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "Roger's right. Well, 44 is our high score, 55 for Roger."
+        },
+        {
+          "answer": "Roar",
+          "score": 85,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "85 for roar."
+        },
+        {
+          "answer": "Reservoir",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Reservoir, 65."
+        },
+        {
+          "answer": "Rockhopper",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It's a rockhopper, for 6."
+        },
+        {
+          "answer": "Retainer",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Retainer's good. Down it goes, 35."
+        },
+        {
+          "answer": "Rider",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "24, taking your total up to 52."
+        },
+        {
+          "answer": "Rubber",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "It is. There we are, 59."
+        },
+        {
+          "answer": "Rottweiler",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "49 for Rottweiler, taking your total up to 93."
+        },
+        {
+          "answer": "Reindeer",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Reindeer, 77."
+        },
+        {
+          "answer": "Rasher",
+          "score": 74,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "74. And this is the one you needed."
+        },
+        {
+          "answer": "Venus Rosewater Dish",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It is the Venus Rosewater Dish. That scored 4."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Most obscure answer in six categories relating to six famous authors (each with exactly six answers)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nicholas",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelli",
+          "evidence_quote": "Nicholas is right. 5 for Nicholas."
+        },
+        {
+          "answer": "Oliver",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "40 for Oliver."
+        },
+        {
+          "answer": "David",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "David is absolutely right. 40 remains our high score and you pass it. 11 for David."
+        },
+        {
+          "answer": "Hannibal Rising",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "That's a pointless answer, and it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "The Blind Assassin",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "Another pointless answer, adding another £250 to today's jackpot"
+        },
+        {
+          "answer": "Swing Time",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Another pointless answer adds another £250 to today's jackpot"
+        },
+        {
+          "answer": "Edwin",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The only pointless answer was Edwin, as in The Mystery Of Edwin Drood."
+        },
+        {
+          "answer": "A Clergyman's Daughter",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "A Clergyman's Daughter was the only pointless answer."
+        },
+        {
+          "answer": "Olivia Joules And The Overactive Imagination",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Olivia Joules And The Overactive Imagination... were both pointless"
+        },
+        {
+          "answer": "Mad About The Boy",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the Bridget Jones novel, Mad About The Boy, were both pointless"
+        },
+        {
+          "answer": "Oryx and Crake",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Oryx and Crake and The Blind Assassin... were both pointless"
+        },
+        {
+          "answer": "Cari Mora",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cari Mora and Hannibal Rising, which Roger had, were both pointless."
+        },
+        {
+          "answer": "NW",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "NW and Swing Time - well done, Tony - were pointless"
+        },
+        {
+          "answer": "The Silence Of The Lambs",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Surprisingly, The Silence Of The Lambs only scored 3."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Characters from films directed by Wes Anderson (two scoring, two pointless, two not characters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Social Services",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Social Services is absolutely right... Social Services is a pointless answer."
+        },
+        {
+          "answer": "Matild Palace",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "Not Matild Palace. No, Matild Palace is a luxury hotel in Budapest."
+        },
+        {
+          "answer": "Eli Cash",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Eli Cash, up the top, Owen Wilson in The Royal Tenenbaums... That scored 1."
+        },
+        {
+          "answer": "Schubert Green",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Schubert Green. Adrien Brody... Asteroid City. And that scored 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Fish with names referring to an occupation, with alternate letters of the occupation missing",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Surgeonfish",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Surgeon is absolutely right... 2 for surgeonfish."
+        },
+        {
+          "answer": "Sand diver",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "Diver is absolutely the occupation there. 62 for that."
+        },
+        {
+          "answer": "Pilotfish",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "26 for pilotfish."
+        },
+        {
+          "answer": "Nurse shark",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "frightening. 24."
+        },
+        {
+          "answer": "Archerfish",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Archerfish. 7."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Lead singers of bands (from played tracks)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Adam Levine",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Adam Levine is absolutely right. 4 for Adam Levine."
+        },
+        {
+          "answer": "Cher",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "No, not Cher on this occasion."
+        },
+        {
+          "answer": "Heather Small",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was Heather Small. M People, Moving On Up, 9."
+        },
+        {
+          "answer": "Noddy Holder",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Slade. Cum On Feel The Noize... That scored 29."
+        },
+        {
+          "answer": "Sharleen Spiteri",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "From Texas. In Our Lifetime reached four in '99 and would've scored 12."
+        },
+        {
+          "answer": "Chrissie Hynde",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chrissie Hynde, the Pretenders. Talk Of The Town... that was 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "English names of chess pieces from their Italian names",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pawn (pedone)",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Pawn is right. That goes down to 27."
+        },
+        {
+          "answer": "Queen (donna)",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "It is the queen... Scores you 48"
+        },
+        {
+          "answer": "Knight (cavallo)",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "cavallo is going to be the knight. It is. 24 for the knight."
+        },
+        {
+          "answer": "Rook (torre)",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Torre is going to be the rook. Indeed. 22."
+        },
+        {
+          "answer": "Bishop (alfiere)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "alfiere, it's got to be the bishop. Bang on. Bishop. 17."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Acts with a UK number one album in 2022, or players who scored 2+ goals at the 2022 men's FIFA World Cup",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Coldplay",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Tony",
+          "evidence_quote": "Nope. Not Coldplay. Not a pointless answer... not a correct answer."
+        },
+        {
+          "answer": "Drake",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Kelli",
+          "evidence_quote": "OK, 4 for Drake."
+        },
+        {
+          "answer": "The Weeknd",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Kelli",
+          "evidence_quote": "Passing 4... 2. Oh, that's annoying."
+        },
+        {
+          "answer": "Central Cee",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Central Cee. His album was 23."
+        },
+        {
+          "answer": "Florence + The Machine",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Florence + The Machine with Dance Fever."
+        },
+        {
+          "answer": "Jamie T",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Jamie T, The Theory Of Whatever."
+        },
+        {
+          "answer": "Wet Leg",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Wet Leg, their self-titled debut album, Wet Leg."
+        },
+        {
+          "answer": "Bruno Fernandes",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Here are some of the pointless answers. Bruno Fernandes, Portugal."
+        },
+        {
+          "answer": "Cody Gakpo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cody Gakpo, Netherlands."
+        },
+        {
+          "answer": "Rafael Leao",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Rafael Leao of Portugal"
+        },
+        {
+          "answer": "Richarlison",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Richarlison of Brazil."
+        }
+      ]
+    }
+  ]
+}

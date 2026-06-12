@@ -1,0 +1,547 @@
+{
+  "episode_id": "s34e09",
+  "episode_label": "Series 34 Episode 9",
+  "series": 34,
+  "episode": 9,
+  "pid": "m002k76s",
+  "source_url": "https://www.bbc.co.uk/programmes/m002k76s",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Abbreviations or acronyms in the Collins Dictionary — give the missing word beginning with the letter D",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dispensary (PDSA)",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Philip",
+          "evidence_quote": "Dispensary is absolutely right. Down it goes to 44."
+        },
+        {
+          "answer": "Department (Defra)",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Margery",
+          "evidence_quote": "Department is right. 44 is the only score we have at the moment. 67 for Department."
+        },
+        {
+          "answer": "Anno Domini (AD)",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jayden",
+          "evidence_quote": "Anno Domini. That goes down to 48."
+        },
+        {
+          "answer": "Digital (PDF)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Andrea",
+          "evidence_quote": "Sorry, that scores you 100 points."
+        },
+        {
+          "answer": "Digital (ISDN)",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It was Digital and that was the lowest scorer. It got nine."
+        },
+        {
+          "answer": "Document (PDF)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "PDF is Document. That would have scored you 21."
+        },
+        {
+          "answer": "Do-It-Yourself (DIY)",
+          "score": 94,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Do-It-Yourself, obviously, you got that... That would have been 94."
+        },
+        {
+          "answer": "Gross Domestic Product (GDP)",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "GDP, Gross Domestic Product. That was a 36."
+        },
+        {
+          "answer": "Diode (LED)",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ade",
+          "evidence_quote": "Diode. How far down the column can we get with that? 45."
+        },
+        {
+          "answer": "Docklands (DLR)",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Down goes Docklands to 25."
+        },
+        {
+          "answer": "Density (MDF)",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "It gets you through. With room to spare. 39"
+        },
+        {
+          "answer": "Demonstrandum (QED)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "a single-figure score... seven, taking your total up to 51."
+        },
+        {
+          "answer": "Director of Public Prosecutions (DPP)",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was the Director of Public Prosecutions. That would have scored you 30."
+        },
+        {
+          "answer": "High Definition (HDMI)",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We've got HDMI, High Definition. That was 37."
+        },
+        {
+          "answer": "Defence (Ministry of Defence)",
+          "score": 81,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Ministry of Defence, which I think a lot of people got, 81."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Famous women featured on Edward Enninful's final British Vogue cover (March 2024) — name the one fewest recognised",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Victoria Beckham",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "Victoria Beckham is right and goes down to 54."
+        },
+        {
+          "answer": "Oprah Winfrey",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Margery",
+          "evidence_quote": "Down it goes to 56."
+        },
+        {
+          "answer": "Anya Taylor-Joy",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jayden",
+          "evidence_quote": "Oh, down to one! Very well done indeed, Jayden. Anya Taylor-Joy."
+        },
+        {
+          "answer": "Kate Moss",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Down you go to 29... which takes your total up to a lovely round 30."
+        },
+        {
+          "answer": "Maya Jama",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Maya Jama is absolutely right. And down it goes to 14."
+        },
+        {
+          "answer": "Jane Fonda",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Philip",
+          "evidence_quote": "It is Jane Fonda. And it gets you through. Look at that, down it goes to 13."
+        },
+        {
+          "answer": "Serena Williams",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it's Serena? Yes, and she would have scored 17."
+        },
+        {
+          "answer": "Dua Lipa",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dua Lipa. She scored 18"
+        },
+        {
+          "answer": "Laverne Cox",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Laverne Cox. She would have scored you just one."
+        },
+        {
+          "answer": "Jodie Comer",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jodie Comer scored two."
+        },
+        {
+          "answer": "Cynthia Erivo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That is Cynthia Erivo and she was a pointless answer!"
+        },
+        {
+          "answer": "Cindy Crawford",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cindy Crawford... That would have scored you seven."
+        },
+        {
+          "answer": "Naomi Campbell",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Naomi Campbell... That would have scored you 11."
+        },
+        {
+          "answer": "Miley Cyrus",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Miley Cyrus. 21 points there."
+        },
+        {
+          "answer": "Gigi Hadid",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gigi Hadid. And she would have scored you seven."
+        },
+        {
+          "answer": "Simone Ashley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the final pointless answer. She is Simone Ashley."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head (jackpot builder)",
+      "category_text": "Identify the pointless Minecraft biomes/regions from six options",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Savanna",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "It's a biome from Minecraft. Down it goes to five."
+        },
+        {
+          "answer": "Lush Caves",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Philip",
+          "evidence_quote": "It's a Minecraft biome. And it's a pointless one as well."
+        },
+        {
+          "answer": "Badlands",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Badlands scored 13 because it is a biome"
+        },
+        {
+          "answer": "Cherry Grove",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cherry Grove. That is the other pointless answer on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Facts about the BBC Radio 4 soap opera The Archers",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tamsin Greig",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Tamsin Greig is right... Down it goes to one."
+        },
+        {
+          "answer": "Flower and Produce Show",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "the Flower and Produce Show? Is it right? No. Bad luck."
+        },
+        {
+          "answer": "Eurovision Song Contest",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was indeed the Eurovision Song Contest which would have scored you eight."
+        },
+        {
+          "answer": "Green (Barwick Green)",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the colour that follows Barwick and it is Green. That would have scored you 12."
+        },
+        {
+          "answer": "1950s",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the decade... was indeed the 1950s. And that would have scored you 22."
+        },
+        {
+          "answer": "The Bull",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "everybody goes down The Bull at lunchtime... that would have scored you 13."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Landmarks in the West Country (from Angela's drawings) — identify the most obscure",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Minack Theatre",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "The Minack Theatre is absolutely right... down to two."
+        },
+        {
+          "answer": "Land's End",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Land's End is right. That goes down to 52."
+        },
+        {
+          "answer": "St Michael's Mount",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "St Michael's Mount at the beginning, which was 29."
+        },
+        {
+          "answer": "Glastonbury Tor",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You've got Glastonbury Tor which was 13."
+        },
+        {
+          "answer": "The Eden Project",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You've got The Eden Project which was 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Names of Robin Hood's band of outlaws (with one word given as a clue) — name the one fewest knew",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Will Scarlet",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Will Scarlet is right. And that goes down to 44."
+        },
+        {
+          "answer": "David of Doncaster",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Philip",
+          "evidence_quote": "Doncaster, absolutely right... Down it goes, in fact, to five."
+        },
+        {
+          "answer": "Maid Marian",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You got Maid Marian. That would have got you 65."
+        },
+        {
+          "answer": "Little John",
+          "score": 68,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You got Little John, small in size. That would have given you 68."
+        },
+        {
+          "answer": "Arthur a Bland",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "he is Arthur Bland... would have given you an even lower score of two."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Name any track on the expanded Red or Blue Beatles compilation albums",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "And I Love Her (Red Album)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "still going down to one... That was your least confident shot... scoring only one."
+        },
+        {
+          "answer": "Across The Universe (Blue Album)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Across The Universe is also right. It just has to go all the way down... You've done it."
+        },
+        {
+          "answer": "Girl (Red Album)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Girl is also a pointless answer, but well done."
+        }
+      ]
+    }
+  ]
+}

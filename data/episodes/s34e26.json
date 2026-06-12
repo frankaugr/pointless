@@ -1,0 +1,574 @@
+{
+  "episode_id": "s34e26",
+  "episode_label": "Series 34 Episode 26",
+  "series": 34,
+  "episode": 26,
+  "pid": "m002pj6q",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pj6q",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Book titles where the animal in the title has been replaced by the name of its young — name the animal",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Butterfly",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ruth",
+          "evidence_quote": "The Diving Bell And The Butterfly is absolutely right, Ruth. ... 47 is what it scores"
+        },
+        {
+          "answer": "Tiger",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shashi",
+          "evidence_quote": "The White Tiger is absolutely right. ... Down it goes to 7"
+        },
+        {
+          "answer": "Kangaroo",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "Kangaroo. Yes, it is. ... 52 for kangaroo"
+        },
+        {
+          "answer": "Flies",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "Lord Of The Flies ... It is right. And not bad. 58"
+        },
+        {
+          "answer": "Horse (War Horse)",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And that was 61 points"
+        },
+        {
+          "answer": "Hedgehog (Elegance of the Hedgehog)",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Would have been 5 points"
+        },
+        {
+          "answer": "Birds (We Are All Birds)",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have been 8 points"
+        },
+        {
+          "answer": "Rabbit",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alex",
+          "evidence_quote": "Rabbit is right. Not bad. 16"
+        },
+        {
+          "answer": "Sheep",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Sheep, 57, taking your total up to 109"
+        },
+        {
+          "answer": "Elephants",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "It is elephants. And down that goes to 8"
+        },
+        {
+          "answer": "Geese (The Book of Goose)",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Clive",
+          "evidence_quote": "It was The Book Of Goose, not The Book Of Geese ... scores you 100 points"
+        },
+        {
+          "answer": "Goose (The Book of Goose)",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Goose got 42"
+        },
+        {
+          "answer": "Dog (puppy)",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "64 points. That is definitely dog"
+        },
+        {
+          "answer": "Cat (Cat's Cradle)",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was 67, the highest on the board"
+        },
+        {
+          "answer": "Jellyfish (Ephyra)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "that was the lowest point because it was 1"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Surnames of major characters/families in British sitcoms from picture clues",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Garnett (Till Death Us Do Part)",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "Garnett is right. And down it goes. ... Down to 5"
+        },
+        {
+          "answer": "Rigsby (Rising Damp)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "Rigsby is right. Another great answer. Down to 7"
+        },
+        {
+          "answer": "Clegg (Last of the Summer Wine)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "Clegg is right. ... 17 for Clegg"
+        },
+        {
+          "answer": "Trotter (Only Fools and Horses)",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is. 36"
+        },
+        {
+          "answer": "Brent (The Office)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "which would have been 4 points"
+        },
+        {
+          "answer": "Arkwright",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Arkwright at 13 points"
+        },
+        {
+          "answer": "Flick (Herr Flick)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "That was 1 point"
+        },
+        {
+          "answer": "Brahms (Are You Being Served?)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "that would have been a pointless one"
+        },
+        {
+          "answer": "Button",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Button. That simple. 21 points"
+        },
+        {
+          "answer": "Hacker (Yes Minister)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alex",
+          "evidence_quote": "Hacker is right. It's a great answer. ... 7 for that"
+        },
+        {
+          "answer": "Badgerman (Outnumbered)",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "that's incorrect, scores you 100 points"
+        },
+        {
+          "answer": "Pike (Dad's Army)",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shashi",
+          "evidence_quote": "Pike is right. Down it goes to 32"
+        },
+        {
+          "answer": "Brockman (Outnumbered)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "another name for a badger ... Two points"
+        },
+        {
+          "answer": "Porter",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Porter. Yep. And that would have been four points"
+        },
+        {
+          "answer": "West (Gavin and Stacey)",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And that was ten points, actually"
+        },
+        {
+          "answer": "Bucket",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Bouquet, Bucket. 34"
+        },
+        {
+          "answer": "Granger (Vicar of Dibley)",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's right. Which was 12 points"
+        },
+        {
+          "answer": "Devlin",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "these are both pointless ... Vera Lynn, and Dev Griffin"
+        },
+        {
+          "answer": "Pinna",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's a pinna ... which would have been a pointless answer as well"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Stops on the Sydney Light Rail",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Leichhardt North",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "Leichhardt North, definitely a stop. And it's one of those"
+        },
+        {
+          "answer": "Lewisham West",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alex",
+          "evidence_quote": "It's a stop on Sydney Light Rail ... One person knew that"
+        },
+        {
+          "answer": "Wynyard",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wynyard scored three points"
+        },
+        {
+          "answer": "Kingsford (Junior Kingsford)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Junior Kingsford was a pointless answer"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Clues featuring the word 'sweet', given initials",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Reese Witherspoon",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shashi",
+          "evidence_quote": "Reese Witherspoon is right. ... Down it goes to 12"
+        },
+        {
+          "answer": "Hozier",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "Hozier is right. ... down it goes to ten"
+        },
+        {
+          "answer": "Boxing (the sweet science)",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It's boxing ... which was five points"
+        },
+        {
+          "answer": "Romeo and Juliet",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "highest score at 37 points"
+        },
+        {
+          "answer": "Chestnut",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "chestnut, but highest of them all, at 43 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Food and drink in which bread is used as an ingredient",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Katsu curry",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "Katsu curry is absolutely right. That goes down to 45"
+        },
+        {
+          "answer": "Panzanella",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shashi",
+          "evidence_quote": "Panzanella is right. ... Two, my goodness, for panzanella"
+        },
+        {
+          "answer": "Kvass",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "kvass was a pointless answer"
+        },
+        {
+          "answer": "Queen of puddings",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "queen of puddings, which was 27 points"
+        },
+        {
+          "answer": "Summer pudding",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Summer pudding ... which would have been 37 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Scottish ceilidh dances with the middle of one word removed — give the missing word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Willow (Strip the Willow)",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shashi",
+          "evidence_quote": "Willow, absolutely right. Down that goes to 28"
+        },
+        {
+          "answer": "Single (Cumberland Single Eight)",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "Is single right? Nope. Not single"
+        },
+        {
+          "answer": "Circle (Circassian Circle)",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "stuck to circle ... it was only 19 points"
+        },
+        {
+          "answer": "Barn Dance (Canadian Barn Dance)",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that was a big score. It was 58"
+        },
+        {
+          "answer": "Square (Cumberland Square Eight)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Square eight, which was our lowest, at four"
+        },
+        {
+          "answer": "Gordons (Gay Gordons)",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Gay Gordons, at 47"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Anyone who received a voice acting credit for Incredibles 2 (2018) or Spider-Man: Across the Spider-Verse (2023)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tom Holland",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Shashi",
+          "evidence_quote": "Tom Holland, I'm afraid, was incorrect"
+        },
+        {
+          "answer": "Scarlett Johansson",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Kris",
+          "evidence_quote": "Scarlett Johansson, also incorrect"
+        },
+        {
+          "answer": "Holly Hunter",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Shashi",
+          "evidence_quote": "Holly Hunter ... down through the teens into single figures ... to six"
+        }
+      ]
+    }
+  ]
+}

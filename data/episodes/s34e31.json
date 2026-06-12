@@ -1,0 +1,540 @@
+{
+  "episode_id": "s34e31",
+  "episode_label": "Series 34 Episode 31",
+  "series": 34,
+  "episode": 31,
+  "pid": "m002pvf3",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pvf3",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Identify these flowers (by image and initials), among the most popular wedding flowers according to Brides.com",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Chrysanthemum",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Paige",
+          "evidence_quote": "Not a Chrysanthemum up there. That scores you 100 points."
+        },
+        {
+          "answer": "Ranunculus",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "I'm going to go for runculus... you have company on 100"
+        },
+        {
+          "answer": "Lily of the valley (said 'lady of the valley')",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Michelle",
+          "evidence_quote": "I'm afraid not, Michelle... scored you 100 points"
+        },
+        {
+          "answer": "Lavender",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rezwan",
+          "evidence_quote": "that scores you 100 points, too"
+        },
+        {
+          "answer": "Lily",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Yusuf",
+          "evidence_quote": "that's an incorrect answer. Scores you 100 points. Takes your total up to 200"
+        },
+        {
+          "answer": "Tulip",
+          "score": 76,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "Tulip goes down to 76"
+        },
+        {
+          "answer": "Carnation",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "John",
+          "evidence_quote": "40, is what that scores you, taking your total up to 140"
+        },
+        {
+          "answer": "Pansy",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "No, not pansy"
+        },
+        {
+          "answer": "Orchid",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "orchid takes us down to 37, taking your total up to 237"
+        },
+        {
+          "answer": "Rose",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rezwan",
+          "evidence_quote": "71, is what that scores you, taking your total up to 271"
+        },
+        {
+          "answer": "Anthurium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Anthurium... And that was a pointless answer"
+        },
+        {
+          "answer": "Protea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Protea. Pointless!"
+        },
+        {
+          "answer": "Hellebore",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "That is right. And it scored two"
+        },
+        {
+          "answer": "Ranunculus",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "it's actually... ranunculus - scored two"
+        },
+        {
+          "answer": "Anemone",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That scored seven"
+        },
+        {
+          "answer": "Gardenia",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gardenia. Eight points, that did"
+        },
+        {
+          "answer": "Sweet pea",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Scored 11"
+        },
+        {
+          "answer": "Calla lily",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's a calla lily. Which is 12 points"
+        },
+        {
+          "answer": "Lilac",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is lilac - scored 14"
+        },
+        {
+          "answer": "Dahlia",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "a dahlia, which would have got you 20 points"
+        },
+        {
+          "answer": "Peony",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A peony - 26 points"
+        },
+        {
+          "answer": "Lily of the valley",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lily of the valley scored 30"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Clues to historical events that took place in the month of September (with dates given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Great Fire of London",
+          "score": 68,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Paige",
+          "evidence_quote": "London's right... 68. Not bad"
+        },
+        {
+          "answer": "Gregorian (calendar)",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "It is Gregorian... 27 for Gregorian"
+        },
+        {
+          "answer": "Saturn",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "No, not Saturn, I'm afraid, Damien - that scores you 100 points"
+        },
+        {
+          "answer": "Neptune",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the second one is Neptune, which would have got you 21 points"
+        },
+        {
+          "answer": "Mayflower",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was the Mayflower, which was 29 points"
+        },
+        {
+          "answer": "Large Hadron Collider",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Large Hadron Collider... that would have been six points"
+        },
+        {
+          "answer": "Nino Farina",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Nino Farina, which was the lowest, at 1"
+        },
+        {
+          "answer": "Channel 4",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Michelle",
+          "evidence_quote": "That's incorrect. Scores you 100 points. Takes your total up to 200"
+        },
+        {
+          "answer": "Sir Francis Drake",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "John",
+          "evidence_quote": "Down that goes to 28, taking your total up to 55"
+        },
+        {
+          "answer": "ITV",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "ITV absolutely right... Down it goes to 58, taking your total up to 126"
+        },
+        {
+          "answer": "Michelangelo",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Michelangelo. And that would have got you 31 points"
+        },
+        {
+          "answer": "New Zealand",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it's New Zealand, which would have been 11 points"
+        },
+        {
+          "answer": "Sandra Day O'Connor",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The fifth one is Sandra Day O'Connor, two points"
+        },
+        {
+          "answer": "Battle of Poitiers",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Battle of Poitiers... that would have been one point"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head pointless jackpot builder",
+      "category_text": "Which of these six options are pointless Terry Pratchett Discworld characters (two scoring, two pointless, two not correct)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Fidgit",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "No. Not Fidgit. Fidgit is a character in Terry Gilliam's film Time Bandit"
+        },
+        {
+          "answer": "Carrot Ironfoundersson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "And it's pointless - very well done indeed"
+        },
+        {
+          "answer": "Nanny Ogg",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nanny Ogg is a witch, and that would have scored you two points"
+        },
+        {
+          "answer": "Gaspode",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we would have had a point for Gaspode. He's a talking dog"
+        },
+        {
+          "answer": "Windle Poons",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And the other pointless was Windle Poons"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Jamaican dishes or ingredients used in Jamaican cooking (from drawings, with alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Okra",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "John",
+          "evidence_quote": "Okra is right. Down it goes to 47"
+        },
+        {
+          "answer": "Jerk chicken",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "Jerk chicken - absolutely right. 63 is what it scores"
+        },
+        {
+          "answer": "Rice and peas",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "your first answer, which was rice and peas, cos that was 27 points"
+        },
+        {
+          "answer": "Pepper sauce",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that would have been 20 points"
+        },
+        {
+          "answer": "Bulla cake",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the one which is the pointless answer... It's bulla cake"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Opera titles with one letter changed in each word - give the correct titles",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Magic Flute",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "The Magic Flute absolutely right... Down it goes. 28"
+        },
+        {
+          "answer": "Peter Grimes",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "Absolutely right. Peter Grimes... it does, down to nine"
+        },
+        {
+          "answer": "Porgy and Bess",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Porgy and Bess. And that would have been 18 points"
+        },
+        {
+          "answer": "The Flying Dutchman",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Flying Dutchman, which would have been 41 points"
+        },
+        {
+          "answer": "The Barber of Seville",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Barber of Seville, which would have been 26 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Anyone other than Kenneth Branagh with an acting credit in Murder on the Orient Express (2017) or A Haunting in Venice (2023)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Maggie Smith",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "John",
+          "evidence_quote": "Nope, not Maggie Smith"
+        },
+        {
+          "answer": "Imelda Staunton",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "John",
+          "evidence_quote": "Oh, no! ... I'm afraid, in this case, not a good answer"
+        },
+        {
+          "answer": "Emma Thompson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Anne",
+          "evidence_quote": "Emma Thompson, your third and final answer... No, bad luck!"
+        }
+      ]
+    }
+  ]
+}

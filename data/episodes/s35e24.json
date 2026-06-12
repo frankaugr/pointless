@@ -1,0 +1,583 @@
+{
+  "episode_id": "s35e24",
+  "episode_label": "Series 35 Episode 24",
+  "series": 35,
+  "episode": 24,
+  "pid": "m002w9xs",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w9xs",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Identify the BBC sitcom from a clue to its Christmas special episode, a star, and the show's initial",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bad Education",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jenna",
+          "evidence_quote": "Down to single figures, down to five."
+        },
+        {
+          "answer": "The Good Life",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "The Good Life, 29."
+        },
+        {
+          "answer": "Miranda",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "There we are on ten."
+        },
+        {
+          "answer": "Absolutely Fabulous",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Down it goes to 49."
+        },
+        {
+          "answer": "Not Going Out",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lee Mack - Not Going Out. Yes. 32."
+        },
+        {
+          "answer": "Porridge",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Porridge for No Way Out. 43."
+        },
+        {
+          "answer": "The Royle Family",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Royle Family for The New Sofa. 35."
+        },
+        {
+          "answer": "Ghosts",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Down it goes to three."
+        },
+        {
+          "answer": "Bread",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "31, taking your total up to 41."
+        },
+        {
+          "answer": "Some Mothers Do 'Ave 'Em",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jo",
+          "evidence_quote": "39 for Some Mothers Do 'Ave 'Em"
+        },
+        {
+          "answer": "The Vicar Of Dibley",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlotte",
+          "evidence_quote": "46 is what it scores."
+        },
+        {
+          "answer": "Citizen Khan",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was Citizen Khan, not Kane, and that scored 14"
+        },
+        {
+          "answer": "Only Fools And Horses",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Only Fools And Horses. Of course. 42."
+        },
+        {
+          "answer": "Keeping Up Appearances",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "this is Keeping Up Appearances. 21."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name the British sports star shown in flight (with their initials as a clue)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sidney Barker",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jenna",
+          "evidence_quote": "Not Sidney Barker. I'm afraid scores you 100 points."
+        },
+        {
+          "answer": "Robin Cousins",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "13... for Robin Cousins."
+        },
+        {
+          "answer": "Max Whitlock",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Five for Max Whitlock, Amy."
+        },
+        {
+          "answer": "Sky Brown",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was Sky Brown - that would have scored you four"
+        },
+        {
+          "answer": "Colin Jackson",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "middle on the top is Colin Jackson. 18."
+        },
+        {
+          "answer": "Bethany Firth",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bethany Firth... ..pointless."
+        },
+        {
+          "answer": "Daley Thompson",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Daley Thompson... ..20."
+        },
+        {
+          "answer": "Jonathan Edwards",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jonathan Edwards, down at the bottom right, 17."
+        },
+        {
+          "answer": "Beth Tweddle",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beth Tweddle, 11."
+        },
+        {
+          "answer": "Shanaze Reade",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Shanaze Reade - that was pointless, too"
+        },
+        {
+          "answer": "Tom Daley",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Tom Daley scoring 52"
+        },
+        {
+          "answer": "Zara Tindall",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "that goes down to 17"
+        },
+        {
+          "answer": "Eddie Edwards",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Charlotte",
+          "evidence_quote": "Down it goes to seven"
+        },
+        {
+          "answer": "Katarina Johnson-Thompson",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that scored two"
+        },
+        {
+          "answer": "Reece Dunn",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Reece Dunn - that was a pointless answer"
+        },
+        {
+          "answer": "Sally Gunnell",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sally Gunnell, indeed. 14."
+        },
+        {
+          "answer": "John Curry",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "John Curry. 11."
+        },
+        {
+          "answer": "Denise Lewis",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Denise Lewis. That scores 16."
+        },
+        {
+          "answer": "Bryony Page",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answer - trampoliner Bryony Page"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Identify the two pointless European Alps mountains (two are scoring, two pointless, two not Alps at all)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Monte Sergio",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Monte Sergio. Shall we see if that is a pointless Alpine mountain? Ooh, no!"
+        },
+        {
+          "answer": "Glodis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "It's an Alp. Ah! Very well done!"
+        },
+        {
+          "answer": "Dom",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "highest mountain located entirely within Switzerland - that scored two"
+        },
+        {
+          "answer": "Watzmann",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Watzmann, in Germany, scored one."
+        },
+        {
+          "answer": "Mont Pelve",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mont Pelve, in France, that was pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Facts based around the word 'ram'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Black Betty",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Down it goes to seven."
+        },
+        {
+          "answer": "Capricorn",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "It's not! It's not your birth sign."
+        },
+        {
+          "answer": "Aries",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That was Aries, is the ram, at 31."
+        },
+        {
+          "answer": "Los Angeles",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Los Angeles was absolutely correct. Would've scored you six."
+        },
+        {
+          "answer": "Sheep",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sheep, 56."
+        },
+        {
+          "answer": "Memory",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Memory, 32."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Identify the film from a scene, with the first letter of its one-word title",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Clueless",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Clueless is right. Down it goes to 19."
+        },
+        {
+          "answer": "Armageddon",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Armageddon on 20."
+        },
+        {
+          "answer": "Gladiator",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gladiator, which you knew. 77."
+        },
+        {
+          "answer": "Titanic",
+          "score": 74,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Titanic, of course... 74."
+        },
+        {
+          "answer": "Fences",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Fences! Five. Best answer on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Unscramble anagrams of popular types of fast food",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hamburger",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Hamburger is right. Down it goes to 33."
+        },
+        {
+          "answer": "Fish and chips",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Fish and chips, absolutely right. Oh, it's a big one! 67."
+        },
+        {
+          "answer": "Pizza",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pizza was 77."
+        },
+        {
+          "answer": "Doner kebab",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "What goes before kebab? Doner... There you go! Six."
+        },
+        {
+          "answer": "Chicken nuggets",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nuggets. Chicken nuggets. Boom! 20."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Einsteinium",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Amy",
+          "evidence_quote": "Only three different vowels there."
+        },
+        {
+          "answer": "Rutherfordium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Stacey",
+          "evidence_quote": "Rutherfordium taking us into single figures... You've done it!"
+        },
+        {
+          "answer": "Californium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Amy",
+          "evidence_quote": "Your third answer, californium, was also pointless!"
+        },
+        {
+          "answer": "Livermorium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You mentioned livermorium, and that was pointless, as well"
+        }
+      ]
+    }
+  ]
+}

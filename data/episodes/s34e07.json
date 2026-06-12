@@ -1,0 +1,448 @@
+{
+  "episode_id": "s34e07",
+  "episode_label": "Series 34 Episode 7",
+  "series": 34,
+  "episode": 7,
+  "pid": "m002k766",
+  "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "National Trust's '50 things to do before you're 11¾' activities — supply the missing last word (shown with alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cook on a campfire",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Down it goes to seven. This is a terrific start."
+        },
+        {
+          "answer": "Take a friend on a nature adventure",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "Adventure, 31."
+        },
+        {
+          "answer": "Skim a stone",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "30 for stone! Very well done indeed."
+        },
+        {
+          "answer": "Play conkers",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Down to five! Very well done indeed! Conkers, superb."
+        },
+        {
+          "answer": "Help a wild animal",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "animal at the top. Yep. That scored 70."
+        },
+        {
+          "answer": "Explore the wonders of a rock pool",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pool. That was 17."
+        },
+        {
+          "answer": "Go swimming in the sea",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "In the sea. 54."
+        },
+        {
+          "answer": "Play Poohsticks",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "We are down to 35, taking your total up to 40."
+        },
+        {
+          "answer": "Make friends with a bug",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "it goes down to one! This is the best score of the pass!"
+        },
+        {
+          "answer": "Dam a stream",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Usha",
+          "evidence_quote": "20, taking your total up to 51."
+        },
+        {
+          "answer": "Get up for the sunrise",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Margery",
+          "evidence_quote": "Down it goes to 18."
+        },
+        {
+          "answer": "Forage for wild food",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Forage for wild...? Food. Yeah, that would have got you 44."
+        },
+        {
+          "answer": "Go welly wandering",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wandering. And that was the second lowest score on the board with five."
+        },
+        {
+          "answer": "Roll down a really big hill",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Roll down a really big...? Hill. Of course. That scored 58."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Durham",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Durham is right. Look at that! Six!"
+        },
+        {
+          "answer": "Chelmsford",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Two. Two for Chelmsford."
+        },
+        {
+          "answer": "Ely",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "Oh, and there's a pointless answer! Very well done indeed, Storm!"
+        },
+        {
+          "answer": "Newport",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Newport is right. Very well done. Down to one"
+        },
+        {
+          "answer": "Truro",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "You needed three! You've got three!"
+        },
+        {
+          "answer": "Sunderland",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Margery",
+          "evidence_quote": "One! It's a brilliant answer!"
+        },
+        {
+          "answer": "Douglas",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That was Douglas, which is on the Isle of Man."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder (Eastbourne)",
+      "category_text": "Players who have won the women's singles title at the Eastbourne International tennis tournament (pick the pointless ones from six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dominika Cibulkova",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Is Dominika Cibulkova a pointless winner at Eastbourne? She's a winner at Eastbourne."
+        },
+        {
+          "answer": "Caroline Wozniacki",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Two people got Caroline Wozniacki."
+        },
+        {
+          "answer": "Lori McNeil",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "I'm going to say Lori McNeil might be the pointless one. It was pointless."
+        },
+        {
+          "answer": "Chanda Rubin",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Chanda Rubin won in 2002... she would have scored you 1 on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Actors who have played Agatha Christie's Miss Marple (shown with initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dulcie Gray",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "Dulcie Gray is right. Oh, it's a pointless answer, Dulcie Gray!"
+        },
+        {
+          "answer": "June Whitfield",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "28 for June Whitfield."
+        },
+        {
+          "answer": "Geraldine McEwan",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that is Geraldine McEwan and she would have scored you 5"
+        },
+        {
+          "answer": "Angela Lansbury",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the 1980 film The Mirror Crack'd. And that would have got you 49."
+        },
+        {
+          "answer": "Julia McKenzie",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Julia McKenzie, she is C... 12 people got that right."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Facts revolving around reindeer or the word 'reindeer'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Caribou",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Caribou is right. Great answer. Down it goes to 6."
+        },
+        {
+          "answer": "Frozen",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steve",
+          "evidence_quote": "Frozen is right. That goes down to 30."
+        },
+        {
+          "answer": "Antlers",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Antlers. 39."
+        },
+        {
+          "answer": "Richard Gadd",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That was Richard Gadd. That would have got you 12."
+        },
+        {
+          "answer": "Clement Clarke Moore",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest score on the board, just 1, was the author... Clement Clarke Moore"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Shades of pink (letters arranged in alphabetical order to unscramble)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Fuchsia",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "Fuchsia is right. That goes down to 35."
+        },
+        {
+          "answer": "Peach",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Peach is right. 56 the peach."
+        },
+        {
+          "answer": "Bubblegum",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you got bubblegum, right? Yes. 44 people managed to get that."
+        },
+        {
+          "answer": "Coral",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the short one is coral. That would have scored 22."
+        },
+        {
+          "answer": "Carnation",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "three people knew what it was and it is carnation."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Films that have won the Academy Award for Best Animated Feature Film or Best Animated Short Film",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Wallace & Gromit: The Curse Of The Were-Rabbit",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "James",
+          "evidence_quote": "The Curse Of The Were-Rabbit was a pointless answer, which means you are going home with the jackpot"
+        },
+        {
+          "answer": "The Jungle Book",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Steve",
+          "evidence_quote": "You've gone for The Jungle Book... Might that be a pointless answer? No."
+        },
+        {
+          "answer": "Fantasia",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Steve",
+          "evidence_quote": "Fantasia was also wrong... the Best Animated Feature Film Oscar was only awarded for the first time in 2002"
+        }
+      ]
+    }
+  ]
+}

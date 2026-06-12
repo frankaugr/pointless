@@ -1,0 +1,504 @@
+{
+  "episode_id": "s34e21",
+  "episode_label": "Series 34 Episode 21",
+  "series": 34,
+  "episode": 21,
+  "pid": "m002l529",
+  "source_url": "https://www.bbc.co.uk/programmes/m002l529",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Albums on Rolling Stone magazine's list of the 500 greatest albums of all time (2023), from picture clues",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lemon (Beyonce)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "I'm afraid that's an incorrect answer. Scores you 100 points."
+        },
+        {
+          "answer": "Lemonade",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hester",
+          "evidence_quote": "13 your score there for Lemonade."
+        },
+        {
+          "answer": "Dummy",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Down to 19."
+        },
+        {
+          "answer": "Kaleidoscope",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nathan",
+          "evidence_quote": "Kelis, four, with Kaleidoscope."
+        },
+        {
+          "answer": "Abbey Road",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Reasonably high. 33. Yes, indeed, it was high. It was the highest on the board."
+        },
+        {
+          "answer": "The Score (Fugees)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's surprisingly low, actually - two."
+        },
+        {
+          "answer": "Pink Moon",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "11, that would have scored you."
+        },
+        {
+          "answer": "Horses (Patti Smith)",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Horses, Patti Smith. Classic album. 18, that scored you."
+        },
+        {
+          "answer": "Take Care (Drake)",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it is Take Care by Drake. And that would have scored you five"
+        },
+        {
+          "answer": "Harvest (Neil Young)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that would have scored you 17."
+        },
+        {
+          "answer": "The Joshua Tree (U2)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "Down to 17."
+        },
+        {
+          "answer": "Rumours (Fleetwood Mac)",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "Down it goes to 16."
+        },
+        {
+          "answer": "Purple Rain (Prince)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kaylee",
+          "evidence_quote": "down it goes... ..to 21."
+        },
+        {
+          "answer": "Red (Taylor Swift)",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Wendy",
+          "evidence_quote": "Down it goes... ..down to 24."
+        },
+        {
+          "answer": "Mezzanine (Massive Attack)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Massive attack, Mezzanine. Good score, four."
+        },
+        {
+          "answer": "Transformer (Lou Reed)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Correct. Six."
+        },
+        {
+          "answer": "Tapestry (Carole King)",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Carole King. Would have scored you 11."
+        },
+        {
+          "answer": "Grace (Jeff Buckley)",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jeff Buckley, Grace. Brilliant score of three."
+        },
+        {
+          "answer": "Sour (Olivia Rodrigo)",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Yes. Sour. That would have scored you 15."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Words spelt successfully by winners of the United States National Spelling Bee (defined by clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Initials",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hester",
+          "evidence_quote": "Initials is right. 28 for initials."
+        },
+        {
+          "answer": "Catamaran",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "26 for catamaran."
+        },
+        {
+          "answer": "Sarcophagus",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "17 for sarcophagus. Very well done indeed, Vic."
+        },
+        {
+          "answer": "Croissant",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "croissant scored you 39."
+        },
+        {
+          "answer": "Marocain",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Marocain. Score of one point. Best score on the board."
+        },
+        {
+          "answer": "Moorhen",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Would have scored you ten."
+        },
+        {
+          "answer": "Incisor",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nathan",
+          "evidence_quote": "32 for incisor, taking your total up to 49."
+        },
+        {
+          "answer": "Semaphore",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "Oof, 27. Taking your total up to 53."
+        },
+        {
+          "answer": "Lyre",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kaylee",
+          "evidence_quote": "That scores you 100 points and takes your total up to 128."
+        },
+        {
+          "answer": "Luge",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "luge. Yes. That would have scored you 18."
+        },
+        {
+          "answer": "Appoggiatura",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's appoggiatura. That's pointless. That's impressive."
+        },
+        {
+          "answer": "Sycophant",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sycophant scored seven."
+        },
+        {
+          "answer": "Chihuahua",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A Chihuahua. Scored 28."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "North or South American waterfalls (spot the pointless ones from six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Laja Falls",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "Nathan",
+          "evidence_quote": "Pointless falls of the Americas. Laja? Well, it's definitely of the Americas."
+        },
+        {
+          "answer": "Hunlen Falls",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "Peter",
+          "evidence_quote": "Surely nobody said Hunlen? ... Well done indeed. Double points."
+        },
+        {
+          "answer": "Yosemite Falls",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's seven, yeah. It's in Yosemite National Park in the US."
+        },
+        {
+          "answer": "Kaieteur Falls",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kaieteur Falls would have scored you two. That's in Guyana."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Things you might use when camping (picture clues with first and last letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Citronella candles",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "Citronella candles, absolutely right. 25."
+        },
+        {
+          "answer": "Galactic tent",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "not a galactic tent, as it turns out."
+        },
+        {
+          "answer": "Geodesic tent",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Geodesic tent? Wow. Yeah, would have scored you three."
+        },
+        {
+          "answer": "Bivvy",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was actually bivvy. And that would have scored you 11."
+        },
+        {
+          "answer": "Mallet",
+          "score": 82,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mallet. 82."
+        },
+        {
+          "answer": "Windbreak",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had windbreak, which was 60."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Terms used in skateboarding (letters arranged in alphabetical order)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Goofy",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "And that goes down to 36. Very well done."
+        },
+        {
+          "answer": "Fakie",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "A pointless answer! And being a pointless answer, it adds another £250"
+        },
+        {
+          "answer": "Grind",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You mentioned grind. That would have scored you 25."
+        },
+        {
+          "answer": "Half-pipe",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Third one half-pipe. Score of 24."
+        },
+        {
+          "answer": "Ollie",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "ollie, a score of 14."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Full-length feature films directed by Spike Lee, or anyone with an acting credit in two or more Spike Lee films (IMDb as of July 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bruce Willis",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Nathan",
+          "evidence_quote": "OK, not Bruce Willis. ... Bruce has never been in a Spike Lee movie."
+        },
+        {
+          "answer": "Samuel L Jackson",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Vic",
+          "evidence_quote": "Still going down to two. ... Only two for Samuel L Jackson."
+        },
+        {
+          "answer": "Woody Harrelson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Nathan",
+          "evidence_quote": "Woody Harrelson. No! ... He's been in one film."
+        }
+      ]
+    }
+  ]
+}

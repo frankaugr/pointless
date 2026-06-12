@@ -1,0 +1,538 @@
+{
+  "episode_id": "s34e29",
+  "episode_label": "Series 34 Episode 29",
+  "series": 34,
+  "episode": 29,
+  "pid": "m002pj8v",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Complete the missing word in these cookery book titles (showing first and last letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Guilty (Guilty Pleasures)",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Heather",
+          "evidence_quote": "Guilty Pleasures, absolutely right. 48 is what it scores you."
+        },
+        {
+          "answer": "Cheat (How to Cheat at Cooking)",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vaish",
+          "evidence_quote": "38 for Cheat."
+        },
+        {
+          "answer": "Pasta (Pasta Perfecto)",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "Pasta's right for Gennaro... And look at that. 27."
+        },
+        {
+          "answer": "Pies (Sweet And Savoury Pies)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Paige",
+          "evidence_quote": "It should be Pies. I'm afraid it scores you 100 points. Sorry, Paige."
+        },
+        {
+          "answer": "Noodles (Noodles and Rice)",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Noodles and Rice. That would have been 43 points."
+        },
+        {
+          "answer": "Caribbean (Ainsley's Caribbean Kitchen)",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I knew that. 22 points."
+        },
+        {
+          "answer": "Express (Nigella Express)",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Express. Yes. Which would have been 4 points."
+        },
+        {
+          "answer": "Pates (Sweet and Savoury Pates)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest would have been Sweet and Savoury Pates, which would have been 2 points."
+        },
+        {
+          "answer": "Flash (Fast, Flash and Easy Food)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Phil",
+          "evidence_quote": "Bad luck, Phil, not Flash. I'm afraid that scores 100 points."
+        },
+        {
+          "answer": "Fresh",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ailsa",
+          "evidence_quote": "Fresh is absolutely right. Down it goes to 34, taking your total up to 61."
+        },
+        {
+          "answer": "Seafood (Rick Stein's Seafood Odyssey)",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "How many of our 100 said, \"Seafood\"? It's right. And down and down it goes, to 22."
+        },
+        {
+          "answer": "Just Doughnuts",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Martyn",
+          "evidence_quote": "Just Doughnuts... That's cost you 100 points."
+        },
+        {
+          "answer": "Just Desserts",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The first one is Just Desserts. 23 points."
+        },
+        {
+          "answer": "Curry (Curry Nation)",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Curry Nation, which would have been 43 points."
+        },
+        {
+          "answer": "Flavour",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I think flavour is, yeah. And that was two points."
+        },
+        {
+          "answer": "Baking (Mary Berry's Baking Bible)",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mary Berry's Baking Bible. So obvious. 45 points."
+        },
+        {
+          "answer": "Cucina (Angela Hartnett)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cucina, yeah. Cucina. Pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name any US state that does not share a land border with Canada or Mexico",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Michigan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Martyn",
+          "evidence_quote": "that's incorrect. Sorry, Martyn. That scores you 100 points... that borders with Canada."
+        },
+        {
+          "answer": "Wyoming",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vaish",
+          "evidence_quote": "Wyoming is right... 18 for Wyoming."
+        },
+        {
+          "answer": "Illinois",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ailsa",
+          "evidence_quote": "It is right... There we are, 17."
+        },
+        {
+          "answer": "Maryland",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "Down it goes to 13. Best score so far, Michael."
+        },
+        {
+          "answer": "North Carolina",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Katie",
+          "evidence_quote": "You're in the head-to-head. 30. Taking your total up to 48."
+        },
+        {
+          "answer": "South Dakota",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Heather",
+          "evidence_quote": "South Dakota. Down it goes to 27. Takes your total up to 127."
+        },
+        {
+          "answer": "Connecticut",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Connecticut scored 16."
+        },
+        {
+          "answer": "Nebraska",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Nebraska, Rhode Island and Tennessee scored 14."
+        },
+        {
+          "answer": "Rhode Island",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Nebraska, Rhode Island and Tennessee scored 14."
+        },
+        {
+          "answer": "Tennessee",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Nebraska, Rhode Island and Tennessee scored 14."
+        },
+        {
+          "answer": "New Jersey",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Maryland, New Jersey, Oklahoma and Wisconsin scored 13."
+        },
+        {
+          "answer": "Oklahoma",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Maryland, New Jersey, Oklahoma and Wisconsin scored 13."
+        },
+        {
+          "answer": "Wisconsin",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Maryland, New Jersey, Oklahoma and Wisconsin scored 13."
+        },
+        {
+          "answer": "Indiana",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the best answer of them all was Indiana and that scored 11."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Which of these six options are pointless UK music festivals (two scoring, two pointless, two not festivals)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Gottwood",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "Gottwood is a pointless answer."
+        },
+        {
+          "answer": "WOMAD",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vaish",
+          "evidence_quote": "Three for WOMAD."
+        },
+        {
+          "answer": "Slam Dunk",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That is a festival, held in Leeds and Hatfield. It scored one point."
+        },
+        {
+          "answer": "Mighty Hoopla",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mighty Hoopla is a pop music festival in London and that was pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify these UK prime ministers from photographs of their eyes only",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "James Callaghan",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "James Callaghan is right. That goes down to 15."
+        },
+        {
+          "answer": "Margaret Thatcher",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vaish",
+          "evidence_quote": "Margaret Thatcher is right and that goes down to 70."
+        },
+        {
+          "answer": "Theresa May",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Theresa May... 53 points."
+        },
+        {
+          "answer": "Rishi Sunak",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Rishi Sunak... Oh, and 49 points."
+        },
+        {
+          "answer": "Clement Attlee",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Clement Attlee. And that was pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Five clues to facts revolving around the number 25",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Quarter (US coin worth 25 cents)",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vaish",
+          "evidence_quote": "Quarter is right. That goes down to 28."
+        },
+        {
+          "answer": "Silver (25th wedding anniversary)",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "silver... How many of our 100 said that? That goes down to 60."
+        },
+        {
+          "answer": "Adele (British singer)",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "they were right about Adele, which would have been 49 points."
+        },
+        {
+          "answer": "1980s (decade of M25)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "1980s, which would have been six points."
+        },
+        {
+          "answer": "Pachisi (traditional Indian board game)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the traditional Indian board game is Pachisi and that scored one."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Complete the title of these official James Bond films (cut after second O) - find the least known",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "You Only Live Twice",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "You Only Live Twice is right. Down to 22."
+        },
+        {
+          "answer": "Moonraker",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vaish",
+          "evidence_quote": "Moonraker, absolutely right... 39."
+        },
+        {
+          "answer": "Diamonds Are Forever",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Diamonds Are Forever. Which is right. 67 points."
+        },
+        {
+          "answer": "Tomorrow Never Dies",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tomorrow Never Dies. Never Dies, 31 points."
+        },
+        {
+          "answer": "Quantum of Solace",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Quantum of Solace. Which is 50 points."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any German city/town with a railway station named Hauptbahnhof, or any station on the Berlin U-Bahn network",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Munich",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Munich's right... Down it goes to 16, so not a pointless answer, sadly."
+        },
+        {
+          "answer": "Hamburg",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Hamburg now takes us down through the 30s... Oh, 22 for Hamburg."
+        },
+        {
+          "answer": "Gelsenkirchen",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "you've done it! ... Gelsenkirchen was a pointless answer."
+        }
+      ]
+    }
+  ]
+}

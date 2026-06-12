@@ -1,0 +1,466 @@
+{
+  "episode_id": "s35e25",
+  "episode_label": "Series 35 Episode 25",
+  "series": 35,
+  "episode": 25,
+  "pid": "m002w9zw",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w9zw",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Songs by female artists streamed over a billion times on Spotify (shown with the artist's initials and the year the song entered the UK charts)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Just Give Me A Reason (as 'Pamela')",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "It's not Pamela. I'm so sorry, Sue. That scores you 100 points."
+        },
+        {
+          "answer": "Seven Rings - Ariana Grande",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Ariana Grande is right. Down it goes. Very well done indeed. 24."
+        },
+        {
+          "answer": "Fast Car - Tracy Chapman",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Deepak",
+          "evidence_quote": "38 for Tracy Chapman."
+        },
+        {
+          "answer": "drivers license - Olivia Rodrigo",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jo",
+          "evidence_quote": "down it goes for 17. Just happens to be the best score of the whole pass."
+        },
+        {
+          "answer": "...Baby One More Time - Britney Spears",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Britney Spears, Baby One More Time. Correct. 51 people getting that."
+        },
+        {
+          "answer": "Crazy In Love - Beyonce",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beyonce, Crazy In Love. Correct. That's 58."
+        },
+        {
+          "answer": "Back To Black - Amy Winehouse",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Amy Winehouse, Back To Black. Yes. 45."
+        },
+        {
+          "answer": "Just Give Me A Reason - P!nk",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I'm going to say P!nk. And that is correct, with 18."
+        },
+        {
+          "answer": "Running Up That Hill - Kate Bush",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "48... our highest-scoring correct answer... so far"
+        },
+        {
+          "answer": "Complicated - Avril Lavigne",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ed",
+          "evidence_quote": "Down it goes to 23. Superb work. Taking your total up to 61."
+        },
+        {
+          "answer": "Don't Start Now - Dua Lipa",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Down it goes to 10. 10, our lowest answer so far"
+        },
+        {
+          "answer": "Roar - Katy Perry",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "42, not bad at all, taking your total up to 142."
+        },
+        {
+          "answer": "I Wanna Dance With Somebody - Whitney Houston",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Whitney Houston. That scored 66."
+        },
+        {
+          "answer": "Hips Don't Lie - Shakira",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hips Don't Lie by Shakira, Shakira with 50"
+        },
+        {
+          "answer": "Call Me Maybe - Carly Rae Jepsen",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Call Me Maybe, Carly Rae Jepsen, with 16."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Four-letter words in the Collins online dictionary with the middle two letters A and C (in that order)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "pact",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "It's not bad. 20 for pact."
+        },
+        {
+          "answer": "tack",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Deepak",
+          "evidence_quote": "32 for tack."
+        },
+        {
+          "answer": "tact",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "13, as it turns out, Tact."
+        },
+        {
+          "answer": "lack",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jo",
+          "evidence_quote": "44 for lack, taking your total up to 57."
+        },
+        {
+          "answer": "racy",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ed",
+          "evidence_quote": "a pointless answer... adds £250 to today's jackpot"
+        },
+        {
+          "answer": "taco",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Down it goes to 2. Taking your total up to 22."
+        },
+        {
+          "answer": "back",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had back, which scored 42."
+        },
+        {
+          "answer": "sack",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sack. 45. There we are."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus (tie knots)",
+      "category_text": "Names of tie knots (two scoring, two pointless, two not tie knots at all)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "four-in-hand",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "It's a tie knot... Down it goes... 9."
+        },
+        {
+          "answer": "Eldredge",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ed",
+          "evidence_quote": "It has to be pointless, surely. Oh, no! It's not. 2."
+        },
+        {
+          "answer": "Onassis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That is actually a pointless answer. It's a knot named after Aristotle Onassis"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Tall flowers (shown with picture and first and last letters of each word in their common names)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "allium",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Allium. Absolutely right. 23 for allium."
+        },
+        {
+          "answer": "lycan",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ed",
+          "evidence_quote": "Not a lycan, I am afraid... It's actually a lupin"
+        },
+        {
+          "answer": "lupin",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's actually a lupin... which would have been worth 40."
+        },
+        {
+          "answer": "sunflower",
+          "score": 86,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you were right with sunflower, which would have been worth 86."
+        },
+        {
+          "answer": "gooseneck loosestrife",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "gooseneck loosestrife, which was a pointless answer."
+        },
+        {
+          "answer": "red hot poker",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the red hot poker, which was worth 33"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Locations of the Seven Wonders of the Ancient World (names with every other letter removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Alexandria",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ed",
+          "evidence_quote": "Down it goes to 9. Very well done indeed."
+        },
+        {
+          "answer": "Halicarnassus",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Halicarnassus is right... 11 for Halicarnassus."
+        },
+        {
+          "answer": "Olympia",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Olympia, the statue of Zeus, which was worth 77."
+        },
+        {
+          "answer": "Rhodes",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rhodes, the Colossus of Rhodes, which is worth 45"
+        },
+        {
+          "answer": "Babylon",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Babylon, worth 73. The Hanging Gardens."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "The 20 most iconic video game characters of all time (2024 BAFTA poll) - clues plus character initials",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Link",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Link is very good. 12 for Link."
+        },
+        {
+          "answer": "Solid Snake",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ed",
+          "evidence_quote": "7 for Solid Snake. Very well done indeed, Ed and Deepak."
+        },
+        {
+          "answer": "Mario",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "our first answer was Mario. And that was 55."
+        },
+        {
+          "answer": "Lara Croft",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lara Croft, which was worth 47."
+        },
+        {
+          "answer": "Ellie",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the teenage girl, Ellie, The Last Of Us, 14."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Feature films with an acting credit for Bill Paxton, OR anybody with an acting credit in either of Quentin Tarantino's Kill Bill films",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "David Carradine",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Ed",
+          "evidence_quote": "David Carradine is right... still going down to 2!"
+        },
+        {
+          "answer": "Vivica A Fox",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Ed",
+          "evidence_quote": "still going down to a pointless answer! Very well done indeed."
+        },
+        {
+          "answer": "Monica Bellucci",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Harry",
+          "evidence_quote": "the other name that popped into your head, Monica Bellucci, was wrong."
+        }
+      ]
+    }
+  ]
+}

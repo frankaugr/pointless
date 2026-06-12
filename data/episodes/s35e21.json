@@ -1,0 +1,664 @@
+{
+  "episode_id": "s35e21",
+  "episode_label": "Series 35 Episode 21",
+  "series": 35,
+  "episode": 21,
+  "pid": "m002w0h1",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w0h1",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Symbolic materials/gifts associated with British wedding anniversaries (Debrett's)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Willow",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "Willow is right. 46 for willow."
+        },
+        {
+          "answer": "Lace",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Lace is right. 33 for lace."
+        },
+        {
+          "answer": "Paper",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "Paper is right. 47 for paper."
+        },
+        {
+          "answer": "Ruby",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kelli",
+          "evidence_quote": "Ruby is absolutely right. 60 our new high score."
+        },
+        {
+          "answer": "Silver",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "silver was 35"
+        },
+        {
+          "answer": "Gold",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gold 57"
+        },
+        {
+          "answer": "Diamond",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "diamond will get you 51"
+        },
+        {
+          "answer": "Platinum",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Platinum is right. 42 for platinum."
+        },
+        {
+          "answer": "Coral",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "Coral's right. Down it goes to 23."
+        },
+        {
+          "answer": "Emerald",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graham",
+          "evidence_quote": "Emerald is right and it gets you through. Down to 58"
+        },
+        {
+          "answer": "Sugar",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lawrence",
+          "evidence_quote": "53 for sugar"
+        },
+        {
+          "answer": "Tin",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tin. I was surprised by tin - 41."
+        },
+        {
+          "answer": "Leather",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "up top was leather at 60"
+        },
+        {
+          "answer": "China",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "china at 52"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Famous people who attended Taylor Swift's Eras Tour in London, June 2024",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hugh Grant",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lawrence",
+          "evidence_quote": "Yes, he very much is. Hugh Grant scoring you 50."
+        },
+        {
+          "answer": "Jon Bon Jovi",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "Jon Bon Jovi is there and he goes down to 34."
+        },
+        {
+          "answer": "Nicola Coughlan",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "8 for Nicola Coughlan."
+        },
+        {
+          "answer": "Paul McCartney",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "59 for Paul McCartney"
+        },
+        {
+          "answer": "Krishnan Guru-Murthy",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graham",
+          "evidence_quote": "Down it goes to 2!"
+        },
+        {
+          "answer": "Cate Blanchett",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "Down she goes to 11."
+        },
+        {
+          "answer": "Andrew Scott",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "3 for Andrew Scott."
+        },
+        {
+          "answer": "Prince William",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Willie as he's known. 70"
+        },
+        {
+          "answer": "Phoebe Waller-Bridge",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "5. Top right."
+        },
+        {
+          "answer": "Rachel Zegler",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rachel Zegler. 1 for that."
+        },
+        {
+          "answer": "Cara Delevingne",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cara Delevingne, as mentioned. 12."
+        },
+        {
+          "answer": "Beth Mead",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beth Mead...scored 2."
+        },
+        {
+          "answer": "Ellie Goulding",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ellie Goulding - 33."
+        },
+        {
+          "answer": "Tom Cruise",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "65."
+        },
+        {
+          "answer": "Greta Gerwig",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Greta Gerwig. So that was a pointless answer."
+        },
+        {
+          "answer": "Jonathan Van Ness",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Jonathan Van Ness is the hairstylist in Queer Eye. Also a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Modern names of Egyptian pyramids (spot the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Zilinskas",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "No, it's not an Egyptian pyramid."
+        },
+        {
+          "answer": "Khafre",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "it's definitely an Egyptian pyramid - Khafre. And down it goes to 10."
+        },
+        {
+          "answer": "Userkaf",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You should have listened to Jon, Lawrence, because Userkaf was pointless."
+        },
+        {
+          "answer": "Neferirkare",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Neferirkare was also a pointless answer."
+        },
+        {
+          "answer": "Teti",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had Teti at 2"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "House robots that appeared on Robot Wars (vowels removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sir Killalot",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graham",
+          "evidence_quote": "Sir Killalot. And that goes down to 12."
+        },
+        {
+          "answer": "Cassius Chrome",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "It is Cassius Chrome. Down to 5."
+        },
+        {
+          "answer": "Shunt",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "From the top, Shunt - 61."
+        },
+        {
+          "answer": "Dead Metal",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dead Metal - 23."
+        },
+        {
+          "answer": "Matilda",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "my personal favourite, Matilda - 25."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Desserts and sweet treats made with or served with custard (letters 'custard' removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Spotted dick",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "Spotted dick is right. That goes down to 57."
+        },
+        {
+          "answer": "Manchester tart",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graham",
+          "evidence_quote": "Manchester tart is right. Down that goes to 9."
+        },
+        {
+          "answer": "Trifle",
+          "score": 80,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Trifle up top scored 80."
+        },
+        {
+          "answer": "Rhubarb crumble",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rhubarb crumble. 67."
+        },
+        {
+          "answer": "Skolebrod",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's called a skolebrod. It was also a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Clues featuring breeds of animals found on British farms (name the animal)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hen / chicken",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graham",
+          "evidence_quote": "Absolutely right. That scores you 29."
+        },
+        {
+          "answer": "Sheep",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "Sheep - 42."
+        },
+        {
+          "answer": "Pig",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Just ahead of pig up top at 41."
+        },
+        {
+          "answer": "Cow",
+          "score": 79,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Cow, you had landed at that, but you were right to swerve it. 79."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "UK two-letter postcode area codes OR cast of Mr Bates Vs The Post Office (2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Julie Hesmondhalgh",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Graham",
+          "evidence_quote": "Julie Hesmondhalgh has just won you a jackpot of £1,000."
+        },
+        {
+          "answer": "BR",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Graham",
+          "evidence_quote": "Still going down with BR to 3. Oh! Bad luck."
+        },
+        {
+          "answer": "PL",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Graham",
+          "evidence_quote": "your third answer, PL - Plymouth, scored 1."
+        },
+        {
+          "answer": "BL",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "BL for Bolton and Bury."
+        },
+        {
+          "answer": "HX",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "HX - Halifax."
+        },
+        {
+          "answer": "RM",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "RM - Romford."
+        },
+        {
+          "answer": "ZE",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And ZE. Shetland!"
+        },
+        {
+          "answer": "DD",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "DD - Dundee"
+        },
+        {
+          "answer": "DH",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "DH - Durham"
+        },
+        {
+          "answer": "HS",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "HS - Hebrides"
+        },
+        {
+          "answer": "IP",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "IP - Ipswich"
+        },
+        {
+          "answer": "ML",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "ML - Motherwell"
+        },
+        {
+          "answer": "SR",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "SR - Sunderland"
+        },
+        {
+          "answer": "TS",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "TS, which is Cleveland, short for Teesside"
+        },
+        {
+          "answer": "WR",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "WR - Worcester."
+        },
+        {
+          "answer": "Amy Nuttall",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Amy Nuttall, best known for Emmerdale and Downton Abbey."
+        },
+        {
+          "answer": "Nadhim Zahawi",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nadhim Zahawi suddenly pops up...playing himself."
+        },
+        {
+          "answer": "Shaun Dooley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And Shaun Dooley."
+        }
+      ]
+    }
+  ]
+}

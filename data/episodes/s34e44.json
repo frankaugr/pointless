@@ -1,0 +1,621 @@
+{
+  "episode_id": "s34e44",
+  "episode_label": "Series 34 Episode 44",
+  "series": 34,
+  "episode": 44,
+  "pid": "m002tggf",
+  "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Cities that are closer to Manchester than London is",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Douglas",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Melanie",
+          "evidence_quote": "It's a pointless answer, as well! Fantastic."
+        },
+        {
+          "answer": "Durham",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Eden",
+          "evidence_quote": "Five for Durham."
+        },
+        {
+          "answer": "Kingston upon Hull",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "Ten for Kingston upon Hull."
+        },
+        {
+          "answer": "Salisbury",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "That scores you 100 points. Sorry about that."
+        },
+        {
+          "answer": "Leicester",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "22 Takes your total up to 122."
+        },
+        {
+          "answer": "Lincoln",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "down it goes to five. This is a lovely answer."
+        },
+        {
+          "answer": "Sheffield",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Mike",
+          "evidence_quote": "Down you go to 26. Taking your total up to 31."
+        },
+        {
+          "answer": "Wolverhampton",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Wolverhampton is right. And down it goes to five."
+        },
+        {
+          "answer": "Hereford",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Lichfield",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Milton Keynes",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Newport",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Peterborough",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Ripon",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Saint Albans",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Saint Asaph",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+        },
+        {
+          "answer": "Bangor",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Bangor, Ely and Wrexham."
+        },
+        {
+          "answer": "Ely",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Bangor, Ely and Wrexham."
+        },
+        {
+          "answer": "Wrexham",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Bangor, Ely and Wrexham."
+        },
+        {
+          "answer": "Gloucester",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gloucester, Wells and you could have had Worcester."
+        },
+        {
+          "answer": "Wells",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gloucester, Wells and you could have had Worcester."
+        },
+        {
+          "answer": "Worcester",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gloucester, Wells and you could have had Worcester."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Greek equivalents of Roman gods and goddesses",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Demeter",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Melanie",
+          "evidence_quote": "Down it goes to 12. Very well done. 12 for Demeter."
+        },
+        {
+          "answer": "Athena",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Eden",
+          "evidence_quote": "14 for Athena. Very good."
+        },
+        {
+          "answer": "Aphrodite",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "37 for Aphrodite. Popular choice there."
+        },
+        {
+          "answer": "Hades",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd gone for Pluto, god of the underworld, Hades would have scored 31."
+        },
+        {
+          "answer": "Zeus",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd gone for Zeus, that would have scored 66."
+        },
+        {
+          "answer": "Hephaestus",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hephaestus. That would have scored eight."
+        },
+        {
+          "answer": "Poseidon",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "down goes Poseidon to 41, taking your total up to 78."
+        },
+        {
+          "answer": "Hermes",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Mike",
+          "evidence_quote": "25, taking your total up to 39."
+        },
+        {
+          "answer": "Dionysus",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Down goes Dionysus to 17, taking your total up to 29."
+        },
+        {
+          "answer": "Eros",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You were thinking of Eros as well. That would have got 49."
+        },
+        {
+          "answer": "Hestia",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Goddess of the Hearth, Hestia, which would have scored four."
+        },
+        {
+          "answer": "Artemis",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "at the top there is Artemis. Would have scored 13."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2.5 (jackpot builder)",
+      "category_text": "Burning Man festival themes",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Da Vinci's Workshop",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "Robin",
+          "evidence_quote": "Da Vinci's Workshop. Shall we see if that is a pointless Burning Man theme? It's right."
+        },
+        {
+          "answer": "Cargo Cult",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "Eden",
+          "evidence_quote": "And it's the other pointless one. Very, very well spotted."
+        },
+        {
+          "answer": "Animalia",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Animalia would have scored seven."
+        },
+        {
+          "answer": "Radical Ritual",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And radical ritual... One person said that. It was the theme for Burning Man in 2017."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Films with motorbikes (identify the film from images)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Salt",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Salt is right. And down it goes to 15."
+        },
+        {
+          "answer": "The Best Exotic Marigold Hotel",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Eden",
+          "evidence_quote": "Down it goes to nine. Very well done indeed, Eden and Mike."
+        },
+        {
+          "answer": "Purple Rain",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Purple Rain. That would have scored 46."
+        },
+        {
+          "answer": "Quadrophenia",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Quadrophenia. Your dad pulled that out of the bag, didn't he? That would have scored 40."
+        },
+        {
+          "answer": "The Great Escape",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Great Escape. What a great bike! Great picture, with a score of 65."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Animal Guinness World Record breakers (identify the animal from clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sea Otter",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Eden",
+          "evidence_quote": "Sea otter is right. It's a good score. Down that goes to 4."
+        },
+        {
+          "answer": "Great Dane",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Great Dane absolutely right. And that goes down to 34."
+        },
+        {
+          "answer": "Giant tortoise",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Giant tortoise, that would have scored 16, slightly better."
+        },
+        {
+          "answer": "Hippopotamus",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the land animal with the largest mouth is a hippopotamus. That's 36."
+        },
+        {
+          "answer": "Budgerigar",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it is budgerigar. Yeah. Would have scored 8"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Countries (other than the UK) that exported over 100 million USD worth of chocolate in 2022, or anyone with an acting credit in the 2023 film Wonka",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Japan",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Eden",
+          "evidence_quote": "Down we go with Japan. This is fa... Oh, to 2."
+        },
+        {
+          "answer": "Austria",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Mike",
+          "evidence_quote": "Down we go, with Austria, into single figures. Still going down - to 2 again."
+        },
+        {
+          "answer": "Colombia",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Mike",
+          "evidence_quote": "Colombia. Oh, no. Colombia only exported $85 million. So $15 million short"
+        },
+        {
+          "answer": "Bulgaria",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Cote d'Ivoire",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Croatia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Denmark",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Egypt",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Hungary",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Lithuania",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Malaysia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Romania",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Serbia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Slovakia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        },
+        {
+          "answer": "Ukraine",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other pointless answers were Bulgaria, Cote d'Ivoire, Croatia, Denmark, Egypt, Hungary, Lithuania, Malaysia, Romania, Serbia, Slovakia and Ukraine."
+        }
+      ]
+    }
+  ]
+}

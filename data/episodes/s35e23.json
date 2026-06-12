@@ -1,0 +1,556 @@
+{
+  "episode_id": "s35e23",
+  "episode_label": "Series 35 Episode 23",
+  "series": 35,
+  "episode": 23,
+  "pid": "m002w0mr",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w0mr",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Capital cities that do not contain the letter E",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Riga",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robyn",
+          "evidence_quote": "A pointless answer straight out of the hat. Very well done indeed, Robyn."
+        },
+        {
+          "answer": "Brasilia",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "One for Brasilia! There we are."
+        },
+        {
+          "answer": "Tallinn",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Two people got Tallinn!"
+        },
+        {
+          "answer": "Tbilisi",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jon",
+          "evidence_quote": "there you are joining Robyn on nothing! That is another pointless answer"
+        },
+        {
+          "answer": "Addis Adaba",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Lawrence",
+          "evidence_quote": "That is wrong and it scores you 100 points."
+        },
+        {
+          "answer": "Ulaanbaatar",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Another pointless answer adds another £250 to today's jackpot"
+        },
+        {
+          "answer": "Kingston",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "It's a pointless answer and being another pointless answer"
+        },
+        {
+          "answer": "Sanaa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Martin",
+          "evidence_quote": "that's another pointless answer, and it adds another £250"
+        },
+        {
+          "answer": "Bratislava",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bratislava in Slovakia."
+        },
+        {
+          "answer": "Caracas",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Caracas in Venezuela."
+        },
+        {
+          "answer": "Havana",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Havana in Cuba."
+        },
+        {
+          "answer": "Khartoum",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Khartoum in Sudan."
+        },
+        {
+          "answer": "Ljubljana",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ljubljana in Slovenia."
+        },
+        {
+          "answer": "Nassau",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nassau in the Bahamas."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Notable Irish-born people (from clues and initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cillian Murphy",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robyn",
+          "evidence_quote": "Cillian Murphy's right, for the top one. Down it goes for 39."
+        },
+        {
+          "answer": "Dermot O'Brien",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Roger",
+          "evidence_quote": "that's not right. That scores you 100 points."
+        },
+        {
+          "answer": "Matthew Rodgers",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "not Matthew Rodgers, Amy. That scores you 100 points."
+        },
+        {
+          "answer": "Dara O Briain",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You would have scored 25 for Dara O Briain."
+        },
+        {
+          "answer": "Terry Wogan",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sir Terry Wogan, 73 for that."
+        },
+        {
+          "answer": "Mary Robinson",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mary Robinson scored seven."
+        },
+        {
+          "answer": "Samantha Mumba",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Samantha Mumba - five for that one."
+        },
+        {
+          "answer": "Simon Zebo",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Simon Zebo would have got you two."
+        },
+        {
+          "answer": "George Bernard Shaw",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "GBS is indeed George Bernard Shaw. That goes down to 38"
+        },
+        {
+          "answer": "Enya",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Stacey",
+          "evidence_quote": "Enya is right. 51 for Enya"
+        },
+        {
+          "answer": "Rachael Blackmore",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Martin",
+          "evidence_quote": "Rachael Blackmore is absolutely right. Down it goes to 3."
+        },
+        {
+          "answer": "Graham Norton",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "50 for Graham Norton."
+        },
+        {
+          "answer": "Leo Varadkar",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Taoiseach. Yeah. At 10."
+        },
+        {
+          "answer": "Daryl McCormack",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Daryl McCormack. He scored 2."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head pointless finder",
+      "category_text": "Acts who have played the BBC 6 Music Festival",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Christine And The Queens",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robyn",
+          "evidence_quote": "It's right. Ah...Oh! ... 1."
+        },
+        {
+          "answer": "Thundercat",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Thundercat is also right. ... Thundercat, 2017, in Glasgow. He was pointless."
+        },
+        {
+          "answer": "Underworld",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Underworld would have got you 4 points."
+        },
+        {
+          "answer": "Mystery Jets",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "that second pointless answer was Mystery Jets, 2016, in Bristol."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Names of molecules shown as ball-and-stick models (hydrogen white, carbon black, oxygen red)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ethanol",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Martin",
+          "evidence_quote": "Ethanol is right and it scores you 13."
+        },
+        {
+          "answer": "Butane",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Not butane. ... Butane is C4H10 and doesn't quite fit the letters"
+        },
+        {
+          "answer": "Benzene",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "benzene C6H6 ... would have got you 4."
+        },
+        {
+          "answer": "Water",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Water, 35."
+        },
+        {
+          "answer": "Carbon dioxide",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "CO2 ... would have got you 33."
+        },
+        {
+          "answer": "Propane",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "then propane - C3H8 ... 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Styles of architecture with the letters BRICK and S removed",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Storybook",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Storybook is right. Very, very well done indeed. 3 for storybook."
+        },
+        {
+          "answer": "Art Deco",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Martin",
+          "evidence_quote": "Art Deco is right. Down it goes to 31."
+        },
+        {
+          "answer": "Rococo",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rococo. That's the one. 8 for rococo."
+        },
+        {
+          "answer": "Craftsman",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Craftsman, 26."
+        },
+        {
+          "answer": "Perpendicular",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And perpendicular. 44."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Things relating to the art of jewellery making (with alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Filigree",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robyn",
+          "evidence_quote": "Filigree is right. 24 for filigree."
+        },
+        {
+          "answer": "Plating",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Harry",
+          "evidence_quote": "Plating is right. ... 25 for plating!"
+        },
+        {
+          "answer": "Hallmark",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hallmark scored 52."
+        },
+        {
+          "answer": "Pickle",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the mild acid solution ... 4 for that one."
+        },
+        {
+          "answer": "Crimp beads",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Crimp beads. A pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Players in the 2023 Netball World Cup England/Australia final squads, or other national teams that played in the tournament",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Brazil",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Brazil. Oh. OK. One down, two more to go."
+        },
+        {
+          "answer": "Japan",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "No, not Japan!"
+        },
+        {
+          "answer": "Philippines",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "if the Philippines is a pointless answer ... No! I'm so sorry!"
+        },
+        {
+          "answer": "Singapore",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "four more pointless answers. They were Singapore, Sri Lanka, Tonga and Zimbabwe."
+        },
+        {
+          "answer": "Sri Lanka",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "They were Singapore, Sri Lanka, Tonga and Zimbabwe."
+        },
+        {
+          "answer": "Tonga",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "They were Singapore, Sri Lanka, Tonga and Zimbabwe."
+        },
+        {
+          "answer": "Zimbabwe",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "They were Singapore, Sri Lanka, Tonga and Zimbabwe."
+        }
+      ]
+    }
+  ]
+}

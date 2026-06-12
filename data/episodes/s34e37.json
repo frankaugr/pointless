@@ -1,0 +1,558 @@
+{
+  "episode_id": "s34e37",
+  "episode_label": "Series 34 Episode 37",
+  "series": 34,
+  "episode": 37,
+  "pid": "m002r752",
+  "source_url": "https://www.bbc.co.uk/programmes/m002r752",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Video game titles missing an animal or creature (given the year of original release)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Angry Birds",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Angry Birds is absolutely right. 73."
+        },
+        {
+          "answer": "Monkey Island",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "It is Monkey. ... Down it gets to 36."
+        },
+        {
+          "answer": "World Armageddon",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "I'm afraid that scores you 100 points."
+        },
+        {
+          "answer": "Whale Armageddon",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Charlie",
+          "evidence_quote": "What happens when we say Whale Armageddon? ... I'm so sorry, Charlie."
+        },
+        {
+          "answer": "Worms Armageddon",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Worms Armageddon. ... That scored ten."
+        },
+        {
+          "answer": "Donkey Kong",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Donkey Kong, that one got 63."
+        },
+        {
+          "answer": "Lizards",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lizards is good for eight."
+        },
+        {
+          "answer": "Sonic the Hedgehog",
+          "score": 86,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that was a high score with 86 for that one"
+        },
+        {
+          "answer": "Ecco the Dolphin",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "20, that would have got you for Dolphin."
+        },
+        {
+          "answer": "Shark II",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Nicola",
+          "evidence_quote": "Shark II. Oh, no! ... that scores you 100 points."
+        },
+        {
+          "answer": "The Lion King",
+          "score": 90,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steph",
+          "evidence_quote": "90. Safe enough. Takes your total up to 190."
+        },
+        {
+          "answer": "Star Fox",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hugh",
+          "evidence_quote": "Star Fox scoring you 28."
+        },
+        {
+          "answer": "Duck Hunt",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "Duck is absolutely spot on. ... Down it goes to 14."
+        },
+        {
+          "answer": "Castle of Illusion Starring Mickey Mouse",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Castle Of Illusion Starring Mickey Mouse. ... 77."
+        },
+        {
+          "answer": "Crash Bandicoot",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Crash Bandicoot also correct with a score of 51."
+        },
+        {
+          "answer": "Snake",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Of course it's Snake. ... Would have scored five."
+        },
+        {
+          "answer": "Goat Simulator",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Goat Simulator would have scored 23."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "First names of any current or former presenter of Blue Peter (per CBBC's History of Blue Peter Presenters, June 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Charlie",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "No Charlie on the list for Blue Peter presenters, I'm afraid."
+        },
+        {
+          "answer": "Janet",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "down to seven for Janet. Very well done indeed, Jane."
+        },
+        {
+          "answer": "Sue",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Steph",
+          "evidence_quote": "No, I'm sorry! ... not correct. ... No Sue."
+        },
+        {
+          "answer": "Valerie",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Valerie - absolutely right. Down it goes to 29."
+        },
+        {
+          "answer": "Peter",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hugh",
+          "evidence_quote": "Peter - absolutely right. Down it goes to 48"
+        },
+        {
+          "answer": "Connie",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "19 for Connie, 119 your total."
+        },
+        {
+          "answer": "Sarah",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "You'd have got two points for Sarah, Sarah Greene."
+        },
+        {
+          "answer": "Tina (Heath)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Tina Heath, Abby Cook, Shini Muthukrishnan and Diane-Louise Jordan, they would have got two points."
+        },
+        {
+          "answer": "Abby (Cook)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Tina Heath, Abby Cook ... they would have got two points."
+        },
+        {
+          "answer": "Shini (Muthukrishnan)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Shini Muthukrishnan and Diane-Louise Jordan, they would have got two points."
+        },
+        {
+          "answer": "Diane-Louise (Jordan)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Diane-Louise Jordan, they would have got two points."
+        },
+        {
+          "answer": "Tim (Vincent)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Tim, Tim Vincent, and Radzi Chinyanganya."
+        },
+        {
+          "answer": "Radzi (Chinyanganya)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "One point for Tim, Tim Vincent, and Radzi Chinyanganya."
+        },
+        {
+          "answer": "Barney (Harwood)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the six pointless answers would have been the following, Barney Harwood"
+        },
+        {
+          "answer": "Joel (Defries)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the two Joels - Defries and Mawhinney"
+        },
+        {
+          "answer": "Joel (Mawhinney)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the two Joels - Defries and Mawhinney"
+        },
+        {
+          "answer": "Liz (Barker)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "and Liz Barker"
+        },
+        {
+          "answer": "Mwaksy (Mudenda)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there was Mwaksy Mudenda, Richie Driss, and Romana D'Annunzio"
+        },
+        {
+          "answer": "Richie (Driss)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mwaksy Mudenda, Richie Driss, and Romana D'Annunzio"
+        },
+        {
+          "answer": "Romana (D'Annunzio)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Romana D'Annunzio, who was on there in the late '90s"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Spacecraft that have taken humans into space (alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Soyuz",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hugh",
+          "evidence_quote": "Soyuz is right. Down it goes to 21."
+        },
+        {
+          "answer": "Mercury",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "Mercury is right. And 34 for Mercury."
+        },
+        {
+          "answer": "Gemini",
+          "score": 38,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gemini would be right and would have scored 38 points."
+        },
+        {
+          "answer": "Dragon",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dragon would have scored six points."
+        },
+        {
+          "answer": "Vostok",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Vostok would have scored one on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "National anthems of countries whose football teams have won the Men's or Women's FIFA World Cup",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "France",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "France is right. ... 42 for France."
+        },
+        {
+          "answer": "Brazil (anthem E)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Hugh",
+          "evidence_quote": "No, it is not Brazil, which means, very well done indeed, Georgia and Jak."
+        },
+        {
+          "answer": "Italy (E)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "E would have been the song of the Italians. ... That would have scored 17 points."
+        },
+        {
+          "answer": "Japan (D)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "D was actually Japan ... which would've scored two points."
+        },
+        {
+          "answer": "Spain (A)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I'm talking about Spain, and that scored seven."
+        },
+        {
+          "answer": "Norway (C)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And we had one pointless answer. ... No way...or Norway."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Principal gods or deities in various mythologies and religions (alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Baal",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jane",
+          "evidence_quote": "Baal is right. ... Down goes Baal to 11."
+        },
+        {
+          "answer": "Jupiter",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jak",
+          "evidence_quote": "Jupiter is right. It's a big one there, 65."
+        },
+        {
+          "answer": "Odin",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the top one there, you're absolutely right, is Odin. That would have scored 40."
+        },
+        {
+          "answer": "Zeus",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Zeus would have got you 73"
+        },
+        {
+          "answer": "Marduk",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "with a score of one, which would have got you through to the next round, is Marduk"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Photographers on Digital Camera World's 50 Best Photographers Ever (Aug 2024), or people/groups in Rankin's Portraits I & II sections",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cecil Parkinson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Hugh",
+          "evidence_quote": "Shall we see how many of our 100 said Cecil Parkinson? ... No. Not as a photographer."
+        },
+        {
+          "answer": "Audrey Hepburn",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Hugh",
+          "evidence_quote": "Audrey Hepburn. Might that be right? ... No! Bad luck."
+        },
+        {
+          "answer": "Annie Leibovitz",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Hugh",
+          "evidence_quote": "Annie Leibovitz was a pointless answer and has just won you £1,250."
+        }
+      ]
+    }
+  ]
+}

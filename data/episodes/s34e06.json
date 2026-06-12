@@ -1,0 +1,583 @@
+{
+  "episode_id": "s34e06",
+  "episode_label": "Series 34 Episode 6",
+  "series": 34,
+  "episode": 6,
+  "pid": "m002k72x",
+  "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Chemical elements containing the letter G, C, S, or E",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Astatine",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shiva",
+          "evidence_quote": "That's a pointless answer. Very well done indeed."
+        },
+        {
+          "answer": "Terbium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "It's another pointless answer."
+        },
+        {
+          "answer": "Seaborgium",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Usha",
+          "evidence_quote": "One! One! One person got seaborgium."
+        },
+        {
+          "answer": "Darmstadtium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gordon",
+          "evidence_quote": "Another pointless answer."
+        },
+        {
+          "answer": "Strontium",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Angela",
+          "evidence_quote": "Five... ..for strontium. Five."
+        },
+        {
+          "answer": "Selenium",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sharmilla",
+          "evidence_quote": "Six for selenium."
+        },
+        {
+          "answer": "Tennessine",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "That's another pointless answer."
+        },
+        {
+          "answer": "Hassium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "It's another pointless answer."
+        },
+        {
+          "answer": "Bismuth",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we've got bismuth, we've got cerium"
+        },
+        {
+          "answer": "Cerium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "we've got bismuth, we've got cerium"
+        },
+        {
+          "answer": "Livermorium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We also have livermorium, neptunium and rutherfordium"
+        },
+        {
+          "answer": "Neptunium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We also have livermorium, neptunium and rutherfordium"
+        },
+        {
+          "answer": "Rutherfordium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We also have livermorium, neptunium and rutherfordium"
+        },
+        {
+          "answer": "Scandium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Scandium. We had tennessine"
+        },
+        {
+          "answer": "Zirconium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "which Storm gave us, and zirconium"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Alternative definitions for words that are also pieces of furniture",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ottoman",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "Ottoman goes down to 19. Very solid start."
+        },
+        {
+          "answer": "Cabinet",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "28 is where cabinet ends up."
+        },
+        {
+          "answer": "Chair",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Angela",
+          "evidence_quote": "33 for chair."
+        },
+        {
+          "answer": "Bed",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Bed scored 24."
+        },
+        {
+          "answer": "Island",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "a piece of land surrounded by water - that would have scored you 57"
+        },
+        {
+          "answer": "Whatnot",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it would have scored just two"
+        },
+        {
+          "answer": "Dresser",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gordon",
+          "evidence_quote": "28. taking your total up to 61."
+        },
+        {
+          "answer": "Settle",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "Down it goes to 14."
+        },
+        {
+          "answer": "Divan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Shiva",
+          "evidence_quote": "And it was a pointless answer as well!"
+        },
+        {
+          "answer": "Chest",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chest scored 55"
+        },
+        {
+          "answer": "Table",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And then table... That was 31."
+        },
+        {
+          "answer": "Bureau",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that's a bureau. And that scored 20."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Guests on The Morecambe & Wise Show",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Harold Wilson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "He's a Morecambe & Wise guest. Looking good. Yes, it is good!"
+        },
+        {
+          "answer": "Elton John",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Definitely a Morecambe & Wise guest. Ah! Six."
+        },
+        {
+          "answer": "Shirley Bassey",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Shirley Bassey appeared in 1971... that would have scored you 15"
+        },
+        {
+          "answer": "Vanessa Redgrave",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Vanessa Redgrave. She was the other pointless answer there."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Negative (colour-inverted) national flags",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Portugal",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "It is indeed Portugal. That goes down to 20."
+        },
+        {
+          "answer": "Bhutan",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "it wins you the point. And down it goes to five."
+        },
+        {
+          "answer": "Jamaica",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's actually Jamaica. And that would have scored you 12."
+        },
+        {
+          "answer": "Canada",
+          "score": 95,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Canada, yes, was the third one on the list. C, 95."
+        },
+        {
+          "answer": "South Africa",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "South Africa there, up at the top, which would have scored you 47"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Ballet titles with one letter changed in each word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Seven Deadly Sins",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "Seven Deadly Sins. Goes down to 30."
+        },
+        {
+          "answer": "A Simple Man",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lee",
+          "evidence_quote": "It is right, and it wins you the point"
+        },
+        {
+          "answer": "Swan Lake",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Swan Lake... would have scored you 50"
+        },
+        {
+          "answer": "Alice In Wonderland",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alice In Wonderland would have scored you 45"
+        },
+        {
+          "answer": "The Rite Of Spring",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Rite Of Spring... Three people recognised it."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Facts about Jennifer Lopez",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pitbull",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Richard",
+          "evidence_quote": "Pitbull is right. That goes down to 15."
+        },
+        {
+          "answer": "The World Series",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Storm",
+          "evidence_quote": "the World Series... No! Bad luck."
+        },
+        {
+          "answer": "Super Bowl",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Super Bowl for the top one... 44 people got that right"
+        },
+        {
+          "answer": "The Block (Jenny from the Block)",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The block. 49 knew that"
+        },
+        {
+          "answer": "In Living Color",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest score. It would have scored two and the series was called In Living Color"
+        },
+        {
+          "answer": "Ice Age",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ice Age... 19 would have scored that"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Actors with a credit in 4+ episodes of Better Call Saul or Suits",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hannah Waddingham",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Shiva",
+          "evidence_quote": "No, I'm afraid not Hannah Waddingham."
+        },
+        {
+          "answer": "Bryan Cranston",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Lee",
+          "evidence_quote": "Might he be pointless for £4,000? No."
+        },
+        {
+          "answer": "Aaron Paul",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Lee",
+          "evidence_quote": "Let us see if Aaron Paul is in it... Oh, I'm so sorry."
+        },
+        {
+          "answer": "Carol Burnett",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "people that you could have named would have been... Carol Burnett, Giancarlo Esposito"
+        },
+        {
+          "answer": "Giancarlo Esposito",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Carol Burnett, Giancarlo Esposito, Kerry Condon, and Michael McKean"
+        },
+        {
+          "answer": "Kerry Condon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kerry Condon, and Michael McKean"
+        },
+        {
+          "answer": "Michael McKean",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kerry Condon, and Michael McKean"
+        },
+        {
+          "answer": "Gina Torres",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "here you could have had Gina Torres, Rick Hoffman, Sarah Rafferty or Wendell Pierce"
+        },
+        {
+          "answer": "Rick Hoffman",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gina Torres, Rick Hoffman, Sarah Rafferty or Wendell Pierce"
+        },
+        {
+          "answer": "Sarah Rafferty",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Sarah Rafferty or Wendell Pierce"
+        },
+        {
+          "answer": "Wendell Pierce",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Sarah Rafferty or Wendell Pierce"
+        }
+      ]
+    }
+  ]
+}

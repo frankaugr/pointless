@@ -1,0 +1,540 @@
+{
+  "episode_id": "s35e08",
+  "episode_label": "Series 35 Episode 8",
+  "series": 35,
+  "episode": 8,
+  "pid": "m002v3c2",
+  "source_url": "https://www.bbc.co.uk/programmes/m002v3c2",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "People who have fronted TV shows titled 'The [their name] Show'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Alan Titchmarsh",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Louise",
+          "evidence_quote": "Alan Titchmarsh absolutely right. Yes, there we are. 32."
+        },
+        {
+          "answer": "Drew Barrymore",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jina",
+          "evidence_quote": "Drew Barrymore whizzes past to 26."
+        },
+        {
+          "answer": "Paul O'Grady",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "Paul O'Grady, absolutely right. 32 is our high score. Oh, you join 32."
+        },
+        {
+          "answer": "Max Bygraves",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Che Wai",
+          "evidence_quote": "Max Bygraves is not on the board. That scores you 100 points."
+        },
+        {
+          "answer": "Tracey Ullman",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gillian",
+          "evidence_quote": "Down it goes to 12, taking your total up to 112."
+        },
+        {
+          "answer": "Andrew Marr",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Luke",
+          "evidence_quote": "Down it goes. That's an excellent answer. 13."
+        },
+        {
+          "answer": "RuPaul",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bella",
+          "evidence_quote": "down goes RuPaul to 17."
+        },
+        {
+          "answer": "Joan Rivers",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "Down we go... to 18 with Joan Rivers, taking your total up to a lovely round 50."
+        },
+        {
+          "answer": "Catherine Tate",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Catherine Tate, of course, on the top level. She would have scored 27."
+        },
+        {
+          "answer": "Jonathan Ross",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jonathan Ross, 56 people knew that."
+        },
+        {
+          "answer": "Ed Sullivan",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was Ed Sullivan. That would have scored 2."
+        },
+        {
+          "answer": "Mo'Nique",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "is Mo'Nique, who also scored 2."
+        },
+        {
+          "answer": "Judy Garland",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Judy Garland, she would have scored 10."
+        },
+        {
+          "answer": "Graham Norton",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Graham Norton is, of course, next. 8 million people got that. No, 46."
+        },
+        {
+          "answer": "Kelly Clarkson",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that's Kelly Clarkson. 11 people knew that."
+        },
+        {
+          "answer": "Lenny Henry",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lenny Henry, 39."
+        },
+        {
+          "answer": "Queen Latifah",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "quite right to say, \"Queen Latifah.\" 13."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Food and drink items in the ONS 2024 basket of goods and services (from clues and initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Fromage frais",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "Fromage frais is right. And down that goes to 37."
+        },
+        {
+          "answer": "Peanut butter",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Luke",
+          "evidence_quote": "Peanut butter is right, 37. The only score we have at the moment, 66."
+        },
+        {
+          "answer": "Kiwi",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jina",
+          "evidence_quote": "Kiwi's right. ... You're on 53 for kiwi."
+        },
+        {
+          "answer": "Pasta",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pasta scored 69."
+        },
+        {
+          "answer": "Champagne",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "champagne for the buck's fizz cocktail. That got 49."
+        },
+        {
+          "answer": "Mushroom",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "not Marmite, but mushroom ... 61 people thought the same."
+        },
+        {
+          "answer": "Cauliflower",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bella",
+          "evidence_quote": "Cauliflower is absolutely right. There it is. 64 for cauliflower."
+        },
+        {
+          "answer": "Quiche",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Marcus",
+          "evidence_quote": "Quiche is right. 63 for quiche."
+        },
+        {
+          "answer": "Dried herbs",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Louise",
+          "evidence_quote": "Dried herbs is right. ... Down it goes to 36."
+        },
+        {
+          "answer": "Plum",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you had said that, plum, you would have scored 57."
+        },
+        {
+          "answer": "Lemonade",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The top one is lemonade. That would have scored you 53."
+        },
+        {
+          "answer": "Rice cakes",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the remaining rice cakes. 29."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Types of mammal that can be seen at London Zoo as of June 2024 (two scoring, two pointless, two red herrings)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Llama",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "It's a mammal at London Zoo. Oh, one person!"
+        },
+        {
+          "answer": "Warthog",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jina",
+          "evidence_quote": "Warthog is right. Oh, one person got warthog!"
+        },
+        {
+          "answer": "Okapi",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The pointless ones were the last two - okapi and harvest mouse."
+        },
+        {
+          "answer": "Harvest mouse",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The pointless ones were the last two - okapi and harvest mouse."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Names of photo filters applied to an image (first and last letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Twirl",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "Twirl is right. 21, twirl."
+        },
+        {
+          "answer": "Sepia",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jina",
+          "evidence_quote": "Sepia is right. ... 26 for sepia."
+        },
+        {
+          "answer": "Blur",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the first one was blur, but 61 other people thought that."
+        },
+        {
+          "answer": "Emboss",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that is emboss. ... And emboss scored 2."
+        },
+        {
+          "answer": "Crystallize",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the pointless answer you could have gone with is C, and that is crystallize."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Terms used in make-up application, each ending in -ING (from definitions and initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Contouring",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jina",
+          "evidence_quote": "Contouring is right. Contouring takes us down to 33."
+        },
+        {
+          "answer": "Layering",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Simon",
+          "evidence_quote": "It is layering. And it wins the point for you. Down it goes to 27."
+        },
+        {
+          "answer": "Overlining",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Overlining was the penultimate one. ... That would have scored 11."
+        },
+        {
+          "answer": "Foiling",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The one at the bottom is foiling. Only one person knew that."
+        },
+        {
+          "answer": "Root stamping",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "which would have been a pointless answer, was the second one. And that was root stamping. And that would have scored a zero."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any player in either Euro 2024 final squad (England v Spain), or any of the 24 managers/head coaches at Euro 2024",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Harry Kane",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Louise",
+          "evidence_quote": "Harry Kane taking us down to 35."
+        },
+        {
+          "answer": "Raheem Sterling",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Simon",
+          "evidence_quote": "No. I'm afraid not Raheem Sterling. ... he wasn't in the England squad for Euro 2024."
+        },
+        {
+          "answer": "John Stones",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Simon",
+          "evidence_quote": "John Stones takes us through the teens in single figures. ... Oh, to 4."
+        },
+        {
+          "answer": "Alvaro Morata",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Alvaro Morata - Spain's captain."
+        },
+        {
+          "answer": "Marc Guehi",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Marc Guehi in the England squad."
+        },
+        {
+          "answer": "Nico Williams",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nico Williams - Spain - scored the first goal."
+        },
+        {
+          "answer": "Trent Alexander-Arnold",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Trent Alexander-Arnold - England player who was unused as a substitute in the final."
+        },
+        {
+          "answer": "Julian Nagelsmann",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Julian Nagelsmann from Germany"
+        },
+        {
+          "answer": "Ralf Rangnick",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ralf Rangnick from Austria."
+        },
+        {
+          "answer": "Serhiy Rebrov",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Serhiy Rebrov from Ukraine"
+        },
+        {
+          "answer": "Willy Sagnol",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Willy Sagnol from Georgia."
+        }
+      ]
+    }
+  ]
+}

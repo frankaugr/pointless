@@ -1,0 +1,448 @@
+{
+  "episode_id": "s34e32",
+  "episode_label": "Series 34 Episode 32",
+  "series": 34,
+  "episode": 32,
+  "pid": "m002pvd4",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Name these one-word names of stars from the BBC TV series Gladiators (from clues with first letter and number of letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nitro",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "Down into single figures. 7. What a great start to the show."
+        },
+        {
+          "answer": "Bionic",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "Bionic is right. Now, 7 is the only score we have at the moment. You go down to 31."
+        },
+        {
+          "answer": "Apollo",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Yusuf",
+          "evidence_quote": "Apollo absolutely right. 31 is our high score, 7 is our low, and you're on 35."
+        },
+        {
+          "answer": "Viper",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Ooh, 47 for Viper, Sue."
+        },
+        {
+          "answer": "Fury",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Fury... Absolutely right. And that would have been 26 points."
+        },
+        {
+          "answer": "Diamond",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Diamond. Yes, is right. 54 points - was the highest."
+        },
+        {
+          "answer": "Fire",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "last but not least, Fire. That scored 19."
+        },
+        {
+          "answer": "Sabre",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jim",
+          "evidence_quote": "Sabre is right. And, Jim, look at that. A cracking answer. 12 for Sabre."
+        },
+        {
+          "answer": "Comet",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rezwan",
+          "evidence_quote": "Comet's right. 44 for Comet, takes your total up to 79."
+        },
+        {
+          "answer": "Athena",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Athena is absolutely right. That gets you into Round Two. Scores you 23."
+        },
+        {
+          "answer": "Electro",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michelle",
+          "evidence_quote": "Down it goes to nine. Another single-digit score."
+        },
+        {
+          "answer": "Giant",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Electro was a much better answer than Giant, which scored 54 points."
+        },
+        {
+          "answer": "Legend",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That is Legend. Legend it is, at 34 points."
+        },
+        {
+          "answer": "Steel",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Steel, which was coming in at 32 points."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Countries that produce the most peaches and nectarines (at least 20,000 tonnes, 2022 FAO figures)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Denmark",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Michelle",
+          "evidence_quote": "Denmark? No. Not Denmark so much. That's going to cost you 100 points."
+        },
+        {
+          "answer": "Portugal",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Portugal, absolutely right. 25 for Portugal."
+        },
+        {
+          "answer": "Italy",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jim",
+          "evidence_quote": "Italy's right. Well, 100 is our high score. 25 is our low score. 44 for Italy."
+        },
+        {
+          "answer": "Greece",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Greece is right. You are in the head-to-head. Down it goes to 22."
+        },
+        {
+          "answer": "South Africa",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "Yes, we do. Very well done. 11. A new low score for this round."
+        },
+        {
+          "answer": "Kazakhstan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Damien",
+          "evidence_quote": "Oh, no. Bad luck. I'm afraid that scores you 100 points, taking your total up to 200."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus (jackpot builder)",
+      "category_text": "Antarctic ice shelves (find pointless ones from six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "O'Shea",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "O'Shea. Oh, no. ... O'Shea is a red herring. O'Shea Jackson is the real name of the rapper Ice Cube."
+        },
+        {
+          "answer": "Crosson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jim",
+          "evidence_quote": "Crosson is right. And very well done indeed. There we are."
+        },
+        {
+          "answer": "Venable",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Venable Ice Shelf was a pointless answer. That was the other missing one."
+        },
+        {
+          "answer": "Brunt",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Brunt Ice Shelf scored three."
+        },
+        {
+          "answer": "Abbot",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And Abbot Ice Shelf scored one."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Accessories typically worn in the hair (from pictures with alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Claw clip",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Claw clip is right. And claw clip goes down to 13."
+        },
+        {
+          "answer": "Barrette",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Barrette is right. ... 17. Very well done indeed, Arthur and Emma"
+        },
+        {
+          "answer": "Beads",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was beads, and that would have came in at 56 points."
+        },
+        {
+          "answer": "Scrunchie",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the scrunchie. It's a good thing none of you went for that, because that would have been 60 points."
+        },
+        {
+          "answer": "Kanzashi",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the one which was pointless is kanzashi. ... And that was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Facts related to the word 'love' (from five clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Philadelphia",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jim",
+          "evidence_quote": "It is indeed Philadelphia. Down that goes to 11."
+        },
+        {
+          "answer": "Julia Roberts",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Emma",
+          "evidence_quote": "Julia Roberts is absolutely right. ... 15 for Julia Roberts"
+        },
+        {
+          "answer": "Harry Styles",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It was Harry Styles and that would have come in at 31 points."
+        },
+        {
+          "answer": "You",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the middle one, which would have been You and that would have been coming in at five points."
+        },
+        {
+          "answer": "Oxytocin",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "last, but not least, is oxytocin, which would have been three points."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Names of scientific units defined in the SI system (letters in symbol removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Joule",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Arthur",
+          "evidence_quote": "Joule is right. 59 for joule."
+        },
+        {
+          "answer": "Pascal",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Pascal is right... and it wins it. ... That goes down to 19."
+        },
+        {
+          "answer": "Volt",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The first one is volt. You're correct. And that would have been 52 points."
+        },
+        {
+          "answer": "Lumen",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Then we'll have lumen, which would have been 24 points."
+        },
+        {
+          "answer": "Mole",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "last, but not least, was mole, which would have been seven points."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Single words in the English names of waterfowl species containing 'teal' or 'goose' (IOC World Bird List, June 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Canada",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Jim",
+          "evidence_quote": "Through the 20s with Canada to 21. OK, so not a pointless answer."
+        },
+        {
+          "answer": "Icelandic",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Jim",
+          "evidence_quote": "Oh, no. Bad luck. No Icelandic geese. ... Sadly, Icelandic was incorrect."
+        },
+        {
+          "answer": "Greylag",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Jim",
+          "evidence_quote": "Still going down with greylag... Two! Oh, it's a great answer. Annoyingly, though, it's not pointless."
+        }
+      ]
+    }
+  ]
+}

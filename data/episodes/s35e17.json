@@ -1,0 +1,583 @@
+{
+  "episode_id": "s35e17",
+  "episode_label": "Series 35 Episode 17",
+  "series": 35,
+  "episode": 17,
+  "pid": "m002vqbp",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vqbp",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Events in history that took place in a year ending in 5 (from clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mary Seacole",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cicely",
+          "evidence_quote": "It is indeed Mary Seacole. And down that goes to 13."
+        },
+        {
+          "answer": "Guy Fawkes",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Mark",
+          "evidence_quote": "Guy Fawkes is right. 13 is the only score we have at the moment. 53 for Guy Fawkes."
+        },
+        {
+          "answer": "Lord Nelson",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leigh-Anne",
+          "evidence_quote": "Lord Nelson absolutely right. 53 is our high score. Can you pass it? 43"
+        },
+        {
+          "answer": "Vietnam War (Fall of Saigon)",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Vietnam War is right. 53 is our high score. and you've passed that. 28."
+        },
+        {
+          "answer": "X-rays",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "X-rays was right - 29, that would have scored."
+        },
+        {
+          "answer": "James Chadwick",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "James Chadwick was the British scientist who won the Nobel Prize, at 7."
+        },
+        {
+          "answer": "William Booth (Salvation Army)",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "William Booth and his wife Catherine founded the Salvation Army - scored 17."
+        },
+        {
+          "answer": "Condoleezza Rice",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Condoleezza Rice is right. Wonderful. Gets you through beautifully. Down to 15."
+        },
+        {
+          "answer": "King John",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "King John is right. King John - 19, taking your total up to 62."
+        },
+        {
+          "answer": "River Thames",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jackie",
+          "evidence_quote": "It's wrong. It scores you 100 points. Takes your total up to 153."
+        },
+        {
+          "answer": "Live Aid",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antoinette",
+          "evidence_quote": "Live Aid... ..is a good answer. Down it goes to 39, taking your total up to 52."
+        },
+        {
+          "answer": "English Channel",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The English Channel was a slightly better answer. It scored 37."
+        },
+        {
+          "answer": "Winston Churchill",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Winston Churchill you landed on as well, 56."
+        },
+        {
+          "answer": "Albert Einstein",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Albert Einstein was the German born scientist at 9."
+        },
+        {
+          "answer": "Maria Fitzherbert",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Maria Fitzherbert would score you 2."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Football teams from these six countries' leagues that played in a European Cup / Champions League / Women's Champions League final",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ajax",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Antoinette",
+          "evidence_quote": "Ajax is right. This feels like a very good answer. Down it goes to 32."
+        },
+        {
+          "answer": "Real Madrid",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leigh-Anne",
+          "evidence_quote": "Real Madrid is right. 32 is the only score we have at the moment. 45 for Real Madrid."
+        },
+        {
+          "answer": "Bayern Munich",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Bayern Munich is right. 45 our high score, 32 our low. 37 for Bayern Munich."
+        },
+        {
+          "answer": "PSV Eindhoven",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "PSV Eindhoven. It's right. ... There we go. 8. Very well done indeed."
+        },
+        {
+          "answer": "Marseille",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Marseille is right. Down it goes to 15, taking your total up to a lovely round 60."
+        },
+        {
+          "answer": "Milan (AC Milan)",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cicely",
+          "evidence_quote": "Milan is right. 29 for Milan, which takes your total up to 61."
+        },
+        {
+          "answer": "Nottingham Forest",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nottingham Forest and Aston Villa scored 6"
+        },
+        {
+          "answer": "Aston Villa",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nottingham Forest and Aston Villa scored 6"
+        },
+        {
+          "answer": "Leeds United",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Leeds United, bless them, scored 3."
+        },
+        {
+          "answer": "Reims",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The only pointless answer for a French team was Reims"
+        },
+        {
+          "answer": "Duisburg",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For Germany, Duisburg, Eintracht Frankfurt and Wolfsburg were all pointless"
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For Germany, Duisburg, Eintracht Frankfurt and Wolfsburg were all pointless"
+        },
+        {
+          "answer": "Wolfsburg",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For Germany, Duisburg, Eintracht Frankfurt and Wolfsburg were all pointless"
+        },
+        {
+          "answer": "Turbine Potsdam",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Duisburg, Eintracht Frankfurt and Wolfsburg were all pointless, as was Turbine Potsdam."
+        },
+        {
+          "answer": "Fiorentina",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For Italy, Fiorentina."
+        },
+        {
+          "answer": "Valencia",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "nor were there any pointless Spanish teams. Valencia was the best answer, scoring 4."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Jackpot Builder",
+      "category_text": "Pointless figures from Irish mythology (among six options, four mythological figures, two wrong)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cu Chulainn",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Cu Chulainn. Definitely a figure from Irish mythology. Oh! ... One person!"
+        },
+        {
+          "answer": "Cthulhu",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Shall we see if Cthulhu is a pointless figure from Irish mythology? Oh, no."
+        },
+        {
+          "answer": "Brigid",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Brigid, the goddess of poetry, healing, fertility and smithing, scored 5."
+        },
+        {
+          "answer": "Ogma",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the two pointless answers that eluded you - Ogma, a warrior poet"
+        },
+        {
+          "answer": "Finegas",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "and Finegas, a poet and fisher of the Salmon of Knowledge."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Name these five famous people born in Brooklyn, New York (from pictures)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ruth Bader Ginsburg",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Ruth Bader Ginsburg is right. And... ..down that goes to 6."
+        },
+        {
+          "answer": "Jay-Z",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "No, not Jay-Z. ... that is a picture of Jean-Michel Basquiat"
+        },
+        {
+          "answer": "Jean-Michel Basquiat",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that is a picture of Jean-Michel Basquiat, the artist, and would have scored you 3."
+        },
+        {
+          "answer": "Barbra Streisand",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Barbra Streisand, you correctly identified - 41."
+        },
+        {
+          "answer": "Michael Jordan",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Michael Jordan you were right about as well. 16."
+        },
+        {
+          "answer": "Bebe Rexha",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And finally, Bebe Rexha would score you 10."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Name the acts who recorded these five songs written as potential James Bond theme songs but not chosen",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lana Del Rey",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Lana Del Rey is right. Very good answer. Down it goes to 13."
+        },
+        {
+          "answer": "Shirley Bassey",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "Shirley Bassey also correct. That goes down to 41."
+        },
+        {
+          "answer": "Blondie",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "For Your Eyes Only by Blondie. ... That would have got you 17."
+        },
+        {
+          "answer": "Johnny Cash",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Thunderball by Johnny Cash. ... Tom Jones sang the theme tune. 32."
+        },
+        {
+          "answer": "Alice Cooper",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "This was Alice Cooper. ... Yeah. 4."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Five clues to answers made up of letters that appear next to each other in the alphabet",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "UV",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sylvia",
+          "evidence_quote": "UV is right. Down goes UV to 27."
+        },
+        {
+          "answer": "KLM",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "KLM is right. This is going to be close... ..and it wins! Look at that. Down to 22 for KLM."
+        },
+        {
+          "answer": "QR",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "QR, which you obviously knew, and would have scored you 33."
+        },
+        {
+          "answer": "DEF",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Def. ... Scores 10."
+        },
+        {
+          "answer": "XYZ",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It is XYZ. And that was a pointless answer!"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Tracks on the 1973 original London cast recording of The Rocky Horror Show (musical first released on physical formats in 2021)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Time Warp",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Time Warp's right. ... Down we go through the 20s... Oh! 23."
+        },
+        {
+          "answer": "Frank-N-Furter",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Frank-N-Furter. No, bad luck."
+        },
+        {
+          "answer": "I'm A Beautiful Transvestite",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "I'm A Beautiful Transvestite. Oh, no. ... Bad luck."
+        },
+        {
+          "answer": "Sweet Transvestite",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was Sweet Transvestite... ... But it would have scored 6"
+        },
+        {
+          "answer": "Hot Patootie (Bless My Soul)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there were two more pointless answers - Hot Patootie (Bless My Soul) and Touch-A-Touch—A-Touch-A-Touch Me."
+        },
+        {
+          "answer": "Touch-A-Touch-A-Touch-A-Touch Me",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "two more pointless answers - Hot Patootie (Bless My Soul) and Touch-A-Touch—A-Touch-A-Touch Me."
+        }
+      ]
+    }
+  ]
+}

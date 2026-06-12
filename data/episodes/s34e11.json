@@ -1,0 +1,405 @@
+{
+  "episode_id": "s34e11",
+  "episode_label": "Series 34 Episode 11",
+  "series": 34,
+  "episode": 11,
+  "pid": "m002kjl6",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kjl6",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words found in the online Collins Dictionary ending in the letters N-C-H",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Goldfinch",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farhana",
+          "evidence_quote": "It's absolutely right. And it's a pointless answer."
+        },
+        {
+          "answer": "Workbench",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Siobhan",
+          "evidence_quote": "It is right. Very much one word, Siobhan. And I think it's an excellent answer. ... Another pointless answer."
+        },
+        {
+          "answer": "Lynch",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jennifer",
+          "evidence_quote": "15 for lynch."
+        },
+        {
+          "answer": "Wench",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jayden",
+          "evidence_quote": "Wench is right. 15 is our high score, nothing is our low. 14 for wench."
+        },
+        {
+          "answer": "Stench",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Stench is right. 11 for stench."
+        },
+        {
+          "answer": "Winch",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "26 for winch, taking your total up to 41."
+        },
+        {
+          "answer": "Clench",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Connor",
+          "evidence_quote": "that goes down to 4. Very well done. Taking your total up to 4."
+        },
+        {
+          "answer": "Bullfinch",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Becki",
+          "evidence_quote": "Another pointless answer. ... It scores you nothing"
+        },
+        {
+          "answer": "Backbench",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We've got backbench. We all know where they are. You'll find them in Parliament."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name the TV show, given six groups of characters involved in a love triangle (with the show's initials as a clue)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sex And The City",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Becki",
+          "evidence_quote": "It's right. And down it goes to 42."
+        },
+        {
+          "answer": "Emmerdale",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Siobhan",
+          "evidence_quote": "Emmerdale is right. 42 was our only score. We now have 62 as well."
+        },
+        {
+          "answer": "Ted Lasso",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jayden",
+          "evidence_quote": "down we go to 9. Very well done indeed, Jayden. 9 for Ted Lasso."
+        },
+        {
+          "answer": "Coronation Street",
+          "score": 78,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored you 78, so quite a lot of people would have got that one."
+        },
+        {
+          "answer": "Sex Education",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sex Education. That would have scored you 5."
+        },
+        {
+          "answer": "Gossip Girl",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Is Gossip Girl, and that would have scored you 13."
+        },
+        {
+          "answer": "Friends",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "It's definitely right. You've done it! Not bad. 50."
+        },
+        {
+          "answer": "How I Met Your Mother",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Connor",
+          "evidence_quote": "How I Met Your Mother is right. ... down to 18. Not bad."
+        },
+        {
+          "answer": "Scandal",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farhana",
+          "evidence_quote": "Scandal is right. ... It goes down to 2."
+        },
+        {
+          "answer": "Stranger Things",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Steve Harrington, Nancy Wheeler and Jonathan Byers. That was Stranger Things. That would have scored you 15."
+        },
+        {
+          "answer": "The Office",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tim Canterbury, Dawn Tinsley and Lee. The Office. ... That was 6."
+        },
+        {
+          "answer": "EastEnders",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "yeah, EastEnders. I think everybody probably knew that one. It got 71."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Identify the pointless prima ballerinas / principal dancers from six options",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Polina Semionova",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farhana",
+          "evidence_quote": "She's definitely a ballerina. And a pointless one to boot."
+        },
+        {
+          "answer": "Ami Yuasa",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Not a ballerina, but she is a dancer because she was the Japanese break dancer"
+        },
+        {
+          "answer": "Deborah Bull",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd gone with Deborah Bull, who was principal dancer at the Royal Ballet, you would have scored 2."
+        },
+        {
+          "answer": "Marianela Nunez",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Marianela Nunez, I'm going to say is a pointless prima ballerina. She is indeed."
+        },
+        {
+          "answer": "Alessandra",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alessandra, she scored 2, because she is also a prima ballerina."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify the most obscure dessert eaten cold or frozen (from five pictures with alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Falooda",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farhana",
+          "evidence_quote": "Falooda is absolutely right. And down it goes. ... Down to 2."
+        },
+        {
+          "answer": "Granita",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Granita. Absolutely right. It's another low score. That's 11 for granita."
+        },
+        {
+          "answer": "Frozen yoghurt",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You got the first one right, which was frozen yoghurt. That would have scored you 49"
+        },
+        {
+          "answer": "Cheesecake",
+          "score": 86,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You got cheesecake. ... That scored 86."
+        },
+        {
+          "answer": "Kulfi",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's an Indian one and it's called kulfi, and that would have scored you 13."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Things associated with the word 'bucket' (five clues with initial letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Keeping Up Appearances",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "It is absolutely right. And it goes down to 41. 41 for Keeping Up Appearances."
+        },
+        {
+          "answer": "Bleak House",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farhana",
+          "evidence_quote": "It's right. And it wins you the point. ... Down it goes to 23."
+        },
+        {
+          "answer": "Theresa May",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You mentioned Theresa May, which was a correct answer, but that would have scored you 34."
+        },
+        {
+          "answer": "Henry (There's A Hole In My Bucket)",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored you 11."
+        },
+        {
+          "answer": "Mouse Trap",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Is Mouse Trap. It is. And that scored 56."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lithium",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Lithium is right. ... Down to 2. 2! Not a pointless answer"
+        },
+        {
+          "answer": "Einsteinium",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "12 for einsteinium."
+        },
+        {
+          "answer": "Rutherfordium",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": null,
+          "evidence_quote": "Still going down with rutherfordium to 4. Oh, no."
+        }
+      ]
+    }
+  ]
+}

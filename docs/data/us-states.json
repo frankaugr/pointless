@@ -55,38 +55,8 @@
       "url": "https://www.usa.gov/states-and-territories"
     }
   ],
-  "generated_at": "2026-04-26T17:32:33Z",
+  "generated_at": "2026-06-12T16:22:06Z",
   "answers": [
-    {
-      "id": "wyoming",
-      "name": "Wyoming",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Wyoming",
-      "attrs": {
-        "capital": "Cheyenne",
-        "region": "West",
-        "name_initial": "W",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1253044,
-      "obscurity": {
-        "score": 1.0,
-        "band": "pointless target",
-        "pointless_score": 0,
-        "pointless_band": "pointless target",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1253044,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 1.0
-        },
-        "evidence": []
-      }
-    },
     {
       "id": "north-dakota",
       "name": "North Dakota",
@@ -178,36 +148,6 @@
       }
     },
     {
-      "id": "south-dakota",
-      "name": "South Dakota",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/South_Dakota",
-      "attrs": {
-        "capital": "Pierre",
-        "region": "Midwest",
-        "name_initial": "S",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1270308,
-      "obscurity": {
-        "score": 0.9184,
-        "band": "pointless target",
-        "pointless_score": 8,
-        "pointless_band": "excellent",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1270308,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9184
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "idaho",
       "name": "Idaho",
       "aliases": [],
@@ -265,6 +205,49 @@
           "pageview_obscurity": 0.8776
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "wyoming",
+      "name": "Wyoming",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wyoming",
+      "attrs": {
+        "capital": "Cheyenne",
+        "region": "West",
+        "name_initial": "W",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1253044,
+      "obscurity": {
+        "score": 0.865,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1253044,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0,
+          "pointless_average_score": 18.0,
+          "pointless_obscurity": 0.82,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Wyoming",
+            "score_0_to_100": 18,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
       }
     },
     {
@@ -328,6 +311,92 @@
       }
     },
     {
+      "id": "rhode-island",
+      "name": "Rhode Island",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rhode_Island",
+      "attrs": {
+        "capital": "Providence",
+        "region": "Northeast",
+        "name_initial": "R",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1924385,
+      "obscurity": {
+        "score": 0.8236,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1924385,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7143,
+          "pointless_average_score": 14.0,
+          "pointless_obscurity": 0.86,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Rhode Island",
+            "score_0_to_100": 14,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nebraska",
+      "name": "Nebraska",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nebraska",
+      "attrs": {
+        "capital": "Lincoln",
+        "region": "Midwest",
+        "name_initial": "N",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1926838,
+      "obscurity": {
+        "score": 0.8185,
+        "band": "very obscure",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1926838,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6939,
+          "pointless_average_score": 14.0,
+          "pointless_obscurity": 0.86,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Nebraska",
+            "score_0_to_100": 14,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
       "id": "mississippi",
       "name": "Mississippi",
       "aliases": [],
@@ -355,6 +424,92 @@
           "pageview_obscurity": 0.8163
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "oklahoma",
+      "name": "Oklahoma",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Oklahoma",
+      "attrs": {
+        "capital": "Oklahoma City",
+        "region": "South",
+        "name_initial": "O",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 2746096,
+      "obscurity": {
+        "score": 0.8056,
+        "band": "very obscure",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2746096,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6122,
+          "pointless_average_score": 13.0,
+          "pointless_obscurity": 0.87,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Oklahoma",
+            "score_0_to_100": 13,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
+      "id": "indiana",
+      "name": "Indiana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Indiana",
+      "attrs": {
+        "capital": "Indianapolis",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 3737881,
+      "obscurity": {
+        "score": 0.8002,
+        "band": "very obscure",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3737881,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5306,
+          "pointless_average_score": 11.0,
+          "pointless_obscurity": 0.89,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Indiana",
+            "score_0_to_100": 11,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
       }
     },
     {
@@ -388,6 +543,92 @@
       }
     },
     {
+      "id": "connecticut",
+      "name": "Connecticut",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Connecticut",
+      "attrs": {
+        "capital": "Hartford",
+        "region": "Northeast",
+        "name_initial": "C",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2737648,
+      "obscurity": {
+        "score": 0.7933,
+        "band": "very obscure",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2737648,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6531,
+          "pointless_average_score": 16.0,
+          "pointless_obscurity": 0.84,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Connecticut",
+            "score_0_to_100": 16,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
+      "id": "south-dakota",
+      "name": "South Dakota",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Dakota",
+      "attrs": {
+        "capital": "Pierre",
+        "region": "Midwest",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1270308,
+      "obscurity": {
+        "score": 0.7771,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1270308,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9184,
+          "pointless_average_score": 27.0,
+          "pointless_obscurity": 0.73,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "South Dakota",
+            "score_0_to_100": 27,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
       "id": "montana",
       "name": "Montana",
       "aliases": [],
@@ -415,6 +656,49 @@
           "pageview_obscurity": 0.7755
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "wisconsin",
+      "name": "Wisconsin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wisconsin",
+      "attrs": {
+        "capital": "Madison",
+        "region": "Midwest",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3742281,
+      "obscurity": {
+        "score": 0.7749,
+        "band": "very obscure",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3742281,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4898,
+          "pointless_average_score": 13.0,
+          "pointless_obscurity": 0.87,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Wisconsin",
+            "score_0_to_100": 13,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
       }
     },
     {
@@ -448,6 +732,92 @@
       }
     },
     {
+      "id": "tennessee",
+      "name": "Tennessee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tennessee",
+      "attrs": {
+        "capital": "Nashville",
+        "region": "South",
+        "name_initial": "T",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3748669,
+      "obscurity": {
+        "score": 0.7521,
+        "band": "very obscure",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3748669,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4286,
+          "pointless_average_score": 14.0,
+          "pointless_obscurity": 0.86,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Tennessee",
+            "score_0_to_100": 14,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maryland",
+      "name": "Maryland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maryland",
+      "attrs": {
+        "capital": "Annapolis",
+        "region": "South",
+        "name_initial": "M",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3750647,
+      "obscurity": {
+        "score": 0.7494,
+        "band": "very obscure",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3750647,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3878,
+          "pointless_average_score": 13.0,
+          "pointless_obscurity": 0.87,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Maryland",
+            "score_0_to_100": 13,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
+      }
+    },
+    {
       "id": "kansas",
       "name": "Kansas",
       "aliases": [],
@@ -478,63 +848,46 @@
       }
     },
     {
-      "id": "rhode-island",
-      "name": "Rhode Island",
+      "id": "new-jersey",
+      "name": "New Jersey",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Rhode_Island",
+      "wiki": "https://en.wikipedia.org/wiki/New_Jersey",
       "attrs": {
-        "capital": "Providence",
+        "capital": "Trenton",
         "region": "Northeast",
-        "name_initial": "R",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1924385,
-      "obscurity": {
-        "score": 0.7143,
-        "band": "very obscure",
-        "pointless_score": 29,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1924385,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7143
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "nebraska",
-      "name": "Nebraska",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Nebraska",
-      "attrs": {
-        "capital": "Lincoln",
-        "region": "Midwest",
         "name_initial": "N",
-        "name_length": 8,
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 1926838,
+      "pageviews": 4933329,
       "obscurity": {
-        "score": 0.6939,
+        "score": 0.6882,
         "band": "very obscure",
-        "pointless_score": 31,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 1926838,
+          "pageviews": 4933329,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6939
+          "pageview_obscurity": 0.1429,
+          "pointless_average_score": 13.0,
+          "pointless_obscurity": 0.87,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "New Jersey",
+            "score_0_to_100": 13,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
       }
     },
     {
@@ -568,33 +921,46 @@
       }
     },
     {
-      "id": "connecticut",
-      "name": "Connecticut",
+      "id": "illinois",
+      "name": "Illinois",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Connecticut",
+      "wiki": "https://en.wikipedia.org/wiki/Illinois",
       "attrs": {
-        "capital": "Hartford",
-        "region": "Northeast",
-        "name_initial": "C",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
+        "capital": "Springfield",
+        "region": "Midwest",
+        "name_initial": "I",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
       },
-      "pageviews": 2737648,
+      "pageviews": 4935428,
       "obscurity": {
-        "score": 0.6531,
+        "score": 0.648,
         "band": "useful low scorer",
-        "pointless_score": 35,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 2737648,
+          "pageviews": 4935428,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6531
+          "pageview_obscurity": 0.102,
+          "pointless_average_score": 17.0,
+          "pointless_obscurity": 0.83,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "Illinois",
+            "score_0_to_100": 17,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
       }
     },
     {
@@ -628,36 +994,6 @@
       }
     },
     {
-      "id": "oklahoma",
-      "name": "Oklahoma",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Oklahoma",
-      "attrs": {
-        "capital": "Oklahoma City",
-        "region": "South",
-        "name_initial": "O",
-        "name_length": 8,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "o"
-      },
-      "pageviews": 2746096,
-      "obscurity": {
-        "score": 0.6122,
-        "band": "useful low scorer",
-        "pointless_score": 39,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2746096,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6122
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "new-mexico",
       "name": "New Mexico",
       "aliases": [],
@@ -685,6 +1021,49 @@
           "pageview_obscurity": 0.5918
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "north-carolina",
+      "name": "North Carolina",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/North_Carolina",
+      "attrs": {
+        "capital": "Raleigh",
+        "region": "South",
+        "name_initial": "N",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4917716,
+      "obscurity": {
+        "score": 0.576,
+        "band": "useful low scorer",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4917716,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2041,
+          "pointless_average_score": 30.0,
+          "pointless_obscurity": 0.7,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "us-states",
+            "answer": "North Carolina",
+            "score_0_to_100": 30,
+            "episode": "Series 34 Episode 29",
+            "date": null,
+            "question_text": "Name any US state that does not share a land border with Canada or Mexico",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v"
+          }
+        ]
       }
     },
     {
@@ -748,36 +1127,6 @@
       }
     },
     {
-      "id": "indiana",
-      "name": "Indiana",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Indiana",
-      "attrs": {
-        "capital": "Indianapolis",
-        "region": "Midwest",
-        "name_initial": "I",
-        "name_length": 7,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "i"
-      },
-      "pageviews": 3737881,
-      "obscurity": {
-        "score": 0.5306,
-        "band": "useful low scorer",
-        "pointless_score": 47,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3737881,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5306
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "oregon",
       "name": "Oregon",
       "aliases": [],
@@ -803,36 +1152,6 @@
           "pageviews": 3738553,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.5102
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "wisconsin",
-      "name": "Wisconsin",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Wisconsin",
-      "attrs": {
-        "capital": "Madison",
-        "region": "Midwest",
-        "name_initial": "W",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 3742281,
-      "obscurity": {
-        "score": 0.4898,
-        "band": "useful low scorer",
-        "pointless_score": 51,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3742281,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4898
         },
         "evidence": []
       }
@@ -898,36 +1217,6 @@
       }
     },
     {
-      "id": "tennessee",
-      "name": "Tennessee",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tennessee",
-      "attrs": {
-        "capital": "Nashville",
-        "region": "South",
-        "name_initial": "T",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 3748669,
-      "obscurity": {
-        "score": 0.4286,
-        "band": "middling",
-        "pointless_score": 57,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3748669,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4286
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "louisiana",
       "name": "Louisiana",
       "aliases": [],
@@ -953,36 +1242,6 @@
           "pageviews": 3749151,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.4082
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "maryland",
-      "name": "Maryland",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Maryland",
-      "attrs": {
-        "capital": "Annapolis",
-        "region": "South",
-        "name_initial": "M",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 3750647,
-      "obscurity": {
-        "score": 0.3878,
-        "band": "middling",
-        "pointless_score": 61,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3750647,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3878
         },
         "evidence": []
       }
@@ -1228,36 +1487,6 @@
       }
     },
     {
-      "id": "north-carolina",
-      "name": "North Carolina",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/North_Carolina",
-      "attrs": {
-        "capital": "Raleigh",
-        "region": "South",
-        "name_initial": "N",
-        "name_length": 13,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 4917716,
-      "obscurity": {
-        "score": 0.2041,
-        "band": "obvious",
-        "pointless_score": 80,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4917716,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2041
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "michigan",
       "name": "Michigan",
       "aliases": [],
@@ -1318,36 +1547,6 @@
       }
     },
     {
-      "id": "new-jersey",
-      "name": "New Jersey",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/New_Jersey",
-      "attrs": {
-        "capital": "Trenton",
-        "region": "Northeast",
-        "name_initial": "N",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4933329,
-      "obscurity": {
-        "score": 0.1429,
-        "band": "obvious",
-        "pointless_score": 86,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4933329,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1429
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "washington",
       "name": "Washington",
       "aliases": [],
@@ -1373,36 +1572,6 @@
           "pageviews": 4933926,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1224
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "illinois",
-      "name": "Illinois",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Illinois",
-      "attrs": {
-        "capital": "Springfield",
-        "region": "Midwest",
-        "name_initial": "I",
-        "name_length": 8,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "i"
-      },
-      "pageviews": 4935428,
-      "obscurity": {
-        "score": 0.102,
-        "band": "obvious",
-        "pointless_score": 90,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4935428,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.102
         },
         "evidence": []
       }

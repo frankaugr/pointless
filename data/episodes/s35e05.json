@@ -1,0 +1,522 @@
+{
+  "episode_id": "s35e05",
+  "episode_label": "Series 35 Episode 5",
+  "series": 35,
+  "episode": 5,
+  "pid": "m002v38p",
+  "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Identify the sitcom from its principal setting (with initials and first year of broadcast)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "'Allo 'Allo",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sam",
+          "evidence_quote": "'Allo 'Allo is absolutely right. Down you go to 44."
+        },
+        {
+          "answer": "Porridge",
+          "score": 62,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicki",
+          "evidence_quote": "Porridge is right. Well, 44 is the only score... 62 is what you get for Porridge."
+        },
+        {
+          "answer": "The Thin Blue Line",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jay",
+          "evidence_quote": "The Thin Blue Line is right... Down it goes to 28."
+        },
+        {
+          "answer": "Ghosts",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kamilia",
+          "evidence_quote": "Ghosts, absolutely right for Button House. Down it goes... to ten."
+        },
+        {
+          "answer": "Hi-Di-Hi",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Yes, good one, but a lot of people got that. 57 people."
+        },
+        {
+          "answer": "Detectorists",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored you 22."
+        },
+        {
+          "answer": "Green Wing",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Green Wing. Only seven people got that."
+        },
+        {
+          "answer": "The Office",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "Wernham Hogg absolutely right for The Office. And yes, it gets you through. Down it goes to 32."
+        },
+        {
+          "answer": "Dinnerladies",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fred",
+          "evidence_quote": "Through you go. 25 that scores you, taking your total up to 53."
+        },
+        {
+          "answer": "Are You Being Served?",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jamie",
+          "evidence_quote": "Are You Being Served is right. And it goes down to 57."
+        },
+        {
+          "answer": "Dad's Army",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "Yes, we do. 48 is what it scores and it takes your total up to 92."
+        },
+        {
+          "answer": "Chef!",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chef! That would have scored you two."
+        },
+        {
+          "answer": "People Just Do Nothing",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "People Just Do Nothing. Very good. And that would have got four."
+        },
+        {
+          "answer": "Derry Girls",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That was a little bit more well known, 17."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Players who won Wimbledon ladies' or gentlemen's singles since the Open era (1968-2024) who did not represent the UK, US or Australia",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Marion Bartoli",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "It's absolutely right. That is a pointless answer."
+        },
+        {
+          "answer": "Amelie Mauresmo",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jay",
+          "evidence_quote": "Oh, one! One for Amelie Mauresmo."
+        },
+        {
+          "answer": "Naomi Osaka",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kamilia",
+          "evidence_quote": "That scores you 100 points... she's never won Wimbledon."
+        },
+        {
+          "answer": "Michael Jordan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "an incorrect answer scores you 100 points. Takes your total up to 200 points."
+        },
+        {
+          "answer": "Boris Becker",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fred",
+          "evidence_quote": "Boris Becker - absolutely right. Not bad. 21."
+        },
+        {
+          "answer": "Manuel Santana",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sam",
+          "evidence_quote": "It scored you 100 points... He won in 1966... two years before the Open era"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Characters played by Helena Bonham Carter (find the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Elena Propper de Callejon",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Fred",
+          "evidence_quote": "Is that a pointless Helena Bonham Carter character? Oh, no... Elena Propper de Callejon is actually her mother's name."
+        },
+        {
+          "answer": "Lucy Honeychurch",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "It's a Helena Bonham Carter character, for sure. Oh! Two people knew that."
+        },
+        {
+          "answer": "Marla Singer",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Her Fight Club character. Two people knew that as well"
+        },
+        {
+          "answer": "Lydia Deetz",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The other incorrect one was Lydia Deetz. That's a red herring."
+        },
+        {
+          "answer": "Helen Schlegel",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The pointless answers you could have gone for were Helen Schlegel, which is her character's name in Howards End."
+        },
+        {
+          "answer": "Eudoria Holmes",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Eudoria Holmes is a character in the Enola Holmes films, which nobody knew either"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Holiday destinations in Celtic regions (Ireland/Northern Ireland, Highlands and Islands of Scotland, Wales, Brittany/France)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Saint-Malo",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jay",
+          "evidence_quote": "It is right. Very much Saint-Malo. And it's a great score. Down it goes to nine."
+        },
+        {
+          "answer": "Isle of Skye",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sam",
+          "evidence_quote": "Well, it's right. And down it goes to 37."
+        },
+        {
+          "answer": "Cork",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "D was Cork, in Ireland. 48 people getting that!"
+        },
+        {
+          "answer": "Ballycastle",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it might be Ballycastle. Absolutely right. And that would have scored just two."
+        },
+        {
+          "answer": "Tenby",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "is Tenby, in Wales. And that would have scored 29."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "English words believed to come directly or indirectly from Persian (from definitions, first letter and letter count)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sitar",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Niall",
+          "evidence_quote": "Sitar is right. 32 for sitar."
+        },
+        {
+          "answer": "Pashmina",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fred",
+          "evidence_quote": "Pashmina is right. And... Oh, look at that! Pashmina wins it for you. 18 for pashmina."
+        },
+        {
+          "answer": "Jackal",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You were right to say jackal. That was correct, Jay. That would have got 30."
+        },
+        {
+          "answer": "Turban",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the fourth one there is turban. That would have scored 24."
+        },
+        {
+          "answer": "Carboy",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the one you couldn't quite bring to mind... is carboy. And that would have got one."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Europa",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Fred",
+          "evidence_quote": "Europa to five. OK, five. Not pointless, but a good answer."
+        },
+        {
+          "answer": "Einsteinium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Jay",
+          "evidence_quote": "You've done it! Einsteinium has just won you £1,250."
+        },
+        {
+          "answer": "Tennessine",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Jay",
+          "evidence_quote": "Tennessine's symbol is Ts. So that was wrong."
+        },
+        {
+          "answer": "Cerium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had cerium, which has the symbol Ce."
+        },
+        {
+          "answer": "Germanium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Germanium, symbol Ge."
+        },
+        {
+          "answer": "Xenon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And xenon, with the symbol Xe."
+        },
+        {
+          "answer": "Europium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "We haven't mentioned europium, symbol Eu, appropriately."
+        },
+        {
+          "answer": "Rhenium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And rhenium, symbol Re."
+        },
+        {
+          "answer": "Hyperion",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Pointless answers you could have had there would have been Hyperion, which is a moon of Saturn."
+        },
+        {
+          "answer": "Metis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Metis, of Jupiter."
+        },
+        {
+          "answer": "Nereid",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nereid, of Neptune."
+        },
+        {
+          "answer": "Oberon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And Oberon, that's a moon of Uranus."
+        },
+        {
+          "answer": "Ganymede",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the only scoring answers here were Europa, which you said, also Ganymede, Deimos and Enceladus."
+        },
+        {
+          "answer": "Deimos",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the only scoring answers here were Europa, which you said, also Ganymede, Deimos and Enceladus."
+        },
+        {
+          "answer": "Enceladus",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the only scoring answers here were Europa, which you said, also Ganymede, Deimos and Enceladus."
+        },
+        {
+          "answer": "Tellurium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Te is the symbol for tellurium, which was pointless."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "episode_id": "s34e20",
+  "episode_label": "Series 34 Episode 20",
+  "series": 34,
+  "episode": 20,
+  "pid": "m002kvgk",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kvgk",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Any number from one to ten in one of these European languages (French, German, Italian, Spanish)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "huit",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jean",
+          "evidence_quote": "Huit is right. Down it goes to eight!"
+        },
+        {
+          "answer": "sieben",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "Sieben scores four, confusingly enough!"
+        },
+        {
+          "answer": "due",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "five is where you end up with due"
+        },
+        {
+          "answer": "ocho",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "You pass the high, you pass the low. Down to two!"
+        },
+        {
+          "answer": "quattro",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "That goes down to 13"
+        },
+        {
+          "answer": "dieci",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "That's a pointless answer, and it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "acht",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nathan",
+          "evidence_quote": "Acht takes you down to five."
+        },
+        {
+          "answer": "tres",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bill",
+          "evidence_quote": "Tres, scoring you 40, taking your total up to 48."
+        },
+        {
+          "answer": "neuf",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The lowest score there was neuf - nine - which scored three."
+        },
+        {
+          "answer": "neun",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For the German, neun and zehn - nine and ten - were both pointless."
+        },
+        {
+          "answer": "zehn",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For the German, neun and zehn - nine and ten - were both pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Famous women featured in Judy Chicago's artwork 'The Dinner Party' (place settings or Heritage Floor)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Amelia Earhart",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nathan",
+          "evidence_quote": "Amelia Earhart, absolutely right. And that goes down to 30."
+        },
+        {
+          "answer": "Jane Austen",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "43 for Jane Austen."
+        },
+        {
+          "answer": "Elizabeth I",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "the Tudor monarch, Elizabeth... That goes down to 33."
+        },
+        {
+          "answer": "Eleanor Roosevelt",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Eleanor Roosevelt... That would've scored you 14."
+        },
+        {
+          "answer": "Sappho",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sappho. Would've scored you eight."
+        },
+        {
+          "answer": "Ethel Smyth",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "it's Smyth, Xander! That scored two."
+        },
+        {
+          "answer": "Virginia Woolf",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Not bad at all. 16."
+        },
+        {
+          "answer": "Boudica",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Peter",
+          "evidence_quote": "34 For Boudica"
+        },
+        {
+          "answer": "Katharine Hepburn",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "22, taking your total up to 52."
+        },
+        {
+          "answer": "Cleopatra",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We have Cleopatra... 54 points that would have scored you."
+        },
+        {
+          "answer": "Georgia O'Keeffe",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Georgia O'Keeffe is the painter... Would have scored you seven."
+        },
+        {
+          "answer": "Sojourner Truth",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Sojourner Truth... And it would have scored you one."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Officials who have refereed football matches in the English Premier League (find the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rebecca Welch",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "She's a referee in the Premier League. And she's pointless!"
+        },
+        {
+          "answer": "Uriah Rennie",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "It's a Premier League referee. Oh, one person!"
+        },
+        {
+          "answer": "Dermot Gallagher",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Dermot Gallagher... was a pointless answer!"
+        },
+        {
+          "answer": "Mark Clattenburg",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mark Clattenburg, another very famous referee... Would score you three."
+        },
+        {
+          "answer": "Adrian Wilson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Adrian Wilson, not a Premier League referee - chief umpire at Wimbledon"
+        },
+        {
+          "answer": "Martin Rutherford",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Martin Rutherford, not a referee. That's David Morrissey's referee character"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Breeds of dog (shown in superhero costume) with alternate letters missing",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Newfoundland",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nathan",
+          "evidence_quote": "Newfoundland is right. 19."
+        },
+        {
+          "answer": "Shar Pei",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "No, not Sha Pek, but very well done indeed, Nathan and Vic"
+        },
+        {
+          "answer": "Schipperke",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's a Schipperke. Pointless answer."
+        },
+        {
+          "answer": "Jack Russell Terrier",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A was Jack Russell Terrier... 58 that would have scored you."
+        },
+        {
+          "answer": "Corgi",
+          "score": 70,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Corgi. 70."
+        },
+        {
+          "answer": "Pug",
+          "score": 83,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's a...Pug, which would have scored you 83."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Facts about the singer Tina Turner",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Let's Stay Together",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Four for Let's Stay Together."
+        },
+        {
+          "answer": "GoldenEye",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "Eight for GoldenEye!"
+        },
+        {
+          "answer": "Dancer",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dancer, would have scored you 53."
+        },
+        {
+          "answer": "Angela Bassett",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Angela Bassett portrayed her... Would've scored you five."
+        },
+        {
+          "answer": "The Best",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Best. Obviously! Scored you 58."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Main flavouring (fruit or nut) of these liqueurs",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "cherry (maraschino)",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vic",
+          "evidence_quote": "Cherry is right. 56."
+        },
+        {
+          "answer": "hazelnut (Frangelico)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "It is right, and it wins you the point... Down it goes to 21"
+        },
+        {
+          "answer": "banana (Pisang Ambon)",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's a green liqueur that tastes of banana... 22."
+        },
+        {
+          "answer": "passion fruit (Passoa)",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Passion fruit... Scored you 35."
+        },
+        {
+          "answer": "blackberry (creme de mure)",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Blackberry for the final one. Would have scored you 11."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Top 20 UK fishing ports by quantity of landings, or any word in fish names from BBC's Mortimer and Whitehouse: Gone Fishing",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "grayling",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Chris",
+          "evidence_quote": "Three for grayling!"
+        },
+        {
+          "answer": "zander",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Chris",
+          "evidence_quote": "Still, passing three! You've done it! Very well done indeed!"
+        },
+        {
+          "answer": "Brixham",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Chris",
+          "evidence_quote": "Brixham would have scored you three."
+        },
+        {
+          "answer": "chub",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You also said chub, which, by the way, was pointless."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "episode_id": "s34e46",
+  "episode_label": "Series 34 Episode 46",
+  "series": 34,
+  "episode": 46,
+  "pid": "m002tsf5",
+  "source_url": "https://www.bbc.co.uk/programmes/m002tsf5",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Shoe designers with footwear in the Victoria and Albert Museum: supply the missing surnames (with first name, surname initial, year and country of birth)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mary Quant",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Mary Quant. Absolutely right. APPLAUSE Down to 52."
+        },
+        {
+          "answer": "Bruce Oldfield",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynn",
+          "evidence_quote": "Oldfield is right... Down it goes to 26."
+        },
+        {
+          "answer": "Yves Saint Laurent",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Yves Saint Laurent is right. APPLAUSE 73 for Yves Saint Laurent."
+        },
+        {
+          "answer": "Calvin Klein",
+          "score": 88,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "Calvin Klein is right, but it's very right. 88 right."
+        },
+        {
+          "answer": "Norman Hartnell",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I think it's Norman Hartnell... That would have scored you 19."
+        },
+        {
+          "answer": "Christian Dior",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Christian Dior. Correct. That would have scored you 69."
+        },
+        {
+          "answer": "Anouska Hempel",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Anouska Hempel, is it?... Yes, it is. It would have scored 8."
+        },
+        {
+          "answer": "Vivienne Westwood",
+          "score": 80,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "Vivienne Westwood is absolutely right... 80. Taking your total up to 168."
+        },
+        {
+          "answer": "Emma Hope",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "Oh, and it is. 2 for Emma Hope. Very well done."
+        },
+        {
+          "answer": "Christian Louboutin",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "indeed, Louboutin. Down it goes to 25."
+        },
+        {
+          "answer": "Gianni Versace",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Gianni Versace. That goes down to 37."
+        },
+        {
+          "answer": "Louis Vuitton",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Louis Vuitton, 1821... 60. A lot of people knew him."
+        },
+        {
+          "answer": "Issey Miyake",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Issey Miyake. Exactly. Would have been a good one to go for. Would have got 20."
+        },
+        {
+          "answer": "Ralph Lauren",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "72 people knew him"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Any single word in the name of a UK bird species (from the RSPB find-a-bird A-Z list) beginning with B, I, R or D",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dove",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Dove goes down to 14."
+        },
+        {
+          "answer": "Raven",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynn",
+          "evidence_quote": "Raven is right... 13 for raven."
+        },
+        {
+          "answer": "Blue",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Blue is right... That goes down to 15."
+        },
+        {
+          "answer": "Breasted",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "That is a pointless answer... Leaves your total at 15."
+        },
+        {
+          "answer": "Ringed",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "That's another pointless answer... leaves your total at 13."
+        },
+        {
+          "answer": "Banded",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "It scores you 100 points... there aren't any in the UK."
+        },
+        {
+          "answer": "Blackcap",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had blackcap, brambling, bunting."
+        },
+        {
+          "answer": "Brambling",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had blackcap, brambling, bunting."
+        },
+        {
+          "answer": "Bunting",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had blackcap, brambling, bunting."
+        },
+        {
+          "answer": "Dartford",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "And there's the Dartford, of course."
+        },
+        {
+          "answer": "Diver",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "diver, as in black-throated diver"
+        },
+        {
+          "answer": "Redpoll",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the common redpoll and the lesser redpoll"
+        },
+        {
+          "answer": "Redwing",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there was redwing, ringed, and ruddy"
+        },
+        {
+          "answer": "Ruddy",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "ruddy, as in ruddy duck"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "Identify which of six options were signatories of the US Declaration of Independence in 1776 (two scoring, two pointless, two not signatories)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Francis Hopkinson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Definitely a signatory to the US Declaration of Independence. And look at that! Very well done indeed."
+        },
+        {
+          "answer": "Benjamin Gates",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Michael",
+          "evidence_quote": "No! Bad luck. Not Benjamin Gates... Nicolas Cage's character in the film National Treasure."
+        },
+        {
+          "answer": "John Hancock",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "John Hancock there wasn't a red herring, as it turns out. 15 people knew that."
+        },
+        {
+          "answer": "Lyman Hall",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lyman Hall was one you could have got. That would have scored you one."
+        },
+        {
+          "answer": "William Ellery",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "William Ellery was the other pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify English footballers playing for clubs not based in England (from photos and initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lucy Bronze",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Lucy Bronze - absolutely right. And that goes down to 12."
+        },
+        {
+          "answer": "Kevin Keegan",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Kevin Keegan is right. 57 for Kevin Keegan"
+        },
+        {
+          "answer": "Georgia Stanway",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That's actually Georgia Stanway... that would have got you 3."
+        },
+        {
+          "answer": "Tammy Abraham",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Tammy Abraham who plays there for AS Roma. That was known by 13 people."
+        },
+        {
+          "answer": "Jude Bellingham",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jude Bellingham, for Real Madrid... that would have scored you 35."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Name songs with a one-word title exactly eight letters long (from clips and first letter)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Espresso",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Espresso is right. Down it goes to 11."
+        },
+        {
+          "answer": "Suddenly",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Suddenly is right. Oh, it's a good score - 21."
+        },
+        {
+          "answer": "Physical",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You were right about Physical... That would have scored you 20."
+        },
+        {
+          "answer": "Fernando",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You were right about Fernando from ABBA... Scored 33."
+        },
+        {
+          "answer": "Sprinter",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sprinter. And that would have got you 4."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Give the acronym or initialism of technological terms",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "CPU",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "central processing unit - CPU... 23 for CPU."
+        },
+        {
+          "answer": "RAM",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "RAM is right... down to 2."
+        },
+        {
+          "answer": "PC",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "personal computer - PC - and that would have scored you 43."
+        },
+        {
+          "answer": "AI",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "artificial intelligence - AI... 31 people were talking about it"
+        },
+        {
+          "answer": "HTML",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "whatever that one is, would have got you 9."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Feature films for which Donald Glover or Danny Glover received an acting credit (including voice roles)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Solo: A Star Wars Story (Danny Glover)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Michael",
+          "evidence_quote": "Solo... I'm afraid, not a correct answer."
+        },
+        {
+          "answer": "Spider-Man: Into The Multiverse (Danny Glover)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Michael",
+          "evidence_quote": "it's not Spider-Man: Into The Multiverse, it's Spider-Man: Across The Spider-verse"
+        },
+        {
+          "answer": "Saw (Donald Glover)",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Michael",
+          "evidence_quote": "Saw. We're now on Donald Glover films... Wrong person."
+        },
+        {
+          "answer": "Solo: A Star Wars Story (Donald Glover)",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "if you'd said Solo for Donald Glover, that would have scored 2."
+        },
+        {
+          "answer": "Saw (Danny Glover)",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "If you'd said Saw for Danny Glover, that would have scored 1."
+        },
+        {
+          "answer": "Spider-Man: Across The Spider-verse (Donald Glover)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "had you said that for Donald Glover, that would have been a pointless answer."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "episode_id": "s35e15",
+  "episode_label": "Series 35 Episode 15",
+  "series": 35,
+  "episode": 15,
+  "pid": "m002vq8z",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Name any country (other than the UK) whose usual short form name comes alphabetically between Canada and United States of America",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nauru",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "A pointless answer, and being a pointless answer, of course, it adds £250"
+        },
+        {
+          "answer": "Marshall Islands",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Mark",
+          "evidence_quote": "Another pointless answer, adding another £250 to today's jackpot"
+        },
+        {
+          "answer": "Togo",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "One person got Togo! One."
+        },
+        {
+          "answer": "Ecuador",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bob",
+          "evidence_quote": "Ecuador is right. Ten for Ecuador."
+        },
+        {
+          "answer": "Micronesia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "It's another pointless answer. It adds another £250 to today's jackpot"
+        },
+        {
+          "answer": "Chad",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Seven for Chad. Takes your total up to eight."
+        },
+        {
+          "answer": "Sao Tome and Principe",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jackie",
+          "evidence_quote": "Oh, one person! Taking your total up to one."
+        },
+        {
+          "answer": "Eritrea",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gary",
+          "evidence_quote": "Down it goes to four, taking your total up to four."
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Equatorial Guinea, Grenada, Guinea-Bissau."
+        },
+        {
+          "answer": "Grenada",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Equatorial Guinea, Grenada, Guinea-Bissau."
+        },
+        {
+          "answer": "Guinea-Bissau",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Equatorial Guinea, Grenada, Guinea-Bissau."
+        },
+        {
+          "answer": "Kyrgyzstan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kyrgyzstan, Lesotho, Malaysia."
+        },
+        {
+          "answer": "Lesotho",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kyrgyzstan, Lesotho, Malaysia."
+        },
+        {
+          "answer": "Malaysia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kyrgyzstan, Lesotho, Malaysia."
+        },
+        {
+          "answer": "Mongolia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mongolia, Papua New Guinea, and San Marino."
+        },
+        {
+          "answer": "Papua New Guinea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mongolia, Papua New Guinea, and San Marino."
+        },
+        {
+          "answer": "San Marino",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mongolia, Papua New Guinea, and San Marino."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Nickel (Nickelodeon)",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Nickel is right. Down it goes to 31."
+        },
+        {
+          "answer": "Zinc (Zinchenko)",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Mark",
+          "evidence_quote": "Zinc is absolutely right. ... 16 for zinc."
+        },
+        {
+          "answer": "Copper (Copper plate)",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "Copper is right. 31 is our highest score. You pass it. 29 for copper."
+        },
+        {
+          "answer": "Gold (Goldilocks)",
+          "score": 87,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Goldilocks, you mentioned. Gold. 87."
+        },
+        {
+          "answer": "Lead (Leaderboard)",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lead, leaderboard. That would have given you 63."
+        },
+        {
+          "answer": "Carbon (Carbonara)",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And carbon, carbonara. 55."
+        },
+        {
+          "answer": "Argon (Argonauts)",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Argon is right. 58 for argon, taking your total up to 87."
+        },
+        {
+          "answer": "Tin (Tinnitus)",
+          "score": 74,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jackie",
+          "evidence_quote": "Ooh, 74 for tin, taking your total up to 90"
+        },
+        {
+          "answer": "Iron (Irony)",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gary",
+          "evidence_quote": "Down it goes to 21. Fantastic. 52, your total."
+        },
+        {
+          "answer": "Neon (Neonate)",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Neon. Yeah, that would have got you 11."
+        },
+        {
+          "answer": "Silver (Silverback)",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "silverback, silver, at 57."
+        },
+        {
+          "answer": "Krypton",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And krypton would have scored you 55."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head warm-up",
+      "category_text": "Which of these are among the 50 most followed TikTok accounts (as of September 2024) - find the pointless ones",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Khabane Lame",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Mark",
+          "evidence_quote": "11 for Khabane Lame."
+        },
+        {
+          "answer": "Kesha Sebert",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "Is that a pointless TikToker? Oh, no! Empty-handed, I'm afraid."
+        },
+        {
+          "answer": "Kylie Jenner",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kylie Jenner, she has 56.2 million followers and scored two."
+        },
+        {
+          "answer": "Domelipa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Domelipa has over 75 million followers. She was pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Dog breeds shown on a beach - identify the most obscure",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Whippet",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "Whippet is right. 67 for whippet."
+        },
+        {
+          "answer": "Chow chow",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "It is a chow chow. And it wins you the point. ... Down it goes to 35."
+        },
+        {
+          "answer": "Chihuahua",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chihuahua, you guessed correctly, E. That would have got you 60."
+        },
+        {
+          "answer": "Akita",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Akita. There's C. 27."
+        },
+        {
+          "answer": "Bouvier des Flandres",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Bouvier des Flandres. ... Would have scored you one."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Garden features found at National Trust properties (as of July 2024), with alternate letters removed",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Fruitery",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "Let's see what happens when we say fruitery. ... Not a fruitery."
+        },
+        {
+          "answer": "Fountain",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gary",
+          "evidence_quote": "Fountain. And it is right. ... 14 is what it scores."
+        },
+        {
+          "answer": "Sundial",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "sundial, you had. That would have scored you 19."
+        },
+        {
+          "answer": "Bird bath",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And bird bath you also identified, at 11."
+        },
+        {
+          "answer": "Folly",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Down below we had folly for 27."
+        },
+        {
+          "answer": "Stumpery",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Of course it's a stumpery. ... And that was pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Clues to facts about gymnast Simone Biles",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Goat (emoji)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgia",
+          "evidence_quote": "It is indeed a goat. And that goes down to seven."
+        },
+        {
+          "answer": "1990s (decade born)",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Annie",
+          "evidence_quote": "It was the 1990s. ... it's a good score, 23 for 1990s."
+        },
+        {
+          "answer": "Joe Biden",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Presidential Medal of Freedom was Joe Biden. That would have got you 35."
+        },
+        {
+          "answer": "Rio de Janeiro",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the Olympics where she won four medals, Rio de Janeiro. ... Scored you 16."
+        },
+        {
+          "answer": "Dancing With The Stars",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dancing With The Stars. That would have scored you 12."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Country music: any performer (other than Dolly Parton) with a song in Rolling Stone's 200 Greatest Country Songs of All Time, OR any word four letters or longer in the lyrics of Dolly Parton's Jolene",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Kris Kristofferson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Gary",
+          "evidence_quote": "Kris Kristofferson is a pointless answer, which means you have won the jackpot."
+        },
+        {
+          "answer": "Locks",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Georgia",
+          "evidence_quote": "Down we go with locks. ... Oh, down to one."
+        },
+        {
+          "answer": "Compare",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Georgia",
+          "evidence_quote": "Your third answer, compare, would have also scored you one."
+        },
+        {
+          "answer": "Beyonce",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "So, Beyonce. Relatively new ... with Texas Hold 'Em. That was on the list."
+        },
+        {
+          "answer": "Chris Stapleton",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Chris Stapleton. Lil Nas X."
+        },
+        {
+          "answer": "Lil Nas X",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Lil Nas X. Old Town Road is the song."
+        },
+        {
+          "answer": "Loretta Lynn",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Loretta Lynn. She had several songs on the list"
+        },
+        {
+          "answer": "Emmylou Harris",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Emmylou Harris. Gram Parsons. June Carter."
+        },
+        {
+          "answer": "Gram Parsons",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Emmylou Harris. Gram Parsons. June Carter."
+        },
+        {
+          "answer": "June Carter",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Gram Parsons. June Carter. Lyle Lovett."
+        },
+        {
+          "answer": "Lyle Lovett",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "June Carter. Lyle Lovett. Keith Urban."
+        },
+        {
+          "answer": "Keith Urban",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Lyle Lovett. Keith Urban. Patsy Cline."
+        },
+        {
+          "answer": "Patsy Cline",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Keith Urban. Patsy Cline. Come on!"
+        },
+        {
+          "answer": "Ray Charles",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ray Charles. Tracy Chapman. They were all pointless."
+        },
+        {
+          "answer": "Tracy Chapman",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ray Charles. Tracy Chapman. They were all pointless."
+        },
+        {
+          "answer": "Flaming",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Here are some of the pointless answers you could have had. Flaming, sleep, summer and understand."
+        },
+        {
+          "answer": "Sleep",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Flaming, sleep, summer and understand."
+        },
+        {
+          "answer": "Summer",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Flaming, sleep, summer and understand."
+        },
+        {
+          "answer": "Understand",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Flaming, sleep, summer and understand."
+        }
+      ]
+    }
+  ]
+}

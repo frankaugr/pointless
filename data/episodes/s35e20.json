@@ -1,0 +1,450 @@
+{
+  "episode_id": "s35e20",
+  "episode_label": "Series 35 Episode 20",
+  "series": 35,
+  "episode": 20,
+  "pid": "m002w0g2",
+  "source_url": "https://www.bbc.co.uk/programmes/m002w0g2",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Actors who directed episodes of TV series in which they also starred (given initials of show, actor's name, and year first broadcast) — name the TV shows",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Royle Family",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Colin",
+          "evidence_quote": "The Royle Family is absolutely right... Look at that. 39. Well done, Col."
+        },
+        {
+          "answer": "The Handmaid's Tale",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robert",
+          "evidence_quote": "Single digits - 8 for The Handmaid's Tale."
+        },
+        {
+          "answer": "The Office",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "The Office, absolutely right. 39 is our high score and you pass it. Look at that. Down to 4, Haz."
+        },
+        {
+          "answer": "Friends",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Abbas",
+          "evidence_quote": "That's not right. That scores you 100 points."
+        },
+        {
+          "answer": "Frasier",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "I do. It's Frasier. Mmm. Scores 41."
+        },
+        {
+          "answer": "Columbo",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Columbo at the top. 56."
+        },
+        {
+          "answer": "Hustle",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hustle, it was called... That would score you 15."
+        },
+        {
+          "answer": "Breaking Bad",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And then Breaking Bad, which you had. 22."
+        },
+        {
+          "answer": "How I Met Your Mother",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ameer",
+          "evidence_quote": "It is right. And down it goes to 21, taking your total up to 121."
+        },
+        {
+          "answer": "House",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "House is right. That goes down to 32, taking your total up to 36."
+        },
+        {
+          "answer": "The Bear",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cat",
+          "evidence_quote": "In fact, it's 5 right. Very well done indeed. That takes your total up to 13."
+        },
+        {
+          "answer": "Dallas",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "That goes down to 51, takes your total up to a lovely round 90."
+        },
+        {
+          "answer": "Friends (David Schwimmer)",
+          "score": 68,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Friends, David Schwimmer... that would get you 68."
+        },
+        {
+          "answer": "Waterloo Road",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Waterloo Road, as Karen said... 15."
+        },
+        {
+          "answer": "Empire",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And then Empire... Taraji P Henson... Yes, for 7."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Surnames of US presidents whose surnames contain two or more different vowels",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Washington",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Karen",
+          "evidence_quote": "Washington is right. Down it goes to 34. Solid start."
+        },
+        {
+          "answer": "Coolidge",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robert",
+          "evidence_quote": "Coolidge is right... Down to 2, Robert. This is very strong."
+        },
+        {
+          "answer": "McKinley",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "McKinley's right... 1 for McKinley. This is superb."
+        },
+        {
+          "answer": "Jackson",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "Yes, we can. Down it goes for 3... Taking your total up to 4."
+        },
+        {
+          "answer": "Eisenhower",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cat",
+          "evidence_quote": "Eisenhower is right. Through you go. Down it goes to 13."
+        },
+        {
+          "answer": "Adams",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Colin",
+          "evidence_quote": "That scores you 100 points. Takes your total up to 134. Sorry."
+        },
+        {
+          "answer": "Wilson",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Five points for Wilson"
+        },
+        {
+          "answer": "Madison",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "three points for Madison"
+        },
+        {
+          "answer": "Harrison",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "two points for Harrison"
+        },
+        {
+          "answer": "Arthur",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "one point for Arthur, as in Chester Arthur"
+        },
+        {
+          "answer": "Monroe",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "and Monroe as in James Monroe"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Identify the two pointless songs written for animated film soundtracks (six options: two scoring, two pointless, two not from animated films)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Two Hops Behind",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Robert",
+          "evidence_quote": "Two Hops Behind - there's no such thing."
+        },
+        {
+          "answer": "Accidentally In Love",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "That is by Counting Crows from Shrek 2, but not pointless."
+        },
+        {
+          "answer": "Everything Is Awesome!!!",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "from The Lego Movie, that was mentioned. Would have scored you 2."
+        },
+        {
+          "answer": "They'll Soon Discover",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the two pointless answers - They'll Soon Discover, that's by The Shins"
+        },
+        {
+          "answer": "Try Everything",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Try Everything, also pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Name the winter sports shown in five pictures (given initials)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Para ice hockey",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robert",
+          "evidence_quote": "Para ice hockey is right. Very good indeed. Down that goes to 14."
+        },
+        {
+          "answer": "Speed skating",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nat",
+          "evidence_quote": "Speed skating. Absolutely spot on. Down that goes to 42."
+        },
+        {
+          "answer": "Snowboarding",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You could have gone for snowboarding, 36."
+        },
+        {
+          "answer": "Ice climbing",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ice climbing was 49."
+        },
+        {
+          "answer": "Ringette",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the only pointless answer on the board, ringette"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Name the popular TikTok challenges (given descriptions and alternating letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Towel",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Haz",
+          "evidence_quote": "Towel is right. Good answer. Down goes Towel to 22."
+        },
+        {
+          "answer": "Level Up",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Cat",
+          "evidence_quote": "Level Up is right. 22 is what it has to beat. And it does - down it goes to 17."
+        },
+        {
+          "answer": "Bottle Flip",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "27 for Bottle Flip."
+        },
+        {
+          "answer": "Lip Sync",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lip Sync. Absolutely. 47."
+        },
+        {
+          "answer": "Closed Eyes",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Closed Eyes scored 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Players in the 2023 Men's Rugby Union World Cup final (South Africa or New Zealand) or full name of any head coach of a team in the 2023 tournament",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Eddie Jones",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Robert",
+          "evidence_quote": "still going down with Eddie Jones to 2."
+        },
+        {
+          "answer": "Warren Gatland",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Robert",
+          "evidence_quote": "still going down, passing 2 to 1!"
+        },
+        {
+          "answer": "Andy Farrell",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Robert",
+          "evidence_quote": "Andy Farrell taking us down dutifully through the teens... passing 2. You've done it!"
+        }
+      ]
+    }
+  ]
+}

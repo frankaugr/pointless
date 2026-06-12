@@ -1,0 +1,619 @@
+{
+  "episode_id": "s34e04",
+  "episode_label": "Series 34 Episode 4",
+  "series": 34,
+  "episode": 4,
+  "pid": "m002jwy3",
+  "source_url": "https://www.bbc.co.uk/programmes/m002jwy3",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Fish dishes — given the initials, name the dish that includes fish as a key ingredient",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Arbroath smokies",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "Arbroath smokies is right. Down that goes to 17."
+        },
+        {
+          "answer": "Starling pie",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Angela",
+          "evidence_quote": "hasn't paid off. That scores you 100 points."
+        },
+        {
+          "answer": "Stargazy pie",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "15 is now our low score. Very well done indeed, Danny."
+        },
+        {
+          "answer": "Kedgeree",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Julie",
+          "evidence_quote": "33 for kedgeree."
+        },
+        {
+          "answer": "Jellied eel",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jeff",
+          "evidence_quote": "49, taking your total up to 82."
+        },
+        {
+          "answer": "Salade nicoise",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Down it goes to 17. Very good indeed."
+        },
+        {
+          "answer": "Cullen skink",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Gordon",
+          "evidence_quote": "Cullen skink is right. Down it goes to 18."
+        },
+        {
+          "answer": "Ackee and saltfish",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "6, taking your total up to 23. Well done."
+        },
+        {
+          "answer": "Tuna mayonnaise",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have got you 45."
+        },
+        {
+          "answer": "Sushi",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "54 people recognised that."
+        },
+        {
+          "answer": "Gefilte fish",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "a very, very low score. Five."
+        },
+        {
+          "answer": "Surstromming",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest is surstromming. Only three people recognised it!"
+        },
+        {
+          "answer": "Kippers",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "They would have scored 46."
+        },
+        {
+          "answer": "Caviar",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that was 36."
+        },
+        {
+          "answer": "Lutefisk",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That was the pointless answer. It's lutefisk."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Papal names used by at least one Pope that include any of the letters in the word ROME",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Benedict",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "Benedict is right. 26 for Benedict."
+        },
+        {
+          "answer": "Innocent",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "Down it goes to 2. Very well done indeed."
+        },
+        {
+          "answer": "Francis",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jeff",
+          "evidence_quote": "Down we go to 37."
+        },
+        {
+          "answer": "Cornelius",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Julie",
+          "evidence_quote": "that is a pointless answer, Julie."
+        },
+        {
+          "answer": "Nicholas",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Ah! 1! 1, taking your total up to 3."
+        },
+        {
+          "answer": "Ignatius",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "that scores you 100 points, takes your total up to 126."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus (Forsyte Saga)",
+      "category_text": "Identify the pointless answers among six names — which are characters from John Galsworthy's Forsyte Saga (two red herrings included)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Swinburne",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Shall we find out if Swinburne is a pointless Forsyte Saga character? I'm afraid not."
+        },
+        {
+          "answer": "Bilson",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jeff",
+          "evidence_quote": "it's a Forsyte Saga character. Down he goes. Yes!"
+        },
+        {
+          "answer": "Nicholas Forsyte",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answer, of course, is Nicholas Forsyte"
+        },
+        {
+          "answer": "Montague Dartie",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "husband of Winifred Forsyte. That would have scored 1."
+        },
+        {
+          "answer": "Soames",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Soames, of course, the main character... would have scored you 19."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "21st-century events given as news headlines with words omitted (initials and a date as clues) — give the missing words",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tim Peake",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "Tim Peake is right. And that goes down to four."
+        },
+        {
+          "answer": "Taiwan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Jeff",
+          "evidence_quote": "Bad luck, I'm afraid. Not Taiwan."
+        },
+        {
+          "answer": "Thailand",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "What you were looking for was Thailand... and that scored 35."
+        },
+        {
+          "answer": "Barack Obama",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Barack Obama. Yeah. 59."
+        },
+        {
+          "answer": "Wikipedia (Wales and Sanger)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "launched Wikipedia. They did. 6 people got that right."
+        },
+        {
+          "answer": "London Olympics",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "London Olympics... 40 people got that."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Songs that were UK top 40 hits by an artist whose first name is shared with a British royal — give the act's first name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sophie",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Julie",
+          "evidence_quote": "Sophie's right. Down it goes to 27."
+        },
+        {
+          "answer": "George",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "George is right. That goes down to 35."
+        },
+        {
+          "answer": "Harry",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Late Night Talking - Harry Styles. Prince Harry... That scored 20."
+        },
+        {
+          "answer": "Anne",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "would have scored you 2. That was the lowest one on the board."
+        },
+        {
+          "answer": "Alexandra",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alexandra Burke featuring Pitbull... would have scored you 7."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Names of superheroes with one letter changed in each word — give the correct superhero names",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Supergirl",
+          "score": 83,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Supergirl down to 83."
+        },
+        {
+          "answer": "The Flash",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jeff",
+          "evidence_quote": "The Flash is right and it wins the point for you. Down it goes to 36"
+        },
+        {
+          "answer": "Batman",
+          "score": 90,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you didn't go for Batman... that would have scored 90"
+        },
+        {
+          "answer": "Scarlet Witch",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The second one down is Scarlet Witch, and that would have scored you 17."
+        },
+        {
+          "answer": "Luke Cage",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the one on the bottom, is Luke Cage, and seven people got that right."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Canadian Sport — NHL/AHL ice hockey teams based in Canada (2023/24), or national teams that won gold at the Montreal 1976 Summer Olympics",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Egypt",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Julie",
+          "evidence_quote": "if Egypt, your least confident answer, might be pointless. OK. Not Egypt."
+        },
+        {
+          "answer": "Poland",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Vicky",
+          "evidence_quote": "You've done it! ... Poland was a pointless answer."
+        },
+        {
+          "answer": "Azerbaijan",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Julie",
+          "evidence_quote": "Azerbaijan wasn't correct, because at the time... they were actually part of the USSR."
+        },
+        {
+          "answer": "Abbotsford Canucks",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have also had Abbotsford Canucks, Belleville Senators, Laval Rocket, Manitoba Moose, and Toronto Marlies."
+        },
+        {
+          "answer": "Belleville Senators",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Abbotsford Canucks, Belleville Senators, Laval Rocket, Manitoba Moose, and Toronto Marlies."
+        },
+        {
+          "answer": "Laval Rocket",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Belleville Senators, Laval Rocket, Manitoba Moose"
+        },
+        {
+          "answer": "Manitoba Moose",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Laval Rocket, Manitoba Moose, and Toronto Marlies."
+        },
+        {
+          "answer": "Toronto Marlies",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Manitoba Moose, and Toronto Marlies."
+        },
+        {
+          "answer": "Cuba",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had Cuba, Norway, Poland, as we say, and Trinidad and Tobago."
+        },
+        {
+          "answer": "Norway",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have had Cuba, Norway, Poland... and Trinidad and Tobago."
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Cuba, Norway, Poland... and Trinidad and Tobago."
+        },
+        {
+          "answer": "Bulgaria",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the other pointless answers... were Bulgaria, Czechoslovakia, Denmark"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Bulgaria, Czechoslovakia, Denmark, Federal Republic of Germany"
+        },
+        {
+          "answer": "Denmark",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Czechoslovakia, Denmark, Federal Republic of Germany, Finland"
+        },
+        {
+          "answer": "Federal Republic of Germany",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Denmark, Federal Republic of Germany, Finland, Hungary"
+        },
+        {
+          "answer": "Finland",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Federal Republic of Germany, Finland, Hungary, North Korea"
+        },
+        {
+          "answer": "Hungary",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Finland, Hungary, North Korea, Switzerland and Yugoslavia."
+        },
+        {
+          "answer": "North Korea",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Hungary, North Korea, Switzerland and Yugoslavia."
+        },
+        {
+          "answer": "Switzerland",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "North Korea, Switzerland and Yugoslavia."
+        },
+        {
+          "answer": "Yugoslavia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Switzerland and Yugoslavia."
+        }
+      ]
+    }
+  ]
+}

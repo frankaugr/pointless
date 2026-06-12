@@ -1,0 +1,522 @@
+{
+  "episode_id": "s34e18",
+  "episode_label": "Series 34 Episode 18",
+  "series": 34,
+  "episode": 18,
+  "pid": "m002kvcb",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kvcb",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Identify these music genres from synonyms (with initial letter given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Folk",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jean",
+          "evidence_quote": "Folk is right. 29 is what it scores."
+        },
+        {
+          "answer": "Garage",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "Garage is right. 29... Oh, 57, Anne."
+        },
+        {
+          "answer": "Soul",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Soul is right. And down it goes. 31 for soul."
+        },
+        {
+          "answer": "Funk",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "14 for funk. Very well done indeed. Lowest score so far."
+        },
+        {
+          "answer": "Rock",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rock would have scored you 66, of course."
+        },
+        {
+          "answer": "Country",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Country there, as Ian's mentioned. That got 44."
+        },
+        {
+          "answer": "Rap",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "rap... 32"
+        },
+        {
+          "answer": "House",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Akin",
+          "evidence_quote": "House is right. 63, taking your total up to 77."
+        },
+        {
+          "answer": "Punk",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "It's right, Ian. Down it goes to 35, taking your total up to 66."
+        },
+        {
+          "answer": "Industrial",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Down it goes to nine... taking you up to 66, it's also our lowest score so far"
+        },
+        {
+          "answer": "Trance",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bill",
+          "evidence_quote": "Trance is right. And it gets you through. 26, taking your total up to 55."
+        },
+        {
+          "answer": "Grime",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "well done, grime. Would score you 31."
+        },
+        {
+          "answer": "Pop",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Second-highest score, 59 for pop."
+        },
+        {
+          "answer": "Dub",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Dub, two. Best answer on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name these animals described as monogamous (first and last letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Barn owl",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Bill",
+          "evidence_quote": "Barn owl, absolutely right. That goes down to 46."
+        },
+        {
+          "answer": "Coyote",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "Absolutely right, coyote. Down we go to 21 with coyote."
+        },
+        {
+          "answer": "Albatross",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Albatross is absolutely right. Down to 15. Very well done indeed, Ian."
+        },
+        {
+          "answer": "Meerkat",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Meerkats at the top there. 37 that would have scored you."
+        },
+        {
+          "answer": "Shingleback lizard",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "That's a shingleback lizard. It would have been a pointless answer"
+        },
+        {
+          "answer": "Monk parakeet",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Monk parakeet would have scored you one."
+        },
+        {
+          "answer": "Hawksbill turtle",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Hawksbill turtle. Would have been a pointless answer there."
+        },
+        {
+          "answer": "Eurasian beaver",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Eurasian beaver. Two you'd have scored."
+        },
+        {
+          "answer": "Common marmoset",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's actually a common marmoset. And that would have scored one."
+        },
+        {
+          "answer": "Macaroni penguin",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "It is macaroni penguin! And that scores one."
+        },
+        {
+          "answer": "Dik-dik",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Ten for dik-dik, taking your total up to 31."
+        },
+        {
+          "answer": "Mute swan",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jean",
+          "evidence_quote": "Mute swan is right. Eight for mute swan."
+        },
+        {
+          "answer": "Arctic fox",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Arctic fox. That's an easy one. 39."
+        },
+        {
+          "answer": "Black vulture",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Black vulture. 20, that scores you."
+        },
+        {
+          "answer": "Pygmy seahorse",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pygmy seahorse. You would have scored one for that."
+        },
+        {
+          "answer": "Puffin",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "These are puffins. 36 you would have got for that."
+        },
+        {
+          "answer": "Angelfish",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it's...angelfish. 16 that would have got you."
+        },
+        {
+          "answer": "White-handed gibbon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "White-handed gibbon. That was a pointless answer as well."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head tiebreaker",
+      "category_text": "Languages spoken in Asia (find the pointless ones; two are not Asian languages)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tone",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ian",
+          "evidence_quote": "Shall we find out if Tone is a pointless Asian language? No."
+        },
+        {
+          "answer": "Dzongkha",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "It's an Asian language. Oh! One person."
+        },
+        {
+          "answer": "Ainu",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Ainu was a pointless answer. That's spoken in parts of Japan."
+        },
+        {
+          "answer": "Kannada",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kannada is spoken in southwestern India and was also a pointless answer."
+        },
+        {
+          "answer": "Malay",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "seven of our 100 said that was an Asian language"
+        },
+        {
+          "answer": "Hanzi",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hanzi, not an Asian language. Hanzi is the name for Chinese written characters."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Clues to things involving bare feet",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Ethiopia",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Ethiopia is the right one. And it takes you down to 12."
+        },
+        {
+          "answer": "Kenya",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "which means, obviously, Kenya is... not correct."
+        },
+        {
+          "answer": "Paul McCartney",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was Paul McCartney. Answer one. 14 points."
+        },
+        {
+          "answer": "Flintstones",
+          "score": 55,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "55 points for Flintstones."
+        },
+        {
+          "answer": "Sandie Shaw",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sandie Shaw singing Puppet On A String barefoot. 37."
+        },
+        {
+          "answer": "Ava Gardner",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Hollywood screen icon. Ava Gardner. Score you one."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Surname shared by pairs of people whose first names share the same initial",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Wilson",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Anne",
+          "evidence_quote": "Wilson is right. 14 for Wilson."
+        },
+        {
+          "answer": "Bergman",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "It is Bergman. Now, 14 is what it has to beat. And it does. 12."
+        },
+        {
+          "answer": "Watson",
+          "score": 46,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Emily and Emma Watson. 46 that would have scored you."
+        },
+        {
+          "answer": "Truss",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lynne Truss and Liz Truss. the highest score on the board with 58 points."
+        },
+        {
+          "answer": "Brook",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It's the Brooks... 22 that would have scored you"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Feature films for which Robin Wright or Robin Williams received an acting credit (per IMDb, as of July 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Good Morning, Vietnam",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sally",
+          "evidence_quote": "21 for Good Morning, Vietnam."
+        },
+        {
+          "answer": "Hook",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sally",
+          "evidence_quote": "Into single figures with Hook. Down to seven."
+        },
+        {
+          "answer": "Blade Runner",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Sally",
+          "evidence_quote": "Robin Wright wasn't in the original Blade Runner"
+        }
+      ]
+    }
+  ]
+}

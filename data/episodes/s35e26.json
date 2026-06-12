@@ -1,0 +1,405 @@
+{
+  "episode_id": "s35e26",
+  "episode_label": "Series 35 Episode 26",
+  "series": 35,
+  "episode": 26,
+  "pid": "m002wb0r",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wb0r",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Short-form name of any country (other than the UK) with land wholly or partially in the northern hemisphere and which contains the letter N",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Philippines",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farrah",
+          "evidence_quote": "a pointless answer. And that adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Liechtenstein",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgiana",
+          "evidence_quote": "it's another pointless answer"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jo",
+          "evidence_quote": "It's another pointless answer, and it adds another £250"
+        },
+        {
+          "answer": "Lapland",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "not actually a country as recognised by the UN. And I'm afraid that scores you 100 points"
+        },
+        {
+          "answer": "Tunisia",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "And that goes down to one"
+        },
+        {
+          "answer": "St Kitts and Nevis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "Another pointless answer. It adds another £250"
+        },
+        {
+          "answer": "St Vincent and the Grenadines",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alfie",
+          "evidence_quote": "It's another pointless answer. It adds another £250"
+        },
+        {
+          "answer": "Uzbekistan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elisha",
+          "evidence_quote": "That is another pointless answer. It adds another £250"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Names of TV/radio shows, films, video games or book series that created or featured a fictional food, drink or recipe",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Simpsons",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elisha",
+          "evidence_quote": "It's right. And down it goes to 41"
+        },
+        {
+          "answer": "Fortnite",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgiana",
+          "evidence_quote": "14. Very well done indeed. 14 for Fortnite"
+        },
+        {
+          "answer": "The Hitchhiker's Guide To The Galaxy",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jo",
+          "evidence_quote": "there you are on 22. Very well done indeed"
+        },
+        {
+          "answer": "Lembas - Lord Of The Rings",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lembas - Lord Of The Rings. And that scored 52"
+        },
+        {
+          "answer": "Stay-Puft Marshmallows - Ghostbusters",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ghostbusters. That goes for 25"
+        },
+        {
+          "answer": "SpongeBob SquarePants",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "SpongeBob SquarePants. And that went for 45"
+        },
+        {
+          "answer": "Futurama",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "19, taking your total up to 41"
+        },
+        {
+          "answer": "Fallout",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alfie",
+          "evidence_quote": "Down you go to eight, taking your total up to 22"
+        },
+        {
+          "answer": "Pulp Fiction",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Farrah",
+          "evidence_quote": "Down it goes to 25, taking your total up to 66"
+        },
+        {
+          "answer": "Star Trek",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Star Trek, which you were right, that was 45"
+        },
+        {
+          "answer": "The Archers",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Archers, which scored 36"
+        },
+        {
+          "answer": "Harry Potter",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Harry Potter, which scored 44"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot bonus (Salvador Dali artworks)",
+      "category_text": "Which of the six options are pointless Salvador Dali artworks (two scoring, two pointless, two not Dali at all)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dream Caused By The Flight Of A Bee",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgiana",
+          "evidence_quote": "It's right. And it's pointless as well!"
+        },
+        {
+          "answer": "The Hallucinogenic Toreador",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "Three for The Hallucinogenic Toreador"
+        },
+        {
+          "answer": "Intelligent Artifice",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Intelligent Artifice is actually not a Dali piece of work"
+        },
+        {
+          "answer": "Spider Of The Evening",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Spider Of The Evening. Scored two"
+        },
+        {
+          "answer": "Sour Green Apple",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That is a Chupa Chups lollipop flavour"
+        },
+        {
+          "answer": "Morphological Echo",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the pointless answer was Morphological Echo"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Name the sports from pictures of their goals or targets",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Australian rules football",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Georgiana",
+          "evidence_quote": "It's right. Down it goes to 21"
+        },
+        {
+          "answer": "Curling",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "Curling is right. 41 for curling"
+        },
+        {
+          "answer": "Water polo",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "A, which was water polo, which was worth 52"
+        },
+        {
+          "answer": "Archery",
+          "score": 76,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "B, we have archery, which was worth 76"
+        },
+        {
+          "answer": "Disc golf",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "disc golf, which was worth two"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Name famous people who were born on 31st December (New Year's Eve)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Donna Summer",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jason",
+          "evidence_quote": "Donna Summer's right. Down it goes to 43"
+        },
+        {
+          "answer": "Henri Matisse",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alfie",
+          "evidence_quote": "it is right. And it wins you the point... Down it goes to ten"
+        },
+        {
+          "answer": "Alex Ferguson",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alex Ferguson, who was worth 50"
+        },
+        {
+          "answer": "Anthony Hopkins",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Anthony Hopkins, who you said, which was worth 52"
+        },
+        {
+          "answer": "Gabby Douglas",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the gymnast that we were looking for, Gabby Douglas, worth four"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Any film in Rotten Tomatoes' 100 Best Zombie Movies Ranked (2025), OR any word of four or more letters in the lyrics of She's Not There by The Zombies",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Forever",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Alfie",
+          "evidence_quote": "Is it right? No! It was a guess. And, as it turns out, a wrong guess"
+        },
+        {
+          "answer": "Warm Bodies",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Georgiana",
+          "evidence_quote": "Warm Bodies has just one you £2,750"
+        },
+        {
+          "answer": "One Cut For The Dead",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Alfie",
+          "evidence_quote": "It's actually called One Cut OF The Dead... It was incorrect"
+        }
+      ]
+    }
+  ]
+}

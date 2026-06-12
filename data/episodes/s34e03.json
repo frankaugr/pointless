@@ -1,0 +1,538 @@
+{
+  "episode_id": "s34e03",
+  "episode_label": "Series 34 Episode 3",
+  "series": 34,
+  "episode": 3,
+  "pid": "m002jwzf",
+  "source_url": "https://www.bbc.co.uk/programmes/m002jwzf",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "US states or state capitals that do not contain the letter E",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Honolulu",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Millie",
+          "evidence_quote": "Down to 1. What a great start. Millie, 1 for Honolulu."
+        },
+        {
+          "answer": "Bismarck",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Oh, down to 1! Joining Millie on 1."
+        },
+        {
+          "answer": "Hawaii",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Vicky",
+          "evidence_quote": "Below 30. 26. Not bad at all."
+        },
+        {
+          "answer": "Olympia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "Olympia is a pointless answer."
+        },
+        {
+          "answer": "Arkansas",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "Down it goes to 18. Very well done indeed."
+        },
+        {
+          "answer": "Wyoming",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Danny",
+          "evidence_quote": "Wyoming is right. Down it goes to 13."
+        },
+        {
+          "answer": "Annapolis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "I suspect it might be pointless. And it is!"
+        },
+        {
+          "answer": "Albany",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "Albany is right. And it gets you through. Ah! Scores 1."
+        },
+        {
+          "answer": "Augusta",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Augusta, the state capital of Maine"
+        },
+        {
+          "answer": "Columbus",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Columbus, the state capital of Ohio"
+        },
+        {
+          "answer": "Indianapolis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Indianapolis, the state capital of Indiana"
+        },
+        {
+          "answer": "Lincoln",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Lincoln, which is the capital of Nebraska"
+        },
+        {
+          "answer": "Madison",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Madison of Wisconsin"
+        },
+        {
+          "answer": "Oklahoma City",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Oklahoma City, of course, the state capital of Oklahoma"
+        },
+        {
+          "answer": "Richmond",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Richmond in Virginia"
+        },
+        {
+          "answer": "Saint Paul",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Saint Paul in Minnesota"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Television programmes featuring female crime fighters (from initials, actors and years)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Vera",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Millie",
+          "evidence_quote": "47 for Vera. Not bad. A solid start."
+        },
+        {
+          "answer": "Cagney And Lacey",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Cagney And Lacey is absolutely right. Down it goes to 26."
+        },
+        {
+          "answer": "The Bee",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "It's not The Bee... it's incorrect. Scores you 100 points."
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Dale",
+          "evidence_quote": "Murder, She Wrote is right. That goes down to 37."
+        },
+        {
+          "answer": "Happy Valley",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Happy Valley is absolutely right. Down it goes to 27."
+        },
+        {
+          "answer": "Dr Ria",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "No! I'm sorry, Tom. I'm afraid that's incorrect, and scores you 100 points"
+        },
+        {
+          "answer": "Prime Suspect",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "PS is Prime Suspect. 25 people got that right."
+        },
+        {
+          "answer": "Hetty Wainthropp Investigates",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hetty Wainthropp Investigates... would have got you 5"
+        },
+        {
+          "answer": "The Madame Blanc Mysteries",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Madame Blanc Mysteries... would have scored you 7"
+        },
+        {
+          "answer": "The Bay",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "it is The Bay. And that would have got you 1 point."
+        },
+        {
+          "answer": "Rosemary And Thyme",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rosemary And Thyme... Would have got you 26."
+        },
+        {
+          "answer": "The Gentle Touch",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gentle Touch would have got you 12."
+        },
+        {
+          "answer": "No Offence",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That is No Offence... And that scored 4."
+        },
+        {
+          "answer": "DI Ray",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's DI Ray. And that was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Identify which of six options are pointless Scilly Isles",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Illiswilgig",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Is Illiswilgig a pointless Scilly Isle? It's a Scilly Isle."
+        },
+        {
+          "answer": "Bryher",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "17 people had heard - very popular - of Bryher."
+        },
+        {
+          "answer": "Rosevear",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Rosevear was the other pointless answer in that list"
+        },
+        {
+          "answer": "Gugh",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that's Gugh. And three people knew that."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Creatures with luxuriant facial hair (from photos and alternate letters)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Emperor tamarin",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "Emperor tamarin is absolutely right. Down it goes to 12."
+        },
+        {
+          "answer": "Wildebeest",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "Wildebeest is absolutely right. And down that goes to 23."
+        },
+        {
+          "answer": "Walrus",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the walrus... In fact, 65 people did."
+        },
+        {
+          "answer": "Orangutan",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We've got the orangutan... He scored 69."
+        },
+        {
+          "answer": "Bearded barbet",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "a pointless answer and it was the bearded barbet."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Play titles with words replaced by initials, plus playwright clue",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "A Raisin In The Sun",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "A Raisin In The Sun, absolutely right. That goes down to 2."
+        },
+        {
+          "answer": "Death Of A Salesman",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "Another good answer, 24"
+        },
+        {
+          "answer": "Two Gentlemen Of Verona",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Gentlemen Of Verona... 32 people knew that"
+        },
+        {
+          "answer": "Waiting For Godot",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Waiting For Godot. 18 people knew the answer to that."
+        },
+        {
+          "answer": "Love And Information",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Love And Information... That would have scored you 1 point."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Things that rhyme with the word \"now\" (from clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Geoffrey Howe",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Olwen",
+          "evidence_quote": "for the Chancellor of the Exchequer. Absolutely right. That goes down to 23."
+        },
+        {
+          "answer": "Ossenhau",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Nkatha",
+          "evidence_quote": "Ossenhau, you have gone for... Ah, no, it's not."
+        },
+        {
+          "answer": "Oberammergau",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it's called Oberammergau... And that would have scored you 12 points."
+        },
+        {
+          "answer": "Meow",
+          "score": 82,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is meow... It scored 82."
+        },
+        {
+          "answer": "Pilau",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pilau. 36 for pilau."
+        },
+        {
+          "answer": "Wow",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "30 for Wow."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Full name of any Prime Minister of Canada or Prime Minister of India during the reign of Queen Elizabeth II",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pierre Trudeau",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Keith",
+          "evidence_quote": "Down we go with Pierre Trudeau... ..to 11."
+        },
+        {
+          "answer": "Indira Gandhi",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Keith",
+          "evidence_quote": "Down we go with Indira Gandhi... ..to 12."
+        },
+        {
+          "answer": "Lester Pearson",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Keith",
+          "evidence_quote": "Going down with Lester Pearson... ..to 1. Oh, no!"
+        }
+      ]
+    }
+  ]
+}

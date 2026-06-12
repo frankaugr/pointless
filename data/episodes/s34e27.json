@@ -1,0 +1,461 @@
+{
+  "episode_id": "s34e27",
+  "episode_label": "Series 34 Episode 27",
+  "series": 34,
+  "episode": 27,
+  "pid": "m002pj5z",
+  "source_url": "https://www.bbc.co.uk/programmes/m002pj5z",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "People, places and things whose two-word names all end in the word 'Hill' (given initials and clues)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cypress Hill",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alex",
+          "evidence_quote": "Down to 5, Alex. What a start"
+        },
+        {
+          "answer": "Bernard Hill",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Diane",
+          "evidence_quote": "29 for Bernard Hill"
+        },
+        {
+          "answer": "Grange Hill",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ruth",
+          "evidence_quote": "73 for Grange Hill"
+        },
+        {
+          "answer": "Bunker Hill",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David P",
+          "evidence_quote": "11 for Bunker Hill. Superb"
+        },
+        {
+          "answer": "Tower Hill",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tia",
+          "evidence_quote": "not Tower Hill. Scores you 100 points"
+        },
+        {
+          "answer": "Blueberry Hill",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Clive",
+          "evidence_quote": "37 required, 34 attained"
+        },
+        {
+          "answer": "Fanny Hill",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David V",
+          "evidence_quote": "down it goes to 21"
+        },
+        {
+          "answer": "Harry Hill",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "Goes down to 57"
+        },
+        {
+          "answer": "Henman Hill",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Henman Hill, yeah? ... 33"
+        },
+        {
+          "answer": "Damon Hill",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Damon Hill. Not quite as big as that ... It's 45"
+        },
+        {
+          "answer": "Calton Hill",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "This one is Calton Hill. Absolutely right. 1 point"
+        },
+        {
+          "answer": "Capitol Hill",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Capitol Hill. Yes, that's right. 25 points"
+        },
+        {
+          "answer": "Notting Hill",
+          "score": 61,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Notting Hill ... that was 61 points"
+        },
+        {
+          "answer": "Tynwald Hill",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Tynwald Hill. And that was actually the lowest at one point"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Anyone who has played in the final of the World Snooker Championship from 1977 to 2024",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Peter Ebdon",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Alex",
+          "evidence_quote": "down to 1, Alex, this is superb"
+        },
+        {
+          "answer": "Joe Johnson",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Diane",
+          "evidence_quote": "Joe Johnson's 3"
+        },
+        {
+          "answer": "Shaun Murphy",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Clive",
+          "evidence_quote": "Down to 2!"
+        },
+        {
+          "answer": "Mark Williams",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ruth",
+          "evidence_quote": "Down he goes to 5"
+        },
+        {
+          "answer": "Nigel Bond",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Oh, down to 1. Very well done indeed, David"
+        },
+        {
+          "answer": "Paul Davis",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kimia",
+          "evidence_quote": "an incorrect answer, scores you 100 points"
+        },
+        {
+          "answer": "Luca Brecel",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Luca Brecel, who won in 2023"
+        },
+        {
+          "answer": "Perrie Mans",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Perrie Mans, runner-up in 1978"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Five films which all feature dinosaurs (given initials and years of release)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Good Dinosaur",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Diane",
+          "evidence_quote": "The Good Dinosaur is right. That goes down to 30"
+        },
+        {
+          "answer": "The Valley Of Giants",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Clive",
+          "evidence_quote": "Not The Valley Of Giants ... It actually was The Valley Of Gwangi"
+        },
+        {
+          "answer": "The Valley Of Gwangi",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It actually was The Valley Of Gwangi. It was a pointless answer"
+        },
+        {
+          "answer": "The Land That Time Forgot",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It's The Land That Time Forgot ... that scored 4"
+        },
+        {
+          "answer": "Jurassic Park",
+          "score": 84,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Jurassic Park and that scored 84"
+        },
+        {
+          "answer": "Night At The Museum",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Night At The Museum ... that scored 59 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Five definitions of terms from astronomy (given every other letter and word origin)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Satellite",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ruth",
+          "evidence_quote": "Down to 45"
+        },
+        {
+          "answer": "Corona",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Diane",
+          "evidence_quote": "corona for the luminous circle ... Down to 28"
+        },
+        {
+          "answer": "Comet",
+          "score": 53,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We had comet at the top ... which was 53 points"
+        },
+        {
+          "answer": "Galaxy",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the next one, you're right, was galaxy, which was 67 points"
+        },
+        {
+          "answer": "Planet",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "planet, which was 34 points"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Acts that have headlined the Pyramid Stage at Glastonbury since 2000-2024, or any named stage/area other than the Pyramid Stage on the 2024 line-up",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Van Morrison",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Not Van Morrison ... Van Morrison last headlined in the 1980s"
+        },
+        {
+          "answer": "Coldplay",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "32 people remembered Coldplay"
+        },
+        {
+          "answer": "Travis",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Clive",
+          "evidence_quote": "Travis is a pointless answer and has just won you £2,250"
+        },
+        {
+          "answer": "David Bowie",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "headliners since 2000 - David Bowie"
+        },
+        {
+          "answer": "Kendrick Lamar",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kendrick Lamar, SZA, The Cure"
+        },
+        {
+          "answer": "SZA",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kendrick Lamar, SZA, The Cure"
+        },
+        {
+          "answer": "The Cure",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Kendrick Lamar, SZA, The Cure"
+        },
+        {
+          "answer": "Arcade Fire",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arcade Fire, Blur, Guns N' Roses, The White Stripes and The Who - they were all pointless"
+        },
+        {
+          "answer": "Blur",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arcade Fire, Blur, Guns N' Roses, The White Stripes and The Who - they were all pointless"
+        },
+        {
+          "answer": "Guns N' Roses",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arcade Fire, Blur, Guns N' Roses, The White Stripes and The Who - they were all pointless"
+        },
+        {
+          "answer": "The White Stripes",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arcade Fire, Blur, Guns N' Roses, The White Stripes and The Who - they were all pointless"
+        },
+        {
+          "answer": "The Who",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Arcade Fire, Blur, Guns N' Roses, The White Stripes and The Who - they were all pointless"
+        },
+        {
+          "answer": "Stormzy",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "He has headlined Glastonbury, but he would have scored 2"
+        }
+      ]
+    }
+  ]
+}

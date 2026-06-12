@@ -55,7 +55,7 @@
       "url": "https://www.un.org/en/about-us/member-states"
     }
   ],
-  "generated_at": "2026-04-26T17:32:33Z",
+  "generated_at": "2026-06-12T16:22:06Z",
   "answers": [
     {
       "id": "palau-capital",
@@ -178,6 +178,49 @@
       }
     },
     {
+      "id": "djibouti-capital",
+      "name": "Djibouti",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Djibouti",
+      "attrs": {
+        "country": "Djibouti",
+        "continent": "Africa",
+        "name_initial": "D",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 176397,
+      "obscurity": {
+        "score": 0.9794,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 176397,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9175,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Djibouti",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
+      }
+    },
+    {
       "id": "liechtenstein-capital",
       "name": "Vaduz",
       "aliases": [],
@@ -235,6 +278,49 @@
           "pageview_obscurity": 0.9742
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "congo-democratic-republic-of-the-capital",
+      "name": "Kinshasa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kinshasa",
+      "attrs": {
+        "country": "Congo, Democratic Republic of the",
+        "continent": "Africa",
+        "name_initial": "K",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 388825,
+      "obscurity": {
+        "score": 0.9716,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 388825,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8866,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Kinshasa",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
       }
     },
     {
@@ -298,6 +384,49 @@
       }
     },
     {
+      "id": "south-sudan-capital",
+      "name": "Juba",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Juba",
+      "attrs": {
+        "country": "South Sudan",
+        "continent": "Africa",
+        "name_initial": "J",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 392837,
+      "obscurity": {
+        "score": 0.9601,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 392837,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8402,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Juba",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
       "id": "saint-vincent-and-the-grenadines-capital",
       "name": "Kingstown",
       "aliases": [],
@@ -328,6 +457,92 @@
       }
     },
     {
+      "id": "cameroon-capital",
+      "name": "Yaounde",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Yaounde",
+      "attrs": {
+        "country": "Cameroon",
+        "continent": "Africa",
+        "name_initial": "Y",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 393130,
+      "obscurity": {
+        "score": 0.9588,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 393130,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8351,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Yaounde",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eritrea-capital",
+      "name": "Asmara",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Asmara",
+      "attrs": {
+        "country": "Eritrea",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 393757,
+      "obscurity": {
+        "score": 0.9562,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 393757,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8247,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Asmara",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
+      }
+    },
+    {
       "id": "comoros-capital",
       "name": "Moroni",
       "aliases": [],
@@ -355,6 +570,49 @@
           "pageview_obscurity": 0.9536
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "sierra-leone-capital",
+      "name": "Freetown",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Freetown",
+      "attrs": {
+        "country": "Sierra Leone",
+        "continent": "Africa",
+        "name_initial": "F",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 395349,
+      "obscurity": {
+        "score": 0.9497,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 395349,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.799,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Freetown",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
       }
     },
     {
@@ -418,6 +676,49 @@
       }
     },
     {
+      "id": "sudan-capital",
+      "name": "Khartoum",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Khartoum",
+      "attrs": {
+        "country": "Sudan",
+        "continent": "Africa",
+        "name_initial": "K",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 398737,
+      "obscurity": {
+        "score": 0.9394,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 398737,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7577,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Khartoum",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
+      }
+    },
+    {
       "id": "burundi-capital",
       "name": "Gitega",
       "aliases": [],
@@ -445,6 +746,49 @@
           "pageview_obscurity": 0.9381
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "morocco-capital",
+      "name": "Rabat",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rabat",
+      "attrs": {
+        "country": "Morocco",
+        "continent": "Africa",
+        "name_initial": "R",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 400205,
+      "obscurity": {
+        "score": 0.9343,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 400205,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7371,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Rabat",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -478,6 +822,135 @@
       }
     },
     {
+      "id": "ethiopia-capital",
+      "name": "Addis Ababa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Addis_Ababa",
+      "attrs": {
+        "country": "Ethiopia",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 10,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 398759,
+      "obscurity": {
+        "score": 0.9306,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 398759,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7526,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Addis Ababa",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 29",
+            "date": null,
+            "question_text": "Perfect Ten Geography: countries or capital cities with exactly ten letters in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm3j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "madagascar-capital",
+      "name": "Antananarivo",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Antananarivo",
+      "attrs": {
+        "country": "Madagascar",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 400976,
+      "obscurity": {
+        "score": 0.9304,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 400976,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7216,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Antananarivo",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 19",
+            "date": null,
+            "question_text": "Capital cities of island countries",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "burkina-faso-capital",
+      "name": "Ouagadougou",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ouagadougou",
+      "attrs": {
+        "country": "Burkina Faso",
+        "continent": "Africa",
+        "name_initial": "O",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 401636,
+      "obscurity": {
+        "score": 0.9291,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 401636,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7165,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Ouagadougou",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
       "id": "equatorial-guinea-capital",
       "name": "Malabo",
       "aliases": [],
@@ -505,6 +978,49 @@
           "pageview_obscurity": 0.9278
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "congo-republic-of-the-capital",
+      "name": "Brazzaville",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brazzaville",
+      "attrs": {
+        "country": "Congo, Republic of the",
+        "continent": "Africa",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 403064,
+      "obscurity": {
+        "score": 0.9265,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 403064,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7062,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Brazzaville",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
       }
     },
     {
@@ -538,33 +1054,98 @@
       }
     },
     {
-      "id": "djibouti-capital",
-      "name": "Djibouti",
+      "id": "liberia-capital",
+      "name": "Monrovia",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Djibouti",
+      "wiki": "https://en.wikipedia.org/wiki/Monrovia",
       "attrs": {
-        "country": "Djibouti",
+        "country": "Liberia",
         "continent": "Africa",
-        "name_initial": "D",
+        "name_initial": "M",
         "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "i"
+        "first_vowel": "o"
       },
-      "pageviews": 176397,
+      "pageviews": 406325,
       "obscurity": {
-        "score": 0.9175,
+        "score": 0.9201,
         "band": "pointless target",
-        "pointless_score": 8,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 176397,
+          "pageviews": 406325,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9175
+          "pageview_obscurity": 0.6804,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Monrovia",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "algeria-capital",
+      "name": "Algiers",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Algiers",
+      "attrs": {
+        "country": "Algeria",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 7,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 406452,
+      "obscurity": {
+        "score": 0.9188,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 406452,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6753,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Algiers",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Algiers",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -598,6 +1179,92 @@
       }
     },
     {
+      "id": "libya-capital",
+      "name": "Tripoli",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tripoli",
+      "attrs": {
+        "country": "Libya",
+        "continent": "Africa",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 400499,
+      "obscurity": {
+        "score": 0.9105,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 400499,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.732,
+          "pointless_average_score": 3.0,
+          "pointless_obscurity": 0.97,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Tripoli",
+            "score_0_to_100": 3,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mozambique-capital",
+      "name": "Maputo",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maputo",
+      "attrs": {
+        "country": "Mozambique",
+        "continent": "Africa",
+        "name_initial": "M",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 407968,
+      "obscurity": {
+        "score": 0.9074,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 407968,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6598,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Maputo",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
+      }
+    },
+    {
       "id": "dominica-capital",
       "name": "Roseau",
       "aliases": [],
@@ -628,6 +1295,49 @@
       }
     },
     {
+      "id": "angola-capital",
+      "name": "Luanda",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Luanda",
+      "attrs": {
+        "country": "Angola",
+        "continent": "Africa",
+        "name_initial": "L",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 409168,
+      "obscurity": {
+        "score": 0.9023,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 409168,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6392,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Luanda",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
       "id": "micronesia-capital",
       "name": "Palikir",
       "aliases": [],
@@ -655,6 +1365,49 @@
           "pageview_obscurity": 0.9021
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "albania-capital",
+      "name": "Tirana",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tirana",
+      "attrs": {
+        "country": "Albania",
+        "continent": "Europe",
+        "name_initial": "T",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 746407,
+      "obscurity": {
+        "score": 0.8982,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 746407,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5928,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Tirana",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
       }
     },
     {
@@ -718,33 +1471,46 @@
       }
     },
     {
-      "id": "congo-democratic-republic-of-the-capital",
-      "name": "Kinshasa",
+      "id": "suriname-capital",
+      "name": "Paramaribo",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Kinshasa",
+      "wiki": "https://en.wikipedia.org/wiki/Paramaribo",
       "attrs": {
-        "country": "Congo, Democratic Republic of the",
-        "continent": "Africa",
-        "name_initial": "K",
-        "name_length": 8,
+        "country": "Suriname",
+        "continent": "South America",
+        "name_initial": "P",
+        "name_length": 10,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "i"
+        "first_vowel": "a"
       },
-      "pageviews": 388825,
+      "pageviews": 748226,
       "obscurity": {
         "score": 0.8866,
         "band": "pointless target",
-        "pointless_score": 11,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 388825,
+          "pageviews": 748226,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8866
+          "pageview_obscurity": 0.5464,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Paramaribo",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 29",
+            "date": null,
+            "question_text": "Perfect Ten Geography: countries or capital cities with exactly ten letters in their name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm3j"
+          }
+        ]
       }
     },
     {
@@ -775,6 +1541,101 @@
           "pageview_obscurity": 0.8814
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "venezuela-capital",
+      "name": "Caracas",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Caracas",
+      "attrs": {
+        "country": "Venezuela",
+        "continent": "South America",
+        "name_initial": "C",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 750082,
+      "obscurity": {
+        "score": 0.8789,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 750082,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5155,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Caracas",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Caracas",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jamaica-capital",
+      "name": "Kingston",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kingston",
+      "attrs": {
+        "country": "Jamaica",
+        "continent": "North America",
+        "name_initial": "K",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 750341,
+      "obscurity": {
+        "score": 0.8763,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 750341,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5052,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Kingston",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
       }
     },
     {
@@ -898,6 +1759,49 @@
       }
     },
     {
+      "id": "ecuador-capital",
+      "name": "Quito",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Quito",
+      "attrs": {
+        "country": "Ecuador",
+        "continent": "South America",
+        "name_initial": "Q",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 751961,
+      "obscurity": {
+        "score": 0.8572,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 751961,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4588,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Quito",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
       "id": "tunisia-capital",
       "name": "Tunis",
       "aliases": [],
@@ -925,6 +1829,92 @@
           "pageview_obscurity": 0.8557
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "uruguay-capital",
+      "name": "Montevideo",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Montevideo",
+      "attrs": {
+        "country": "Uruguay",
+        "continent": "South America",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 753053,
+      "obscurity": {
+        "score": 0.8544,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 753053,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4175,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Montevideo",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ghana-capital",
+      "name": "Accra",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Accra",
+      "attrs": {
+        "country": "Ghana",
+        "continent": "Africa",
+        "name_initial": "A",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 405743,
+      "obscurity": {
+        "score": 0.8539,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 405743,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6856,
+          "pointless_average_score": 9.0,
+          "pointless_obscurity": 0.91,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Accra",
+            "score_0_to_100": 9,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          }
+        ]
       }
     },
     {
@@ -958,6 +1948,49 @@
       }
     },
     {
+      "id": "yemen-capital",
+      "name": "Sanaa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sanaa",
+      "attrs": {
+        "country": "Yemen",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 754621,
+      "obscurity": {
+        "score": 0.8466,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 754621,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3866,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Sanaa",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
+      }
+    },
+    {
       "id": "namibia-capital",
       "name": "Windhoek",
       "aliases": [],
@@ -988,63 +2021,98 @@
       }
     },
     {
-      "id": "south-sudan-capital",
-      "name": "Juba",
+      "id": "slovenia-capital",
+      "name": "Ljubljana",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Juba",
+      "wiki": "https://en.wikipedia.org/wiki/Ljubljana",
       "attrs": {
-        "country": "South Sudan",
-        "continent": "Africa",
-        "name_initial": "J",
-        "name_length": 4,
+        "country": "Slovenia",
+        "continent": "Europe",
+        "name_initial": "L",
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "u"
       },
-      "pageviews": 392837,
+      "pageviews": 757207,
       "obscurity": {
-        "score": 0.8402,
+        "score": 0.8312,
         "band": "pointless target",
-        "pointless_score": 16,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 392837,
+          "pageviews": 757207,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8402
+          "pageview_obscurity": 0.3247,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Ljubljana",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Ljubljana",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
       }
     },
     {
-      "id": "cameroon-capital",
-      "name": "Yaounde",
+      "id": "turkey-capital",
+      "name": "Ankara",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Yaounde",
+      "wiki": "https://en.wikipedia.org/wiki/Ankara",
       "attrs": {
-        "country": "Cameroon",
-        "continent": "Africa",
-        "name_initial": "Y",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
+        "country": "Turkey",
+        "continent": "Asia",
+        "name_initial": "A",
+        "name_length": 6,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
         "first_vowel": "a"
       },
-      "pageviews": 393130,
+      "pageviews": 754762,
       "obscurity": {
-        "score": 0.8351,
+        "score": 0.8304,
         "band": "pointless target",
-        "pointless_score": 16,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 393130,
+          "pageviews": 754762,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8351
+          "pageview_obscurity": 0.3814,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Ankara",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -1078,33 +2146,98 @@
       }
     },
     {
-      "id": "eritrea-capital",
-      "name": "Asmara",
+      "id": "estonia-capital",
+      "name": "Tallinn",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Asmara",
+      "wiki": "https://en.wikipedia.org/wiki/Tallinn",
       "attrs": {
-        "country": "Eritrea",
-        "continent": "Africa",
-        "name_initial": "A",
-        "name_length": 6,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
+        "country": "Estonia",
+        "continent": "Europe",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
         "first_vowel": "a"
       },
-      "pageviews": 393757,
+      "pageviews": 755926,
       "obscurity": {
-        "score": 0.8247,
+        "score": 0.8252,
         "band": "pointless target",
-        "pointless_score": 18,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 393757,
+          "pageviews": 755926,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8247
+          "pageview_obscurity": 0.3608,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Tallinn",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "croatia-capital",
+      "name": "Zagreb",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zagreb",
+      "attrs": {
+        "country": "Croatia",
+        "continent": "Europe",
+        "name_initial": "Z",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 759225,
+      "obscurity": {
+        "score": 0.8235,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 759225,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2938,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Zagreb",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Zagreb",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -1135,6 +2268,101 @@
           "pageview_obscurity": 0.8196
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "mongolia-capital",
+      "name": "Ulaanbaatar",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "attrs": {
+        "country": "Mongolia",
+        "continent": "Asia",
+        "name_initial": "U",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 756556,
+      "obscurity": {
+        "score": 0.8163,
+        "band": "very obscure",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 756556,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3402,
+          "pointless_average_score": 2.5,
+          "pointless_obscurity": 0.975,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Ulaanbaatar",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Ulaanbaatar",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "slovakia-capital",
+      "name": "Bratislava",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bratislava",
+      "attrs": {
+        "country": "Slovakia",
+        "continent": "Europe",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 761290,
+      "obscurity": {
+        "score": 0.8144,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 761290,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2577,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Bratislava",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
       }
     },
     {
@@ -1198,6 +2426,58 @@
       }
     },
     {
+      "id": "latvia-capital",
+      "name": "Riga",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Riga",
+      "attrs": {
+        "country": "Latvia",
+        "continent": "Europe",
+        "name_initial": "R",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 763265,
+      "obscurity": {
+        "score": 0.8054,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 763265,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2216,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Riga",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 41",
+            "date": null,
+            "question_text": "Capital city of any mainland African or mainland European country that has a coastline",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r77c"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Riga",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
+      }
+    },
+    {
       "id": "malawi-capital",
       "name": "Lilongwe",
       "aliases": [],
@@ -1228,33 +2508,175 @@
       }
     },
     {
-      "id": "sierra-leone-capital",
-      "name": "Freetown",
+      "id": "georgia-capital",
+      "name": "Tbilisi",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Freetown",
+      "wiki": "https://en.wikipedia.org/wiki/Tbilisi",
       "attrs": {
-        "country": "Sierra Leone",
-        "continent": "Africa",
-        "name_initial": "F",
-        "name_length": 8,
+        "country": "Georgia",
+        "continent": "Europe",
+        "name_initial": "T",
+        "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "i"
       },
-      "pageviews": 395349,
+      "pageviews": 763436,
       "obscurity": {
-        "score": 0.799,
+        "score": 0.8028,
         "band": "very obscure",
-        "pointless_score": 20,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 395349,
+          "pageviews": 763436,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.799
+          "pageview_obscurity": 0.2113,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Tbilisi",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
+      }
+    },
+    {
+      "id": "paraguay-capital",
+      "name": "Asuncion",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Asuncion",
+      "attrs": {
+        "country": "Paraguay",
+        "continent": "South America",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 763706,
+      "obscurity": {
+        "score": 0.8003,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 763706,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.201,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Asuncion",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "indonesia-capital",
+      "name": "Jakarta",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jakarta",
+      "attrs": {
+        "country": "Indonesia",
+        "continent": "Asia",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 750855,
+      "obscurity": {
+        "score": 0.8,
+        "band": "very obscure",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 750855,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5,
+          "pointless_average_score": 10.0,
+          "pointless_obscurity": 0.9,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Jakarta",
+            "score_0_to_100": 10,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          }
+        ]
+      }
+    },
+    {
+      "id": "belarus-capital",
+      "name": "Minsk",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Minsk",
+      "attrs": {
+        "country": "Belarus",
+        "continent": "Europe",
+        "name_initial": "M",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 763496,
+      "obscurity": {
+        "score": 0.794,
+        "band": "very obscure",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 763496,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2062,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Minsk",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -1378,6 +2800,58 @@
       }
     },
     {
+      "id": "bahamas-capital",
+      "name": "Nassau",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nassau",
+      "attrs": {
+        "country": "Bahamas",
+        "continent": "North America",
+        "name_initial": "N",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 770026,
+      "obscurity": {
+        "score": 0.7771,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 770026,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1082,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Nassau",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Nassau",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
+      }
+    },
+    {
       "id": "mali-capital",
       "name": "Bamako",
       "aliases": [],
@@ -1468,63 +2942,46 @@
       }
     },
     {
-      "id": "sudan-capital",
-      "name": "Khartoum",
+      "id": "brazil-capital",
+      "name": "Brasilia",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Khartoum",
+      "wiki": "https://en.wikipedia.org/wiki/Brasilia",
       "attrs": {
-        "country": "Sudan",
-        "continent": "Africa",
-        "name_initial": "K",
+        "country": "Brazil",
+        "continent": "South America",
+        "name_initial": "B",
         "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "a"
       },
-      "pageviews": 398737,
+      "pageviews": 4914315,
       "obscurity": {
-        "score": 0.7577,
+        "score": 0.7605,
         "band": "very obscure",
-        "pointless_score": 24,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 398737,
+          "pageviews": 4914315,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7577
+          "pageview_obscurity": 0.0722,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "ethiopia-capital",
-      "name": "Addis Ababa",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Addis_Ababa",
-      "attrs": {
-        "country": "Ethiopia",
-        "continent": "Africa",
-        "name_initial": "A",
-        "name_length": 10,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 398759,
-      "obscurity": {
-        "score": 0.7526,
-        "band": "very obscure",
-        "pointless_score": 25,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 398759,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7526
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Brasilia",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          }
+        ]
       }
     },
     {
@@ -1588,63 +3045,46 @@
       }
     },
     {
-      "id": "morocco-capital",
-      "name": "Rabat",
+      "id": "iceland-capital",
+      "name": "Reykjavik",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Rabat",
+      "wiki": "https://en.wikipedia.org/wiki/Reykjavik",
       "attrs": {
-        "country": "Morocco",
-        "continent": "Africa",
+        "country": "Iceland",
+        "continent": "Europe",
         "name_initial": "R",
-        "name_length": 5,
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "a"
+        "first_vowel": "e"
       },
-      "pageviews": 400205,
+      "pageviews": 753147,
       "obscurity": {
-        "score": 0.7371,
+        "score": 0.7331,
         "band": "very obscure",
-        "pointless_score": 26,
+        "pointless_score": 16,
         "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 400205,
+          "pageviews": 753147,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7371
+          "pageview_obscurity": 0.4124,
+          "pointless_average_score": 16.0,
+          "pointless_obscurity": 0.84,
+          "pointless_observations": 1
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "libya-capital",
-      "name": "Tripoli",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tripoli",
-      "attrs": {
-        "country": "Libya",
-        "continent": "Africa",
-        "name_initial": "T",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 400499,
-      "obscurity": {
-        "score": 0.732,
-        "band": "very obscure",
-        "pointless_score": 27,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 400499,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.732
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Reykjavik",
+            "score_0_to_100": 16,
+            "episode": "Series 34 Episode 19",
+            "date": null,
+            "question_text": "Capital cities of island countries",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7"
+          }
+        ]
       }
     },
     {
@@ -1678,63 +3118,55 @@
       }
     },
     {
-      "id": "madagascar-capital",
-      "name": "Antananarivo",
+      "id": "malta-capital",
+      "name": "Valletta",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Antananarivo",
+      "wiki": "https://en.wikipedia.org/wiki/Valletta",
       "attrs": {
-        "country": "Madagascar",
-        "continent": "Africa",
-        "name_initial": "A",
-        "name_length": 12,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
+        "country": "Malta",
+        "continent": "Europe",
+        "name_initial": "V",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
         "first_vowel": "a"
       },
-      "pageviews": 400976,
+      "pageviews": 766754,
       "obscurity": {
-        "score": 0.7216,
+        "score": 0.7212,
         "band": "very obscure",
-        "pointless_score": 28,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 400976,
+          "pageviews": 766754,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7216
+          "pageview_obscurity": 0.1546,
+          "pointless_average_score": 9.0,
+          "pointless_obscurity": 0.91,
+          "pointless_observations": 2
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "burkina-faso-capital",
-      "name": "Ouagadougou",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ouagadougou",
-      "attrs": {
-        "country": "Burkina Faso",
-        "continent": "Africa",
-        "name_initial": "O",
-        "name_length": 11,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "o"
-      },
-      "pageviews": 401636,
-      "obscurity": {
-        "score": 0.7165,
-        "band": "very obscure",
-        "pointless_score": 28,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 401636,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7165
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Valletta",
+            "score_0_to_100": 15,
+            "episode": "Series 34 Episode 19",
+            "date": null,
+            "question_text": "Capital cities of island countries",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Valletta",
+            "score_0_to_100": 3,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -1763,36 +3195,6 @@
           "pageviews": 402359,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.7113
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "congo-republic-of-the-capital",
-      "name": "Brazzaville",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Brazzaville",
-      "attrs": {
-        "country": "Congo, Republic of the",
-        "continent": "Africa",
-        "name_initial": "B",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 403064,
-      "obscurity": {
-        "score": 0.7062,
-        "band": "very obscure",
-        "pointless_score": 29,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 403064,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7062
         },
         "evidence": []
       }
@@ -1888,93 +3290,107 @@
       }
     },
     {
-      "id": "ghana-capital",
-      "name": "Accra",
+      "id": "south-korea-capital",
+      "name": "Seoul",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Accra",
+      "wiki": "https://en.wikipedia.org/wiki/Seoul",
       "attrs": {
-        "country": "Ghana",
-        "continent": "Africa",
-        "name_initial": "A",
+        "country": "South Korea",
+        "continent": "Asia",
+        "name_initial": "S",
         "name_length": 5,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 405743,
-      "obscurity": {
-        "score": 0.6856,
-        "band": "very obscure",
-        "pointless_score": 31,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 405743,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6856
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "liberia-capital",
-      "name": "Monrovia",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Monrovia",
-      "attrs": {
-        "country": "Liberia",
-        "continent": "Africa",
-        "name_initial": "M",
-        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "o"
+        "first_vowel": "e"
       },
-      "pageviews": 406325,
+      "pageviews": 752312,
       "obscurity": {
-        "score": 0.6804,
+        "score": 0.6808,
         "band": "very obscure",
-        "pointless_score": 32,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 406325,
+          "pageviews": 752312,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6804
+          "pageview_obscurity": 0.4433,
+          "pointless_average_score": 24.0,
+          "pointless_obscurity": 0.76,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Seoul",
+            "score_0_to_100": 24,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          }
+        ]
       }
     },
     {
-      "id": "algeria-capital",
-      "name": "Algiers",
+      "id": "cuba-capital",
+      "name": "Havana",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Algiers",
+      "wiki": "https://en.wikipedia.org/wiki/Havana",
       "attrs": {
-        "country": "Algeria",
-        "continent": "Africa",
-        "name_initial": "A",
-        "name_length": 7,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
+        "country": "Cuba",
+        "continent": "North America",
+        "name_initial": "H",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
         "first_vowel": "a"
       },
-      "pageviews": 406452,
+      "pageviews": 767265,
       "obscurity": {
-        "score": 0.6753,
+        "score": 0.6748,
         "band": "very obscure",
-        "pointless_score": 32,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 406452,
+          "pageviews": 767265,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6753
+          "pageview_obscurity": 0.1392,
+          "pointless_average_score": 14.67,
+          "pointless_obscurity": 0.8533,
+          "pointless_observations": 3
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Havana",
+            "score_0_to_100": 44,
+            "episode": "Series 34 Episode 19",
+            "date": null,
+            "question_text": "Capital cities of island countries",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Havana",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Havana",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 9",
+            "date": null,
+            "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdwg"
+          }
+        ]
       }
     },
     {
@@ -2033,36 +3449,6 @@
           "pageviews": 407088,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.6649
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "mozambique-capital",
-      "name": "Maputo",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Maputo",
-      "attrs": {
-        "country": "Mozambique",
-        "continent": "Africa",
-        "name_initial": "M",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 407968,
-      "obscurity": {
-        "score": 0.6598,
-        "band": "useful low scorer",
-        "pointless_score": 34,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 407968,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6598
         },
         "evidence": []
       }
@@ -2153,36 +3539,6 @@
           "pageviews": 408871,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.6443
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "angola-capital",
-      "name": "Luanda",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Luanda",
-      "attrs": {
-        "country": "Angola",
-        "continent": "Africa",
-        "name_initial": "L",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 409168,
-      "obscurity": {
-        "score": 0.6392,
-        "band": "useful low scorer",
-        "pointless_score": 36,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 409168,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6392
         },
         "evidence": []
       }
@@ -2308,6 +3664,49 @@
       }
     },
     {
+      "id": "malaysia-capital",
+      "name": "Kuala Lumpur",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "attrs": {
+        "country": "Malaysia",
+        "continent": "Asia",
+        "name_initial": "K",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 751938,
+      "obscurity": {
+        "score": 0.6185,
+        "band": "useful low scorer",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "high",
+        "components": {
+          "pageviews": 751938,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4639,
+          "pointless_average_score": 33.0,
+          "pointless_obscurity": 0.67,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Kuala Lumpur",
+            "score_0_to_100": 33,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          }
+        ]
+      }
+    },
+    {
       "id": "north-macedonia-capital",
       "name": "Skopje",
       "aliases": [],
@@ -2423,36 +3822,6 @@
           "pageviews": 746389,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.5979
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "albania-capital",
-      "name": "Tirana",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tirana",
-      "attrs": {
-        "country": "Albania",
-        "continent": "Europe",
-        "name_initial": "T",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 746407,
-      "obscurity": {
-        "score": 0.5928,
-        "band": "useful low scorer",
-        "pointless_score": 41,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 746407,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5928
         },
         "evidence": []
       }
@@ -2638,6 +4007,49 @@
       }
     },
     {
+      "id": "singapore-capital",
+      "name": "Singapore",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Singapore",
+      "attrs": {
+        "country": "Singapore",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 770461,
+      "obscurity": {
+        "score": 0.557,
+        "band": "useful low scorer",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 770461,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0979,
+          "pointless_average_score": 29.0,
+          "pointless_obscurity": 0.71,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Singapore",
+            "score_0_to_100": 29,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          }
+        ]
+      }
+    },
+    {
       "id": "kuwait-capital",
       "name": "Kuwait City",
       "aliases": [],
@@ -2668,6 +4080,49 @@
       }
     },
     {
+      "id": "thailand-capital",
+      "name": "Bangkok",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bangkok",
+      "attrs": {
+        "country": "Thailand",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 769019,
+      "obscurity": {
+        "score": 0.5534,
+        "band": "useful low scorer",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 769019,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1134,
+          "pointless_average_score": 30.0,
+          "pointless_obscurity": 0.7,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Bangkok",
+            "score_0_to_100": 30,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          }
+        ]
+      }
+    },
+    {
       "id": "honduras-capital",
       "name": "Tegucigalpa",
       "aliases": [],
@@ -2693,36 +4148,6 @@
           "pageviews": 747957,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.5515
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "suriname-capital",
-      "name": "Paramaribo",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Paramaribo",
-      "attrs": {
-        "country": "Suriname",
-        "continent": "South America",
-        "name_initial": "P",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 748226,
-      "obscurity": {
-        "score": 0.5464,
-        "band": "useful low scorer",
-        "pointless_score": 45,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 748226,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5464
         },
         "evidence": []
       }
@@ -2848,6 +4273,49 @@
       }
     },
     {
+      "id": "china-capital",
+      "name": "Beijing",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Beijing",
+      "attrs": {
+        "country": "China",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4930669,
+      "obscurity": {
+        "score": 0.5214,
+        "band": "useful low scorer",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4930669,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0155,
+          "pointless_average_score": 31.0,
+          "pointless_obscurity": 0.69,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Beijing",
+            "score_0_to_100": 31,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          }
+        ]
+      }
+    },
+    {
       "id": "cambodia-capital",
       "name": "Phnom Penh",
       "aliases": [],
@@ -2878,36 +4346,6 @@
       }
     },
     {
-      "id": "venezuela-capital",
-      "name": "Caracas",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Caracas",
-      "attrs": {
-        "country": "Venezuela",
-        "continent": "South America",
-        "name_initial": "C",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 750082,
-      "obscurity": {
-        "score": 0.5155,
-        "band": "useful low scorer",
-        "pointless_score": 48,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 750082,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5155
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "north-korea-capital",
       "name": "Pyongyang",
       "aliases": [],
@@ -2933,66 +4371,6 @@
           "pageviews": 750255,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.5103
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "jamaica-capital",
-      "name": "Kingston",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Kingston",
-      "attrs": {
-        "country": "Jamaica",
-        "continent": "North America",
-        "name_initial": "K",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 750341,
-      "obscurity": {
-        "score": 0.5052,
-        "band": "useful low scorer",
-        "pointless_score": 49,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 750341,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5052
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "indonesia-capital",
-      "name": "Jakarta",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Jakarta",
-      "attrs": {
-        "country": "Indonesia",
-        "continent": "Asia",
-        "name_initial": "J",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 750855,
-      "obscurity": {
-        "score": 0.5,
-        "band": "useful low scorer",
-        "pointless_score": 50,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 750855,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5
         },
         "evidence": []
       }
@@ -3178,66 +4556,6 @@
       }
     },
     {
-      "id": "malaysia-capital",
-      "name": "Kuala Lumpur",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
-      "attrs": {
-        "country": "Malaysia",
-        "continent": "Asia",
-        "name_initial": "K",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 751938,
-      "obscurity": {
-        "score": 0.4639,
-        "band": "useful low scorer",
-        "pointless_score": 54,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 751938,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4639
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "ecuador-capital",
-      "name": "Quito",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Quito",
-      "attrs": {
-        "country": "Ecuador",
-        "continent": "South America",
-        "name_initial": "Q",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 751961,
-      "obscurity": {
-        "score": 0.4588,
-        "band": "useful low scorer",
-        "pointless_score": 54,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 751961,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4588
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "panama-capital",
       "name": "Panama City",
       "aliases": [],
@@ -3293,36 +4611,6 @@
           "pageviews": 752305,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.4485
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "south-korea-capital",
-      "name": "Seoul",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Seoul",
-      "attrs": {
-        "country": "South Korea",
-        "continent": "Asia",
-        "name_initial": "S",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 752312,
-      "obscurity": {
-        "score": 0.4433,
-        "band": "middling",
-        "pointless_score": 56,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 752312,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4433
         },
         "evidence": []
       }
@@ -3448,63 +4736,55 @@
       }
     },
     {
-      "id": "uruguay-capital",
-      "name": "Montevideo",
+      "id": "japan-capital",
+      "name": "Tokyo",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Montevideo",
+      "wiki": "https://en.wikipedia.org/wiki/Tokyo",
       "attrs": {
-        "country": "Uruguay",
-        "continent": "South America",
-        "name_initial": "M",
-        "name_length": 10,
+        "country": "Japan",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 5,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "o"
       },
-      "pageviews": 753053,
+      "pageviews": 4931192,
       "obscurity": {
-        "score": 0.4175,
+        "score": 0.4188,
         "band": "middling",
-        "pointless_score": 58,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "high",
         "components": {
-          "pageviews": 753053,
+          "pageviews": 4931192,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4175
+          "pageview_obscurity": 0.0103,
+          "pointless_average_score": 44.5,
+          "pointless_obscurity": 0.555,
+          "pointless_observations": 2
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "iceland-capital",
-      "name": "Reykjavik",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Reykjavik",
-      "attrs": {
-        "country": "Iceland",
-        "continent": "Europe",
-        "name_initial": "R",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 753147,
-      "obscurity": {
-        "score": 0.4124,
-        "band": "middling",
-        "pointless_score": 59,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 753147,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4124
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Tokyo",
+            "score_0_to_100": 41,
+            "episode": "Series 34 Episode 10",
+            "date": null,
+            "question_text": "Cities located on the continent of Asia (given first letters)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k74n"
+          },
+          {
+            "category": "world-capitals",
+            "answer": "Tokyo",
+            "score_0_to_100": 48,
+            "episode": "Series 34 Episode 19",
+            "date": null,
+            "question_text": "Capital cities of island countries",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7"
+          }
+        ]
       }
     },
     {
@@ -3628,66 +4908,6 @@
       }
     },
     {
-      "id": "yemen-capital",
-      "name": "Sanaa",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Sanaa",
-      "attrs": {
-        "country": "Yemen",
-        "continent": "Asia",
-        "name_initial": "S",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 754621,
-      "obscurity": {
-        "score": 0.3866,
-        "band": "middling",
-        "pointless_score": 61,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 754621,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3866
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "turkey-capital",
-      "name": "Ankara",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ankara",
-      "attrs": {
-        "country": "Turkey",
-        "continent": "Asia",
-        "name_initial": "A",
-        "name_length": 6,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 754762,
-      "obscurity": {
-        "score": 0.3814,
-        "band": "middling",
-        "pointless_score": 62,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 754762,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3814
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "chile-capital",
       "name": "Santiago",
       "aliases": [],
@@ -3773,36 +4993,6 @@
           "pageviews": 755766,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.366
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "estonia-capital",
-      "name": "Tallinn",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tallinn",
-      "attrs": {
-        "country": "Estonia",
-        "continent": "Europe",
-        "name_initial": "T",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 755926,
-      "obscurity": {
-        "score": 0.3608,
-        "band": "middling",
-        "pointless_score": 64,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 755926,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3608
         },
         "evidence": []
       }
@@ -3898,36 +5088,6 @@
       }
     },
     {
-      "id": "mongolia-capital",
-      "name": "Ulaanbaatar",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ulaanbaatar",
-      "attrs": {
-        "country": "Mongolia",
-        "continent": "Asia",
-        "name_initial": "U",
-        "name_length": 11,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "u"
-      },
-      "pageviews": 756556,
-      "obscurity": {
-        "score": 0.3402,
-        "band": "middling",
-        "pointless_score": 66,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 756556,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3402
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "netherlands-capital",
       "name": "Amsterdam",
       "aliases": [],
@@ -3983,36 +5143,6 @@
           "pageviews": 756976,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.3299
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "slovenia-capital",
-      "name": "Ljubljana",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ljubljana",
-      "attrs": {
-        "country": "Slovenia",
-        "continent": "Europe",
-        "name_initial": "L",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 757207,
-      "obscurity": {
-        "score": 0.3247,
-        "band": "middling",
-        "pointless_score": 68,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 757207,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3247
         },
         "evidence": []
       }
@@ -4163,36 +5293,6 @@
           "pageviews": 759218,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.299
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "croatia-capital",
-      "name": "Zagreb",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Zagreb",
-      "attrs": {
-        "country": "Croatia",
-        "continent": "Europe",
-        "name_initial": "Z",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 759225,
-      "obscurity": {
-        "score": 0.2938,
-        "band": "middling",
-        "pointless_score": 71,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 759225,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2938
         },
         "evidence": []
       }
@@ -4378,36 +5478,6 @@
       }
     },
     {
-      "id": "slovakia-capital",
-      "name": "Bratislava",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bratislava",
-      "attrs": {
-        "country": "Slovakia",
-        "continent": "Europe",
-        "name_initial": "B",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 761290,
-      "obscurity": {
-        "score": 0.2577,
-        "band": "middling",
-        "pointless_score": 74,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 761290,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2577
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "bolivia-capital",
       "name": "Sucre",
       "aliases": [],
@@ -4588,36 +5658,6 @@
       }
     },
     {
-      "id": "latvia-capital",
-      "name": "Riga",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Riga",
-      "attrs": {
-        "country": "Latvia",
-        "continent": "Europe",
-        "name_initial": "R",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 763265,
-      "obscurity": {
-        "score": 0.2216,
-        "band": "obvious",
-        "pointless_score": 78,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 763265,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2216
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "barbados-capital",
       "name": "Bridgetown",
       "aliases": [],
@@ -4643,96 +5683,6 @@
           "pageviews": 763286,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.2165
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "georgia-capital",
-      "name": "Tbilisi",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tbilisi",
-      "attrs": {
-        "country": "Georgia",
-        "continent": "Europe",
-        "name_initial": "T",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 763436,
-      "obscurity": {
-        "score": 0.2113,
-        "band": "obvious",
-        "pointless_score": 79,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 763436,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2113
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "belarus-capital",
-      "name": "Minsk",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Minsk",
-      "attrs": {
-        "country": "Belarus",
-        "continent": "Europe",
-        "name_initial": "M",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 763496,
-      "obscurity": {
-        "score": 0.2062,
-        "band": "obvious",
-        "pointless_score": 79,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 763496,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2062
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "paraguay-capital",
-      "name": "Asuncion",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Asuncion",
-      "attrs": {
-        "country": "Paraguay",
-        "continent": "South America",
-        "name_initial": "A",
-        "name_length": 8,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 763706,
-      "obscurity": {
-        "score": 0.201,
-        "band": "obvious",
-        "pointless_score": 80,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 763706,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.201
         },
         "evidence": []
       }
@@ -4978,36 +5928,6 @@
       }
     },
     {
-      "id": "malta-capital",
-      "name": "Valletta",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Valletta",
-      "attrs": {
-        "country": "Malta",
-        "continent": "Europe",
-        "name_initial": "V",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 766754,
-      "obscurity": {
-        "score": 0.1546,
-        "band": "obvious",
-        "pointless_score": 85,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 766754,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1546
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "sweden-capital",
       "name": "Stockholm",
       "aliases": [],
@@ -5063,36 +5983,6 @@
           "pageviews": 766772,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1443
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "cuba-capital",
-      "name": "Havana",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Havana",
-      "attrs": {
-        "country": "Cuba",
-        "continent": "North America",
-        "name_initial": "H",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 767265,
-      "obscurity": {
-        "score": 0.1392,
-        "band": "obvious",
-        "pointless_score": 86,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 767265,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1392
         },
         "evidence": []
       }
@@ -5218,66 +6108,6 @@
       }
     },
     {
-      "id": "thailand-capital",
-      "name": "Bangkok",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bangkok",
-      "attrs": {
-        "country": "Thailand",
-        "continent": "Asia",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 769019,
-      "obscurity": {
-        "score": 0.1134,
-        "band": "obvious",
-        "pointless_score": 89,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 769019,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1134
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "bahamas-capital",
-      "name": "Nassau",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Nassau",
-      "attrs": {
-        "country": "Bahamas",
-        "continent": "North America",
-        "name_initial": "N",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 770026,
-      "obscurity": {
-        "score": 0.1082,
-        "band": "obvious",
-        "pointless_score": 89,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 770026,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1082
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "belize-capital",
       "name": "Belmopan",
       "aliases": [],
@@ -5303,36 +6133,6 @@
           "pageviews": 770142,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1031
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "singapore-capital",
-      "name": "Singapore",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Singapore",
-      "attrs": {
-        "country": "Singapore",
-        "continent": "Asia",
-        "name_initial": "S",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 770461,
-      "obscurity": {
-        "score": 0.0979,
-        "band": "obvious",
-        "pointless_score": 90,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 770461,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0979
         },
         "evidence": []
       }
@@ -5453,36 +6253,6 @@
           "pageviews": 770735,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0773
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "brazil-capital",
-      "name": "Brasilia",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Brasilia",
-      "attrs": {
-        "country": "Brazil",
-        "continent": "South America",
-        "name_initial": "B",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 4914315,
-      "obscurity": {
-        "score": 0.0722,
-        "band": "obvious",
-        "pointless_score": 93,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4914315,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0722
         },
         "evidence": []
       }
@@ -5783,66 +6553,6 @@
           "pageviews": 4930507,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0206
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "china-capital",
-      "name": "Beijing",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Beijing",
-      "attrs": {
-        "country": "China",
-        "continent": "Asia",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4930669,
-      "obscurity": {
-        "score": 0.0155,
-        "band": "obvious",
-        "pointless_score": 98,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4930669,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0155
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "japan-capital",
-      "name": "Tokyo",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tokyo",
-      "attrs": {
-        "country": "Japan",
-        "continent": "Asia",
-        "name_initial": "T",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 4931192,
-      "obscurity": {
-        "score": 0.0103,
-        "band": "obvious",
-        "pointless_score": 99,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4931192,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0103
         },
         "evidence": []
       }

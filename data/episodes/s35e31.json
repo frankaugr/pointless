@@ -1,0 +1,466 @@
+{
+  "episode_id": "s35e31",
+  "episode_label": "Series 35 Episode 31",
+  "series": 35,
+  "episode": 31,
+  "pid": "m002wm5k",
+  "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Songs performed as part of six classic Glastonbury Festival sets (David Bowie, Stevie Wonder, Beyonce, Dolly Parton, Elton John, Olivia Rodrigo)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rocket Man",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sean",
+          "evidence_quote": "Down it goes to 21. Not bad."
+        },
+        {
+          "answer": "good 4 u",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sehajta",
+          "evidence_quote": "Ah, down to three! Brilliant!"
+        },
+        {
+          "answer": "Tiny Dancer",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynda",
+          "evidence_quote": "We pass three as well, Lynda! Very well done indeed. Tiny Dancer."
+        },
+        {
+          "answer": "Sweet Dreams",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "That is a pointless answer indeed. And thus, it adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Life on Mars?",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "Down it goes to five. This is terrific. Taking your total up to five."
+        },
+        {
+          "answer": "Sour",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "That scores you 100 and takes your total up to 101."
+        },
+        {
+          "answer": "drivers license",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "Scores you three, takes your total up to six."
+        },
+        {
+          "answer": "9 to 5",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Down it goes to 31, taking your total up to 52."
+        },
+        {
+          "answer": "Just Like Heaven",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The other song, Just Like Heaven, was also pointless."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Words that can precede \"fish\" to give the name of a type of aquatic creature (from six clues with first letter given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dart",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Dart is right. 31 for Dartfish."
+        },
+        {
+          "answer": "Comb",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "It is comb. Down it goes to 71."
+        },
+        {
+          "answer": "Rainbow",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ash",
+          "evidence_quote": "It is right. 69 for rainbow."
+        },
+        {
+          "answer": "Cherub",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Correct. And that would've been worth 54."
+        },
+        {
+          "answer": "Archer",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Perfect. Wonderful. 36."
+        },
+        {
+          "answer": "Needle",
+          "score": 79,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is the needlefish, with 79."
+        },
+        {
+          "answer": "Mosquito",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kris",
+          "evidence_quote": "Mosquito is right. 69."
+        },
+        {
+          "answer": "Cat",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sehajta",
+          "evidence_quote": "Cat is right. You are in the head-to-heads. 34"
+        },
+        {
+          "answer": "Pencil",
+          "score": 76,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sean",
+          "evidence_quote": "Pencil's absolutely right, Sean. 76 is what it scores"
+        },
+        {
+          "answer": "Clown",
+          "score": 65,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Clownfish at the top. Excellent. That's 65."
+        },
+        {
+          "answer": "Lung",
+          "score": 84,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lung - singular - fish. Absolutely. That's 84."
+        },
+        {
+          "answer": "Monk",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "It's Monk. And that actually was our lowest-scoring, with 19."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Bonus: shades of purple as named by various colour models (two scoring, two pointless, two not purple at all)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Black Night",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "Black night - let's see if that is a shade of pointless purple. No!"
+        },
+        {
+          "answer": "Good tax",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sean",
+          "evidence_quote": "It is a shade of purple. Surely no-one would know that! And surely, no-one did!"
+        },
+        {
+          "answer": "Periwinkle",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "periwinkle was worth three"
+        },
+        {
+          "answer": "Sangria",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sangria, one."
+        },
+        {
+          "answer": "Boss's jokes",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "boss's jokes was our pointless answer as well"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Honduras",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "Honduras is right. That goes down to 17."
+        },
+        {
+          "answer": "New Zealand",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sally",
+          "evidence_quote": "Down it goes to eight! Very well done indeed!"
+        },
+        {
+          "answer": "Panama",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Panama! Which was six."
+        },
+        {
+          "answer": "China",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "E, which is China. Which was worth 25."
+        },
+        {
+          "answer": "Tuvalu",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It is our lovely Tuvalu! Which was our pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Facts about the District of Peckham",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "London",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sean",
+          "evidence_quote": "how many of our 100 people went for London, Sean and Sally? 72."
+        },
+        {
+          "answer": "Heinz",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Pragun",
+          "evidence_quote": "It is right! And unsurprisingly... ..wins you the point. That takes you down to 16."
+        },
+        {
+          "answer": "Tie",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "is tie. Which was worth nine - tie, Peckham Rye."
+        },
+        {
+          "answer": "Desmond's",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the sitcom starring Norman Beaton - was Desmond's. Which was worth 11."
+        },
+        {
+          "answer": "Girl, Woman, Other",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "we are looking for Girl, Woman, Other, which was our lowest score of one"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mount",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Sean",
+          "evidence_quote": "Shall we see if that's right? No, I'm afraid not right."
+        },
+        {
+          "answer": "One Flew Over the Cuckoo's Nest",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sean",
+          "evidence_quote": "And it is right! Very well done indeed. Down it goes to 27."
+        },
+        {
+          "answer": "Moonlight",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the 2016 winner was Moonlight, which was worth eight"
+        },
+        {
+          "answer": "Slumdog Millionaire",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "the lowest scoring answer, which is Slumdog Millionaire - worth three"
+        },
+        {
+          "answer": "Gone With the Wind",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gone With the Wind, 1939 - which is worth 32"
+        },
+        {
+          "answer": "Titanic",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "finally Titanic, which was worth 22"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Men's football teams who have finished mid-table (8th-13th) in the English Premier League 1992/93-2024/25, or chemical elements in the D-block of the periodic table",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Brighton & Hove Albion",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sean",
+          "evidence_quote": "Oh, four! Four of our 100 knew Brighton & Hove Albion, so not pointless."
+        },
+        {
+          "answer": "Wigan Athletic",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sean",
+          "evidence_quote": "You've done it! Wigan Athletic has just won you £3,000."
+        },
+        {
+          "answer": "Queens Park Rangers",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Pragun",
+          "evidence_quote": "you also suggested Queens Park Rangers, which was also a pointless answer"
+        }
+      ]
+    }
+  ]
+}

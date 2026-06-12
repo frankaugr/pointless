@@ -1,0 +1,504 @@
+{
+  "episode_id": "s34e24",
+  "episode_label": "Series 34 Episode 24",
+  "series": 34,
+  "episode": 24,
+  "pid": "m002l56z",
+  "source_url": "https://www.bbc.co.uk/programmes/m002l56z",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "LGBTQ films on Esquire's 2023 list of 50 best LGBTQ movies — give the missing word from the title",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Miseducation Of Cameron Post",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "And down it goes to two. Look at that, Rashid."
+        },
+        {
+          "answer": "Philadelphia",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chau",
+          "evidence_quote": "Philadelphia is right. And that goes down to 29."
+        },
+        {
+          "answer": "Call Me By Your Name",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jill",
+          "evidence_quote": "29 was our high score. 71, I'm so sorry, Jill."
+        },
+        {
+          "answer": "All About My Mother",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Down to 13, James!"
+        },
+        {
+          "answer": "The Color Purple",
+          "score": 80,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Color Purple, which would have been 80 points."
+        },
+        {
+          "answer": "A Single Man",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Single, and that would have been seven points."
+        },
+        {
+          "answer": "The Kids Are All Right",
+          "score": 56,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And that was 56 points."
+        },
+        {
+          "answer": "Boys Don't Cry",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "Down to 39. Very well done indeed."
+        },
+        {
+          "answer": "God's Own Country",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "And it goes down to 54, taking your total up to 125."
+        },
+        {
+          "answer": "Moonlight",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "Down to three. Very well done indeed. 32, your total."
+        },
+        {
+          "answer": "My Beautiful Laundrette",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Matt",
+          "evidence_quote": "Down it goes to 24. Very well done indeed."
+        },
+        {
+          "answer": "The Adventures Of Priscilla, Queen Of The Desert",
+          "score": 50,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Priscilla, 50 points, yeah."
+        },
+        {
+          "answer": "Brokeback Mountain",
+          "score": 83,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Brokeback Mountain... 83 points."
+        },
+        {
+          "answer": "Blue Is The Warmest Colour",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Warmest! It is, at nine points."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Countries smaller in area than France but larger than Luxembourg (CIA World Factbook)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Laos",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Matt",
+          "evidence_quote": "it's not just a great answer, it's a pointless answer!"
+        },
+        {
+          "answer": "Vietnam",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chau",
+          "evidence_quote": "Vietnam is 65th, and that was two points."
+        },
+        {
+          "answer": "Albania",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kirsteen",
+          "evidence_quote": "And down it goes to five. Very well done indeed."
+        },
+        {
+          "answer": "South Sudan",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "That scores you 100 points... It's the next biggest country after France."
+        },
+        {
+          "answer": "The Gambia",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "One! One person got Gambia."
+        },
+        {
+          "answer": "Bhutan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "Bhutan is right. Ah! Look at that!... adds another £250"
+        },
+        {
+          "answer": "Azerbaijan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "let's have a look at some of them. Azerbaijan, Benin and Central African Republic"
+        },
+        {
+          "answer": "Benin",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Azerbaijan, Benin and Central African Republic"
+        },
+        {
+          "answer": "Central African Republic",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Azerbaijan, Benin and Central African Republic"
+        },
+        {
+          "answer": "El Salvador",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "El Salvador, Georgia, Iraq, Nicaragua, Samoa and Uruguay"
+        },
+        {
+          "answer": "Georgia",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "El Salvador, Georgia, Iraq, Nicaragua, Samoa and Uruguay"
+        },
+        {
+          "answer": "Iraq",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "El Salvador, Georgia, Iraq, Nicaragua, Samoa and Uruguay"
+        },
+        {
+          "answer": "Nicaragua",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "El Salvador, Georgia, Iraq, Nicaragua, Samoa and Uruguay"
+        },
+        {
+          "answer": "Samoa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "El Salvador, Georgia, Iraq, Nicaragua, Samoa and Uruguay"
+        },
+        {
+          "answer": "Uruguay",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "El Salvador, Georgia, Iraq, Nicaragua, Samoa and Uruguay"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Which of six titles are genuinely pointless poems written by William Wordsworth",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Yarrow Unvisited",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rashid",
+          "evidence_quote": "It's a Wordsworth poem. And it's a pointless one!"
+        },
+        {
+          "answer": "The Colony Of Slippermen",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "The Colony Of Slippermen is the name of a Genesis song"
+        },
+        {
+          "answer": "We Are Seven",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "We Are Seven is by Wordsworth, and scored two points."
+        },
+        {
+          "answer": "The Solitary Reaper",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Solitary Reaper is a Wordsworth poem and it scored four points."
+        },
+        {
+          "answer": "Scorn Not The Sonnet",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Scorn Not The Sonnet was a pointless answer."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Famous people whose names alternate between consonants and vowels",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Kiri Te Kanawa",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Matt",
+          "evidence_quote": "Kiri Te Kanawa, absolutely right... Down it goes to seven."
+        },
+        {
+          "answer": "Goran Ivanisevic",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "Down it goes! And it's six!"
+        },
+        {
+          "answer": "Bukayo Saka",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The first one was Bukayo Saka, which would have been 30 points."
+        },
+        {
+          "answer": "Selena Gomez",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Selena Gomez, 39 points."
+        },
+        {
+          "answer": "Jude Law",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And Jude Law, which was 44 points."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Clues to facts based around the word 'ace'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Judd Trump",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ben",
+          "evidence_quote": "Down it goes to eight. Very well done indeed, Ben and Chau."
+        },
+        {
+          "answer": "Gladiators",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Matt",
+          "evidence_quote": "Ten for Gladiators."
+        },
+        {
+          "answer": "All That She Wants",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "And that was 21 points."
+        },
+        {
+          "answer": "Jim Carrey",
+          "score": 59,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the next one after that was Jim Carrey, which would have been 59 points."
+        },
+        {
+          "answer": "One (ace pip value)",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is one. And that scored 31."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Name of any museum other than the British Museum shortlisted/won Art Fund Museum of the Year since 2008",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tate St Ives",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Ben",
+          "evidence_quote": "Tate St Ives still going down... Yes, you've done it!"
+        },
+        {
+          "answer": "York National Railway Museum",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Ben",
+          "evidence_quote": "York National Railway Museum. Can that come up with the goods? Oh, no."
+        },
+        {
+          "answer": "Children's V&A (Young V&A)",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Chau",
+          "evidence_quote": "the Children's V&A, is actually called the Young V&A. And that was also pointless."
+        },
+        {
+          "answer": "Aberdeen Art Gallery",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "here are some of the pointless answers. The Aberdeen Art Gallery"
+        },
+        {
+          "answer": "St Fagans National Museum of History",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "St Fagans National Museum of History, Yorkshire Sculpture Park"
+        },
+        {
+          "answer": "Yorkshire Sculpture Park",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Yorkshire Sculpture Park, and Young V&A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "episode_id": "s35e03",
+  "episode_label": "Series 35 Episode 3",
+  "series": 35,
+  "episode": 3,
+  "pid": "m002tsjw",
+  "source_url": "https://www.bbc.co.uk/programmes/m002tsjw",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Words ending in '...nge'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rearrange",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kamilia",
+          "evidence_quote": "Down it goes to four."
+        },
+        {
+          "answer": "Cringe",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Miles",
+          "evidence_quote": "That goes down to 18. 18 for cringe."
+        },
+        {
+          "answer": "Unhinge",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "That's a pointless answer. It adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Plunge",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "12 for plunge."
+        },
+        {
+          "answer": "Blancmange",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elle",
+          "evidence_quote": "Down it goes to two."
+        },
+        {
+          "answer": "Whinge",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Samantha",
+          "evidence_quote": "11 for whinge, taking your total up to 11."
+        },
+        {
+          "answer": "Flange",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Fiona",
+          "evidence_quote": "Eight for flange, taking your total up to 26."
+        },
+        {
+          "answer": "Expunge",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "Ooh! One. One!"
+        },
+        {
+          "answer": "Downrange",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have gone for downrange or infringe, interchange."
+        },
+        {
+          "answer": "Infringe",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "You could have gone for downrange or infringe, interchange."
+        },
+        {
+          "answer": "Interchange",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "downrange or infringe, interchange"
+        },
+        {
+          "answer": "Melange",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "there was melange - a mixture of things"
+        },
+        {
+          "answer": "Misarrange",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Or misarrange."
+        },
+        {
+          "answer": "Munge",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "my favourite, munge"
+        },
+        {
+          "answer": "Phalange",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Phalange, a medical term for one of the bones in finger."
+        },
+        {
+          "answer": "Scrounge",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Scrounge and unhinge"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "People featured in portraits in the US National Portrait Gallery (with initials given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Al Gore",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "Down that goes to 27."
+        },
+        {
+          "answer": "Benjamin Franklin",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sue",
+          "evidence_quote": "Benjamin Franklin... beats that. 25."
+        },
+        {
+          "answer": "Walt Disney",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "It goes down to 20."
+        },
+        {
+          "answer": "Madonna",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it would have got 43"
+        },
+        {
+          "answer": "Maya Angelou",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Maya Angelou would have scored you four, which was the lowest one."
+        },
+        {
+          "answer": "America Ferrera",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Five people knew that, so that would have scored you five."
+        },
+        {
+          "answer": "Miles Davis",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elle",
+          "evidence_quote": "Ten for Miles Davis, taking your total up to 30."
+        },
+        {
+          "answer": "Oprah Winfrey",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Samantha",
+          "evidence_quote": "35 for Oprah Winfrey, taking your total up to 60."
+        },
+        {
+          "answer": "Peter Dinklage",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Kamilia",
+          "evidence_quote": "Down it goes to six."
+        },
+        {
+          "answer": "Mary Cassatt",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "The US-born impressionist is Mary Cassatt, which would have been a pointless answer."
+        },
+        {
+          "answer": "Michelle Obama",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored 30."
+        },
+        {
+          "answer": "Michael Jordan",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "portrayed by Damien Delano Young was Michael Jordan and would have scored 29"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head jackpot builder",
+      "category_text": "African dishes (find the pointless ones from six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Puff puff",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "Oh, one! One person could not forget puff puff."
+        },
+        {
+          "answer": "Kik alicha",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "Kik alicha is also an African dish. Oh! Very well done indeed."
+        },
+        {
+          "answer": "Mesfouf",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "mesfouf, which is a couscous dish... That was also pointless."
+        },
+        {
+          "answer": "Bazin",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had bazin, which is a Libyan dish... That would have scored you two."
+        },
+        {
+          "answer": "Owino",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Owino is not a dish, though... That would have been incorrect."
+        },
+        {
+          "answer": "Chishuru",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Chishuru. It's not a dish, but it's a London Michelin-starred restaurant"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Famous gardens (identify from image with alternate letters given)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Hampton Court Gardens",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "that goes down to 34"
+        },
+        {
+          "answer": "Royal Botanic Garden Edinburgh",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "42 for that"
+        },
+        {
+          "answer": "The Alnwick Garden",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Would've score you 3 and that was the lowest one on the board"
+        },
+        {
+          "answer": "RHS Wisley",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "That would have scored you 7."
+        },
+        {
+          "answer": "Kew Gardens",
+          "score": 69,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "69 that would have scored"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Facts about buses",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Fortnite",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "Fortnite is right. That goes down to 6."
+        },
+        {
+          "answer": "Speed",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "Speed is right. Yeah, that's a high score."
+        },
+        {
+          "answer": "Omnibus",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "21 that would have scored you."
+        },
+        {
+          "answer": "Red",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "72 people knew that"
+        },
+        {
+          "answer": "Montgomery",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that would have scored 5"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Substances found in the human body (vowels removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Cortisol",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Curtis",
+          "evidence_quote": "There we are, 44 for cortisol."
+        },
+        {
+          "answer": "Melatonin",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Adam",
+          "evidence_quote": "It's right. And it wins it for you."
+        },
+        {
+          "answer": "Insulin",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The bottom one was insulin. That would have scored you 37."
+        },
+        {
+          "answer": "Plasma",
+          "score": 78,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Plasma - 78 people knew plasma."
+        },
+        {
+          "answer": "Cholesterol",
+          "score": 80,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the top one, cholesterol. And 80 people knew that."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Male footballers with a Premier League appearance whose nationality is listed as France or Germany (1992-93 to 2023-24)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Michael Ballack",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Adam",
+          "evidence_quote": "You've done it! ... Michael Ballack was a pointless answer."
+        },
+        {
+          "answer": "Pascal Gross",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Adam",
+          "evidence_quote": "GROANS Two people!"
+        },
+        {
+          "answer": "Moussa Niakhate",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Adam",
+          "evidence_quote": "Moussa Niakhate, would have been wrong, actually. He was born in France, but he plays for Senegal."
+        }
+      ]
+    }
+  ]
+}

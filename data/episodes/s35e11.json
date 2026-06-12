@@ -1,0 +1,511 @@
+{
+  "episode_id": "s35e11",
+  "episode_label": "Series 35 Episode 11",
+  "series": 35,
+  "episode": 11,
+  "pid": "m002vdxs",
+  "source_url": "https://www.bbc.co.uk/programmes/m002vdxs",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Hosts credited with hosting these British quiz/game shows (Weakest Link, A Question of Sport, Blankety Blank, Family Fortunes, Mastermind, University Challenge)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Romesh Ranganathan",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Down it goes to four. And that's a great start"
+        },
+        {
+          "answer": "Anne Robinson",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rosie",
+          "evidence_quote": "27 for Anne Robinson"
+        },
+        {
+          "answer": "Les Dennis",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "47 for Les Dennis"
+        },
+        {
+          "answer": "Magnus Magnusson",
+          "score": 33,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elaine",
+          "evidence_quote": "There you are on 33"
+        },
+        {
+          "answer": "David Coleman",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Al",
+          "evidence_quote": "Down it goes to five. Very well done indeed, Al"
+        },
+        {
+          "answer": "Lily Savage",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ross",
+          "evidence_quote": "26. I could've done with that going a little bit further down"
+        },
+        {
+          "answer": "James Acaster",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Daniel",
+          "evidence_quote": "that scores you 100 points, takes your total up to 127"
+        },
+        {
+          "answer": "Jeremy Paxman",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Ten! Very well done indeed! Taking your total up to 14"
+        },
+        {
+          "answer": "David Vine",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "For A Question Of Sport, David Vine would've scored you four"
+        },
+        {
+          "answer": "Bradley Walsh",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Bradley Walsh was the lowest answer, scoring ten"
+        },
+        {
+          "answer": "Andy Collins",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "For Family Fortunes, Andy Collins was pointless"
+        },
+        {
+          "answer": "John Humphrys",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "For Mastermind, John Humphrys scored six"
+        },
+        {
+          "answer": "Amol Rajan",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Amol Rajan, who became host in 2023, was pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Four-letter foodstuffs identified from descriptions and initial letter",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Okra",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "down it goes to 39... 39 for okra"
+        },
+        {
+          "answer": "Naan",
+          "score": 63,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lesley",
+          "evidence_quote": "63 for naan"
+        },
+        {
+          "answer": "Spam",
+          "score": 75,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Elaine",
+          "evidence_quote": "75 for spam! I'm sorry, Elaine"
+        },
+        {
+          "answer": "Brie",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Up top, we had brie at 64"
+        },
+        {
+          "answer": "Mint",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "57 for mint"
+        },
+        {
+          "answer": "Taco",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "taco would've got you 45"
+        },
+        {
+          "answer": "Ghee",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Al",
+          "evidence_quote": "Ghee is right. Very well done. 44, Al"
+        },
+        {
+          "answer": "Edam",
+          "score": 67,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Ross",
+          "evidence_quote": "67 for Edam, taking your total up to a lovely round 130"
+        },
+        {
+          "answer": "Kiwi",
+          "score": 72,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "72. But it takes your total up to 111"
+        },
+        {
+          "answer": "Salt",
+          "score": 73,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Salt. Boom! 73!"
+        },
+        {
+          "answer": "Lamb",
+          "score": 85,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lamb, 85"
+        },
+        {
+          "answer": "Fugu",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Fugu... That was the best answer. Would've given you nine"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus (bebop jazz musicians)",
+      "category_text": "Pointless bebop jazz musicians (two scoring, two pointless, two not bebop musicians at all)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Roxy Carlin",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Is Roxy Carlin a pointless bebop jazz musician? Ah! That's annoying"
+        },
+        {
+          "answer": "Cannonball Adderley",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Al",
+          "evidence_quote": "as Leo said, it's right. And look at that! Very well done"
+        },
+        {
+          "answer": "Dizzy Gillespie",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "You were right about Dizzy Gillespie, but he scored 12"
+        },
+        {
+          "answer": "Sonny Stitt",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "we had Sonny Stitt. Would've scored you two"
+        },
+        {
+          "answer": "Zac Hanson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "HOST",
+          "evidence_quote": "that is the red herring. He's the drummer of the band Hanson"
+        },
+        {
+          "answer": "Mary Lou Williams",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Mary Lou Williams... a pianist and composer known as the Mother of Bebop. And she was pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Films featuring non-human primates (from images, initials and years)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dr Dolittle",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Dr Dolittle, absolutely right. And that goes down to 57"
+        },
+        {
+          "answer": "Every Which Way But Loose",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Al",
+          "evidence_quote": "Every Which Way But Loose is right. And it wins the point... Down it goes to 22"
+        },
+        {
+          "answer": "King Kong",
+          "score": 84,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "you had King Kong at 84"
+        },
+        {
+          "answer": "The Jungle Book",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Jungle Book was 40"
+        },
+        {
+          "answer": "Gorillas in the Mist",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Gorillas in the Mist, 30"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Towns/cities connected by Eurostar or Eurotunnel Shuttle (alphabetical anagrams)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Calais",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Al",
+          "evidence_quote": "Calais is right. Down it goes to 35"
+        },
+        {
+          "answer": "Folkestone",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Folkestone is right. And, yes, that wins it... Down it goes to nine"
+        },
+        {
+          "answer": "London",
+          "score": 71,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "London was the first one, at 71"
+        },
+        {
+          "answer": "Brussels",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Then we had Brussels. Would've given you 48"
+        },
+        {
+          "answer": "Rotterdam",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "It is Rotterdam... And it would've given you five!"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "People, titles or things containing the name of a Greek alphabet letter (blanked out)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Delta Shooz",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Leo",
+          "evidence_quote": "Not Delta Shooz"
+        },
+        {
+          "answer": "Xi Jinping",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Al",
+          "evidence_quote": "Xi. It is right, and that means you win the point... Down it goes to 12"
+        },
+        {
+          "answer": "Zeta (Catherine Zeta Jones)",
+          "score": 75,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Catherine Zeta Jones, of course, would have got you 75"
+        },
+        {
+          "answer": "Alpha (Alpha male)",
+          "score": 66,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Alpha, an Alpha male, 66"
+        },
+        {
+          "answer": "Beta (Beta blockers)",
+          "score": 77,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Beta, down the bottom, would have given you 77"
+        },
+        {
+          "answer": "Nu (Nu Shooz)",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Nu Shooz, exactly right. And it was 8"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Countries with wild lion populations (IUCN Red List), OR captains of the British & Irish Lions rugby team 1950-2024",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bill Beaumont",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Al",
+          "evidence_quote": "4 for Bill Beaumont. It bodes very well"
+        },
+        {
+          "answer": "Botswana",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Elaine",
+          "evidence_quote": "Oh, no. 11 for Botswana"
+        },
+        {
+          "answer": "Brian O'Driscoll",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Al",
+          "evidence_quote": "Still going down! To 1. Oh, I'm so sorry!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "episode_id": "s35e01",
+  "episode_label": "Series 35 Episode 1",
+  "series": 35,
+  "episode": 1,
+  "pid": "m002tshj",
+  "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Titanium",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Erica",
+          "evidence_quote": "39, titanium. Not bad."
+        },
+        {
+          "answer": "Californium",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "39 is our only score. And you pass it. Ooh, down to two."
+        },
+        {
+          "answer": "Einsteinium",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "Two is our low score and you join it."
+        },
+        {
+          "answer": "Moscovium",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "Oh, one! We have a new low score."
+        },
+        {
+          "answer": "Neptunium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "that's a pointless answer. It adds £250 to today's jackpot"
+        },
+        {
+          "answer": "Chlorine",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "And down that goes to 12."
+        },
+        {
+          "answer": "Potassium",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynn",
+          "evidence_quote": "Down goes potassium to 12."
+        },
+        {
+          "answer": "Plutonium",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Chris",
+          "evidence_quote": "Down to three! Not bad at all."
+        },
+        {
+          "answer": "Curium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "A few of them are curium, gallium, manganese, neptunium"
+        },
+        {
+          "answer": "Gallium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "A few of them are curium, gallium, manganese, neptunium"
+        },
+        {
+          "answer": "Manganese",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "A few of them are curium, gallium, manganese, neptunium"
+        },
+        {
+          "answer": "Oganesson",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Oganesson, palladium, which of course was discovered by"
+        },
+        {
+          "answer": "Palladium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Oganesson, palladium, which of course was discovered by"
+        },
+        {
+          "answer": "Protactinium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Protactinium, radon and, of course, there's thorium."
+        },
+        {
+          "answer": "Radon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Protactinium, radon and, of course, there's thorium."
+        },
+        {
+          "answer": "Thorium",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Protactinium, radon and, of course, there's thorium."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "People, places and things that share their name with a station on the Madrid metro system (from clues with initials and letter counts)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bilbao",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Bilbao is right. Down he goes to 14."
+        },
+        {
+          "answer": "Canal",
+          "score": 47,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "canal scores 47"
+        },
+        {
+          "answer": "Buenos Aires",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "James",
+          "evidence_quote": "35 for Buenos Aires"
+        },
+        {
+          "answer": "Sol",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sol was actually a better answer. That would have scored you 11."
+        },
+        {
+          "answer": "Goya",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Goya would have scored you 13"
+        },
+        {
+          "answer": "Cusco",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "But that'll score you eight."
+        },
+        {
+          "answer": "Salami",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Keith",
+          "evidence_quote": "salami isn't a station on the Madrid metro. That scores you 100 points"
+        },
+        {
+          "answer": "Ibiza",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "down that goes to 32, taking your total up to 79"
+        },
+        {
+          "answer": "San Francisco",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynn",
+          "evidence_quote": "San Francisco's right. Down it goes to 44"
+        },
+        {
+          "answer": "Serrano",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "when you said serrano, not salami, which would have scored you 11"
+        },
+        {
+          "answer": "Colombia",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Colombia, which we heard from Lynn. Yes, that was correct. That would have got 16."
+        },
+        {
+          "answer": "Manuel de Falla",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Manuel de Falla. Yes, good answer. That would have been one."
+        },
+        {
+          "answer": "Juan de la Cierva",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Juan de la Cierva. A \"juan-derful\" answer. That would have been three."
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot Builder",
+      "category_text": "Team GB gymnasts at the Summer Olympic Games (find the pointless ones)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Tarrus Riley",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Tarrus Riley is not a gymnast. He's a reggae singer."
+        },
+        {
+          "answer": "Walter Tysall",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "absolutely a Team GB gymnast. And a pointless one as well."
+        },
+        {
+          "answer": "Elizabeth Line",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "she represented Team GB at Athens in 2004 and she was pointless as well"
+        },
+        {
+          "answer": "Sam Oldham",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sam Oldham would have scored you one"
+        },
+        {
+          "answer": "Kathy Williams",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kathy Williams would have scored you one as well"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Head-to-head picture/clue questions: cake decorating tools, Tales titles, and British kingdoms/princedoms",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Edible glitter",
+          "score": 32,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Edible glitter is right. That goes down to 32."
+        },
+        {
+          "answer": "Piping bags",
+          "score": 60,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tom",
+          "evidence_quote": "Piping bags is right. But it's 60."
+        },
+        {
+          "answer": "Fondant smoother",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "B, fondant smoother, would have been 7."
+        },
+        {
+          "answer": "Icing comb",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "D, icing comb. Of course, comb. Would have scored you 19."
+        },
+        {
+          "answer": "Plunger cutters",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "that is plunger cutters. And that would have been a pointless answer."
+        },
+        {
+          "answer": "Shark Tale",
+          "score": 37,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "Shark Tale, absolutely right. That goes down to 37."
+        },
+        {
+          "answer": "The Canterbury Tales",
+          "score": 48,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Lynn",
+          "evidence_quote": "The Canterbury Tales is right. That goes down to 48."
+        },
+        {
+          "answer": "The Handmaid's Tale",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Handmaid's Tale, which would have been correct and that would have scored 28"
+        },
+        {
+          "answer": "Ten Summoner's Tales",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ten Summoner's Tales is the Sting album... That would have scored 5."
+        },
+        {
+          "answer": "Tales Of Arise",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Tales Of Arise. And that was a pointless answer."
+        },
+        {
+          "answer": "Powys",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "David",
+          "evidence_quote": "Powys is right. Down it goes to 25."
+        },
+        {
+          "answer": "Wessel",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Abby",
+          "evidence_quote": "No, I'm afraid not Wessel"
+        },
+        {
+          "answer": "Wessex",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was Wessex. That would have scored you 26"
+        },
+        {
+          "answer": "Kent",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kent, yes. That would've scored 28."
+        },
+        {
+          "answer": "Mercia",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mercia is a very good one to get. That would have scored you the lowest amount - that was 9."
+        },
+        {
+          "answer": "East Anglia",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "East Anglia, of course. That would have scored 13."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Peace & Quiet: any person awarded the Nobel Peace Prize from 2000 to 2024 inclusive, OR any word of four or more letters in Bjork's 1995 single It's Oh So Quiet",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bob Dylan",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Bob Dylan won the Nobel Prize for Literature, not Peace."
+        },
+        {
+          "answer": "Mo Mowlam",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "Did Mo Mowlam win the Nobel Peace Prize? No!"
+        },
+        {
+          "answer": "John Hume",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "David",
+          "evidence_quote": "John Hume did win the Nobel Peace Prize, but it was in 1998."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "episode_id": "s34e22",
+  "episode_label": "Series 34 Episode 22",
+  "series": 34,
+  "episode": 22,
+  "pid": "m002l53g",
+  "source_url": "https://www.bbc.co.uk/programmes/m002l53g",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Crime fiction novel titles with a missing word (give the missing word)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "The Day Of The Jewel",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Kaylee",
+          "evidence_quote": "that's wrong, scores you 100 points"
+        },
+        {
+          "answer": "The Mirror Crack'd From Side To Side",
+          "score": 39,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Wendy",
+          "evidence_quote": "Mirror is right. 100 is our high score, and this will be our new low score. 39"
+        },
+        {
+          "answer": "Knots And Crosses",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jill",
+          "evidence_quote": "And you pass the low... 22"
+        },
+        {
+          "answer": "The Lincoln Lawyer",
+          "score": 26,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steven",
+          "evidence_quote": "Lincoln is right. Down it goes to 26"
+        },
+        {
+          "answer": "The Day Of The Jackal",
+          "score": 43,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Yes, 43, that would have scored you"
+        },
+        {
+          "answer": "My Sister, The Serial Killer",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Which would have scored you 44"
+        },
+        {
+          "answer": "A Judgement In Stone",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Lowest score on the board with two points"
+        },
+        {
+          "answer": "Dangerous Lady",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that would have scored you four points"
+        },
+        {
+          "answer": "The Pelican Brief",
+          "score": 41,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "41, taking your total up to 67"
+        },
+        {
+          "answer": "Death Of An Expert Witness",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "30. Taking your total up to 52"
+        },
+        {
+          "answer": "The Moth Catcher",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "The Moth Catcher, down it goes to 15"
+        },
+        {
+          "answer": "Never Go Back",
+          "score": 54,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Hester",
+          "evidence_quote": "It is Never Go Back. And that goes down to 54"
+        },
+        {
+          "answer": "Devil In A Blue Dress",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Devil In A Blue Dress, which was 11"
+        },
+        {
+          "answer": "The Wire In The Blood",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wire In The Blood would have scored you 44"
+        },
+        {
+          "answer": "Cotton Comes To Harlem",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Best score on the board, one"
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Anyone in Motorsport Magazine's centennial list of the 100 Greatest Racing Drivers (May 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Mario Andretti",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "a pointless answer. Being a pointless answer, it adds £250"
+        },
+        {
+          "answer": "Stirling Moss",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jill",
+          "evidence_quote": "Stirling Moss. Terrific. 19"
+        },
+        {
+          "answer": "Nigel Mansell",
+          "score": 18,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Amy",
+          "evidence_quote": "Nigel Mansell is... ..18"
+        },
+        {
+          "answer": "Juan Fangio",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Steven",
+          "evidence_quote": "Oh, down it goes to eight"
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Five for Emerson Fittipaldi is exactly what you needed"
+        },
+        {
+          "answer": "James Hunt",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Wendy",
+          "evidence_quote": "Down he goes to 14"
+        },
+        {
+          "answer": "Nico Rosberg",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Nico Rosberg, whose father, Keke Rosberg, was also pointless"
+        },
+        {
+          "answer": "Keke Rosberg",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "whose father, Keke Rosberg, was also pointless"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head bonus",
+      "category_text": "Famous bells (find the pointless ones among six options)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bone Black",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "Bone Black is not a famous bell at all. Bone Black is a memoir"
+        },
+        {
+          "answer": "Maria Gloriosa",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Maria Gloriosa is a bell. And a pointless one as well!"
+        },
+        {
+          "answer": "People's Salvation Cathedral Big Bell",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "the People's Salvation Cathedral Big Bell... That is correct"
+        },
+        {
+          "answer": "Mingun Bell",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "90-ton bronze bell in Myanmar, would have scored you six"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Plants usually classified as alpine (from images with every other letter)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Primula",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "Primula is absolutely right. Down that goes to eight"
+        },
+        {
+          "answer": "Rock rose",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Jill",
+          "evidence_quote": "15 for rock rose"
+        },
+        {
+          "answer": "Fairy thimbles",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Fairy thimbles. There you go. That would have scored you one"
+        },
+        {
+          "answer": "Crocus",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Crocus was 34 points"
+        },
+        {
+          "answer": "Edelweiss",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the famous edelweiss, would have scored you 25"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Non-classical bands/solo artists who have performed at the BBC Proms (from UK top-40 singles)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Paloma Faith",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Paloma Faith is absolutely right. 24 for Paloma Faith"
+        },
+        {
+          "answer": "Gabrielle",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "Gabrielle's right. 24 is what it has to beat, and 28 for Gabrielle"
+        },
+        {
+          "answer": "Pet Shop Boys",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Pet Shop Boys was A. 36"
+        },
+        {
+          "answer": "Sam Smith",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "C, Sam Smith... That scored 30"
+        },
+        {
+          "answer": "Westlife",
+          "score": 10,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "this was the lowest scorer... Westlife... Scored you 10"
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Cities in New Zealand (from anagrams)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Dunedin",
+          "score": 27,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rob",
+          "evidence_quote": "Dunedin is right. Down they go to 27"
+        },
+        {
+          "answer": "Auckland",
+          "score": 45,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Auckland is right. Oh, 45 for Auckland"
+        },
+        {
+          "answer": "Wellington",
+          "score": 34,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Wellington. Would have scored you 34"
+        },
+        {
+          "answer": "Rotorua",
+          "score": 8,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Rotorua, which would have scored you 8"
+        },
+        {
+          "answer": "Invercargill",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Virgin Caller is actually Invercargill - a pointless answer"
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Acting credit in Harry Potter and the Deathly Hallows: Part 2 (2011) or Dune: Part Two (2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rupert Grint",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Rob",
+          "evidence_quote": "Into the teens. Still going down, to 11"
+        },
+        {
+          "answer": "Robbie Coltrane",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Rob",
+          "evidence_quote": "Still going down with Robbie Coltrane, to 1!"
+        },
+        {
+          "answer": "Tom Felton",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Rob",
+          "evidence_quote": "still going down, to 1 again!"
+        },
+        {
+          "answer": "Michael Gambon",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "including Michael Gambon, who played Dumbledore, was pointless"
+        },
+        {
+          "answer": "Christopher Walken",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "some of the pointless answers you could have had. Christopher Walken, Javier Bardem"
+        }
+      ]
+    }
+  ]
+}

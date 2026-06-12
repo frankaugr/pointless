@@ -1,0 +1,513 @@
+{
+  "episode_id": "s34e43",
+  "episode_label": "Series 34 Episode 43",
+  "series": 34,
+  "episode": 43,
+  "pid": "m002rkbc",
+  "source_url": "https://www.bbc.co.uk/programmes/m002rkbc",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "The Telegraph's 50 best TV dramas of all time (given a description, year of first broadcast, and initials of the title)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Prime Suspect",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "Prime Suspect is right. Down to 22."
+        },
+        {
+          "answer": "The Wire",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Melanie",
+          "evidence_quote": "Down to 16 for The Wire."
+        },
+        {
+          "answer": "Bleak House",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Rachel",
+          "evidence_quote": "21 for Bleak House."
+        },
+        {
+          "answer": "Cathy Come Home",
+          "score": 17,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "It is absolutely Cathy Come Home. And look at that. Down it goes to 17."
+        },
+        {
+          "answer": "Pride And Prejudice",
+          "score": 42,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": "Helena",
+          "evidence_quote": "You would have been right, with a score of 42."
+        },
+        {
+          "answer": "Borgen",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "that was Borgen. So maybe you didn't choose right, because that would have given you a score of four."
+        },
+        {
+          "answer": "I May Destroy You",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Is I May Destroy You. That would have scored 7."
+        },
+        {
+          "answer": "Our Friends In The North",
+          "score": 11,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sarah",
+          "evidence_quote": "Our Friends In The North is absolutely right. That goes down to 11."
+        },
+        {
+          "answer": "Twin Peaks",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nick",
+          "evidence_quote": "Down it goes to 19, taking your total up to a lovely, round 40."
+        },
+        {
+          "answer": "Succession",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "That scores 20. Takes your total up to 36."
+        },
+        {
+          "answer": "Brideshead Revisited",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "Down it goes to 15. Brilliant answer."
+        },
+        {
+          "answer": "The Sopranos",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Sopranos, second on the list for dramas. 22 there."
+        },
+        {
+          "answer": "Game Of Thrones",
+          "score": 40,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it was indeed Game Of Thrones, which would have scored 40."
+        },
+        {
+          "answer": "The Underground Railroad",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "The Underground Railroad. A score of 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Name any space on the classic London Monopoly board that contains at least one of the letters D, O, or G",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Regent Road",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Rick",
+          "evidence_quote": "I'm afraid not Regent Road. That's wrong. That's scores you 100 points."
+        },
+        {
+          "answer": "Community Chest",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Melanie",
+          "evidence_quote": "Community Chest is right. It's a great answer. Down to 1."
+        },
+        {
+          "answer": "Old Kent Road",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sarah",
+          "evidence_quote": "23 for Old Kent Road."
+        },
+        {
+          "answer": "The Angel, Islington",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helena",
+          "evidence_quote": "24, your total. 1 for The Angel, Islington."
+        },
+        {
+          "answer": "Trafalgar Square",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Down to 6, taking your total up to 7."
+        },
+        {
+          "answer": "Go",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Helen",
+          "evidence_quote": "Down it goes to 12, taking your total up to 112."
+        },
+        {
+          "answer": "Just Visiting",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "If you had went for Just Visiting, it was a pointless answer."
+        },
+        {
+          "answer": "Euston Road",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "if you'd gone for Euston Road, that would have been 1"
+        },
+        {
+          "answer": "Regent Street",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Regent Street would have got you 2."
+        },
+        {
+          "answer": "Water Works",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "3 points for Water Works."
+        },
+        {
+          "answer": "Bow Street",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "2 points for Bow Street, Coventry Street, Pentonville Road and Regent Street."
+        },
+        {
+          "answer": "Coventry Street",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "2 points for Bow Street, Coventry Street, Pentonville Road and Regent Street."
+        },
+        {
+          "answer": "Pentonville Road",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "2 points for Bow Street, Coventry Street, Pentonville Road and Regent Street."
+        },
+        {
+          "answer": "Electric Company",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And 1 point - Electric Company, Euston Road, Liverpool Street station, Marlborough Street."
+        },
+        {
+          "answer": "Liverpool Street station",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And 1 point - Electric Company, Euston Road, Liverpool Street station, Marlborough Street."
+        },
+        {
+          "answer": "Marlborough Street",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "And 1 point - Electric Company, Euston Road, Liverpool Street station, Marlborough Street."
+        },
+        {
+          "answer": "Fenchurch Street Station",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Some pointless answers - Fenchurch Street Station, Income Tax, and Rick, as you well know now, Just Visiting."
+        },
+        {
+          "answer": "Income Tax",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Some pointless answers - Fenchurch Street Station, Income Tax, and Rick, as you well know now, Just Visiting."
+        },
+        {
+          "answer": "Northumberland Avenue",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Two more. Northumberland Avenue and Whitechapel Road."
+        },
+        {
+          "answer": "Whitechapel Road",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Two more. Northumberland Avenue and Whitechapel Road."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head",
+      "category_text": "Bonus jackpot board: identify the two pointless Welsh beaches from six options (two scoring, two pointless, two not Welsh beaches)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bendricks Beach",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": "Melanie",
+          "evidence_quote": "It's a Welsh beach. Very well done."
+        },
+        {
+          "answer": "Blackrock Sands",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sarah",
+          "evidence_quote": "It's a Welsh beach. Oh! Two people."
+        },
+        {
+          "answer": "Penbryn Beach",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Penbryn Beach is indeed a beach near Cardigan. And that is the other pointless answer on the board."
+        },
+        {
+          "answer": "Llanddwyn Bay",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_lowest",
+          "contestant": null,
+          "evidence_quote": "Llanddwyn Bay is on Anglesey and that scored 1."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Five activities Gethin Jones did on Blue Peter (from picture clues with some letters blanked out)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Fighting an alligator",
+          "score": 74,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Alligator's right. 74 for alligator."
+        },
+        {
+          "answer": "Four Peaks Challenge",
+          "score": 44,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sarah",
+          "evidence_quote": "Four Peaks is right, and it wins you the point. Down it goes to 44."
+        },
+        {
+          "answer": "Flying with the Red Arrows",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Flying with the Red Arrows, a lifetime ambition. That would have got 58."
+        },
+        {
+          "answer": "Diving with Tom Daley",
+          "score": 88,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Diving with Tom Daley. That would have scored 88."
+        },
+        {
+          "answer": "The Yomp (Royal Marine Commando Yomp)",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The Yomp would have got you 7, the best score on the board."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Beatles song titles with the first name of a person missing — name the missing names",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Rita (Lovely Rita)",
+          "score": 6,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Sarah",
+          "evidence_quote": "Rita is absolutely right. And that goes down to 6."
+        },
+        {
+          "answer": "Bill (The Continuing Story Of Bungalow Bill)",
+          "score": 23,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Robin",
+          "evidence_quote": "Bungalow Bill is right. 23 for Bungalow Bill."
+        },
+        {
+          "answer": "Eleanor (Eleanor Rigby)",
+          "score": 57,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Eleanor Rigby. That would have scored 57."
+        },
+        {
+          "answer": "Lucy (Lucy In The Sky With Diamonds)",
+          "score": 58,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Lucy In The Sky With Diamonds would have been 58."
+        },
+        {
+          "answer": "Jude (Hey Jude)",
+          "score": 79,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Hey Jude, quite right, that would have scored 79."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Oscar losers: any woman nominated at least three times for Best Actress/Supporting Actress, or any man nominated at least three times for Best Actor/Supporting Actor, without ever winning (up to and including 2024)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Shirley MacLaine",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Sarah",
+          "evidence_quote": "No. Not Shirley MacLaine. ... she won Best Actress for Terms Of Endearment."
+        },
+        {
+          "answer": "James Mason",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Sarah",
+          "evidence_quote": "James Mason, a pointless answer. You have just won £2,500."
+        },
+        {
+          "answer": "Nick Nolte",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "jackpot_answer",
+          "contestant": "Helena",
+          "evidence_quote": "Nick Nolte, pointless answer."
+        }
+      ]
+    }
+  ]
+}

@@ -47,7 +47,7 @@
       "url": "https://www.gov.uk/government/publications/list-of-cities/list-of-cities-html"
     }
   ],
-  "generated_at": "2026-04-26T17:32:33Z",
+  "generated_at": "2026-06-12T16:22:06Z",
   "answers": [
     {
       "id": "st-asaph",
@@ -67,17 +67,39 @@
       },
       "pageviews": 750872,
       "obscurity": {
-        "score": 1.0,
+        "score": 0.9888,
         "band": "pointless target",
-        "pointless_score": 0,
-        "pointless_band": "pointless target",
-        "confidence": "medium",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
           "pageviews": 750872,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 1.0
+          "pageview_obscurity": 1.0,
+          "pointless_average_score": 1.5,
+          "pointless_obscurity": 0.985,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "St Asaph",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "St Asaph",
+            "score_0_to_100": 1,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
       }
     },
     {
@@ -110,6 +132,161 @@
       }
     },
     {
+      "id": "bangor-northern-ireland",
+      "name": "Bangor",
+      "aliases": [
+        "Bangor NI"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bangor",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 760274,
+      "obscurity": {
+        "score": 0.9825,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 760274,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.96,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Bangor",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Bangor",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ely",
+      "name": "Ely",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ely",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "E",
+        "name_length": 3,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1247846,
+      "obscurity": {
+        "score": 0.9796,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1247846,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9333,
+          "pointless_average_score": 0.5,
+          "pointless_obscurity": 0.995,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Ely",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Ely",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 7",
+            "date": null,
+            "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newry",
+      "name": "Newry",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Newry",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "N",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1249375,
+      "obscurity": {
+        "score": 0.9767,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1249375,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9067,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Newry",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Newry",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
+      }
+    },
+    {
       "id": "armagh",
       "name": "Armagh",
       "aliases": [],
@@ -139,34 +316,45 @@
       }
     },
     {
-      "id": "bangor-northern-ireland",
-      "name": "Bangor",
-      "aliases": [
-        "Bangor NI"
-      ],
+      "id": "wells",
+      "name": "Wells",
+      "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bangor",
+      "wiki": "https://en.wikipedia.org/wiki/Wells",
       "attrs": {
-        "nation": "Northern Ireland",
-        "name_initial": "B",
-        "name_length": 6,
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 5,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "a"
+        "first_vowel": "e"
       },
-      "pageviews": 760274,
+      "pageviews": 1261114,
       "obscurity": {
-        "score": 0.96,
+        "score": 0.97,
         "band": "pointless target",
-        "pointless_score": 4,
-        "pointless_band": "excellent",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 760274,
+          "pageviews": 1261114,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.96
+          "pageview_obscurity": 0.88,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Wells",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
       }
     },
     {
@@ -187,46 +375,344 @@
       },
       "pageviews": 760339,
       "obscurity": {
-        "score": 0.9467,
+        "score": 0.9642,
         "band": "pointless target",
-        "pointless_score": 5,
+        "pointless_score": 3,
         "pointless_band": "excellent",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
           "pageviews": 760339,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9467
+          "pageview_obscurity": 0.9467,
+          "pointless_average_score": 3.0,
+          "pointless_obscurity": 0.97,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "St Davids",
+            "score_0_to_100": 3,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
       }
     },
     {
-      "id": "ely",
-      "name": "Ely",
+      "id": "bangor-wales",
+      "name": "Bangor",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ely",
+      "wiki": "https://en.wikipedia.org/wiki/Bangor",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262021,
+      "obscurity": {
+        "score": 0.9592,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1262021,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8667,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Bangor",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Bangor",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ripon",
+      "name": "Ripon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ripon",
       "attrs": {
         "nation": "England",
-        "name_initial": "E",
-        "name_length": 3,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
+        "name_initial": "R",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1252337,
+      "obscurity": {
+        "score": 0.9583,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1252337,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8933,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Ripon",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lichfield",
+      "name": "Lichfield",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lichfield",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1268899,
+      "obscurity": {
+        "score": 0.945,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1268899,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.84,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Lichfield",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "truro",
+      "name": "Truro",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Truro",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "T",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1268233,
+      "obscurity": {
+        "score": 0.9408,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1268233,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8533,
+          "pointless_average_score": 3.0,
+          "pointless_obscurity": 0.97,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Truro",
+            "score_0_to_100": 3,
+            "episode": "Series 34 Episode 7",
+            "date": null,
+            "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wrexham",
+      "name": "Wrexham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wrexham",
+      "attrs": {
+        "nation": "Wales",
+        "name_initial": "W",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 1247846,
+      "pageviews": 1920146,
       "obscurity": {
-        "score": 0.9333,
+        "score": 0.9292,
         "band": "pointless target",
-        "pointless_score": 7,
+        "pointless_score": 1,
         "pointless_band": "excellent",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 1247846,
+          "pageviews": 1920146,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9333
+          "pageview_obscurity": 0.7467,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Wrexham",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st-albans",
+      "name": "St Albans",
+      "aliases": [
+        "Saint Albans"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/St_Albans",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1917502,
+      "obscurity": {
+        "score": 0.925,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1917502,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.76,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "St Albans",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chelmsford",
+      "name": "Chelmsford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Chelmsford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1920409,
+      "obscurity": {
+        "score": 0.9221,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1920409,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7333,
+          "pointless_average_score": 1.5,
+          "pointless_obscurity": 0.985,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Chelmsford",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Chelmsford",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 7",
+            "date": null,
+            "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+          }
+        ]
       }
     },
     {
@@ -259,177 +745,505 @@
       }
     },
     {
-      "id": "newry",
-      "name": "Newry",
+      "id": "worcester",
+      "name": "Worcester",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Newry",
-      "attrs": {
-        "nation": "Northern Ireland",
-        "name_initial": "N",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 1249375,
-      "obscurity": {
-        "score": 0.9067,
-        "band": "pointless target",
-        "pointless_score": 9,
-        "pointless_band": "excellent",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1249375,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9067
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "ripon",
-      "name": "Ripon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ripon",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "R",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 1252337,
-      "obscurity": {
-        "score": 0.8933,
-        "band": "pointless target",
-        "pointless_score": 11,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1252337,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8933
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "wells",
-      "name": "Wells",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Wells",
+      "wiki": "https://en.wikipedia.org/wiki/Worcester",
       "attrs": {
         "nation": "England",
         "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2734207,
+      "obscurity": {
+        "score": 0.91,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2734207,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.64,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Worcester",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gloucester",
+      "name": "Gloucester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gloucester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2736864,
+      "obscurity": {
+        "score": 0.9067,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2736864,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6267,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Gloucester",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "peterborough",
+      "name": "Peterborough",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Peterborough",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2731874,
+      "obscurity": {
+        "score": 0.8983,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2731874,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6533,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Peterborough",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Peterborough",
+            "score_0_to_100": 2,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "derry",
+      "name": "Derry",
+      "aliases": [
+        "Londonderry"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Derry",
+      "attrs": {
+        "nation": "Northern Ireland",
+        "name_initial": "D",
         "name_length": 5,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 1261114,
+      "pageviews": 2741283,
       "obscurity": {
-        "score": 0.88,
+        "score": 0.8892,
         "band": "pointless target",
-        "pointless_score": 12,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 1261114,
+          "pageviews": 2741283,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.88
+          "pageview_obscurity": 0.5867,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Derry",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          }
+        ]
       }
     },
     {
-      "id": "bangor-wales",
-      "name": "Bangor",
+      "id": "newport",
+      "name": "Newport",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bangor",
+      "wiki": "https://en.wikipedia.org/wiki/Newport",
       "attrs": {
         "nation": "Wales",
-        "name_initial": "B",
-        "name_length": 6,
+        "name_initial": "N",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2739505,
+      "obscurity": {
+        "score": 0.8888,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2739505,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6,
+          "pointless_average_score": 1.5,
+          "pointless_obscurity": 0.985,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Newport",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Newport",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 7",
+            "date": null,
+            "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+          }
+        ]
+      }
+    },
+    {
+      "id": "salford",
+      "name": "Salford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Salford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "a"
       },
-      "pageviews": 1262021,
+      "pageviews": 2751082,
       "obscurity": {
-        "score": 0.8667,
+        "score": 0.8833,
         "band": "pointless target",
-        "pointless_score": 13,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
         "components": {
-          "pageviews": 1262021,
+          "pageviews": 2751082,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8667
+          "pageview_obscurity": 0.5333,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Salford",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
       }
     },
     {
-      "id": "truro",
-      "name": "Truro",
-      "aliases": [],
+      "id": "southend-on-sea",
+      "name": "Southend-on-Sea",
+      "aliases": [
+        "Southend"
+      ],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Truro",
+      "wiki": "https://en.wikipedia.org/wiki/Southend-on-Sea",
       "attrs": {
         "nation": "England",
-        "name_initial": "T",
-        "name_length": 5,
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2751376,
+      "obscurity": {
+        "score": 0.88,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2751376,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.52,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Southend-on-Sea",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
+      }
+    },
+    {
+      "id": "durham",
+      "name": "Durham",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Durham",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "D",
+        "name_length": 6,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "u"
       },
-      "pageviews": 1268233,
+      "pageviews": 2743873,
       "obscurity": {
-        "score": 0.8533,
+        "score": 0.8508,
         "band": "pointless target",
-        "pointless_score": 15,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 1268233,
+          "pageviews": 2743873,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8533
+          "pageview_obscurity": 0.5733,
+          "pointless_average_score": 5.67,
+          "pointless_obscurity": 0.9433,
+          "pointless_observations": 3
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Durham",
+            "score_0_to_100": 6,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Durham",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Durham",
+            "score_0_to_100": 6,
+            "episode": "Series 34 Episode 7",
+            "date": null,
+            "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+          }
+        ]
       }
     },
     {
-      "id": "lichfield",
-      "name": "Lichfield",
+      "id": "sunderland",
+      "name": "Sunderland",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lichfield",
+      "wiki": "https://en.wikipedia.org/wiki/Sunderland",
       "attrs": {
         "nation": "England",
-        "name_initial": "L",
-        "name_length": 9,
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3733598,
+      "obscurity": {
+        "score": 0.8492,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3733598,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4267,
+          "pointless_average_score": 1.0,
+          "pointless_obscurity": 0.99,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Sunderland",
+            "score_0_to_100": 1,
+            "episode": "Series 34 Episode 7",
+            "date": null,
+            "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+          }
+        ]
+      }
+    },
+    {
+      "id": "canterbury",
+      "name": "Canterbury",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Canterbury",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2753599,
+      "obscurity": {
+        "score": 0.8292,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2753599,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4667,
+          "pointless_average_score": 5.0,
+          "pointless_obscurity": 0.95,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Canterbury",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          }
+        ]
+      }
+    },
+    {
+      "id": "milton-keynes",
+      "name": "Milton Keynes",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Milton_Keynes",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "M",
+        "name_length": 12,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "i"
       },
-      "pageviews": 1268899,
+      "pageviews": 3736074,
       "obscurity": {
-        "score": 0.84,
+        "score": 0.8283,
         "band": "pointless target",
-        "pointless_score": 16,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 1268899,
+          "pageviews": 3736074,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.84
+          "pageview_obscurity": 0.3733,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Milton Keynes",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
       }
     },
     {
@@ -462,6 +1276,48 @@
       }
     },
     {
+      "id": "dundee",
+      "name": "Dundee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dundee",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "D",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3741120,
+      "obscurity": {
+        "score": 0.815,
+        "band": "very obscure",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3741120,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.32,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Dundee",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          }
+        ]
+      }
+    },
+    {
       "id": "carlisle",
       "name": "Carlisle",
       "aliases": [],
@@ -491,6 +1347,150 @@
       }
     },
     {
+      "id": "wolverhampton",
+      "name": "Wolverhampton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wolverhampton",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "W",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3733837,
+      "obscurity": {
+        "score": 0.8125,
+        "band": "very obscure",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3733837,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4,
+          "pointless_average_score": 5.0,
+          "pointless_obscurity": 0.95,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Wolverhampton",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 23",
+            "date": null,
+            "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Wolverhampton",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stoke-on-trent",
+      "name": "Stoke-on-Trent",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Stoke-on-Trent",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3749525,
+      "obscurity": {
+        "score": 0.81,
+        "band": "very obscure",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3749525,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.24,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Stoke-on-Trent",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lincoln",
+      "name": "Lincoln",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lincoln",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "L",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2753308,
+      "obscurity": {
+        "score": 0.8063,
+        "band": "very obscure",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 2753308,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.48,
+          "pointless_average_score": 8.5,
+          "pointless_obscurity": 0.915,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Lincoln",
+            "score_0_to_100": 5,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Lincoln",
+            "score_0_to_100": 12,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
+      }
+    },
+    {
       "id": "lancaster",
       "name": "Lancaster",
       "aliases": [],
@@ -517,6 +1517,57 @@
           "pageview_obscurity": 0.8
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "plymouth",
+      "name": "Plymouth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Plymouth",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3730914,
+      "obscurity": {
+        "score": 0.7921,
+        "band": "very obscure",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3730914,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4533,
+          "pointless_average_score": 9.5,
+          "pointless_obscurity": 0.905,
+          "pointless_observations": 2
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Plymouth",
+            "score_0_to_100": 13,
+            "episode": "Series 34 Episode 38",
+            "date": null,
+            "question_text": "Welsh language names for UK cities — give the English names",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Plymouth",
+            "score_0_to_100": 6,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+          }
+        ]
       }
     },
     {
@@ -578,92 +1629,98 @@
       }
     },
     {
-      "id": "st-albans",
-      "name": "St Albans",
-      "aliases": [
-        "Saint Albans"
-      ],
+      "id": "hereford",
+      "name": "Hereford",
+      "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/St_Albans",
+      "wiki": "https://en.wikipedia.org/wiki/Hereford",
       "attrs": {
         "nation": "England",
-        "name_initial": "S",
+        "name_initial": "H",
         "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "a"
+        "first_vowel": "e"
       },
-      "pageviews": 1917502,
+      "pageviews": 1924710,
       "obscurity": {
-        "score": 0.76,
+        "score": 0.7429,
         "band": "very obscure",
         "pointless_score": 24,
         "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 1917502,
+          "pageviews": 1924710,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.76
+          "pageview_obscurity": 0.7067,
+          "pointless_average_score": 24.5,
+          "pointless_obscurity": 0.755,
+          "pointless_observations": 2
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Hereford",
+            "score_0_to_100": 47,
+            "episode": "Series 34 Episode 38",
+            "date": null,
+            "question_text": "Welsh language names for UK cities — give the English names",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+          },
+          {
+            "category": "uk-cities",
+            "answer": "Hereford",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
       }
     },
     {
-      "id": "wrexham",
-      "name": "Wrexham",
-      "aliases": [],
+      "id": "kingston-upon-hull",
+      "name": "Kingston upon Hull",
+      "aliases": [
+        "Hull"
+      ],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Wrexham",
-      "attrs": {
-        "nation": "Wales",
-        "name_initial": "W",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 1920146,
-      "obscurity": {
-        "score": 0.7467,
-        "band": "very obscure",
-        "pointless_score": 25,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 1920146,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7467
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "chelmsford",
-      "name": "Chelmsford",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Chelmsford",
+      "wiki": "https://en.wikipedia.org/wiki/Kingston_upon_Hull",
       "attrs": {
         "nation": "England",
-        "name_initial": "C",
-        "name_length": 10,
+        "name_initial": "K",
+        "name_length": 16,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "i"
       },
-      "pageviews": 1920409,
+      "pageviews": 3746411,
       "obscurity": {
-        "score": 0.7333,
+        "score": 0.7417,
         "band": "very obscure",
-        "pointless_score": 27,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 1920409,
+          "pageviews": 3746411,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7333
+          "pageview_obscurity": 0.2667,
+          "pointless_average_score": 10.0,
+          "pointless_obscurity": 0.9,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Kingston upon Hull",
+            "score_0_to_100": 10,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
       }
     },
     {
@@ -696,32 +1753,45 @@
       }
     },
     {
-      "id": "hereford",
-      "name": "Hereford",
+      "id": "edinburgh",
+      "name": "Edinburgh",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Hereford",
+      "wiki": "https://en.wikipedia.org/wiki/Edinburgh",
       "attrs": {
-        "nation": "England",
-        "name_initial": "H",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
+        "nation": "Scotland",
+        "name_initial": "E",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
         "first_vowel": "e"
       },
-      "pageviews": 1924710,
+      "pageviews": 6295499,
       "obscurity": {
-        "score": 0.7067,
+        "score": 0.7108,
         "band": "very obscure",
-        "pointless_score": 29,
-        "pointless_band": "strong low scorer",
-        "confidence": "medium",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "high",
         "components": {
-          "pageviews": 1924710,
+          "pageviews": 6295499,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7067
+          "pageview_obscurity": 0.0533,
+          "pointless_average_score": 7.0,
+          "pointless_obscurity": 0.93,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Edinburgh",
+            "score_0_to_100": 7,
+            "episode": "Series 34 Episode 38",
+            "date": null,
+            "question_text": "Welsh language names for UK cities — give the English names",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+          }
+        ]
       }
     },
     {
@@ -812,90 +1882,87 @@
       }
     },
     {
-      "id": "peterborough",
-      "name": "Peterborough",
+      "id": "leicester",
+      "name": "Leicester",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Peterborough",
+      "wiki": "https://en.wikipedia.org/wiki/Leicester",
       "attrs": {
         "nation": "England",
-        "name_initial": "P",
-        "name_length": 12,
+        "name_initial": "L",
+        "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "e"
       },
-      "pageviews": 2731874,
+      "pageviews": 3744628,
       "obscurity": {
-        "score": 0.6533,
+        "score": 0.6583,
         "band": "useful low scorer",
-        "pointless_score": 35,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 2731874,
+          "pageviews": 3744628,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6533
+          "pageview_obscurity": 0.2933,
+          "pointless_average_score": 22.0,
+          "pointless_obscurity": 0.78,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Leicester",
+            "score_0_to_100": 22,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
       }
     },
     {
-      "id": "worcester",
-      "name": "Worcester",
+      "id": "preston",
+      "name": "Preston",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Worcester",
+      "wiki": "https://en.wikipedia.org/wiki/Preston",
       "attrs": {
         "nation": "England",
-        "name_initial": "W",
-        "name_length": 9,
+        "name_initial": "P",
+        "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "o"
+        "first_vowel": "e"
       },
-      "pageviews": 2734207,
+      "pageviews": 2744936,
       "obscurity": {
-        "score": 0.64,
+        "score": 0.6392,
         "band": "useful low scorer",
-        "pointless_score": 36,
+        "pointless_score": 33,
         "pointless_band": "playable",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 2734207,
+          "pageviews": 2744936,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.64
+          "pageview_obscurity": 0.5467,
+          "pointless_average_score": 33.0,
+          "pointless_obscurity": 0.67,
+          "pointless_observations": 1
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "gloucester",
-      "name": "Gloucester",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Gloucester",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "G",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 2736864,
-      "obscurity": {
-        "score": 0.6267,
-        "band": "useful low scorer",
-        "pointless_score": 37,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2736864,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6267
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Preston",
+            "score_0_to_100": 33,
+            "episode": "Series 34 Episode 23",
+            "date": null,
+            "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+          }
+        ]
       }
     },
     {
@@ -928,92 +1995,87 @@
       }
     },
     {
-      "id": "newport",
-      "name": "Newport",
+      "id": "sheffield",
+      "name": "Sheffield",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Newport",
+      "wiki": "https://en.wikipedia.org/wiki/Sheffield",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922882,
+      "obscurity": {
+        "score": 0.5983,
+        "band": "useful low scorer",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4922882,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1733,
+          "pointless_average_score": 26.0,
+          "pointless_obscurity": 0.74,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Sheffield",
+            "score_0_to_100": 26,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cardiff",
+      "name": "Cardiff",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cardiff",
       "attrs": {
         "nation": "Wales",
-        "name_initial": "N",
+        "name_initial": "C",
         "name_length": 7,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "a"
       },
-      "pageviews": 2739505,
+      "pageviews": 4930845,
       "obscurity": {
-        "score": 0.6,
+        "score": 0.5925,
         "band": "useful low scorer",
-        "pointless_score": 40,
-        "pointless_band": "playable",
-        "confidence": "medium",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
         "components": {
-          "pageviews": 2739505,
+          "pageviews": 4930845,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.6
+          "pageview_obscurity": 0.12,
+          "pointless_average_score": 25.0,
+          "pointless_obscurity": 0.75,
+          "pointless_observations": 1
         },
-        "evidence": []
-      }
-    },
-    {
-      "id": "derry",
-      "name": "Derry",
-      "aliases": [
-        "Londonderry"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Derry",
-      "attrs": {
-        "nation": "Northern Ireland",
-        "name_initial": "D",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 2741283,
-      "obscurity": {
-        "score": 0.5867,
-        "band": "useful low scorer",
-        "pointless_score": 41,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2741283,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5867
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "durham",
-      "name": "Durham",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Durham",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "D",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 2743873,
-      "obscurity": {
-        "score": 0.5733,
-        "band": "useful low scorer",
-        "pointless_score": 43,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2743873,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5733
-        },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Cardiff",
+            "score_0_to_100": 25,
+            "episode": "Series 34 Episode 17",
+            "date": null,
+            "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+          }
+        ]
       }
     },
     {
@@ -1046,92 +2108,45 @@
       }
     },
     {
-      "id": "preston",
-      "name": "Preston",
+      "id": "coventry",
+      "name": "Coventry",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Preston",
+      "wiki": "https://en.wikipedia.org/wiki/Coventry",
       "attrs": {
         "nation": "England",
-        "name_initial": "P",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 2744936,
-      "obscurity": {
-        "score": 0.5467,
-        "band": "useful low scorer",
-        "pointless_score": 45,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2744936,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5467
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "salford",
-      "name": "Salford",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Salford",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "S",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2751082,
-      "obscurity": {
-        "score": 0.5333,
-        "band": "useful low scorer",
-        "pointless_score": 47,
-        "pointless_band": "playable",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2751082,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5333
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "southend-on-sea",
-      "name": "Southend-on-Sea",
-      "aliases": [
-        "Southend"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Southend-on-Sea",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "S",
-        "name_length": 13,
+        "name_initial": "C",
+        "name_length": 8,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
         "first_vowel": "o"
       },
-      "pageviews": 2751376,
+      "pageviews": 3732821,
       "obscurity": {
-        "score": 0.52,
+        "score": 0.5525,
         "band": "useful low scorer",
-        "pointless_score": 48,
+        "pointless_score": 41,
         "pointless_band": "playable",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 2751376,
+          "pageviews": 3732821,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.52
+          "pageview_obscurity": 0.44,
+          "pointless_average_score": 41.0,
+          "pointless_obscurity": 0.59,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Coventry",
+            "score_0_to_100": 41,
+            "episode": "Series 34 Episode 23",
+            "date": null,
+            "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+          }
+        ]
       }
     },
     {
@@ -1193,151 +2208,6 @@
       }
     },
     {
-      "id": "lincoln",
-      "name": "Lincoln",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lincoln",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "L",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 2753308,
-      "obscurity": {
-        "score": 0.48,
-        "band": "useful low scorer",
-        "pointless_score": 52,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2753308,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.48
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "canterbury",
-      "name": "Canterbury",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Canterbury",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "C",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 2753599,
-      "obscurity": {
-        "score": 0.4667,
-        "band": "useful low scorer",
-        "pointless_score": 53,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 2753599,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4667
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "plymouth",
-      "name": "Plymouth",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Plymouth",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "P",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3730914,
-      "obscurity": {
-        "score": 0.4533,
-        "band": "useful low scorer",
-        "pointless_score": 55,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3730914,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4533
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "coventry",
-      "name": "Coventry",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Coventry",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "C",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3732821,
-      "obscurity": {
-        "score": 0.44,
-        "band": "middling",
-        "pointless_score": 56,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3732821,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.44
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "sunderland",
-      "name": "Sunderland",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Sunderland",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "S",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 3733598,
-      "obscurity": {
-        "score": 0.4267,
-        "band": "middling",
-        "pointless_score": 57,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3733598,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4267
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "derby",
       "name": "Derby",
       "aliases": [],
@@ -1367,35 +2237,6 @@
       }
     },
     {
-      "id": "wolverhampton",
-      "name": "Wolverhampton",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Wolverhampton",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "W",
-        "name_length": 13,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3733837,
-      "obscurity": {
-        "score": 0.4,
-        "band": "middling",
-        "pointless_score": 60,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3733837,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "bradford",
       "name": "Bradford",
       "aliases": [],
@@ -1420,35 +2261,6 @@
           "pageviews": 3734165,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.3867
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "milton-keynes",
-      "name": "Milton Keynes",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Milton_Keynes",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "M",
-        "name_length": 12,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 3736074,
-      "obscurity": {
-        "score": 0.3733,
-        "band": "middling",
-        "pointless_score": 63,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3736074,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3733
         },
         "evidence": []
       }
@@ -1541,35 +2353,6 @@
       }
     },
     {
-      "id": "dundee",
-      "name": "Dundee",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Dundee",
-      "attrs": {
-        "nation": "Scotland",
-        "name_initial": "D",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 3741120,
-      "obscurity": {
-        "score": 0.32,
-        "band": "middling",
-        "pointless_score": 68,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3741120,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.32
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "southampton",
       "name": "Southampton",
       "aliases": [],
@@ -1599,32 +2382,45 @@
       }
     },
     {
-      "id": "leicester",
-      "name": "Leicester",
+      "id": "liverpool",
+      "name": "Liverpool",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Leicester",
+      "wiki": "https://en.wikipedia.org/wiki/Liverpool",
       "attrs": {
         "nation": "England",
         "name_initial": "L",
         "name_length": 9,
         "starts_with_vowel": false,
         "starts_with_consonant": true,
-        "first_vowel": "e"
+        "first_vowel": "i"
       },
-      "pageviews": 3744628,
+      "pageviews": 6295554,
       "obscurity": {
-        "score": 0.2933,
+        "score": 0.295,
         "band": "middling",
-        "pointless_score": 71,
+        "pointless_score": 62,
         "pointless_band": "high scorer",
-        "confidence": "medium",
+        "confidence": "high",
         "components": {
-          "pageviews": 3744628,
+          "pageviews": 6295554,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2933
+          "pageview_obscurity": 0.04,
+          "pointless_average_score": 62.0,
+          "pointless_obscurity": 0.38,
+          "pointless_observations": 1
         },
-        "evidence": []
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Liverpool",
+            "score_0_to_100": 62,
+            "episode": "Series 34 Episode 23",
+            "date": null,
+            "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+          }
+        ]
       }
     },
     {
@@ -1652,37 +2448,6 @@
           "pageviews": 3745449,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.28
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "kingston-upon-hull",
-      "name": "Kingston upon Hull",
-      "aliases": [
-        "Hull"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Kingston_upon_Hull",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "K",
-        "name_length": 16,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 3746411,
-      "obscurity": {
-        "score": 0.2667,
-        "band": "middling",
-        "pointless_score": 73,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3746411,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2667
         },
         "evidence": []
       }
@@ -1717,35 +2482,6 @@
       }
     },
     {
-      "id": "stoke-on-trent",
-      "name": "Stoke-on-Trent",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Stoke-on-Trent",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "S",
-        "name_length": 12,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3749525,
-      "obscurity": {
-        "score": 0.24,
-        "band": "obvious",
-        "pointless_score": 76,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 3749525,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.24
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "westminster",
       "name": "Westminster",
       "aliases": [],
@@ -1775,6 +2511,48 @@
       }
     },
     {
+      "id": "manchester",
+      "name": "Manchester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Manchester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6306640,
+      "obscurity": {
+        "score": 0.2208,
+        "band": "obvious",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6306640,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0133,
+          "pointless_average_score": 71.0,
+          "pointless_obscurity": 0.29,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Manchester",
+            "score_0_to_100": 71,
+            "episode": "Series 34 Episode 38",
+            "date": null,
+            "question_text": "Welsh language names for UK cities — give the English names",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+          }
+        ]
+      }
+    },
+    {
       "id": "york",
       "name": "York",
       "aliases": [],
@@ -1801,6 +2579,48 @@
           "pageview_obscurity": 0.2133
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "bristol",
+      "name": "Bristol",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bristol",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4934623,
+      "obscurity": {
+        "score": 0.2033,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4934623,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0933,
+          "pointless_average_score": 76.0,
+          "pointless_obscurity": 0.24,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Bristol",
+            "score_0_to_100": 76,
+            "episode": "Series 34 Episode 38",
+            "date": null,
+            "question_text": "Welsh language names for UK cities — give the English names",
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+          }
+        ]
       }
     },
     {
@@ -1857,35 +2677,6 @@
           "pageviews": 4919270,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1867
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "sheffield",
-      "name": "Sheffield",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Sheffield",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "S",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4922882,
-      "obscurity": {
-        "score": 0.1733,
-        "band": "obvious",
-        "pointless_score": 83,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4922882,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1733
         },
         "evidence": []
       }
@@ -1980,35 +2771,6 @@
       }
     },
     {
-      "id": "cardiff",
-      "name": "Cardiff",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Cardiff",
-      "attrs": {
-        "nation": "Wales",
-        "name_initial": "C",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 4930845,
-      "obscurity": {
-        "score": 0.12,
-        "band": "obvious",
-        "pointless_score": 88,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4930845,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.12
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "belfast",
       "name": "Belfast",
       "aliases": [],
@@ -2033,35 +2795,6 @@
           "pageviews": 4932086,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1067
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "bristol",
-      "name": "Bristol",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bristol",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 4934623,
-      "obscurity": {
-        "score": 0.0933,
-        "band": "obvious",
-        "pointless_score": 91,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 4934623,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0933
         },
         "evidence": []
       }
@@ -2129,64 +2862,6 @@
       }
     },
     {
-      "id": "edinburgh",
-      "name": "Edinburgh",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Edinburgh",
-      "attrs": {
-        "nation": "Scotland",
-        "name_initial": "E",
-        "name_length": 9,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "e"
-      },
-      "pageviews": 6295499,
-      "obscurity": {
-        "score": 0.0533,
-        "band": "obvious",
-        "pointless_score": 95,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6295499,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0533
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "liverpool",
-      "name": "Liverpool",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Liverpool",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "L",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6295554,
-      "obscurity": {
-        "score": 0.04,
-        "band": "obvious",
-        "pointless_score": 96,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6295554,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.04
-        },
-        "evidence": []
-      }
-    },
-    {
       "id": "birmingham",
       "name": "Birmingham",
       "aliases": [],
@@ -2211,35 +2886,6 @@
           "pageviews": 6300099,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0267
-        },
-        "evidence": []
-      }
-    },
-    {
-      "id": "manchester",
-      "name": "Manchester",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Manchester",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "M",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 6306640,
-      "obscurity": {
-        "score": 0.0133,
-        "band": "obvious",
-        "pointless_score": 99,
-        "pointless_band": "high scorer",
-        "confidence": "medium",
-        "components": {
-          "pageviews": 6306640,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0133
         },
         "evidence": []
       }

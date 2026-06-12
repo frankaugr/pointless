@@ -1,0 +1,635 @@
+{
+  "episode_id": "s34e14",
+  "episode_label": "Series 34 Episode 14",
+  "series": 34,
+  "episode": 14,
+  "pid": "m002kjq7",
+  "source_url": "https://www.bbc.co.uk/programmes/m002kjq7",
+  "model": "claude-opus-4-8",
+  "generated_at": "2026-06-12T16:19:24+00:00",
+  "rounds": [
+    {
+      "round_label": "Round 1",
+      "category_text": "Things (real, fictional or figurative) ending with the word 'street'",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Alphabet Street",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nitesh",
+          "evidence_quote": "Alphabet Street. Five people remembered that."
+        },
+        {
+          "answer": "Miracle On 34th Street",
+          "score": 12,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "This might be a low score as well. 12, very well done indeed."
+        },
+        {
+          "answer": "Lime Street",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "21 for Lime Street."
+        },
+        {
+          "answer": "Sesame Street",
+          "score": 51,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Aimee",
+          "evidence_quote": "There we are, 51... for Sesame Street."
+        },
+        {
+          "answer": "Bourbon Street",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Barry",
+          "evidence_quote": "Bourbon Street. 3. Look at that. Taking your total up to 54."
+        },
+        {
+          "answer": "Chester-le-Street",
+          "score": 15,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Chester-le-Street. Down it goes to 15, taking your total up to 36."
+        },
+        {
+          "answer": "Baker Street",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Baker Street does the job for you. Down you go to 30"
+        },
+        {
+          "answer": "Nightmare On Elm Street",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graeme",
+          "evidence_quote": "Nightmare On Elm Street is the one! 53, your total."
+        },
+        {
+          "answer": "Downing Street",
+          "score": 64,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Got to be the most popular answer - 64."
+        },
+        {
+          "answer": "Wall Street",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "road and district to New York City? Wall Street. 36."
+        },
+        {
+          "answer": "Watling Street",
+          "score": 7,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Watling Street at the bottom. 7."
+        },
+        {
+          "answer": "Easy Street",
+          "score": 22,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "22 for easy street."
+        },
+        {
+          "answer": "Coronation Street",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Coronation Street. 49 points."
+        },
+        {
+          "answer": "Main Street",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's pointless and it IS Main Street. Well done."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2",
+      "category_text": "Actors who have featured in at least one film in the Ghostbusters franchise",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Charles Dance",
+          "score": 25,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graeme",
+          "evidence_quote": "Charles Dance is right. Charles Dance, 25."
+        },
+        {
+          "answer": "Olivia Colman",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Camilla",
+          "evidence_quote": "not Olivia Colman. That scores you 100 points."
+        },
+        {
+          "answer": "Ray Winstone",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "Is Ray Winstone on the board? No."
+        },
+        {
+          "answer": "Bill Murray",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "is Bill Murray right? No. So there you are, scoring another 100."
+        },
+        {
+          "answer": "Whoopi Goldberg",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Whoopi Goldberg. No. I'm afraid that scores you 100 points"
+        },
+        {
+          "answer": "Sigourney Weaver",
+          "score": 20,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nitesh",
+          "evidence_quote": "Sigourney Weaver? That goes down to 20"
+        },
+        {
+          "answer": "Jack Brown",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Tony and Camilla went for Jack Brown. Not Jack Brown."
+        },
+        {
+          "answer": "Ryan Gosling",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "gone for Ryan Gosling. No. I'm afraid not Ryan Gosling."
+        },
+        {
+          "answer": "Dan Aykroyd",
+          "score": 19,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Dan Aykroyd, scored you 19."
+        },
+        {
+          "answer": "Mckenna Grace",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Mckenna Grace would have scored you 2."
+        },
+        {
+          "answer": "Chris Hemsworth",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "The biggest answer on the board, Chris Hemsworth, 29."
+        },
+        {
+          "answer": "Kristen Wiig",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kristen Wiig scored 4."
+        },
+        {
+          "answer": "Kate McKinnon",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kate McKinnon would have got you 1."
+        },
+        {
+          "answer": "Paul Rudd",
+          "score": 21,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Paul Rudd, big answer, 21."
+        },
+        {
+          "answer": "Leslie Jones",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "this was the pointless answer, Leslie Jones"
+        },
+        {
+          "answer": "Harold Ramis",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Harold Ramis would have got you 2."
+        },
+        {
+          "answer": "Annie Potts",
+          "score": 2,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Annie Potts, 2."
+        },
+        {
+          "answer": "Finn Wolfhard",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Finn Wolfhard, 9."
+        },
+        {
+          "answer": "Melissa McCarthy",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Melissa McCarthy. 14."
+        },
+        {
+          "answer": "Ernie Hudson",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Ernie Hudson, a legend in Ghostbusters, 3."
+        },
+        {
+          "answer": "James Acaster",
+          "score": 5,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "James Acaster, 5."
+        },
+        {
+          "answer": "Kumail Nanjiani",
+          "score": 3,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Kumail Nanjiani would have scored you 3."
+        }
+      ]
+    },
+    {
+      "round_label": "Round 2 tie-break",
+      "category_text": "Words in the online Collins dictionary ending in the letters O-U-S-E",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Blouse",
+          "score": 35,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Tony",
+          "evidence_quote": "Blouse is right. That goes down to 35"
+        },
+        {
+          "answer": "Workhouse",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Milly",
+          "evidence_quote": "It's a pointless answer, so there we are!"
+        }
+      ]
+    },
+    {
+      "round_label": "Jackpot builder",
+      "category_text": "Which of these six options are pointless Belgian football teams",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Stoofvlees",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "guess",
+          "contestant": "Nitesh",
+          "evidence_quote": "Stoofvlees, not a Belgian football team at all. A Flemish beef stew."
+        },
+        {
+          "answer": "Beerschot",
+          "score": 1,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "It's a Belgian football team. Oh, one person."
+        },
+        {
+          "answer": "Seraing",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "RFC Seraing play in the Challenger Pro League. They were pointless."
+        },
+        {
+          "answer": "Hades",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "It's a pointless answer. Fourth tier Belgium football."
+        },
+        {
+          "answer": "Westerlo",
+          "score": 4,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Westerlo scored 4. They play in the first tier."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q1",
+      "category_text": "Types of biscuit typically made with vegan-suitable ingredients (alternate letters removed)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Pink wafers",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graeme",
+          "evidence_quote": "It is pink wafers. 49 for pink wafers."
+        },
+        {
+          "answer": "Ginger nuts",
+          "score": 36,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Ginger nuts is right... and it wins the point. 36 for ginger nuts."
+        },
+        {
+          "answer": "Digestives",
+          "score": 68,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "which is digestives. That was the biggest number of all. 68"
+        },
+        {
+          "answer": "Party rings",
+          "score": 13,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Party rings. 13 that would have scored you."
+        },
+        {
+          "answer": "Hobnobs",
+          "score": 52,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "it's Hobnobs, for goodness' sake. 52."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q2",
+      "category_text": "Items used in painting and decorating (alternate letters of their names shown)",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Sanding block",
+          "score": 30,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "went for sanding block. That goes down to 30."
+        },
+        {
+          "answer": "Tester pot",
+          "score": 16,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Nitesh",
+          "evidence_quote": "Tester pot. Very well done And down that goes to 16."
+        },
+        {
+          "answer": "Dust sheet",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "dust sheet would have scored 28 for you."
+        },
+        {
+          "answer": "Seam roller",
+          "score": 9,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Seam roller. That scored 9."
+        },
+        {
+          "answer": "Masking tape",
+          "score": 49,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Masking tape. Yeah, of course. 49."
+        }
+      ]
+    },
+    {
+      "round_label": "Head-to-head Q3",
+      "category_text": "Words containing C where changing the C to another letter makes a Collins dictionary word",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Lurid",
+          "score": 14,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Graeme",
+          "evidence_quote": "Lurid is right. That goes down to 14."
+        },
+        {
+          "answer": "Rook",
+          "score": 29,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "guess",
+          "contestant": "Andrew",
+          "evidence_quote": "Rook is right. And down goes rook to 29."
+        },
+        {
+          "answer": "Aloud",
+          "score": 24,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Aloud. Well done. 24 for that."
+        },
+        {
+          "answer": "Sharper",
+          "score": 28,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "Sharper for scarper. You get 28 for that."
+        },
+        {
+          "answer": "Tinkle",
+          "score": 31,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "tinkle for tickle. Exactly. 31."
+        }
+      ]
+    },
+    {
+      "round_label": "Final",
+      "category_text": "Winners of the National Brass Band Championships of Great Britain, or anyone with an acting credit in the 1996 film Brassed Off",
+      "category_confidence": "high",
+      "facts": [
+        {
+          "answer": "Bernard Bresslaw",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Nitesh",
+          "evidence_quote": "Bernard Bresslaw. Might he be pointless? OK. Enough said."
+        },
+        {
+          "answer": "Robert Carlyle",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Nitesh",
+          "evidence_quote": "Robert Carlyle. Might he be pointless? Oh, no!"
+        },
+        {
+          "answer": "Ricky Tomlinson",
+          "score": 100,
+          "is_pointless": false,
+          "is_incorrect": true,
+          "kind": "jackpot_answer",
+          "contestant": "Graeme",
+          "evidence_quote": "Ricky Tomlinson wasn't in that film. It's the triple red."
+        },
+        {
+          "answer": "Sue Johnston",
+          "score": 0,
+          "is_pointless": true,
+          "is_incorrect": false,
+          "kind": "recap_pointless",
+          "contestant": null,
+          "evidence_quote": "Sue Johnston was... She was pointless."
+        },
+        {
+          "answer": "Ewan McGregor",
+          "score": null,
+          "is_pointless": false,
+          "is_incorrect": false,
+          "kind": "recap_other",
+          "contestant": null,
+          "evidence_quote": "the only scoring answers here were Ewan McGregor"
+        }
+      ]
+    }
+  ]
+}
