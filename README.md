@@ -5,6 +5,7 @@ A static revision tool for recurring Pointless-style answer sets. The app has th
 - Learn: browse finite categories, sort by obscurity, hide/reveal answers, and mark answers as known or needing work. Answers seen on the show carry an expandable evidence panel (score, episode, question, quote).
 - Revise: answer generated narrowed prompts such as chemical elements by name pattern, countries by continent, or US state capitals containing selected letters.
 - Play: real rounds from series 34-35 — give answers against the actual category, then compare with what the surveyed 100 said. Boards are limited to answers spoken aloud in each episode.
+- Finals: the final-round category cards offered in series 34-35 and never chosen — still in the show's rotation — with inferred question wordings and candidate pointless answers (curated in `data/final_pool_inferences.json`).
 
 ## Data Model
 
@@ -36,6 +37,17 @@ python3 scripts/category_roadmap.py        # ranks unmatched rounds as new-categ
 ```
 
 Notes: `.partial.srt` files (in-progress downloads) are skipped; extraction reruns skip episodes that already have output; subtitle font colours are used to attribute lines to host / co-host / contestants. Only derived facts plus a one-line evidence quote are stored — raw transcripts stay out of the published site.
+
+## Final-Round Board Pool
+
+The four final-round category cards are on-screen text the subtitles never carry. Two scripts recover them per episode (needs `get_iplayer`, `ffmpeg`, and `pip install pyobjc-framework-Vision`):
+
+```sh
+.venv/bin/python scripts/grab_final_boards.py    # ~60s clip per episode + Vision OCR -> data/final_boards.json
+.venv/bin/python scripts/final_pool_report.py    # infer chosen card, build pool ledger -> data/final_pool.json + data/final_board_pool.md
+```
+
+Clips land in `videos/` and the winning frame per episode in `data/final_boards/` (both untracked); re-runs skip episodes already read cleanly. `scripts/dump_final_windows.py` prints each episode's final-round deliberation dialogue for manual checks.
 
 ## Build And Test
 

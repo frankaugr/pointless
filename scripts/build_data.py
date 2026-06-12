@@ -16,10 +16,13 @@ sys.path.insert(0, str(ROOT))
 from pointless_revision.categories import CATEGORIES  # noqa: E402
 from pointless_revision.evidence import write_play_payload  # noqa: E402
 from pointless_revision.export import write_static_data  # noqa: E402
+from pointless_revision.finals import write_finals_payload  # noqa: E402
 
 
 DOCS_DATA = ROOT / "docs" / "data"
 EPISODES_DIR = ROOT / "data" / "episodes"
+FINAL_POOL = ROOT / "data" / "final_pool.json"
+FINAL_INFERENCES = ROOT / "data" / "final_pool_inferences.json"
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -39,6 +42,12 @@ def main(argv: list[str] | None = None) -> int:
         print(
             f"wrote {payload['n_rounds']} playable rounds from "
             f"{len(payload['episodes'])} episodes -> {args.out_dir.relative_to(ROOT)}/episodes.json"
+        )
+    if FINAL_POOL.exists():
+        finals = write_finals_payload(FINAL_POOL, FINAL_INFERENCES, args.out_dir / "finals.json")
+        print(
+            f"wrote {finals['n_cards']} in-play final cards -> "
+            f"{args.out_dir.relative_to(ROOT)}/finals.json"
         )
     return 0
 

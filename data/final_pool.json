@@ -1,0 +1,1120 @@
+{
+  "cards": {
+    "17THCENTURYHISTORY": {
+      "chosen_confident": true,
+      "chosen_in": "s35e18",
+      "offered": [
+        "s35e03",
+        "s35e10",
+        "s35e18"
+      ],
+      "title": "17Th-century History"
+    },
+    "1980SSNOOKER": {
+      "chosen_in": null,
+      "offered": [
+        "s35e26"
+      ],
+      "title": "1980S Snooker"
+    },
+    "21STCENTURYUSLEGALTVDRAMAS": {
+      "chosen_confident": false,
+      "chosen_in": "s34e06",
+      "offered": [
+        "s34e06"
+      ],
+      "title": "21St Century US Legal TV Dramas"
+    },
+    "40YEARSOFEASTENDERS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e32"
+      ],
+      "title": "40 Years Of 'Eastenders'"
+    },
+    "ACTINGROBINS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e18",
+      "offered": [
+        "s34e18"
+      ],
+      "title": "Acting Robins"
+    },
+    "AMANDPMWORDS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e17",
+      "offered": [
+        "s34e05",
+        "s34e17"
+      ],
+      "title": "AM And PM Words"
+    },
+    "AMERICANPIE": {
+      "chosen_in": null,
+      "offered": [
+        "s35e18"
+      ],
+      "title": "'American Pie'"
+    },
+    "ANCIENTANDLEGENDARYHISTORYONFILM": {
+      "chosen_confident": true,
+      "chosen_in": "s34e42",
+      "offered": [
+        "s34e36",
+        "s34e42"
+      ],
+      "title": "Ancient And Legendary History On Film"
+    },
+    "ANCIENTEGYPT": {
+      "chosen_confident": true,
+      "chosen_in": "s35e32",
+      "offered": [
+        "s34e17",
+        "s34e30",
+        "s34e39",
+        "s35e08",
+        "s35e14",
+        "s35e23",
+        "s35e32"
+      ],
+      "title": "Ancient Egypt"
+    },
+    "ANDYMURRAY": {
+      "chosen_in": null,
+      "offered": [
+        "s34e29",
+        "s34e36",
+        "s35e01",
+        "s35e10",
+        "s35e16",
+        "s35e21",
+        "s35e25"
+      ],
+      "title": "Andy Murray"
+    },
+    "ANIMALSFROMMADAGASCAR": {
+      "chosen_confident": true,
+      "chosen_in": "s34e23",
+      "offered": [
+        "s34e09",
+        "s34e23"
+      ],
+      "title": "Animals From Madagascar"
+    },
+    "ANIMALSONLONDONTRANSPORT": {
+      "chosen_in": null,
+      "offered": [
+        "s35e26"
+      ],
+      "title": "Animals On London Transport"
+    },
+    "ANIMATEDSUPERHEROFILMSEQUELS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e26",
+      "offered": [
+        "s34e26"
+      ],
+      "title": "Animated Superhero Film Sequels"
+    },
+    "ANIMATIONATTHEOSCARS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e07",
+      "offered": [
+        "s34e07"
+      ],
+      "title": "Animation At The Oscars"
+    },
+    "ARTANDLITERATUREPRIZES": {
+      "chosen_in": null,
+      "offered": [
+        "s34e06",
+        "s34e13",
+        "s34e18",
+        "s34e25",
+        "s34e32",
+        "s34e40",
+        "s34e46",
+        "s35e09",
+        "s35e20",
+        "s35e25"
+      ],
+      "title": "Art And Literature Prizes"
+    },
+    "AUSTRALIANPOP": {
+      "chosen_confident": true,
+      "chosen_in": "s34e36",
+      "offered": [
+        "s34e36"
+      ],
+      "title": "Australian Pop"
+    },
+    "BASKETBALLACHIEVEMENTS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e19",
+      "offered": [
+        "s34e03",
+        "s34e13",
+        "s34e19"
+      ],
+      "title": "Basketball Achievements"
+    },
+    "BILLFILMS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e25",
+      "offered": [
+        "s35e25"
+      ],
+      "title": "'Bill' Films"
+    },
+    "BOARDGAMES": {
+      "chosen_confident": true,
+      "chosen_in": "s35e28",
+      "offered": [
+        "s35e28"
+      ],
+      "title": "Board Games"
+    },
+    "BOBMARLEYONSTAGEANDSCREEN": {
+      "chosen_in": null,
+      "offered": [
+        "s34e13"
+      ],
+      "title": "Bob Marley On Stage And Screen"
+    },
+    "BOOKSFORVERYYOUNGCHILDREN": {
+      "chosen_confident": true,
+      "chosen_in": "s34e38",
+      "offered": [
+        "s34e27",
+        "s34e33",
+        "s34e38"
+      ],
+      "title": "Books For Very Young Children"
+    },
+    "BOYSONTV": {
+      "chosen_in": null,
+      "offered": [
+        "s35e03",
+        "s35e13",
+        "s35e21"
+      ],
+      "title": "'Boys' On TV"
+    },
+    "BRASSBANDS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e14",
+      "offered": [
+        "s34e14"
+      ],
+      "title": "Brass Bands"
+    },
+    "BRISTOLTRIPHOP": {
+      "chosen_confident": true,
+      "chosen_in": "s34e35",
+      "offered": [
+        "s34e03",
+        "s34e17",
+        "s34e25",
+        "s34e35"
+      ],
+      "title": "Bristol Trip Hop"
+    },
+    "BRITISHCRIMEFICTIONAUTHORSWITHTHESURNAMEJAMES": {
+      "chosen_in": null,
+      "offered": [
+        "s34e43",
+        "s35e02",
+        "s35e14",
+        "s35e24",
+        "s35e31"
+      ],
+      "title": "British Crime Fiction Authors With The Surname 'James'"
+    },
+    "BRITISHMUSEUMS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e24",
+      "offered": [
+        "s34e01",
+        "s34e14",
+        "s34e24"
+      ],
+      "title": "British Museums"
+    },
+    "BRITISHSOAPAWARDS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e05",
+      "offered": [
+        "s34e05"
+      ],
+      "title": "British Soap Awards"
+    },
+    "BUTTERFLIES": {
+      "chosen_in": null,
+      "offered": [
+        "s35e33"
+      ],
+      "title": "Butterflies"
+    },
+    "CANADIANSPORT": {
+      "chosen_confident": true,
+      "chosen_in": "s34e04",
+      "offered": [
+        "s34e04"
+      ],
+      "title": "Canadian Sport"
+    },
+    "CAPITALSOFCULTURE": {
+      "chosen_confident": true,
+      "chosen_in": "s35e13",
+      "offered": [
+        "s34e27",
+        "s34e38",
+        "s34e45",
+        "s35e06",
+        "s35e13"
+      ],
+      "title": "Capitals Of Culture"
+    },
+    "CHILDRENSBOOKILLUSTRATORS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e33"
+      ],
+      "title": "Children's Book Illustrators"
+    },
+    "CHILDRENSCARTOONCANINES": {
+      "chosen_confident": true,
+      "chosen_in": "s34e30",
+      "offered": [
+        "s34e30"
+      ],
+      "title": "Children's Cartoon Canines"
+    },
+    "CHOCOLATE": {
+      "chosen_confident": true,
+      "chosen_in": "s34e44",
+      "offered": [
+        "s34e34",
+        "s34e44"
+      ],
+      "title": "Chocolate"
+    },
+    "CHRISTMASDESSERTS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e30"
+      ],
+      "title": "Christmas Desserts"
+    },
+    "CINEMATICBRIANS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e09",
+        "s35e17"
+      ],
+      "title": "Cinematic Brians"
+    },
+    "CLIMATECHANGE": {
+      "chosen_confident": true,
+      "chosen_in": "s34e16",
+      "offered": [
+        "s34e04",
+        "s34e16"
+      ],
+      "title": "Climate Change"
+    },
+    "COASTALCAPITALS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e41",
+      "offered": [
+        "s34e35",
+        "s34e41"
+      ],
+      "title": "Coastal Capitals"
+    },
+    "COMEDYHORRORMUSICALTHEATRE": {
+      "chosen_confident": true,
+      "chosen_in": "s35e17",
+      "offered": [
+        "s34e39",
+        "s34e46",
+        "s35e07",
+        "s35e17"
+      ],
+      "title": "Comedy Horror Musical Theatre"
+    },
+    "COMMONWEALTHLEADERSDURINGTHEREIGNOFQUEENELIZABETHII": {
+      "chosen_confident": true,
+      "chosen_in": "s34e03",
+      "offered": [
+        "s34e03"
+      ],
+      "title": "Commonwealth Leaders During The Reign Of Queen Elizabeth Ii"
+    },
+    "COUNTRYMUSICSONGS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e15",
+      "offered": [
+        "s34e11",
+        "s34e44",
+        "s35e03",
+        "s35e15"
+      ],
+      "title": "Country Music Songs"
+    },
+    "CRICKETERSOFTHEYEAR": {
+      "chosen_confident": true,
+      "chosen_in": "s35e19",
+      "offered": [
+        "s35e19"
+      ],
+      "title": "Cricketers Of The Year"
+    },
+    "DOCTORWHOINTHENCUTIGATWAERA": {
+      "chosen_in": null,
+      "offered": [
+        "s35e27"
+      ],
+      "title": "'Doctor Who' In The Ncuti Gatwa Era"
+    },
+    "DRAGONSONSCREEN": {
+      "chosen_confident": true,
+      "chosen_in": "s34e39",
+      "offered": [
+        "s34e32",
+        "s34e39"
+      ],
+      "title": "Dragons On Screen"
+    },
+    "EGGS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e15",
+      "offered": [
+        "s34e02",
+        "s34e15"
+      ],
+      "title": "Eggs"
+    },
+    "ELEPHANTS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e40",
+      "offered": [
+        "s34e01",
+        "s34e12",
+        "s34e22",
+        "s34e29",
+        "s34e40"
+      ],
+      "title": "Elephants"
+    },
+    "EURO2024": {
+      "chosen_confident": true,
+      "chosen_in": "s35e08",
+      "offered": [
+        "s35e08"
+      ],
+      "title": "Euro 2024"
+    },
+    "EUROPEANFOOTBALLTITLEWINNERSFROMNORTHLONDON": {
+      "chosen_in": null,
+      "offered": [
+        "s35e27"
+      ],
+      "title": "European Football Title Winners From North London"
+    },
+    "EUROPEANPREMIERLEAGUEFOOTBALLERS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e03",
+      "offered": [
+        "s34e06",
+        "s34e17",
+        "s34e26",
+        "s34e38",
+        "s35e03"
+      ],
+      "title": "European Premier League Footballers"
+    },
+    "FANTASYAUTHORS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e11",
+        "s35e18"
+      ],
+      "title": "Fantasy Authors"
+    },
+    "FARMING": {
+      "chosen_confident": false,
+      "chosen_in": "s35e27",
+      "offered": [
+        "s35e27"
+      ],
+      "title": "Farming"
+    },
+    "FEMALERAPPERS": {
+      "chosen_in": null,
+      "offered": [
+        "s34e31",
+        "s34e37",
+        "s35e01",
+        "s35e08",
+        "s35e16",
+        "s35e23",
+        "s35e29"
+      ],
+      "title": "Female Rappers"
+    },
+    "FILMSBYFORMERNEIGHBOURSSTARS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e02",
+      "offered": [
+        "s35e02"
+      ],
+      "title": "Films By Former 'Neighbours' Stars"
+    },
+    "FILMSBYWOLFHALLACTORS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e23",
+        "s35e30"
+      ],
+      "title": "Films By 'Wolf Hall' Actors"
+    },
+    "FISHING": {
+      "chosen_confident": true,
+      "chosen_in": "s34e20",
+      "offered": [
+        "s34e10",
+        "s34e20"
+      ],
+      "title": "Fishing"
+    },
+    "FRENCHROYALTY": {
+      "chosen_in": null,
+      "offered": [
+        "s35e28"
+      ],
+      "title": "French Royalty"
+    },
+    "GERMANEXPERIMENTALROCKANDELECTRONICMUSIC": {
+      "chosen_in": null,
+      "offered": [
+        "s34e07",
+        "s34e16",
+        "s34e23",
+        "s34e32",
+        "s34e41",
+        "s35e02",
+        "s35e12",
+        "s35e20",
+        "s35e27"
+      ],
+      "title": "German Experimental Rock And Electronic Music"
+    },
+    "GILBERTANDSULLIVAN": {
+      "chosen_in": null,
+      "offered": [
+        "s34e10",
+        "s34e21",
+        "s34e43",
+        "s35e13",
+        "s35e22"
+      ],
+      "title": "Gilbert And Sullivan"
+    },
+    "GLASTONBURY": {
+      "chosen_confident": true,
+      "chosen_in": "s34e27",
+      "offered": [
+        "s34e27"
+      ],
+      "title": "Glastonbury"
+    },
+    "GLOVERSONFILM": {
+      "chosen_confident": true,
+      "chosen_in": "s34e46",
+      "offered": [
+        "s34e03",
+        "s34e16",
+        "s34e28",
+        "s34e33",
+        "s34e38",
+        "s34e46"
+      ],
+      "title": "Glovers On Film"
+    },
+    "GRACEGRACEONTV": {
+      "chosen_in": null,
+      "offered": [
+        "s34e41",
+        "s35e10",
+        "s35e19",
+        "s35e28"
+      ],
+      "title": "'Grace' & 'Grace' On TV"
+    },
+    "GREEKCINEMA": {
+      "chosen_in": null,
+      "offered": [
+        "s34e45",
+        "s35e15"
+      ],
+      "title": "Greek Cinema"
+    },
+    "GUARDIANSOFTHEGALAXY": {
+      "chosen_confident": true,
+      "chosen_in": "s35e33",
+      "offered": [
+        "s35e24",
+        "s35e33"
+      ],
+      "title": "'Guardians Of The Galaxy'"
+    },
+    "HOMEGRANDSLAMTENNISCHAMPIONS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e01",
+      "offered": [
+        "s34e01"
+      ],
+      "title": "Home Grand Slam Tennis Champions"
+    },
+    "IRISHPOLITICS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e30"
+      ],
+      "title": "Irish Politics"
+    },
+    "KENNETHBRANAGHSAGATHACHRISTIEFILMS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e31",
+      "offered": [
+        "s34e04",
+        "s34e20",
+        "s34e31"
+      ],
+      "title": "Kenneth Branagh's Agatha Christie Films"
+    },
+    "LIONS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e11",
+      "offered": [
+        "s35e11"
+      ],
+      "title": "Lions"
+    },
+    "LONDONTRANSPORT": {
+      "chosen_confident": true,
+      "chosen_in": "s34e13",
+      "offered": [
+        "s34e13"
+      ],
+      "title": "London Transport"
+    },
+    "MALEENGLANDFOOTBALLERSOVERSEASIN202324": {
+      "chosen_in": null,
+      "offered": [
+        "s34e10",
+        "s34e22",
+        "s34e34"
+      ],
+      "title": "Male England Footballers Overseas In 2023/24"
+    },
+    "MIDTABLETHINGS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e31",
+      "offered": [
+        "s35e31"
+      ],
+      "title": "Mid-table Things"
+    },
+    "MOTORWAYS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e04",
+      "offered": [
+        "s35e04"
+      ],
+      "title": "Motorways"
+    },
+    "MUSICALADAPTATIONSOFMEANGIRLS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e14",
+      "offered": [
+        "s35e04",
+        "s35e14"
+      ],
+      "title": "Musical Adaptations Of 'Mean Girls"
+    },
+    "MUSICCOMPOSITION": {
+      "chosen_confident": true,
+      "chosen_in": "s35e10",
+      "offered": [
+        "s34e04",
+        "s34e19",
+        "s34e29",
+        "s34e42",
+        "s35e05",
+        "s35e10"
+      ],
+      "title": "Music Composition"
+    },
+    "NEWYORKCITY": {
+      "chosen_confident": true,
+      "chosen_in": "s34e33",
+      "offered": [
+        "s34e33"
+      ],
+      "title": "New York City"
+    },
+    "NORTHERNANDSOUTHERNHEMISPHEREWINEREGIONS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e09",
+        "s35e19",
+        "s35e25"
+      ],
+      "title": "Northern And Southern Hemisphere Wine Regions"
+    },
+    "NUMETALBANDS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e26",
+        "s35e32"
+      ],
+      "title": "Nu Metal Bands"
+    },
+    "ONEDAYONSCREEN": {
+      "chosen_confident": true,
+      "chosen_in": "s34e10",
+      "offered": [
+        "s34e10"
+      ],
+      "title": "'One Day' On Screen"
+    },
+    "OPERATIONMINCEMEAT": {
+      "chosen_in": null,
+      "offered": [
+        "s35e11",
+        "s35e21",
+        "s35e29"
+      ],
+      "title": "Operation Mincemeat"
+    },
+    "OSCARLOSERS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e43",
+      "offered": [
+        "s34e43"
+      ],
+      "title": "Oscar Losers"
+    },
+    "PARTTWOSCIFIANDFANTASYFILMS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e22",
+      "offered": [
+        "s34e12",
+        "s34e22"
+      ],
+      "title": "'Part Two' Sci-fi And Fantasy Films"
+    },
+    "PEACEQUIET": {
+      "chosen_confident": true,
+      "chosen_in": "s35e01",
+      "offered": [
+        "s34e30",
+        "s34e39",
+        "s35e01"
+      ],
+      "title": "Peace & Quiet"
+    },
+    "PERFECT10GEOGRAPHY": {
+      "chosen_confident": true,
+      "chosen_in": "s35e29",
+      "offered": [
+        "s35e19",
+        "s35e29"
+      ],
+      "title": "'Perfect 10' Geography"
+    },
+    "PGWODEHOUSEONTV": {
+      "chosen_in": null,
+      "offered": [
+        "s34e01",
+        "s34e15",
+        "s34e23",
+        "s34e40"
+      ],
+      "title": "P G Wodehouse On TV"
+    },
+    "PHOTOGRAPHERS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e37",
+      "offered": [
+        "s34e37"
+      ],
+      "title": "Photographers"
+    },
+    "QUEENSOFPOPONTOUR": {
+      "chosen_confident": true,
+      "chosen_in": "s34e45",
+      "offered": [
+        "s34e45"
+      ],
+      "title": "'Queens Of Pop' On Tour"
+    },
+    "RACEACROSSTHEWORLD": {
+      "chosen_in": null,
+      "offered": [
+        "s35e12",
+        "s35e20"
+      ],
+      "title": "'Race Across The World'"
+    },
+    "RAGTIMEMUSIC": {
+      "chosen_in": null,
+      "offered": [
+        "s35e31"
+      ],
+      "title": "Ragtime Music"
+    },
+    "RAILSTATIONSINGERMANY": {
+      "chosen_confident": true,
+      "chosen_in": "s34e29",
+      "offered": [
+        "s34e09",
+        "s34e21",
+        "s34e29"
+      ],
+      "title": "Rail Stations In Germany"
+    },
+    "REPEATEDGEOGRAPHY": {
+      "chosen_confident": true,
+      "chosen_in": "s34e08",
+      "offered": [
+        "s34e08"
+      ],
+      "title": "Repeated Geography"
+    },
+    "RHYTHMANDBLUESSONGSINTHEUKCHARTS": {
+      "chosen_confident": true,
+      "chosen_in": "s35e30",
+      "offered": [
+        "s35e30"
+      ],
+      "title": "'Rhythm' And 'Blues' Songs In The UK Charts"
+    },
+    "SCORESOFZERO": {
+      "chosen_confident": true,
+      "chosen_in": "s35e09",
+      "offered": [
+        "s35e09"
+      ],
+      "title": "Scores Of Zero"
+    },
+    "SCULPTURE": {
+      "chosen_confident": true,
+      "chosen_in": "s35e16",
+      "offered": [
+        "s35e06",
+        "s35e16"
+      ],
+      "title": "Sculpture"
+    },
+    "SECRETARIESOFSTATEFORSCOTLANDANDWALES": {
+      "chosen_in": null,
+      "offered": [
+        "s34e07",
+        "s34e18",
+        "s34e26",
+        "s34e34",
+        "s34e44",
+        "s35e05",
+        "s35e12",
+        "s35e17",
+        "s35e22"
+      ],
+      "title": "Secretaries Of State For Scotland And Wales"
+    },
+    "SENIORCHURCHFIGURES": {
+      "chosen_confident": true,
+      "chosen_in": "s35e07",
+      "offered": [
+        "s34e08",
+        "s34e15",
+        "s34e24",
+        "s34e31",
+        "s35e07"
+      ],
+      "title": "Senior Church Figures"
+    },
+    "SINGINGCARLYS": {
+      "chosen_in": null,
+      "offered": [
+        "s35e33"
+      ],
+      "title": "Singing Carlys"
+    },
+    "SONGSIN21STCENTURYSCHOOLMUSICALS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e34",
+      "offered": [
+        "s34e05",
+        "s34e24",
+        "s34e34"
+      ],
+      "title": "Songs In 21St-century School Musicals"
+    },
+    "SPIKELEE": {
+      "chosen_confident": true,
+      "chosen_in": "s34e21",
+      "offered": [
+        "s34e08",
+        "s34e21"
+      ],
+      "title": "Spike Lee"
+    },
+    "TEENAGEOSCARNOMINEES": {
+      "chosen_confident": true,
+      "chosen_in": "s34e25",
+      "offered": [
+        "s34e11",
+        "s34e25"
+      ],
+      "title": "Teenage Oscar Nominees"
+    },
+    "THE2023MENSRUGBYUNIONWORLDCUP": {
+      "chosen_confident": true,
+      "chosen_in": "s35e20",
+      "offered": [
+        "s34e45",
+        "s35e07",
+        "s35e20"
+      ],
+      "title": "The 2023 Men's Rugby Union World Cup"
+    },
+    "THE2023NETBALLWORLDCUP": {
+      "chosen_confident": true,
+      "chosen_in": "s35e23",
+      "offered": [
+        "s34e08",
+        "s34e16",
+        "s34e23",
+        "s34e31",
+        "s34e43",
+        "s35e05",
+        "s35e13",
+        "s35e23"
+      ],
+      "title": "The 2023 Netball World Cup"
+    },
+    "THE2024GENERALELECTION": {
+      "chosen_confident": true,
+      "chosen_in": "s34e28",
+      "offered": [
+        "s34e11",
+        "s34e20",
+        "s34e28"
+      ],
+      "title": "The 2024 General Election"
+    },
+    "THE2024SUMMERPARALYMPICS": {
+      "chosen_in": null,
+      "offered": [
+        "s34e44",
+        "s35e06",
+        "s35e18"
+      ],
+      "title": "The 2024 Summer Paralympics"
+    },
+    "THEAPPRENTICE": {
+      "chosen_confident": true,
+      "chosen_in": "s35e06",
+      "offered": [
+        "s34e02",
+        "s34e12",
+        "s34e20",
+        "s34e26",
+        "s34e35",
+        "s34e42",
+        "s35e01",
+        "s35e06"
+      ],
+      "title": "'The Apprentice'"
+    },
+    "THEBEATLESCOMPILATIONALBUMS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e09",
+      "offered": [
+        "s34e09"
+      ],
+      "title": "The Beatles Compilation Albums"
+    },
+    "THEBRITAWARDS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e12",
+      "offered": [
+        "s34e12"
+      ],
+      "title": "The Brit Awards"
+    },
+    "THELETTEREINSCIENCE": {
+      "chosen_confident": true,
+      "chosen_in": "s35e05",
+      "offered": [
+        "s34e35",
+        "s35e05"
+      ],
+      "title": "The Letter 'E' In Science"
+    },
+    "THEMENSCRICKETWORLDCUP2023": {
+      "chosen_in": null,
+      "offered": [
+        "s34e02",
+        "s34e14",
+        "s34e21",
+        "s34e28",
+        "s34e41"
+      ],
+      "title": "The Men's Cricket World Cup 2023"
+    },
+    "THEOSCARSIN2024": {
+      "chosen_confident": true,
+      "chosen_in": "s35e12",
+      "offered": [
+        "s35e12"
+      ],
+      "title": "The Oscars In 2024"
+    },
+    "THEPERIODICTABLE": {
+      "chosen_confident": true,
+      "chosen_in": "s34e11",
+      "offered": [
+        "s34e11"
+      ],
+      "title": "The Periodic Table"
+    },
+    "THEPOSTOFFICE": {
+      "chosen_confident": true,
+      "chosen_in": "s35e21",
+      "offered": [
+        "s34e22",
+        "s34e28",
+        "s34e36",
+        "s34e46",
+        "s35e08",
+        "s35e15",
+        "s35e21"
+      ],
+      "title": "The Post Office"
+    },
+    "THEROYALASCOTGOLDCUP": {
+      "chosen_in": null,
+      "offered": [
+        "s34e05",
+        "s34e15",
+        "s34e25",
+        "s34e30",
+        "s34e37",
+        "s35e04",
+        "s35e15",
+        "s35e24",
+        "s35e29"
+      ],
+      "title": "The Royal Ascot Gold Cup"
+    },
+    "THEYEAR2022": {
+      "chosen_confident": true,
+      "chosen_in": "s35e22",
+      "offered": [
+        "s35e14",
+        "s35e22"
+      ],
+      "title": "The Year 2022"
+    },
+    "THINGSWITHLOTSOFVOWELSINTHEIRNAMES": {
+      "chosen_confident": true,
+      "chosen_in": "s35e24",
+      "offered": [
+        "s34e40",
+        "s35e07",
+        "s35e24"
+      ],
+      "title": "Things With Lots Of Vowels In Their Names"
+    },
+    "TVSERIESSTARRINGJASONBATEMAN": {
+      "chosen_in": null,
+      "offered": [
+        "s34e09",
+        "s34e19",
+        "s34e27",
+        "s34e37",
+        "s35e04",
+        "s35e16",
+        "s35e22",
+        "s35e31"
+      ],
+      "title": "TV Series Starring Jason Bateman"
+    },
+    "WESTINDIESCRICKET": {
+      "chosen_in": null,
+      "offered": [
+        "s35e32"
+      ],
+      "title": "West Indies Cricket"
+    },
+    "WICKED": {
+      "chosen_in": null,
+      "offered": [
+        "s35e28"
+      ],
+      "title": "'Wicked'"
+    },
+    "WORKANDPLAYINPOPSONGS": {
+      "chosen_confident": true,
+      "chosen_in": "s34e02",
+      "offered": [
+        "s34e02"
+      ],
+      "title": "'Work' And 'Play' In Pop Songs"
+    },
+    "WORLDSSTRONGESTMANWOMAN": {
+      "chosen_in": null,
+      "offered": [
+        "s34e07",
+        "s34e18",
+        "s34e24",
+        "s34e33",
+        "s34e42",
+        "s35e02",
+        "s35e11",
+        "s35e17"
+      ],
+      "title": "World's Strongest Man & Woman"
+    },
+    "WORLDWATERBIRDSPECIES": {
+      "chosen_confident": true,
+      "chosen_in": "s34e32",
+      "offered": [
+        "s34e06",
+        "s34e14",
+        "s34e19",
+        "s34e32"
+      ],
+      "title": "World Water Bird Species"
+    },
+    "ZOMBIES": {
+      "chosen_confident": true,
+      "chosen_in": "s35e26",
+      "offered": [
+        "s35e26"
+      ],
+      "title": "Zombies"
+    }
+  },
+  "in_play_count": 40,
+  "needs_review": [
+    "s34e06: unsure which card was chosen: ['ART AND LITERATURE PRIZES', 'WORLD WATER BIRD SPECIES', '21st CENTURY US LEGAL TV DRAMAS', 'EUROPEAN PREMIER LEAGUE FOOTBALLERS']",
+    "s35e27: unsure which card was chosen: ['EUROPEAN FOOTBALL TITLE WINNERS FROM NORTH LONDON', 'FARMING', 'GERMAN EXPERIMENTAL ROCK AND ELECTRONIC MUSIC', \"'DOCTOR WHO' IN THE NCUTI GATWA ERA\"]",
+    "merged OCR variants: 'ANCIENT EGYPT' <- 'KANCIENT EGYPT'"
+  ],
+  "retired_count": 79
+}

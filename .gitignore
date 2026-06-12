@@ -11,3 +11,5 @@ venv/
 .DS_Store
 .get_iplayer/
 pointless_transcripts/
+videos/
+data/final_boards/

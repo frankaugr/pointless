@@ -16,6 +16,7 @@
       <button type="button" data-mode="learn" class="active" aria-pressed="true">Learn</button>
       <button type="button" data-mode="revise" aria-pressed="false">Revise</button>
       <button type="button" data-mode="play" aria-pressed="false">Play</button>
+      <button type="button" data-mode="finals" aria-pressed="false">Finals</button>
     </nav>
   </header>
 
@@ -161,6 +162,18 @@
           </div>
           <p class="tool-meta">Board is limited to answers and scores spoken aloud in the episode.</p>
         </section>
+      </section>
+
+      <section id="finals-view" class="mode-view" hidden>
+        <div class="tool-row">
+          <span id="finals-count" class="tool-meta"></span>
+        </div>
+        <div id="finals-list" class="answer-table"></div>
+        <p class="tool-meta">
+          These cards appeared on a series 34-35 final board and were never chosen, so they should still be
+          in the rotation. Question wordings are inferred guesses, not broadcast text; the picks are plausible
+          low scorers, not verified pointless answers.
+        </p>
       </section>
     </section>
   </main>

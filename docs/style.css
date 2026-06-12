@@ -355,6 +355,12 @@ p {
   font-style: italic;
 }
 
+.finals-question {
+  margin: 0.45rem 0 0;
+  color: var(--text);
+  font-weight: 600;
+}
+
 .board-found {
   font-weight: 800;
 }

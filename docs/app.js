@@ -44,6 +44,10 @@ const state = {
     answerIndex: null,
     revealed: false,
   },
+  finals: {
+    cards: null,
+    error: "",
+  },
 };
 
 const $ = (id) => document.getElementById(id);
@@ -68,6 +72,9 @@ function bindChrome() {
       state.mode = button.dataset.mode;
       if (state.mode === "play") {
         await ensurePlayData();
+      }
+      if (state.mode === "finals") {
+        await ensureFinalsData();
       }
       renderAll();
       if (state.mode === "revise" && !state.revise.question) {
@@ -162,6 +169,18 @@ function renderAll() {
   $("learn-view").hidden = state.mode !== "learn";
   $("revise-view").hidden = state.mode !== "revise";
   $("play-view").hidden = state.mode !== "play";
+  $("finals-view").hidden = state.mode !== "finals";
+
+  if (state.mode === "finals") {
+    $("active-category-name").textContent = "Final board pool";
+    $("active-category-description").textContent =
+      "Categories offered in a series 34-35 final and never picked - still in the rotation, with inferred questions and candidate pointless answers.";
+    $("category-stats").textContent = state.finals.cards
+      ? `${state.finals.cards.length} cards still in play`
+      : "";
+    renderFinals();
+    return;
+  }
 
   if (state.mode === "play") {
     $("active-category-name").textContent = "Play along";
@@ -525,6 +544,77 @@ function setPlayFeedback(message, kind = "") {
   const el = $("play-feedback");
   el.textContent = message;
   el.className = `feedback ${kind}`;
+}
+
+async function ensureFinalsData() {
+  if (state.finals.cards) return;
+  try {
+    const response = await fetch("data/finals.json", { cache: "no-cache" });
+    if (!response.ok) throw new Error(`Failed to load data/finals.json: ${response.status}`);
+    state.finals.cards = (await response.json()).cards || [];
+  } catch (err) {
+    state.finals.cards = [];
+    state.finals.error = err.message;
+  }
+}
+
+function renderFinals() {
+  const cards = state.finals.cards || [];
+  $("finals-count").textContent = state.finals.error
+    || `${cards.length} cards in play, longest-waiting first`;
+  const list = $("finals-list");
+  list.innerHTML = "";
+  for (const card of cards) {
+    list.append(renderFinalsCard(card));
+  }
+}
+
+function renderFinalsCard(card) {
+  const row = document.createElement("article");
+  row.className = "answer-row";
+
+  const name = document.createElement("div");
+  name.className = "answer-name";
+  name.textContent = card.title;
+
+  const meta = document.createElement("div");
+  meta.className = "answer-meta";
+  const offers = document.createElement("span");
+  offers.className = "field-pill";
+  offers.textContent = `Offered ${card.offered.length} time${card.offered.length === 1 ? "" : "s"}`;
+  const episodes = document.createElement("span");
+  episodes.className = "field-pill";
+  episodes.textContent = card.offered.join(", ");
+  meta.append(offers, episodes);
+
+  row.append(name, meta);
+
+  const details = document.createElement("details");
+  details.className = "answer-evidence";
+  const summary = document.createElement("summary");
+  summary.textContent = "Inferred question and pointless picks";
+  details.append(summary);
+
+  const question = document.createElement("p");
+  question.className = "finals-question";
+  question.textContent = card.question || "No question inferred yet.";
+  details.append(question);
+
+  if (card.picks?.length) {
+    const picks = document.createElement("ul");
+    for (const pick of card.picks) {
+      const li = document.createElement("li");
+      const answer = document.createElement("strong");
+      answer.textContent = pick.answer;
+      li.append(answer);
+      if (pick.note) li.append(document.createTextNode(` - ${pick.note}`));
+      picks.append(li);
+    }
+    details.append(picks);
+  }
+
+  row.append(details);
+  return row;
 }
 
 function renderCompactAnswer(answer) {
