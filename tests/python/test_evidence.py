@@ -3,7 +3,13 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from pointless_revision.evidence import answer_index, lookup_answer, merge_episodes, resolve_category
+from pointless_revision.evidence import (
+    answer_index,
+    build_play_payload,
+    lookup_answer,
+    merge_episodes,
+    resolve_category,
+)
 from pointless_revision.historical_scores import _load_generated
 
 
@@ -118,6 +124,39 @@ class MergeTests(unittest.TestCase):
         self.assertEqual(records, [])
         self.assertEqual(report["facts_skipped_incorrect"], 1)
         self.assertEqual(report["facts_skipped_no_score"], 1)
+
+    def test_play_payload_keeps_only_scoreable_rounds(self):
+        rounds = [
+            {
+                "category_text": "Teams at Euro 2024",
+                "category_confidence": "high",
+                "facts": [
+                    fact("Italy", score=57),
+                    fact("Italy", score=57),  # duplicate answer -> dropped
+                    fact("Czechia", score=3),
+                    fact("Georgia", is_pointless=True),  # null score -> 0
+                    fact("Slovakia", score=100, is_incorrect=True),  # excluded
+                    fact("Poland", score=16),
+                ],
+            },
+            {
+                "category_text": "Too thin",
+                "category_confidence": "low",
+                "facts": [fact("One", score=1), fact("Two", score=2)],
+            },
+        ]
+        with tempfile.TemporaryDirectory() as tmp:
+            episodes_dir = Path(tmp)
+            (episodes_dir / "s34e01.json").write_text(
+                json.dumps(episode_payload(rounds)), encoding="utf-8"
+            )
+            payload = build_play_payload(episodes_dir)
+        self.assertEqual(payload["n_rounds"], 1)
+        facts = payload["episodes"][0]["rounds"][0]["facts"]
+        self.assertEqual(len(facts), 4)
+        georgia = next(f for f in facts if f["answer"] == "Georgia")
+        self.assertEqual(georgia["score"], 0)
+        self.assertTrue(georgia["is_pointless"])
 
     def test_generated_evidence_loader_skips_manual_duplicates(self):
         with tempfile.TemporaryDirectory() as tmp:

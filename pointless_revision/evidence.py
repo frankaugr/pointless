@@ -156,6 +156,72 @@ def merge_episodes(episodes_dir: Path) -> tuple[list[dict[str, Any]], dict[str, 
     return records, report
 
 
+MIN_PLAYABLE_FACTS = 4
+
+
+def build_play_payload(episodes_dir: Path) -> dict[str, Any]:
+    """Episode rounds with enough scored facts to play along against.
+
+    Only derived facts ship to the published site: category text, answers,
+    and scores. Evidence quotes and full extractions stay in data/.
+    """
+    episodes = []
+    for path in sorted(episodes_dir.glob("*.json")):
+        episode = json.loads(path.read_text(encoding="utf-8"))
+        rounds = []
+        for round_data in episode.get("rounds", []):
+            facts = []
+            seen_answers: set[str] = set()
+            for fact in round_data.get("facts", []):
+                if fact.get("is_incorrect"):
+                    continue
+                score = fact.get("score")
+                if score is None and fact.get("is_pointless"):
+                    score = 0
+                if score is None or not 0 <= int(score) <= 100:
+                    continue
+                norm = normalise(fact.get("answer", ""))
+                if not norm or norm in seen_answers:
+                    continue
+                seen_answers.add(norm)
+                facts.append(
+                    {
+                        "answer": fact["answer"],
+                        "score": int(score),
+                        "is_pointless": bool(fact.get("is_pointless")),
+                    }
+                )
+            if len(facts) >= MIN_PLAYABLE_FACTS:
+                rounds.append(
+                    {
+                        "category_text": round_data.get("category_text", ""),
+                        "category_confidence": round_data.get("category_confidence", "low"),
+                        "facts": facts,
+                    }
+                )
+        if rounds:
+            episodes.append(
+                {
+                    "episode_id": episode["episode_id"],
+                    "episode_label": episode["episode_label"],
+                    "source_url": episode["source_url"],
+                    "rounds": rounds,
+                }
+            )
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "n_rounds": sum(len(ep["rounds"]) for ep in episodes),
+        "episodes": episodes,
+    }
+
+
+def write_play_payload(episodes_dir: Path, out_path: Path) -> dict[str, Any]:
+    payload = build_play_payload(episodes_dir)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return payload
+
+
 def write_evidence(records: list[dict[str, Any]], out_path: Path) -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
     payload = {

@@ -9,6 +9,7 @@ import {
   sortAnswers,
 } from "./js/data.js";
 import { buildAnswerIndex, findMatches } from "./js/match.js";
+import { bestFound, flattenRounds, pickRound, roundKey } from "./js/play.js";
 import { buildQuestionCandidates, pickQuestion } from "./js/questions.js";
 import {
   getAnswerStatus,
@@ -36,6 +37,13 @@ const state = {
     answerIndex: null,
     revealed: false,
   },
+  play: {
+    rounds: null,
+    round: null,
+    found: new Set(),
+    answerIndex: null,
+    revealed: false,
+  },
 };
 
 const $ = (id) => document.getElementById(id);
@@ -56,11 +64,17 @@ async function init() {
 
 function bindChrome() {
   document.querySelectorAll("[data-mode]").forEach((button) => {
-    button.addEventListener("click", () => {
+    button.addEventListener("click", async () => {
       state.mode = button.dataset.mode;
+      if (state.mode === "play") {
+        await ensurePlayData();
+      }
       renderAll();
       if (state.mode === "revise" && !state.revise.question) {
         startQuestion();
+      }
+      if (state.mode === "play" && !state.play.round) {
+        startRound();
       }
     });
   });
@@ -91,6 +105,10 @@ function bindChrome() {
   $("new-question").addEventListener("click", startQuestion);
   $("answer-form").addEventListener("submit", handleAnswerSubmit);
   $("give-up").addEventListener("click", revealMissed);
+
+  $("new-round").addEventListener("click", startRound);
+  $("play-form").addEventListener("submit", handlePlaySubmit);
+  $("play-reveal").addEventListener("click", revealBoard);
 }
 
 async function ensureCategory(slug) {
@@ -143,6 +161,19 @@ function renderAll() {
 
   $("learn-view").hidden = state.mode !== "learn";
   $("revise-view").hidden = state.mode !== "revise";
+  $("play-view").hidden = state.mode !== "play";
+
+  if (state.mode === "play") {
+    $("active-category-name").textContent = "Play along";
+    $("active-category-description").textContent =
+      "Real rounds from series 34-35. Give answers, then compare against what the 100 people actually said.";
+    $("category-stats").textContent = state.play.rounds
+      ? `${state.play.rounds.length} rounds extracted from broadcast episodes`
+      : "";
+    renderRound();
+    return;
+  }
+
   $("active-category-name").textContent = category.name;
   $("active-category-description").textContent = category.description;
 
@@ -220,7 +251,35 @@ function renderLearnRow(category, answer) {
   }));
 
   row.append(name, meta, actions);
+  const evidence = answer.obscurity?.evidence || [];
+  if (!isHidden && evidence.length > 0) {
+    row.append(renderEvidence(evidence));
+  }
   return row;
+}
+
+function renderEvidence(evidence) {
+  const details = document.createElement("details");
+  details.className = "answer-evidence";
+  const summary = document.createElement("summary");
+  summary.textContent = `Seen on the show (${evidence.length})`;
+  details.append(summary);
+
+  const list = document.createElement("ul");
+  for (const item of evidence) {
+    const li = document.createElement("li");
+    const line = `Scored ${item.score_0_to_100} - ${item.episode}` +
+      (item.question_text ? ` - ${item.question_text}` : "");
+    li.append(document.createTextNode(line));
+    if (item.quote) {
+      const quote = document.createElement("q");
+      quote.textContent = item.quote;
+      li.append(document.createElement("br"), quote);
+    }
+    list.append(li);
+  }
+  details.append(list);
+  return details;
 }
 
 function renderReviseShell() {
@@ -345,6 +404,127 @@ function revealMissed() {
   $("answer-input").disabled = true;
   setFeedback("Remaining answers revealed, most obscure first.", "");
   renderMissedList();
+}
+
+async function ensurePlayData() {
+  if (state.play.rounds) return;
+  try {
+    const response = await fetch("data/episodes.json", { cache: "no-cache" });
+    if (!response.ok) throw new Error(`Failed to load data/episodes.json: ${response.status}`);
+    state.play.rounds = flattenRounds(await response.json());
+  } catch (err) {
+    state.play.rounds = [];
+    $("round-pool").textContent = err.message;
+  }
+}
+
+function startRound() {
+  const previous = state.play.round ? roundKey(state.play.round) : "";
+  const round = pickRound(state.play.rounds || [], previous);
+  state.play.round = round;
+  state.play.found = new Set();
+  state.play.revealed = false;
+  state.play.answerIndex = round ? buildAnswerIndex(round.answers) : null;
+  $("play-input").disabled = false;
+  $("play-input").value = "";
+  if (round) $("play-input").focus();
+  renderRound();
+}
+
+function renderRound() {
+  const round = state.play.round;
+  $("round-pool").textContent = state.play.rounds
+    ? `${state.play.rounds.length} rounds available`
+    : "";
+  if (!round) {
+    $("round-card").hidden = true;
+    return;
+  }
+
+  $("round-card").hidden = false;
+  $("round-episode").textContent = round.episodeLabel;
+  $("round-title").textContent = round.category;
+  $("round-meta").textContent =
+    `${round.answers.length} answers heard in the episode` +
+    (round.confidence !== "high" ? " - category wording reconstructed from dialogue" : "");
+  $("play-progress").textContent = playProgressText();
+  setPlayFeedback("");
+  renderPlayLists();
+}
+
+function playProgressText() {
+  const best = bestFound(state.play.round, state.play.found);
+  if (!best) return `${state.play.found.size} found`;
+  return `${state.play.found.size} found - best ${best.obscurity.pointless_score}`;
+}
+
+function handlePlaySubmit(event) {
+  event.preventDefault();
+  const input = $("play-input");
+  const result = findMatches(input.value, state.play.answerIndex, state.play.found);
+  input.value = "";
+
+  if (result.status === "match") {
+    const answer = result.matches[0];
+    state.play.found.add(answer.id);
+    const score = answer.obscurity.pointless_score;
+    setPlayFeedback(
+      answer.isPointless || score === 0
+        ? `${answer.name} - POINTLESS!`
+        : `${answer.name} - ${score} of the 100 said it`,
+      "good",
+    );
+  } else if (result.status === "ambiguous") {
+    setPlayFeedback("More than one board answer matches - be more specific.", "bad");
+  } else if (result.status === "duplicate") {
+    setPlayFeedback("Already found.", "bad");
+  } else {
+    setPlayFeedback("Not on the board - the subtitles only carry part of it, so a good answer can still miss.", "bad");
+  }
+  $("play-progress").textContent = playProgressText();
+  renderPlayLists();
+}
+
+function revealBoard() {
+  if (!state.play.round) return;
+  state.play.revealed = true;
+  $("play-input").disabled = true;
+  setPlayFeedback("Board revealed, lowest scores first.", "");
+  renderPlayLists();
+}
+
+function renderPlayLists() {
+  const round = state.play.round;
+  if (!round) return;
+
+  const foundList = $("play-found");
+  foundList.innerHTML = "";
+  const found = round.answers
+    .filter((answer) => state.play.found.has(answer.id))
+    .sort((a, b) => a.obscurity.pointless_score - b.obscurity.pointless_score);
+  for (const answer of found) {
+    foundList.append(renderCompactAnswer(answer));
+  }
+
+  const section = $("play-board-section");
+  section.hidden = !state.play.revealed;
+  if (!state.play.revealed) return;
+  const board = $("play-board");
+  board.innerHTML = "";
+  const sorted = [...round.answers].sort(
+    (a, b) => a.obscurity.pointless_score - b.obscurity.pointless_score,
+  );
+  for (const answer of sorted) {
+    const li = renderCompactAnswer(answer);
+    if (state.play.found.has(answer.id)) li.className = "board-found";
+    board.append(li);
+  }
+}
+
+function setPlayFeedback(message, kind = "") {
+  const el = $("play-feedback");
+  el.textContent = message;
+  el.className = `feedback ${kind}`;
 }
 
 function renderCompactAnswer(answer) {

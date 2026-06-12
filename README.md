@@ -1,9 +1,10 @@
 # Pointless Revision
 
-A static revision tool for recurring Pointless-style answer sets. The app has two modes:
+A static revision tool for recurring Pointless-style answer sets. The app has three modes:
 
-- Learn: browse finite categories, sort by obscurity, hide/reveal answers, and mark answers as known or needing work.
+- Learn: browse finite categories, sort by obscurity, hide/reveal answers, and mark answers as known or needing work. Answers seen on the show carry an expandable evidence panel (score, episode, question, quote).
 - Revise: answer generated narrowed prompts such as chemical elements by name pattern, countries by continent, or US state capitals containing selected letters.
+- Play: real rounds from series 34-35 — give answers against the actual category, then compare with what the surveyed 100 said. Boards are limited to answers spoken aloud in each episode.
 
 ## Data Model
 
@@ -29,7 +30,8 @@ export ANTHROPIC_API_KEY=...
 
 # Merge data/episodes/*.json into data/evidence.json + match-rate report:
 python3 -m pointless_revision transcripts merge
-python3 scripts/build_data.py              # picks up the new evidence automatically
+python3 scripts/build_data.py              # picks up evidence + writes docs/data/episodes.json
+python3 scripts/category_roadmap.py        # ranks unmatched rounds as new-category candidates
 ```
 
 Notes: `.partial.srt` files (in-progress downloads) are skipped; extraction reruns skip episodes that already have output; subtitle font colours are used to attribute lines to host / co-host / contestants. Only derived facts plus a one-line evidence quote are stored — raw transcripts stay out of the published site.

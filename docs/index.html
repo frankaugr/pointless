@@ -15,6 +15,7 @@
     <nav class="mode-switch" aria-label="Choose study mode">
       <button type="button" data-mode="learn" class="active" aria-pressed="true">Learn</button>
       <button type="button" data-mode="revise" aria-pressed="false">Revise</button>
+      <button type="button" data-mode="play" aria-pressed="false">Play</button>
     </nav>
   </header>
 
@@ -116,13 +117,58 @@
           </div>
         </section>
       </section>
+
+      <section id="play-view" class="mode-view" hidden>
+        <div class="tool-row">
+          <button id="new-round" type="button">New round</button>
+          <span id="round-pool" class="tool-meta"></span>
+        </div>
+
+        <section id="round-card" class="question-card" hidden>
+          <div class="question-heading">
+            <div>
+              <p class="eyebrow" id="round-episode"></p>
+              <h3 id="round-title"></h3>
+              <p id="round-meta"></p>
+            </div>
+            <strong id="play-progress"></strong>
+          </div>
+
+          <form id="play-form" autocomplete="off">
+            <input
+              id="play-input"
+              type="text"
+              spellcheck="false"
+              autocapitalize="off"
+              autocorrect="off"
+              placeholder="What would you have said? Press Enter"
+              aria-label="Your answer"
+            />
+            <button id="play-reveal" type="button" class="subtle-button">Reveal board</button>
+          </form>
+
+          <p id="play-feedback" class="feedback" aria-live="polite"></p>
+
+          <div class="revision-lists">
+            <section>
+              <h4>Your answers</h4>
+              <ol id="play-found" class="compact-list"></ol>
+            </section>
+            <section id="play-board-section" hidden>
+              <h4>Board</h4>
+              <ol id="play-board" class="compact-list"></ol>
+            </section>
+          </div>
+          <p class="tool-meta">Board is limited to answers and scores spoken aloud in the episode.</p>
+        </section>
+      </section>
     </section>
   </main>
 
   <footer class="app-footer">
     <p>
-      Answer sets are curated and enriched with Wikipedia pageview proxies; historical Pointless scores are used where manually sourced.
-      Not affiliated with the BBC, Banijay, or Pointless.
+      Answer sets are curated and enriched with Wikipedia pageview proxies; scores marked high-confidence come from
+      real episode evidence derived from broadcast subtitles. Not affiliated with the BBC, Banijay, or Pointless.
     </p>
   </footer>
 

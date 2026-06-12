@@ -47,7 +47,7 @@
       "url": "https://www.gov.uk/government/publications/list-of-cities/list-of-cities-html"
     }
   ],
-  "generated_at": "2026-06-12T16:22:06Z",
+  "generated_at": "2026-06-12T17:00:04Z",
   "answers": [
     {
       "id": "st-asaph",
@@ -88,7 +88,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           },
           {
             "category": "uk-cities",
@@ -97,7 +98,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "6 is our low score. And you've passed that. It's down to 1."
           }
         ]
       }
@@ -170,7 +172,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Scores you one. Very well done indeed. Taking your total up to one."
           },
           {
             "category": "uk-cities",
@@ -179,7 +182,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "One point for Bangor, Ely and Wrexham."
           }
         ]
       }
@@ -221,7 +225,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "One point for Bangor, Ely and Wrexham."
           },
           {
             "category": "uk-cities",
@@ -230,7 +235,8 @@
             "episode": "Series 34 Episode 7",
             "date": null,
             "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+            "quote": "Oh, and there's a pointless answer! Very well done indeed, Storm!"
           }
         ]
       }
@@ -272,7 +278,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "That's a pointless answer. It adds £250 to today's jackpot."
           },
           {
             "category": "uk-cities",
@@ -281,7 +288,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "you could have had... Newry, Salford - which Kris said. And Southend-on-Sea."
           }
         ]
       }
@@ -352,7 +360,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Gloucester, Wells and you could have had Worcester."
           }
         ]
       }
@@ -396,7 +405,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "Absolutely. Look at that. Down to 3."
           }
         ]
       }
@@ -438,7 +448,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Scores you one. Very well done indeed. Taking your total up to one."
           },
           {
             "category": "uk-cities",
@@ -447,7 +458,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "One point for Bangor, Ely and Wrexham."
           }
         ]
       }
@@ -489,7 +501,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           }
         ]
       }
@@ -531,7 +544,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           }
         ]
       }
@@ -573,7 +587,8 @@
             "episode": "Series 34 Episode 7",
             "date": null,
             "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+            "quote": "You needed three! You've got three!"
           }
         ]
       }
@@ -615,7 +630,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "One point for Bangor, Ely and Wrexham."
           }
         ]
       }
@@ -659,7 +675,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           }
         ]
       }
@@ -701,7 +718,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Down it goes to one, Esther!"
           },
           {
             "category": "uk-cities",
@@ -710,7 +728,8 @@
             "episode": "Series 34 Episode 7",
             "date": null,
             "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+            "quote": "Two. Two for Chelmsford."
           }
         ]
       }
@@ -781,7 +800,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Gloucester, Wells and you could have had Worcester."
           }
         ]
       }
@@ -823,7 +843,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Gloucester, Wells and you could have had Worcester."
           }
         ]
       }
@@ -865,7 +886,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           },
           {
             "category": "uk-cities",
@@ -874,7 +896,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "Peterborough is right. And you're down to 2."
           }
         ]
       }
@@ -918,7 +941,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "One for Derry. There we are."
           }
         ]
       }
@@ -960,7 +984,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           },
           {
             "category": "uk-cities",
@@ -969,7 +994,8 @@
             "episode": "Series 34 Episode 7",
             "date": null,
             "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+            "quote": "Newport is right. Very well done. Down to one"
           }
         ]
       }
@@ -1011,7 +1037,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "A pointless answer to boot. And being a pointless answer, it adds £250"
           }
         ]
       }
@@ -1055,7 +1082,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "Salford - which Kris said. And Southend-on-Sea."
           }
         ]
       }
@@ -1097,7 +1125,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Yes! You are through. Very well done indeed. Down to six."
           },
           {
             "category": "uk-cities",
@@ -1106,7 +1135,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Five for Durham."
           },
           {
             "category": "uk-cities",
@@ -1115,7 +1145,8 @@
             "episode": "Series 34 Episode 7",
             "date": null,
             "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+            "quote": "Durham is right. Look at that! Six!"
           }
         ]
       }
@@ -1157,7 +1188,8 @@
             "episode": "Series 34 Episode 7",
             "date": null,
             "question_text": "Any UK city (or its overseas territories/dependencies) from gov.uk's list of cities where the first letter is not repeated elsewhere in the name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k766"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k766",
+            "quote": "One! It's a brilliant answer!"
           }
         ]
       }
@@ -1199,7 +1231,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "There you are on five for Canterbury."
           }
         ]
       }
@@ -1241,7 +1274,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           }
         ]
       }
@@ -1312,7 +1346,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Down it goes to two. Superb."
           }
         ]
       }
@@ -1383,7 +1418,8 @@
             "episode": "Series 34 Episode 23",
             "date": null,
             "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
-            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g",
+            "quote": "It's Wolverhampton... That would have been five points"
           },
           {
             "category": "uk-cities",
@@ -1392,7 +1428,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Wolverhampton is right. And down it goes to five."
           }
         ]
       }
@@ -1434,7 +1471,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Stanley in the Falklands, and Stoke-on-Trent."
           }
         ]
       }
@@ -1476,7 +1514,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "down it goes to five. This is a lovely answer."
           },
           {
             "category": "uk-cities",
@@ -1485,7 +1524,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "Down it goes to 12. Very well done indeed. Taking your total up to 14."
           }
         ]
       }
@@ -1556,7 +1596,8 @@
             "episode": "Series 34 Episode 38",
             "date": null,
             "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
+            "quote": "13 for Plymouth."
           },
           {
             "category": "uk-cities",
@@ -1565,7 +1606,8 @@
             "episode": "Series 35 Episode 30",
             "date": null,
             "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "Plymouth is right. Down it goes to 6."
           }
         ]
       }
@@ -1665,7 +1707,8 @@
             "episode": "Series 34 Episode 38",
             "date": null,
             "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
+            "quote": "Hereford is right. 47 for Hereford."
           },
           {
             "category": "uk-cities",
@@ -1674,7 +1717,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
           }
         ]
       }
@@ -1718,7 +1762,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Ten for Kingston upon Hull."
           }
         ]
       }
@@ -1789,7 +1834,8 @@
             "episode": "Series 34 Episode 38",
             "date": null,
             "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
+            "quote": "Edinburgh would have scored seven."
           }
         ]
       }
@@ -1918,7 +1964,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "22 Takes your total up to 122."
           }
         ]
       }
@@ -1960,7 +2007,8 @@
             "episode": "Series 34 Episode 23",
             "date": null,
             "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
-            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g",
+            "quote": "down to 33 with Preston"
           }
         ]
       }
@@ -2031,7 +2079,8 @@
             "episode": "Series 34 Episode 44",
             "date": null,
             "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Down you go to 26. Taking your total up to 31."
           }
         ]
       }
@@ -2073,7 +2122,8 @@
             "episode": "Series 34 Episode 17",
             "date": null,
             "question_text": "Any city in the UK, its overseas territories or Crown dependencies, with a name in which the first letter comes earlier in the alphabet than the last letter (gov.uk list of cities, Sept 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kv95"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kv95",
+            "quote": "Cardiff is right. And down it goes to 25."
           }
         ]
       }
@@ -2144,7 +2194,8 @@
             "episode": "Series 34 Episode 23",
             "date": null,
             "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
-            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g",
+            "quote": "Coventry, that's right. And that would have been 41 points."
           }
         ]
       }
@@ -2418,7 +2469,8 @@
             "episode": "Series 34 Episode 23",
             "date": null,
             "question_text": "Towns and cities whose names appear on road signs at junctions of the M6 motorway",
-            "source_url": "https://www.bbc.co.uk/programmes/m002l54g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002l54g",
+            "quote": "Yes, Liverpool. 62 points."
           }
         ]
       }
@@ -2547,7 +2599,8 @@
             "episode": "Series 34 Episode 38",
             "date": null,
             "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
+            "quote": "It is Manchester. That would have scored 71."
           }
         ]
       }
@@ -2618,7 +2671,8 @@
             "episode": "Series 34 Episode 38",
             "date": null,
             "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g"
+            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
+            "quote": "Bryste, as was mentioned, is Bristol, would have scored 76."
           }
         ]
       }

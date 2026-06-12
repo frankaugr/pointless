@@ -14,10 +14,12 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 from pointless_revision.categories import CATEGORIES  # noqa: E402
+from pointless_revision.evidence import write_play_payload  # noqa: E402
 from pointless_revision.export import write_static_data  # noqa: E402
 
 
 DOCS_DATA = ROOT / "docs" / "data"
+EPISODES_DIR = ROOT / "data" / "episodes"
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -32,6 +34,12 @@ def main(argv: list[str] | None = None) -> int:
 
     write_static_data(args.out_dir)
     print(f"wrote {len(CATEGORIES)} categories -> {args.out_dir.relative_to(ROOT)}")
+    if EPISODES_DIR.exists():
+        payload = write_play_payload(EPISODES_DIR, args.out_dir / "episodes.json")
+        print(
+            f"wrote {payload['n_rounds']} playable rounds from "
+            f"{len(payload['episodes'])} episodes -> {args.out_dir.relative_to(ROOT)}/episodes.json"
+        )
     return 0
 
 

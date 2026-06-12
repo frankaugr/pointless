@@ -1,0 +1,493 @@
+# Category roadmap
+
+451 extracted rounds do not map to any curated category.
+Recurring topic keywords below suggest which new categories would pay off
+fastest; each new curated category immediately attaches its real show
+scores via `transcripts merge`.
+
+| Keyword | Rounds | Examples |
+| --- | --- | --- |
+| 2024 | 41 | Series 34 Episode 2: Sunday Times 2024 list of best places to live in the UK (every other letter shown)<br>Series 34 Episode 2: Acts/artists with a UK Top 40 single containing the word "work" anywhere in its title (up <br>Series 34 Episode 9: Famous women featured on Edward Enninful's final British Vogue cover (March 2024) — name t |
+| scoring | 32 | Series 34 Episode 2: Parts of a Formula 1 car (six options: two scoring, two pointless, two not part of a car)<br>Series 34 Episode 8: Which of these six are pointless Mediterranean cruise ports (two scoring, two pointless, t<br>Series 34 Episode 10: Spot the pointless crocodilians from six options (two pointless, two scoring, two red herr |
+| options | 29 | Series 34 Episode 2: Parts of a Formula 1 car (six options: two scoring, two pointless, two not part of a car)<br>Series 34 Episode 3: Identify which of six options are pointless Scilly Isles<br>Series 34 Episode 5: German rivers (find the pointless ones from six options) |
+| films | 24 | Series 34 Episode 7: Films that have won the Academy Award for Best Animated Feature Film or Best Animated Shor<br>Series 34 Episode 10: Films where the colour pink made a significant contribution (initials and year given)<br>Series 34 Episode 18: Feature films for which Robin Wright or Robin Williams received an acting credit (per IMDb |
+| removed | 24 | Series 34 Episode 8: TV consumer affairs shows with vowels removed from the titles<br>Series 34 Episode 12: Names of traditional or popular types of curry with the letters H, E, A and T removed<br>Series 34 Episode 13: Words containing the hidden name of a musical act (act removed, give the missing act) |
+| things | 23 | Series 34 Episode 1: People and things related to the word 'charm'<br>Series 34 Episode 2: Well-known things connected with the word "wall" (initials given as clues)<br>Series 34 Episode 3: Things that rhyme with the word "now" (from clues) |
+| title | 21 | Series 34 Episode 2: Acts/artists with a UK Top 40 single containing the word "work" anywhere in its title (up <br>Series 34 Episode 7: Players who have won the women's singles title at the Eastbourne International tennis tour<br>Series 34 Episode 15: Words of four letters or more featuring in the title of any UK top 40 single by Stevie Won |
+| year | 20 | Series 34 Episode 5: Actors who won Best Comedy Performance or Villain Of The Year at the British Soap Awards (<br>Series 34 Episode 8: Name the artist who had a hit with these songs that never reached number 1 in the UK chart<br>Series 34 Episode 10: Films where the colour pink made a significant contribution (initials and year given) |
+| characters | 17 | Series 34 Episode 4: Identify the pointless answers among six names — which are characters from John Galsworthy<br>Series 34 Episode 8: Five categories from literature, each with five answers (Shakespeare tragedies, Bennet sis<br>Series 34 Episode 11: Name the TV show, given six groups of characters involved in a love triangle (with the sho |
+| film | 17 | Series 34 Episode 7: Films that have won the Academy Award for Best Animated Feature Film or Best Animated Shor<br>Series 34 Episode 10: Anyone who received an acting credit for the 2011 film One Day or the 2024 Netflix mini se<br>Series 34 Episode 14: Actors who have featured in at least one film in the Ghostbusters franchise |
+| for | 17 | Series 34 Episode 6: Alternative definitions for words that are also pieces of furniture<br>Series 34 Episode 7: Films that have won the Academy Award for Best Animated Feature Film or Best Animated Shor<br>Series 34 Episode 8: Star signs (pictures and symbols with blanks for letters) |
+| facts | 16 | Series 34 Episode 6: Facts about Jennifer Lopez<br>Series 34 Episode 7: Facts revolving around reindeer or the word 'reindeer'<br>Series 34 Episode 9: Facts about the BBC Radio 4 soap opera The Archers |
+| give | 16 | Series 34 Episode 4: 21st-century events given as news headlines with words omitted (initials and a date as clu<br>Series 34 Episode 4: Songs that were UK top 40 hits by an artist whose first name is shared with a British roya<br>Series 34 Episode 4: Names of superheroes with one letter changed in each word — give the correct superhero nam |
+| songs | 16 | Series 34 Episode 4: Songs that were UK top 40 hits by an artist whose first name is shared with a British roya<br>Series 34 Episode 8: Name the artist who had a hit with these songs that never reached number 1 in the UK chart<br>Series 34 Episode 28: Dance songs from Rolling Stone's 200 Greatest Dance Songs of All Time, with one word remov |
+| acting | 14 | Series 34 Episode 10: Anyone who received an acting credit for the 2011 film One Day or the 2024 Netflix mini se<br>Series 34 Episode 14: Winners of the National Brass Band Championships of Great Britain, or anyone with an actin<br>Series 34 Episode 18: Feature films for which Robin Wright or Robin Williams received an acting credit (per IMDb |
+| british | 14 | Series 34 Episode 4: Songs that were UK top 40 hits by an artist whose first name is shared with a British roya<br>Series 34 Episode 5: Actors who won Best Comedy Performance or Villain Of The Year at the British Soap Awards (<br>Series 34 Episode 9: Famous women featured on Edward Enninful's final British Vogue cover (March 2024) — name t |
+| number | 14 | Series 34 Episode 2: Seven definitions of words that are also terms used in art (with initials and number of le<br>Series 34 Episode 8: Name the artist who had a hit with these songs that never reached number 1 in the UK chart<br>Series 34 Episode 15: Definitions of portmanteau words (first letter and number of letters given) |
+| top | 14 | Series 34 Episode 2: Acts/artists with a UK Top 40 single containing the word "work" anywhere in its title (up <br>Series 34 Episode 4: Songs that were UK top 40 hits by an artist whose first name is shared with a British roya<br>Series 34 Episode 15: Words of four letters or more featuring in the title of any UK top 40 single by Stevie Won |
+| all | 13 | Series 34 Episode 19: Top 50 all-time NBA scorers, or NBA teams that have won the NBA finals more than once sinc<br>Series 34 Episode 21: Albums on Rolling Stone magazine's list of the 500 greatest albums of all time (2023), fro<br>Series 34 Episode 27: People, places and things whose two-word names all end in the word 'Hill' (given initials  |
+| types | 13 | Series 34 Episode 5: Types of trousers (anagrams with initials)<br>Series 34 Episode 12: Words that are types of geographical features which are also names of parts of the human b<br>Series 34 Episode 12: Names of traditional or popular types of curry with the letters H, E, A and T removed |
+| credit | 12 | Series 34 Episode 6: Actors with a credit in 4+ episodes of Better Call Saul or Suits<br>Series 34 Episode 10: Anyone who received an acting credit for the 2011 film One Day or the 2024 Netflix mini se<br>Series 34 Episode 14: Winners of the National Brass Band Championships of Great Britain, or anyone with an actin |
+| english | 12 | Series 34 Episode 12: Football teams that have been relegated from the English Premier League (1992-93 to 2023-2<br>Series 34 Episode 20: Officials who have refereed football matches in the English Premier League (find the point<br>Series 34 Episode 23: Named animal characters in the Madagascar film series, or any single word in the English n |
+| least | 12 | Series 34 Episode 4: Papal names used by at least one Pope that include any of the letters in the word ROME<br>Series 34 Episode 14: Actors who have featured in at least one film in the Ghostbusters franchise<br>Series 34 Episode 16: Words in the Woodland Trust A-Z of British Trees containing at least one of the letters L, |
+| 2023 | 11 | Series 34 Episode 5: Actors who won Best Comedy Performance or Villain Of The Year at the British Soap Awards (<br>Series 34 Episode 12: Football teams that have been relegated from the English Premier League (1992-93 to 2023-2<br>Series 34 Episode 21: Albums on Rolling Stone magazine's list of the 500 greatest albums of all time (2023), fro |
+| feature | 11 | Series 34 Episode 7: Films that have won the Academy Award for Best Animated Feature Film or Best Animated Shor<br>Series 34 Episode 17: Tom Cruise feature film titles with one letter changed in each word<br>Series 34 Episode 18: Feature films for which Robin Wright or Robin Williams received an acting credit (per IMDb |
+| terms | 11 | Series 34 Episode 1: Five-letter terms and people from the field of science (initial letter given)<br>Series 34 Episode 2: Seven definitions of words that are also terms used in art (with initials and number of le<br>Series 34 Episode 5: Things that lost their trademark by becoming generic terms (with initial letter) |
+| won | 11 | Series 34 Episode 1: Tennis players who represented Australia and won the Australian Open singles, or represent<br>Series 34 Episode 5: Actors who won Best Comedy Performance or Villain Of The Year at the British Soap Awards (<br>Series 34 Episode 7: Players who have won the women's singles title at the Eastbourne International tennis tour |
+| world | 11 | Series 34 Episode 17: Names of percussion instruments used in music from various parts of the world (with altern<br>Series 34 Episode 27: Anyone who has played in the final of the World Snooker Championship from 1977 to 2024<br>Series 34 Episode 30: Famous landmarks from around the world shown through a fish-eye lens (with the landmark's  |
+| around | 10 | Series 34 Episode 7: Facts revolving around reindeer or the word 'reindeer'<br>Series 34 Episode 24: Clues to facts based around the word 'ace'<br>Series 34 Episode 29: Five clues to facts revolving around the number 25 |
+| collins | 10 | Series 34 Episode 2: Any four-letter word in the online Collins Dictionary formed by changing one letter of the<br>Series 34 Episode 9: Abbreviations or acronyms in the Collins Dictionary — give the missing word beginning with<br>Series 34 Episode 11: Words found in the online Collins Dictionary ending in the letters N-C-H |
+
+## All unmatched rounds
+
+- Series 34 Episode 1: Exercise apps (find the pointless ones to add to the jackpot)
+- Series 34 Episode 1: Five-letter terms and people from the field of science (initial letter given)
+- Series 34 Episode 1: People and things related to the word 'charm'
+- Series 34 Episode 1: People with the surname Turner (from five pictures)
+- Series 34 Episode 1: Plants that grow well in pots (anagrams with letters in alphabetical order)
+- Series 34 Episode 1: Tennis players who represented Australia and won the Australian Open singles, or represented France and won the French Open singles
+- Series 34 Episode 10: Any act that has represented the United Kingdom at the Eurovision Song Contest (1957-2024)
+- Series 34 Episode 10: Anyone who received an acting credit for the 2011 film One Day or the 2024 Netflix mini series One Day (IMDb as of June 2024)
+- Series 34 Episode 10: Films where the colour pink made a significant contribution (initials and year given)
+- Series 34 Episode 10: Spot the pointless crocodilians from six options (two pointless, two scoring, two red herrings)
+- Series 34 Episode 10: Styles of car body type (alternate letters missing)
+- Series 34 Episode 11: Identify the most obscure dessert eaten cold or frozen (from five pictures with alternate letters)
+- Series 34 Episode 11: Identify the pointless prima ballerinas / principal dancers from six options
+- Series 34 Episode 11: Name the TV show, given six groups of characters involved in a love triangle (with the show's initials as a clue)
+- Series 34 Episode 11: Things associated with the word 'bucket' (five clues with initial letters)
+- Series 34 Episode 11: Words found in the online Collins Dictionary ending in the letters N-C-H
+- Series 34 Episode 12: Any individual who has hosted a Brit Awards ceremony, or any artist/group who has won four or more Brits (1982-2024)
+- Series 34 Episode 12: Clues relating to various forms of horse-drawn transport
+- Series 34 Episode 12: Football teams that have been relegated from the English Premier League (1992-93 to 2023-24)
+- Series 34 Episode 12: Identify the famous celebrities pictured getting wet
+- Series 34 Episode 12: Names of traditional or popular types of curry with the letters H, E, A and T removed
+- Series 34 Episode 12: Titles of exhibitions that have been held at the Victoria and Albert Museum in London
+- Series 34 Episode 12: Words that are types of geographical features which are also names of parts of the human body
+- Series 34 Episode 13: Golf clubs/links that have hosted the Open Championship (with letters of 'holes' removed)
+- Series 34 Episode 13: Horned villains depicted on screen (named from initials)
+- Series 34 Episode 13: Important Viking figures (spot the pointless ones among six, two are made up)
+- Series 34 Episode 13: London Overground stations at the end of a line/branch, or London Underground stations served by only one line
+- Series 34 Episode 13: Phrases or things containing the word 'front' (from initials)
+- Series 34 Episode 13: Words containing the hidden name of a musical act (act removed, give the missing act)
+- Series 34 Episode 14: Actors who have featured in at least one film in the Ghostbusters franchise
+- Series 34 Episode 14: Items used in painting and decorating (alternate letters of their names shown)
+- Series 34 Episode 14: Things (real, fictional or figurative) ending with the word 'street'
+- Series 34 Episode 14: Types of biscuit typically made with vegan-suitable ingredients (alternate letters removed)
+- Series 34 Episode 14: Which of these six options are pointless Belgian football teams
+- Series 34 Episode 14: Winners of the National Brass Band Championships of Great Britain, or anyone with an acting credit in the 1996 film Brassed Off
+- Series 34 Episode 14: Words containing C where changing the C to another letter makes a Collins dictionary word
+- Series 34 Episode 14: Words in the online Collins dictionary ending in the letters O-U-S-E
+- Series 34 Episode 15: Books recommended by Oprah Winfrey as part of Oprah's Book Club (find the pointless ones)
+- Series 34 Episode 15: Definitions of portmanteau words (first letter and number of letters given)
+- Series 34 Episode 15: Facts related to the word 'call' (give the most obscure answer)
+- Series 34 Episode 15: Historical events with one part written as an anagram (unscramble the missing part)
+- Series 34 Episode 15: Names of tropical fish (drawn by Trevor Nelson, alternate letters given)
+- Series 34 Episode 15: Words of four letters or more featuring in the title of any UK top 40 single by Stevie Wonder
+- Series 34 Episode 16: First names of men and women who have competed in the 100m sprint at the Olympic Games (from initial, surname and year)
+- Series 34 Episode 16: Names of punctuation marks and symbols, given as anagrams with letters in alphabetical order
+- Series 34 Episode 16: Singers or groups that perform UK top 40 singles featuring the syllable 'na' sung repeatedly
+- Series 34 Episode 16: Types of boats from a picture and the first letter of its name
+- Series 34 Episode 16: Which of these six names are famous sculptors (find the two pointless sculptors)
+- Series 34 Episode 16: Words in the Woodland Trust A-Z of British Trees containing at least one of the letters L, E, A or F
+- Series 34 Episode 17: Any word of six or fewer letters in Collins Dictionary online beginning with A and ending with M, or beginning with P and ending with M
+- Series 34 Episode 17: Famous people who won something in 2024 (identify from clues with initials)
+- Series 34 Episode 17: Names of percussion instruments used in music from various parts of the world (with alternate letters)
+- Series 34 Episode 17: Tom Cruise feature film titles with one letter changed in each word
+- Series 34 Episode 17: Which of these six are titles of Father Brown stories by GK Chesterton (find the pointless ones)
+- Series 34 Episode 18: Clues to things involving bare feet
+- Series 34 Episode 18: Feature films for which Robin Wright or Robin Williams received an acting credit (per IMDb, as of July 2024)
+- Series 34 Episode 18: Identify these music genres from synonyms (with initial letter given)
+- Series 34 Episode 18: Languages spoken in Asia (find the pointless ones; two are not Asian languages)
+- Series 34 Episode 18: Name these animals described as monogamous (first and last letters given)
+- Series 34 Episode 18: Surname shared by pairs of people whose first names share the same initial
+- Series 34 Episode 19: Cuts of steak (which our 100 found toughest)
+- Series 34 Episode 19: Films whose titles take the form 'The ___ Of ___'
+- Series 34 Episode 19: Members of Black Sabbath
+- Series 34 Episode 19: Planets, dwarf planets or moons in our solar system containing at least one letter of the word 'space'
+- Series 34 Episode 19: Top 50 all-time NBA scorers, or NBA teams that have won the NBA finals more than once since 1947
+- Series 34 Episode 2: Acts/artists with a UK Top 40 single containing the word "work" anywhere in its title (up to end of July 2024)
+- Series 34 Episode 2: Any four-letter word in the online Collins Dictionary formed by changing one letter of the word "park" (remaining letters kept in original positions)
+- Series 34 Episode 2: Parts of a Formula 1 car (six options: two scoring, two pointless, two not part of a car)
+- Series 34 Episode 2: Seven definitions of words that are also terms used in art (with initials and number of letters given)
+- Series 34 Episode 2: Sunday Times 2024 list of best places to live in the UK (every other letter shown)
+- Series 34 Episode 2: Well-known things connected with the word "wall" (initials given as clues)
+- Series 34 Episode 20: Any number from one to ten in one of these European languages (French, German, Italian, Spanish)
+- Series 34 Episode 20: Breeds of dog (shown in superhero costume) with alternate letters missing
+- Series 34 Episode 20: Facts about the singer Tina Turner
+- Series 34 Episode 20: Famous women featured in Judy Chicago's artwork 'The Dinner Party' (place settings or Heritage Floor)
+- Series 34 Episode 20: Main flavouring (fruit or nut) of these liqueurs
+- Series 34 Episode 20: Officials who have refereed football matches in the English Premier League (find the pointless ones)
+- Series 34 Episode 20: Top 20 UK fishing ports by quantity of landings, or any word in fish names from BBC's Mortimer and Whitehouse: Gone Fishing
+- Series 34 Episode 21: Albums on Rolling Stone magazine's list of the 500 greatest albums of all time (2023), from picture clues
+- Series 34 Episode 21: Full-length feature films directed by Spike Lee, or anyone with an acting credit in two or more Spike Lee films (IMDb as of July 2024)
+- Series 34 Episode 21: North or South American waterfalls (spot the pointless ones from six options)
+- Series 34 Episode 21: Terms used in skateboarding (letters arranged in alphabetical order)
+- Series 34 Episode 21: Things you might use when camping (picture clues with first and last letters)
+- Series 34 Episode 21: Words spelt successfully by winners of the United States National Spelling Bee (defined by clues)
+- Series 34 Episode 22: Acting credit in Harry Potter and the Deathly Hallows: Part 2 (2011) or Dune: Part Two (2024)
+- Series 34 Episode 22: Anyone in Motorsport Magazine's centennial list of the 100 Greatest Racing Drivers (May 2024)
+- Series 34 Episode 22: Cities in New Zealand (from anagrams)
+- Series 34 Episode 22: Crime fiction novel titles with a missing word (give the missing word)
+- Series 34 Episode 22: Famous bells (find the pointless ones among six options)
+- Series 34 Episode 22: Non-classical bands/solo artists who have performed at the BBC Proms (from UK top-40 singles)
+- Series 34 Episode 22: Plants usually classified as alpine (from images with every other letter)
+- Series 34 Episode 23: BBC Food website recipe titles with a fruit removed (first and last letters given) - name the missing fruit
+- Series 34 Episode 23: Famous paintings (one word in each title given as an anagram) - solve the anagrams
+- Series 34 Episode 23: Full-length stage musicals with music composed by Andrew Lloyd Webber or lyrics by Tim Rice (or both)
+- Series 34 Episode 23: Named animal characters in the Madagascar film series, or any single word in the English name of a living lemur species
+- Series 34 Episode 23: Things that contain a double I (the letter I repeated immediately)
+- Series 34 Episode 23: Twin Peaks characters (find the pointless ones among six options)
+- Series 34 Episode 24: Clues to facts based around the word 'ace'
+- Series 34 Episode 24: Famous people whose names alternate between consonants and vowels
+- Series 34 Episode 24: LGBTQ films on Esquire's 2023 list of 50 best LGBTQ movies — give the missing word from the title
+- Series 34 Episode 24: Name of any museum other than the British Museum shortlisted/won Art Fund Museum of the Year since 2008
+- Series 34 Episode 24: Which of six titles are genuinely pointless poems written by William Wordsworth
+- Series 34 Episode 25: Bands or solo artists who have had a concert tour that grossed more than $300 million (from images)
+- Series 34 Episode 25: Six clues to things described as 'on a' something, with initials given as clues
+- Series 34 Episode 25: Six options of which four are real casino games (two scoring, two pointless) and two are red herrings
+- Series 34 Episode 25: Things associated with a visit to a health spa, with letters arranged in alphabetical order
+- Series 34 Episode 26: Anyone who received a voice acting credit for Incredibles 2 (2018) or Spider-Man: Across the Spider-Verse (2023)
+- Series 34 Episode 26: Book titles where the animal in the title has been replaced by the name of its young — name the animal
+- Series 34 Episode 26: Clues featuring the word 'sweet', given initials
+- Series 34 Episode 26: Food and drink in which bread is used as an ingredient
+- Series 34 Episode 26: Scottish ceilidh dances with the middle of one word removed — give the missing word
+- Series 34 Episode 26: Stops on the Sydney Light Rail
+- Series 34 Episode 26: Surnames of major characters/families in British sitcoms from picture clues
+- Series 34 Episode 27: Acts that have headlined the Pyramid Stage at Glastonbury since 2000-2024, or any named stage/area other than the Pyramid Stage on the 2024 line-up
+- Series 34 Episode 27: Anyone who has played in the final of the World Snooker Championship from 1977 to 2024
+- Series 34 Episode 27: Five definitions of terms from astronomy (given every other letter and word origin)
+- Series 34 Episode 27: Five films which all feature dinosaurs (given initials and years of release)
+- Series 34 Episode 27: People, places and things whose two-word names all end in the word 'Hill' (given initials and clues)
+- Series 34 Episode 28: Dance songs from Rolling Stone's 200 Greatest Dance Songs of All Time, with one word removed from each title (artist and year given) — name the missing word
+- Series 34 Episode 28: Members of the Labour Cabinet appointed after the 2024 general election (in place by 8 July 2024), OR any word of four letters or fewer appearing in a constituency name at the 2024 general election
+- Series 34 Episode 28: People who have appeared as a contestant on Taskmaster (including New Year specials), given their initials
+- Series 34 Episode 28: Solutions to the classic version of Cluedo, with a suspect, room or weapon shown as an anagram
+- Series 34 Episode 28: Words of three or more letters (containing the letter D) made from the nine-letter grid E,W,N,G,D,O,L,E,K
+- Series 34 Episode 29: Any German city/town with a railway station named Hauptbahnhof, or any station on the Berlin U-Bahn network
+- Series 34 Episode 29: Complete the missing word in these cookery book titles (showing first and last letters)
+- Series 34 Episode 29: Complete the title of these official James Bond films (cut after second O) - find the least known
+- Series 34 Episode 29: Five clues to facts revolving around the number 25
+- Series 34 Episode 29: Which of these six options are pointless UK music festivals (two scoring, two pointless, two not festivals)
+- Series 34 Episode 3: Creatures with luxuriant facial hair (from photos and alternate letters)
+- Series 34 Episode 3: Identify which of six options are pointless Scilly Isles
+- Series 34 Episode 3: Play titles with words replaced by initials, plus playwright clue
+- Series 34 Episode 3: Television programmes featuring female crime fighters (from initials, actors and years)
+- Series 34 Episode 3: Things that rhyme with the word "now" (from clues)
+- Series 34 Episode 30: Children's cartoon canines: titles of Bluey episodes (up to season 3) or named characters in the Paw Patrol movies (2021/2023)
+- Series 34 Episode 30: Colours on the list of 140 HTML colours supported by modern web browsers (two scoring, two pointless, two made up)
+- Series 34 Episode 30: Famous landmarks from around the world shown through a fish-eye lens (with the landmark's initials)
+- Series 34 Episode 30: Films with five-letter titles (given the first letter and an actor who starred in or voiced a main role)
+- Series 34 Episode 30: Players who scored a goal for the England men's football team while Gareth Southgate managed the team (Oct 2016 – July 2024)
+- Series 34 Episode 30: Songs by groups that have seven or more members in their typical line-up
+- Series 34 Episode 31: Anyone other than Kenneth Branagh with an acting credit in Murder on the Orient Express (2017) or A Haunting in Venice (2023)
+- Series 34 Episode 31: Clues to historical events that took place in the month of September (with dates given)
+- Series 34 Episode 31: Identify these flowers (by image and initials), among the most popular wedding flowers according to Brides.com
+- Series 34 Episode 31: Jamaican dishes or ingredients used in Jamaican cooking (from drawings, with alternate letters)
+- Series 34 Episode 31: Opera titles with one letter changed in each word - give the correct titles
+- Series 34 Episode 31: Which of these six options are pointless Terry Pratchett Discworld characters (two scoring, two pointless, two not correct)
+- Series 34 Episode 32: Accessories typically worn in the hair (from pictures with alternate letters)
+- Series 34 Episode 32: Antarctic ice shelves (find pointless ones from six options)
+- Series 34 Episode 32: Facts related to the word 'love' (from five clues)
+- Series 34 Episode 32: Name these one-word names of stars from the BBC TV series Gladiators (from clues with first letter and number of letters)
+- Series 34 Episode 32: Names of scientific units defined in the SI system (letters in symbol removed)
+- Series 34 Episode 32: Single words in the English names of waterfowl species containing 'teal' or 'goose' (IOC World Bird List, June 2024)
+- Series 34 Episode 33: Podcasts that have won awards at the British Podcast Awards (two scoring, two pointless, two wrong)
+- Series 34 Episode 33: Surnames of Wimbledon Ladies' or Men's Singles champions (Open era 1968-2024) containing any letter of L, O, V or E
+- Series 34 Episode 33: TV dramas set in seaside towns and villages (initials, two stars and first broadcast year given)
+- Series 34 Episode 33: Types of geological features (with alternate letters given)
+- Series 34 Episode 33: Words in names of New York City Subway stations on Manhattan, or words of 4+ letters in the lyrics to Theme From New York, New York by Frank Sinatra
+- Series 34 Episode 34: Marathons held in the UK (two scoring, two pointless, two not real)
+- Series 34 Episode 34: People born on a Friday the 13th (with initials)
+- Series 34 Episode 34: Sherlock Holmes stories with a colour in the title (colourful word as alphabetical anagram)
+- Series 34 Episode 34: Six-letter parts of the human body (from definitions and first letter)
+- Series 34 Episode 34: Songs in 21st century school musicals: songs from Disney's High School Musical film trilogy, or UK top 40 singles credited to the cast of Glee
+- Series 34 Episode 34: Title of any of the first ten or the most recent ten of the 25 official James Bond films (Eon Productions, 1962-2021)
+- Series 34 Episode 35: Any track on Massive Attack's Collected (2006) or Portishead's albums Dummy, Portishead or Third
+- Series 34 Episode 35: Facts about Rihanna - answer the one fewest people knew
+- Series 34 Episode 35: Find the pointless famous fictional dragons from a list of six (two scoring, two pointless, two not dragons)
+- Series 34 Episode 35: Identify edible fish shown in the water (with first letters given) - lowest scoring
+- Series 34 Episode 35: Instruments played by competitors in the BBC Young Musician category finals or grand final, 2014-2022
+- Series 34 Episode 35: Surnames of the Walmington-on-Sea platoon in Dad's Army (letters rearranged alphabetically)
+- Series 34 Episode 36: Australian pop: a Kylie Minogue UK top 40 song that never reached number one, OR any word of four or more letters in the lyrics of Men at Work's 'Down Under'
+- Series 34 Episode 36: Clues to different types of outdated technology (with first letters and number of letters given)
+- Series 34 Episode 36: Famous people born in Trinidad and Tobago (from pictures and initials)
+- Series 34 Episode 36: NATO phonetic alphabet words with first and last letters removed
+- Series 34 Episode 36: NME Award winners (find the pointless ones from six options)
+- Series 34 Episode 36: Shakespeare plays whose usual short title (per the RSC website) does not contain the letter 'W'
+- Series 34 Episode 36: Things related to the word 'season' (with initial letters)
+- Series 34 Episode 37: First names of any current or former presenter of Blue Peter (per CBBC's History of Blue Peter Presenters, June 2024)
+- Series 34 Episode 37: Photographers on Digital Camera World's 50 Best Photographers Ever (Aug 2024), or people/groups in Rankin's Portraits I & II sections
+- Series 34 Episode 37: Principal gods or deities in various mythologies and religions (alternate letters given)
+- Series 34 Episode 37: Spacecraft that have taken humans into space (alternate letters given)
+- Series 34 Episode 37: Video game titles missing an animal or creature (given the year of original release)
+- Series 34 Episode 38: Bones of the human skull (with alternate letters removed)
+- Series 34 Episode 38: Common names for famous internet memes (two scoring, two pointless, two wrong)
+- Series 34 Episode 38: Ice cream flavours translated literally into Italian — translate them back into English
+- Series 34 Episode 38: TV sitcoms shown with characters sitting on couches (initials of show titles given)
+- Series 34 Episode 38: Titles in the 'That's Not My...' touchy-feely book series by Fiona Watt
+- Series 34 Episode 38: UK top 40 singles by or featuring these chart acts with three or fewer words in the title
+- Series 34 Episode 39: Dragons On Screen: actors with roles in 2+ episodes of first two series of House Of The Dragon, or voice actors in How To Train Your Dragon films
+- Series 34 Episode 39: Famous people who have made TV travel/documentary shows around the UK or overseas (shown with initials)
+- Series 34 Episode 39: Limericks describing famous novels (author given) - name the novel title
+- Series 34 Episode 39: Sporting terms named after people - name the sport (initials given)
+- Series 34 Episode 39: Things associated with science beginning with the letter H (with number of letters given)
+- Series 34 Episode 39: Titles of marches by composers (alternate letters of one word given, plus composer names)
+- Series 34 Episode 4: 21st-century events given as news headlines with words omitted (initials and a date as clues) — give the missing words
+- Series 34 Episode 4: Fish dishes — given the initials, name the dish that includes fish as a key ingredient
+- Series 34 Episode 4: Identify the pointless answers among six names — which are characters from John Galsworthy's Forsyte Saga (two red herrings included)
+- Series 34 Episode 4: Names of superheroes with one letter changed in each word — give the correct superhero names
+- Series 34 Episode 4: Papal names used by at least one Pope that include any of the letters in the word ROME
+- Series 34 Episode 4: Songs that were UK top 40 hits by an artist whose first name is shared with a British royal — give the act's first name
+- Series 34 Episode 40: Artist or band who made these songs that feature clapping
+- Series 34 Episode 40: Foods or dishes invented since the end of WWII (with alternate letters shown)
+- Series 34 Episode 40: Male boxers who became world heavyweight champion between July 1921 and June 2024 (WBA/NBA, IBF, WBC, WBO)
+- Series 34 Episode 40: Which of these six are UK film and/or TV studios (two scoring, two pointless, two not studios)
+- Series 34 Episode 40: Words of at least four letters in the lyrics of the song Nellie The Elephant (excluding title words)
+- Series 34 Episode 40: Words or names that sound like two letters of the alphabet read together (from clues given)
+- Series 34 Episode 41: Cheeses known for hole-shaped bubbles, with alternate letters removed
+- Series 34 Episode 41: Identify UK film titles from re-translated foreign release titles (given initials, a star and year), and find the least-known
+- Series 34 Episode 41: Identify comedians who appeared on Mock The Week from pictures
+- Series 34 Episode 41: Missing creatures from lines of the nursery rhyme Who Killed Cock Robin?
+- Series 34 Episode 42: Anagrams of five African rivers
+- Series 34 Episode 42: Anyone credited with an acting performance in given ancient/legendary history films (Troy, Alexander)
+- Series 34 Episode 42: Identify the pointless Stephen King characters from six options (two scoring, two pointless, two not Stephen King characters)
+- Series 34 Episode 42: People recognised in the 2024 King's Birthday Honours list (16 faces shown)
+- Series 34 Episode 42: Picture clues to hairstyles done at a barber's (with first and last initials)
+- Series 34 Episode 42: Words ending in the letters A-C (with first letter and length clues)
+- Series 34 Episode 43: Beatles song titles with the first name of a person missing — name the missing names
+- Series 34 Episode 43: Bonus jackpot board: identify the two pointless Welsh beaches from six options (two scoring, two pointless, two not Welsh beaches)
+- Series 34 Episode 43: Five activities Gethin Jones did on Blue Peter (from picture clues with some letters blanked out)
+- Series 34 Episode 43: Name any space on the classic London Monopoly board that contains at least one of the letters D, O, or G
+- Series 34 Episode 43: The Telegraph's 50 best TV dramas of all time (given a description, year of first broadcast, and initials of the title)
+- Series 34 Episode 44: Animal Guinness World Record breakers (identify the animal from clues)
+- Series 34 Episode 44: Burning Man festival themes
+- Series 34 Episode 44: Films with motorbikes (identify the film from images)
+- Series 34 Episode 44: Greek equivalents of Roman gods and goddesses
+- Series 34 Episode 45: Actors who have played the Doctor in Doctor Who (per DoctorWho.TV, up to end of June 2024)
+- Series 34 Episode 45: Dishes from around the world often served as side dishes (from images, first and last letters given)
+- Series 34 Episode 45: Hit songs that feature mandolin playing (find the pointless ones among six options including red herrings)
+- Series 34 Episode 45: Novels by Charles Dickens (titles cut off before first appearance of letter C or D)
+- Series 34 Episode 45: Queens Of Pop On Tour - tracks performed live by Beyonce on the Renaissance tour (Cardiff, 17 May 2023) or by Madonna on The Celebration Tour (London O2, 14 Oct 2023)
+- Series 34 Episode 45: Two-word objects where the second word is 'pin' (give the first word, initial letter and length given)
+- Series 34 Episode 45: Words containing the letters 'OO' (from clues, with initial letter and number of letters given)
+- Series 34 Episode 46: Any single word in the name of a UK bird species (from the RSPB find-a-bird A-Z list) beginning with B, I, R or D
+- Series 34 Episode 46: Feature films for which Donald Glover or Danny Glover received an acting credit (including voice roles)
+- Series 34 Episode 46: Give the acronym or initialism of technological terms
+- Series 34 Episode 46: Identify English footballers playing for clubs not based in England (from photos and initials)
+- Series 34 Episode 46: Identify which of six options were signatories of the US Declaration of Independence in 1776 (two scoring, two pointless, two not signatories)
+- Series 34 Episode 46: Name songs with a one-word title exactly eight letters long (from clips and first letter)
+- Series 34 Episode 5: Actors who won Best Comedy Performance or Villain Of The Year at the British Soap Awards (1999-2023)
+- Series 34 Episode 5: Emotions, feelings or states of mind missing from these novel titles (begins with given letter)
+- Series 34 Episode 5: German rivers (find the pointless ones from six options)
+- Series 34 Episode 5: People named in the Shaw Trust's Disability Power 100 list or Hall of Fame (with initials)
+- Series 34 Episode 5: Plants in the mint family (with alternate letters)
+- Series 34 Episode 5: Things that lost their trademark by becoming generic terms (with initial letter)
+- Series 34 Episode 5: Types of trousers (anagrams with initials)
+- Series 34 Episode 6: Actors with a credit in 4+ episodes of Better Call Saul or Suits
+- Series 34 Episode 6: Alternative definitions for words that are also pieces of furniture
+- Series 34 Episode 6: Ballet titles with one letter changed in each word
+- Series 34 Episode 6: Facts about Jennifer Lopez
+- Series 34 Episode 6: Guests on The Morecambe & Wise Show
+- Series 34 Episode 7: Actors who have played Agatha Christie's Miss Marple (shown with initials)
+- Series 34 Episode 7: Facts revolving around reindeer or the word 'reindeer'
+- Series 34 Episode 7: Films that have won the Academy Award for Best Animated Feature Film or Best Animated Short Film
+- Series 34 Episode 7: National Trust's '50 things to do before you're 11¾' activities — supply the missing last word (shown with alternate letters)
+- Series 34 Episode 7: Players who have won the women's singles title at the Eastbourne International tennis tournament (pick the pointless ones from six options)
+- Series 34 Episode 7: Shades of pink (letters arranged in alphabetical order to unscramble)
+- Series 34 Episode 8: Five categories from literature, each with five answers (Shakespeare tragedies, Bennet sisters in Pride and Prejudice, Lord of the Rings characters, Golden Ticket winners, sequels to Noughts and Crosses)
+- Series 34 Episode 8: Name the artist who had a hit with these songs that never reached number 1 in the UK charts (initials and year given)
+- Series 34 Episode 8: Star signs (pictures and symbols with blanks for letters)
+- Series 34 Episode 8: TV consumer affairs shows with vowels removed from the titles
+- Series 34 Episode 8: Which of these six are pointless Mediterranean cruise ports (two scoring, two pointless, two not ports)
+- Series 34 Episode 9: Abbreviations or acronyms in the Collins Dictionary — give the missing word beginning with the letter D
+- Series 34 Episode 9: Facts about the BBC Radio 4 soap opera The Archers
+- Series 34 Episode 9: Famous women featured on Edward Enninful's final British Vogue cover (March 2024) — name the one fewest recognised
+- Series 34 Episode 9: Identify the pointless Minecraft biomes/regions from six options
+- Series 34 Episode 9: Name any track on the expanded Red or Blue Beatles compilation albums
+- Series 34 Episode 9: Names of Robin Hood's band of outlaws (with one word given as a clue) — name the one fewest knew
+- Series 35 Episode 1: Head-to-head picture/clue questions: cake decorating tools, Tales titles, and British kingdoms/princedoms
+- Series 35 Episode 1: Peace & Quiet: any person awarded the Nobel Peace Prize from 2000 to 2024 inclusive, OR any word of four or more letters in Bjork's 1995 single It's Oh So Quiet
+- Series 35 Episode 1: People, places and things that share their name with a station on the Madrid metro system (from clues with initials and letter counts)
+- Series 35 Episode 1: Team GB gymnasts at the Summer Olympic Games (find the pointless ones)
+- Series 35 Episode 10: Any act that has had at least five different albums at number one in the UK albums charts
+- Series 35 Episode 10: Clues to types of mythical or supernatural creatures (with first letter and number of letters given)
+- Series 35 Episode 10: Music Composition: types of musical composition or musical expressions and tempo instructions (Collins Dictionary online words list)
+- Series 35 Episode 10: Original works on which reimagined classics (parallel literature) were based (with initials given)
+- Series 35 Episode 10: UK offshore wind farms (six options: two scoring, two pointless, two not wind farms)
+- Series 35 Episode 10: Well-known interior designers (with initials given)
+- Series 35 Episode 11: Films featuring non-human primates (from images, initials and years)
+- Series 35 Episode 11: Four-letter foodstuffs identified from descriptions and initial letter
+- Series 35 Episode 11: Hosts credited with hosting these British quiz/game shows (Weakest Link, A Question of Sport, Blankety Blank, Family Fortunes, Mastermind, University Challenge)
+- Series 35 Episode 11: People, titles or things containing the name of a Greek alphabet letter (blanked out)
+- Series 35 Episode 11: Pointless bebop jazz musicians (two scoring, two pointless, two not bebop musicians at all)
+- Series 35 Episode 11: Towns/cities connected by Eurostar or Eurotunnel Shuttle (alphabetical anagrams)
+- Series 35 Episode 12: Acts performing UK top 40 singles with titles relating to outer space
+- Series 35 Episode 12: Films nominated for an award at the 96th Academy Awards (March 2024) or anyone nominated for an acting award
+- Series 35 Episode 12: Identify which options are pointless characters from In The Night Garden (two scoring, two pointless, two not characters)
+- Series 35 Episode 12: Pairs of compound words that change meaning when the order of their components is reversed (given definitions of both)
+- Series 35 Episode 12: People whose surnames are or sound like comparative adjectives (first name and first letter given)
+- Series 35 Episode 13: Cities that have held the title of European Capital of Culture or American Capital of Culture (up to 2024)
+- Series 35 Episode 13: Constellations: given the Latin name and a definition of the English name, name the constellation
+- Series 35 Episode 13: Facts about Scarlet
+- Series 35 Episode 13: Fashion items popular in the noughties (with alternate letters given)
+- Series 35 Episode 13: Trivial Pursuit categories with letters rearranged into alphabetical order
+- Series 35 Episode 13: Women portrayed in the 'Work In Progress' mural at the National Portrait Gallery
+- Series 35 Episode 13: Words that feature in the song Supercalifragilisticexpialidocious from Mary Poppins
+- Series 35 Episode 14: Catholic ecclesiastical titles (find the pointless ones)
+- Series 35 Episode 14: Famous people called Angela (identify from pictures, name the least known)
+- Series 35 Episode 14: One-word titles of UK top ten hits by Madonna (identify from definitions, name the least recognised)
+- Series 35 Episode 14: Terms for moves and positions used in ballet (alternate letters removed)
+- Series 35 Episode 14: Tracks on the 2018 Broadway cast recording of Mean Girls, or acting credits in the 2024 film Mean Girls
+- Series 35 Episode 14: Words in the online Collins Dictionary that are three letters long and end with the letter P
+- Series 35 Episode 15: Clues to facts about gymnast Simone Biles
+- Series 35 Episode 15: Dog breeds shown on a beach - identify the most obscure
+- Series 35 Episode 15: Garden features found at National Trust properties (as of July 2024), with alternate letters removed
+- Series 35 Episode 15: Which of these are among the 50 most followed TikTok accounts (as of September 2024) - find the pointless ones
+- Series 35 Episode 16: Identify the feature film from a clickbait-headline-style clue, with initials and year of release given
+- Series 35 Episode 16: Identify the people wearing outfits featuring floral patterns
+- Series 35 Episode 16: Name a sculptor with work outdoors at the Yorkshire Sculpture Park, or an artist exhibited on the Fourth Plinth in Trafalgar Square (1999–Oct 2024)
+- Series 35 Episode 16: Things that can be done backwards/with your back to something, with letters in reverse alphabetical order
+- Series 35 Episode 16: Three UK train station names sharing the same missing final word — give the shared word
+- Series 35 Episode 16: Which of these six are pointless books by sports stars (two scoring, two pointless, two not books by sports stars)
+- Series 35 Episode 17: Events in history that took place in a year ending in 5 (from clues)
+- Series 35 Episode 17: Five clues to answers made up of letters that appear next to each other in the alphabet
+- Series 35 Episode 17: Name the acts who recorded these five songs written as potential James Bond theme songs but not chosen
+- Series 35 Episode 17: Name these five famous people born in Brooklyn, New York (from pictures)
+- Series 35 Episode 17: Pointless figures from Irish mythology (among six options, four mythological figures, two wrong)
+- Series 35 Episode 17: Tracks on the 1973 original London cast recording of The Rocky Horror Show (musical first released on physical formats in 2021)
+- Series 35 Episode 18: English words formed by rebracketing (gaining/losing an initial N), with current first letters
+- Series 35 Episode 18: Famous people known by a four-letter, single-word name
+- Series 35 Episode 18: Name these five mushrooms (from drawings, alternate letters given)
+- Series 35 Episode 18: Things in the art world connected to the United Kingdom (with initials given)
+- Series 35 Episode 18: Which of six options are European volcanoes (two scoring, two pointless, two wrong)
+- Series 35 Episode 19: Books in The Baby-Sitters Club series by Ann M Martin
+- Series 35 Episode 19: Counties in the Republic of Ireland from picture clues
+- Series 35 Episode 19: Female horror movie leads (scream queens) with alternate letters removed
+- Series 35 Episode 19: Pairs of musicians where the surname of the first is the first name of the second (give the shared name)
+- Series 35 Episode 19: Things involving the word 'fountain'
+- Series 35 Episode 19: Wisden Cricketers of the Year since 1950 who represented India or the West Indies
+- Series 35 Episode 2: Films by former Neighbours stars (acting credit for Margot Robbie or Guy Pearce)
+- Series 35 Episode 2: Identify the famous person you think fewest people will recognise enjoying a cup of tea
+- Series 35 Episode 2: Identify these animals classified as rodents (from alternate letters of their names)
+- Series 35 Episode 2: Name the West End musical from a song, the character who performs it and the show's initials
+- Series 35 Episode 2: Name these sausages from around the world (first and last letters removed)
+- Series 35 Episode 2: Only Fools and Horses episodes (find the pointless episodes)
+- Series 35 Episode 20: Actors who directed episodes of TV series in which they also starred (given initials of show, actor's name, and year first broadcast) — name the TV shows
+- Series 35 Episode 20: Identify the two pointless songs written for animated film soundtracks (six options: two scoring, two pointless, two not from animated films)
+- Series 35 Episode 20: Name the popular TikTok challenges (given descriptions and alternating letters)
+- Series 35 Episode 20: Name the winter sports shown in five pictures (given initials)
+- Series 35 Episode 20: Players in the 2023 Men's Rugby Union World Cup final (South Africa or New Zealand) or full name of any head coach of a team in the 2023 tournament
+- Series 35 Episode 21: Clues featuring breeds of animals found on British farms (name the animal)
+- Series 35 Episode 21: Desserts and sweet treats made with or served with custard (letters 'custard' removed)
+- Series 35 Episode 21: Famous people who attended Taylor Swift's Eras Tour in London, June 2024
+- Series 35 Episode 21: House robots that appeared on Robot Wars (vowels removed)
+- Series 35 Episode 21: Modern names of Egyptian pyramids (spot the pointless ones)
+- Series 35 Episode 21: Symbolic materials/gifts associated with British wedding anniversaries (Debrett's)
+- Series 35 Episode 21: UK two-letter postcode area codes OR cast of Mr Bates Vs The Post Office (2024)
+- Series 35 Episode 22: Characters from films directed by Wes Anderson (two scoring, two pointless, two not characters)
+- Series 35 Episode 22: English names of chess pieces from their Italian names
+- Series 35 Episode 22: Fish with names referring to an occupation, with alternate letters of the occupation missing
+- Series 35 Episode 22: Lead singers of bands (from played tracks)
+- Series 35 Episode 22: Most obscure answer in six categories relating to six famous authors (each with exactly six answers)
+- Series 35 Episode 22: Words that both begin and end with the letter R (from clues, with number of letters given)
+- Series 35 Episode 23: Acts who have played the BBC 6 Music Festival
+- Series 35 Episode 23: Names of molecules shown as ball-and-stick models (hydrogen white, carbon black, oxygen red)
+- Series 35 Episode 23: Notable Irish-born people (from clues and initials)
+- Series 35 Episode 23: Styles of architecture with the letters BRICK and S removed
+- Series 35 Episode 23: Things relating to the art of jewellery making (with alternate letters given)
+- Series 35 Episode 24: Facts based around the word 'ram'
+- Series 35 Episode 24: Identify the BBC sitcom from a clue to its Christmas special episode, a star, and the show's initial
+- Series 35 Episode 24: Identify the film from a scene, with the first letter of its one-word title
+- Series 35 Episode 24: Identify the two pointless European Alps mountains (two are scoring, two pointless, two not Alps at all)
+- Series 35 Episode 24: Name the British sports star shown in flight (with their initials as a clue)
+- Series 35 Episode 24: Unscramble anagrams of popular types of fast food
+- Series 35 Episode 25: Feature films with an acting credit for Bill Paxton, OR anybody with an acting credit in either of Quentin Tarantino's Kill Bill films
+- Series 35 Episode 25: Four-letter words in the Collins online dictionary with the middle two letters A and C (in that order)
+- Series 35 Episode 25: Locations of the Seven Wonders of the Ancient World (names with every other letter removed)
+- Series 35 Episode 25: Names of tie knots (two scoring, two pointless, two not tie knots at all)
+- Series 35 Episode 25: Songs by female artists streamed over a billion times on Spotify (shown with the artist's initials and the year the song entered the UK charts)
+- Series 35 Episode 25: Tall flowers (shown with picture and first and last letters of each word in their common names)
+- Series 35 Episode 25: The 20 most iconic video game characters of all time (2024 BAFTA poll) - clues plus character initials
+- Series 35 Episode 26: Any film in Rotten Tomatoes' 100 Best Zombie Movies Ranked (2025), OR any word of four or more letters in the lyrics of She's Not There by The Zombies
+- Series 35 Episode 26: Name famous people who were born on 31st December (New Year's Eve)
+- Series 35 Episode 26: Name the sports from pictures of their goals or targets
+- Series 35 Episode 26: Names of TV/radio shows, films, video games or book series that created or featured a fictional food, drink or recipe
+- Series 35 Episode 26: Which of the six options are pointless Salvador Dali artworks (two scoring, two pointless, two not Dali at all)
+- Series 35 Episode 27: Any fruit or vegetable on the National Farmers' Union's Seasonal Guide to British Fruit and Veg chart
+- Series 35 Episode 27: Characters in the musical Les Miserables (or the Victor Hugo novel) - two pointless, two scoring, two red herrings
+- Series 35 Episode 27: Flavours of crisps found in the UK, with names translated into Spanish
+- Series 35 Episode 27: Items of clothing and accessories worn by being wrapped or draped around the body
+- Series 35 Episode 27: Reality TV show titles with one letter changed in each word
+- Series 35 Episode 27: Words/phrases (with letter counts and a clue) which are also terms used in social media
+- Series 35 Episode 28: Board games that have won the Spiel des Jahres, or geographical territories on a Risk board
+- Series 35 Episode 28: Book titles missing a word ending in -ING; name the missing -ING word
+- Series 35 Episode 28: Earthshot Prize presenters - name the most obscure
+- Series 35 Episode 28: Name the artists of pop songs featuring orchestral string instruments
+- Series 35 Episode 28: Varieties of cherry (spot the pointless cherry variety)
+- Series 35 Episode 29: Actors who appeared in James Bond films starring Daniel Craig as 007
+- Series 35 Episode 29: Birds with V-shaped or notched tails
+- Series 35 Episode 29: Facts revolving around the name Susan
+- Series 35 Episode 29: Hit songs written by Tin Pan Alley songwriters (with two red herrings)
+- Series 35 Episode 29: Missing final word of finance and economics abbreviations
+- Series 35 Episode 29: People, places and things beginning with C-A-P
+- Series 35 Episode 3: African dishes (find the pointless ones from six options)
+- Series 35 Episode 3: Facts about buses
+- Series 35 Episode 3: Famous gardens (identify from image with alternate letters given)
+- Series 35 Episode 3: Male footballers with a Premier League appearance whose nationality is listed as France or Germany (1992-93 to 2023-24)
+- Series 35 Episode 3: People featured in portraits in the US National Portrait Gallery (with initials given)
+- Series 35 Episode 3: Substances found in the human body (vowels removed)
+- Series 35 Episode 3: Words ending in '...nge'
+- Series 35 Episode 30: Acts that have had a UK top 40 single with the word 'Rhythm' or 'Blues' (plural) in its title
+- Series 35 Episode 30: Anagrams of ways a batter can be given out in cricket (Laws of Cricket, MCC)
+- Series 35 Episode 30: Internet search engines (two scoring, two pointless, two not real search engines)
+- Series 35 Episode 30: Stylish musical films (Tatler May 2022), given a character, actor and release year
+- Series 35 Episode 30: Types of beds (from pictures with alternate letters given)
+- Series 35 Episode 30: Well-known nieces and nephews of well-known people (with initials given)
+- Series 35 Episode 31: Bonus: shades of purple as named by various colour models (two scoring, two pointless, two not purple at all)
+- Series 35 Episode 31: Facts about the District of Peckham
+- Series 35 Episode 31: Songs performed as part of six classic Glastonbury Festival sets (David Bowie, Stevie Wonder, Beyonce, Dolly Parton, Elton John, Olivia Rodrigo)
+- Series 35 Episode 31: Words that can precede "fish" to give the name of a type of aquatic creature (from six clues with first letter given)
+- Series 35 Episode 32: Ancient Egyptian gods/goddesses on the British Museum list, or named characters (other than Cleopatra) in the 1963 film Cleopatra
+- Series 35 Episode 32: Five people not primarily known as models who made catwalk cameos - name the most obscure
+- Series 35 Episode 32: Identify which of six options are species of snail (find the pointless snails)
+- Series 35 Episode 32: Taco ingredients from BBC Food recipes, with the key ingredient translated into Spanish (give the English translation)
+- Series 35 Episode 32: Types of message/communication with letters in alphabetical order - unscramble them
+- Series 35 Episode 32: Words in the Collins Dictionary formed by changing one letter of the word 'bat' (letters keep their positions)
+- Series 35 Episode 33: Anyone with an acting credit in the 2023 film Guardians Of The Galaxy Vol 3 (including voice) or the title of any song on the soundtrack to any of the three Guardians Of The Galaxy films
+- Series 35 Episode 33: Christmas pantomime characters with letters in alphabetical order (with the panto named)
+- Series 35 Episode 33: Facts about the band Blur (from clues)
+- Series 35 Episode 33: Identify these UK buildings that are examples of Brutalist architecture (from pictures and alternate letters)
+- Series 35 Episode 33: Science and technology terms beginning with the letter W (given as clues with letter counts)
+- Series 35 Episode 33: Which of these six names are real-life famous opera singers (two scoring, two pointless, two not opera singers at all)
+- Series 35 Episode 4: Any word in the name of a UK motorway service area, or any word of four or more letters in the lyrics of 2-4-6-8 Motorway by the Tom Robinson Band
+- Series 35 Episode 4: Events from the BBC reboot of Gladiators (letters rearranged alphabetically)
+- Series 35 Episode 4: Find the pointless cover star of Attitude magazine
+- Series 35 Episode 4: Members of the gourd family (pictures with first and last letters)
+- Series 35 Episode 4: Name the act behind pairs of singles and albums that were simultaneously number one in their respective UK charts
+- Series 35 Episode 5: Characters played by Helena Bonham Carter (find the pointless ones)
+- Series 35 Episode 5: English words believed to come directly or indirectly from Persian (from definitions, first letter and letter count)
+- Series 35 Episode 5: Holiday destinations in Celtic regions (Ireland/Northern Ireland, Highlands and Islands of Scotland, Wales, Brittany/France)
+- Series 35 Episode 5: Identify the sitcom from its principal setting (with initials and first year of broadcast)
+- Series 35 Episode 5: Players who won Wimbledon ladies' or gentlemen's singles since the Open era (1968-2024) who did not represent the UK, US or Australia
+- Series 35 Episode 6: Comic or humorous novels with a missing word removed from the title (first and last letters, year and author given)
+- Series 35 Episode 6: Name the acts performing five songs whose titles begin with the word "You're"
+- Series 35 Episode 6: Name these five famous women pictured wearing suits
+- Series 35 Episode 6: Spot the pointless Premier League footballer nicknames from six options (two scoring, two pointless, two never played in PL)
+- Series 35 Episode 6: Winners or runners-up of The Apprentice (UK), or Lord Sugar's associates who interviewed candidates in the latter stages (series 1, 2005 to series 18, 2024)
+- Series 35 Episode 7: German words used in the English language (given initial letter, translation and description)
+- Series 35 Episode 7: Identify the pointless Captain Underpants novels (written by Dav Pilkey)
+- Series 35 Episode 7: Name the cake from a drawn slice with alternate letters removed
+- Series 35 Episode 7: Name the freshwater habitat from a name with alternate letters removed
+- Series 35 Episode 7: Senior church figures: Archbishops of Canterbury (1660–Sept 2024) or Archbishops of Westminster (1850–Sept 2024)
+- Series 35 Episode 7: Songs that made the top 30 of Radio 2's listener vote for favourite ABBA song (2024)
+- Series 35 Episode 8: Any player in either Euro 2024 final squad (England v Spain), or any of the 24 managers/head coaches at Euro 2024
+- Series 35 Episode 8: Food and drink items in the ONS 2024 basket of goods and services (from clues and initials)
+- Series 35 Episode 8: Names of photo filters applied to an image (first and last letters given)
+- Series 35 Episode 8: People who have fronted TV shows titled 'The [their name] Show'
+- Series 35 Episode 8: Terms used in make-up application, each ending in -ING (from definitions and initials)
+- Series 35 Episode 8: Types of mammal that can be seen at London Zoo as of June 2024 (two scoring, two pointless, two red herrings)
+- Series 35 Episode 9: Acts that received nul points in the final of the Eurovision Song Contest (1957–2024) OR batters with at least 25 career ducks in men's international cricket
+- Series 35 Episode 9: Common names of chemical compounds in the class of organic acids (with alternate letters missing)
+- Series 35 Episode 9: People born in the Chinese Year of the Snake (identified from clues and initials)
+- Series 35 Episode 9: Racecourses (courses) raced at Cowes Week Sailing Regatta 2024
+- Series 35 Episode 9: Visual clues to words and phrases associated with the Regency era of the 19th century (with alternate letters given)

@@ -20,6 +20,7 @@ class HistoricalScore:
     date: str | None
     question_text: str
     source_url: str
+    quote: str | None = None
 
     def to_json(self) -> dict:
         return asdict(self)
@@ -147,6 +148,7 @@ def _load_generated(path: Path = GENERATED_EVIDENCE_PATH) -> tuple[HistoricalSco
             date=row.get("date"),
             question_text=row.get("question_text", ""),
             source_url=row.get("source_url", ""),
+            quote=row.get("evidence_quote") or None,
         )
         if (score.category, score.answer, score.episode) not in manual_keys:
             records.append(score)

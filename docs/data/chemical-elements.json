@@ -71,7 +71,7 @@
       "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
     }
   ],
-  "generated_at": "2026-06-12T16:22:06Z",
+  "generated_at": "2026-06-12T17:00:04Z",
   "answers": [
     {
       "id": "roentgenium",
@@ -145,7 +145,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "Another pointless answer."
           },
           {
             "category": "chemical-elements",
@@ -154,7 +155,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "That is a pointless answer, another one."
           }
         ]
       }
@@ -199,7 +201,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "It's another pointless answer."
           },
           {
             "category": "chemical-elements",
@@ -208,7 +211,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "That's a pointless answer... adds £250 to today's jackpot"
           }
         ]
       }
@@ -253,7 +257,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Protactinium, radon and, of course, there's thorium."
           },
           {
             "category": "chemical-elements",
@@ -262,7 +267,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "in 1961... protactinium has been a pointless answer. Oh, and it is again!"
           }
         ]
       }
@@ -307,7 +313,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "Scandium. We had tennessine"
           }
         ]
       }
@@ -352,7 +359,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "We also have livermorium, neptunium and rutherfordium"
           },
           {
             "category": "chemical-elements",
@@ -361,7 +369,8 @@
             "episode": "Series 35 Episode 24",
             "date": null,
             "question_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs",
+            "quote": "You mentioned livermorium, and that was pointless, as well"
           }
         ]
       }
@@ -438,7 +447,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "One! One! One person got seaborgium."
           }
         ]
       }
@@ -483,7 +493,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "we do have ytterbium... and yttrium... both of those were pointless"
           }
         ]
       }
@@ -528,7 +539,8 @@
             "episode": "Series 34 Episode 11",
             "date": null,
             "question_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6",
+            "quote": "Still going down with rutherfordium to 4. Oh, no."
           },
           {
             "category": "chemical-elements",
@@ -537,7 +549,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "We also have livermorium, neptunium and rutherfordium"
           },
           {
             "category": "chemical-elements",
@@ -546,7 +559,8 @@
             "episode": "Series 35 Episode 24",
             "date": null,
             "question_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs",
+            "quote": "Rutherfordium taking us into single figures... You've done it!"
           }
         ]
       }
@@ -623,7 +637,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "It's another pointless answer."
           }
         ]
       }
@@ -732,7 +747,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "It's a pointless answer, Ameer. Straight out of the traps with a pointless answer."
           }
         ]
       }
@@ -777,7 +793,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "Oh, one for lawrencium. Very well done indeed."
           }
         ]
       }
@@ -822,7 +839,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Oh, one! We have a new low score."
           }
         ]
       }
@@ -899,7 +917,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "And rhenium, symbol Re."
           }
         ]
       }
@@ -944,7 +963,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "That's another pointless answer."
           }
         ]
       }
@@ -989,7 +1009,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "A few of them are curium, gallium, manganese, neptunium"
           },
           {
             "category": "chemical-elements",
@@ -998,7 +1019,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "Down to 1. This is perfect."
           }
         ]
       }
@@ -1043,7 +1065,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "We haven't mentioned europium, symbol Eu, appropriately."
           }
         ]
       }
@@ -1088,7 +1111,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "we've got bismuth, we've got cerium"
           },
           {
             "category": "chemical-elements",
@@ -1097,7 +1121,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "You could have had cerium, which has the symbol Ce."
           }
         ]
       }
@@ -1142,7 +1167,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "we do have ytterbium... and yttrium... both of those were pointless"
           }
         ]
       }
@@ -1187,7 +1213,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Oganesson, palladium, which of course was discovered by"
           }
         ]
       }
@@ -1232,7 +1259,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "That's a pointless answer. Very well done indeed."
           }
         ]
       }
@@ -1277,7 +1305,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "Te is the symbol for tellurium, which was pointless."
           }
         ]
       }
@@ -1354,7 +1383,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "We also have livermorium, neptunium and rutherfordium"
           },
           {
             "category": "chemical-elements",
@@ -1363,7 +1393,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "that's a pointless answer. It adds £250 to today's jackpot"
           },
           {
             "category": "chemical-elements",
@@ -1372,7 +1403,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "which Andy said... and neptunium."
           }
         ]
       }
@@ -1449,7 +1481,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "Germanium, symbol Ge."
           }
         ]
       }
@@ -1494,7 +1527,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "which Storm gave us, and zirconium"
           },
           {
             "category": "chemical-elements",
@@ -1503,7 +1537,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "It's another pointless answer. It adds another £250"
           }
         ]
       }
@@ -1548,7 +1583,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "39 is our only score. And you pass it. Ooh, down to two."
           },
           {
             "category": "chemical-elements",
@@ -1557,7 +1593,8 @@
             "episode": "Series 35 Episode 24",
             "date": null,
             "question_text": "Any UN-member country, or any chemical element, whose short English name contains at least four of the letters A, E, I, O, U",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w9xs",
+            "quote": "Your third answer, californium, was also pointless!"
           }
         ]
       }
@@ -1602,7 +1639,8 @@
             "episode": "Series 34 Episode 11",
             "date": null,
             "question_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6",
+            "quote": "12 for einsteinium."
           },
           {
             "category": "chemical-elements",
@@ -1611,7 +1649,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Two is our low score and you join it."
           },
           {
             "category": "chemical-elements",
@@ -1620,7 +1659,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "You've done it! Einsteinium has just won you £1,250."
           }
         ]
       }
@@ -1665,7 +1705,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "Five... ..for strontium. Five."
           }
         ]
       }
@@ -1742,7 +1783,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "we've got bismuth, we've got cerium"
           }
         ]
       }
@@ -1787,7 +1829,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "A few of them are curium, gallium, manganese, neptunium"
           }
         ]
       }
@@ -1864,7 +1907,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "It's a pointless answer! Very well done indeed."
           }
         ]
       }
@@ -1909,7 +1953,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "A few of them are curium, gallium, manganese, neptunium"
           }
         ]
       }
@@ -1986,7 +2031,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Protactinium, radon and, of course, there's thorium."
           }
         ]
       }
@@ -2063,7 +2109,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Oganesson, palladium, which of course was discovered by"
           }
         ]
       }
@@ -2140,7 +2187,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Protactinium, radon and, of course, there's thorium."
           }
         ]
       }
@@ -2185,7 +2233,8 @@
             "episode": "Series 35 Episode 5",
             "date": null,
             "question_text": "Chemical elements whose symbol contains the letter E, or named moons of the eight major planets containing the letter E (as of August 2024)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002v38p"
+            "source_url": "https://www.bbc.co.uk/programmes/m002v38p",
+            "quote": "And xenon, with the symbol Xe."
           }
         ]
       }
@@ -2230,7 +2279,8 @@
             "episode": "Series 34 Episode 11",
             "date": null,
             "question_text": "Chemical elements whose symbol matches the beginning of its name, or elements named after the surname of a scientist",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6"
+            "source_url": "https://www.bbc.co.uk/programmes/m002kjl6",
+            "quote": "Lithium is right. ... Down to 2. 2! Not a pointless answer"
           }
         ]
       }
@@ -2307,7 +2357,8 @@
             "episode": "Series 34 Episode 6",
             "date": null,
             "question_text": "Chemical elements containing the letter G, C, S, or E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x"
+            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
+            "quote": "Six for selenium."
           }
         ]
       }
@@ -2416,7 +2467,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "Boron, 10. Not bad. 10 for boron."
           }
         ]
       }
@@ -2461,7 +2513,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Down to three! Not bad at all."
           },
           {
             "category": "chemical-elements",
@@ -2470,7 +2523,8 @@
             "episode": "Series 35 Episode 19",
             "date": null,
             "question_text": "Chemical elements whose first letter is not repeated elsewhere in their name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt"
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
+            "quote": "Plutonium is absolutely right. Down... Yes. Down to 1."
           }
         ]
       }
@@ -2675,7 +2729,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Neon. Yeah, that would have got you 11."
           }
         ]
       }
@@ -2752,7 +2807,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "Down goes potassium to 12."
           }
         ]
       }
@@ -2861,7 +2917,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "Magnesium passes that. 18."
           }
         ]
       }
@@ -2938,7 +2995,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Zinc is absolutely right. ... 16 for zinc."
           }
         ]
       }
@@ -2983,7 +3041,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "And down that goes to 12."
           },
           {
             "category": "chemical-elements",
@@ -2992,7 +3051,8 @@
             "episode": "Series 35 Episode 28",
             "date": null,
             "question_text": "Chemical elements that contain the letter I once and once only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b"
+            "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
+            "quote": "Chlorine. 21."
           }
         ]
       }
@@ -3165,7 +3225,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Down it goes to 21. Fantastic. 52, your total."
           }
         ]
       }
@@ -3210,7 +3271,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Nickel is right. Down it goes to 31."
           }
         ]
       }
@@ -3287,7 +3349,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Copper is right. 31 is our highest score. You pass it. 29 for copper."
           }
         ]
       }
@@ -3428,7 +3491,8 @@
             "episode": "Series 35 Episode 1",
             "date": null,
             "question_text": "Chemical elements in the periodic table containing one or more of the letters A, C or T in its name",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tshj"
+            "source_url": "https://www.bbc.co.uk/programmes/m002tshj",
+            "quote": "39, titanium. Not bad."
           }
         ]
       }
@@ -3731,7 +3795,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "And krypton would have scored you 55."
           }
         ]
       }
@@ -3776,7 +3841,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Argon is right. 58 for argon, taking your total up to 87."
           }
         ]
       }
@@ -3917,7 +3983,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "And carbon, carbonara. 55."
           }
         ]
       }
@@ -3962,7 +4029,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "silverback, silver, at 57."
           }
         ]
       }
@@ -4105,7 +4173,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Lead, leaderboard. That would have given you 63."
           }
         ]
       }
@@ -4246,7 +4315,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Ooh, 74 for tin, taking your total up to 90"
           }
         ]
       }
@@ -4423,7 +4493,8 @@
             "episode": "Series 35 Episode 15",
             "date": null,
             "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z"
+            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
+            "quote": "Goldilocks, you mentioned. Gold. 87."
           }
         ]
       }
