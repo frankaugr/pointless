@@ -7,6 +7,8 @@ exporter weight real show evidence above pageview proxies when it exists.
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass
+import json
+from pathlib import Path
 
 
 @dataclass(frozen=True)
@@ -126,9 +128,37 @@ HISTORICAL_SCORES: tuple[HistoricalScore, ...] = (
 )
 
 
+GENERATED_EVIDENCE_PATH = Path(__file__).resolve().parent.parent / "data" / "evidence.json"
+
+
+def _load_generated(path: Path = GENERATED_EVIDENCE_PATH) -> tuple[HistoricalScore, ...]:
+    """Transcript-derived evidence written by `transcripts merge` (optional)."""
+    if not path.exists():
+        return ()
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    manual_keys = {(s.category, s.answer, s.episode) for s in HISTORICAL_SCORES}
+    records = []
+    for row in payload.get("records", []):
+        score = HistoricalScore(
+            category=row["category"],
+            answer=row["answer"],
+            score_0_to_100=int(row["score_0_to_100"]),
+            episode=row["episode"],
+            date=row.get("date"),
+            question_text=row.get("question_text", ""),
+            source_url=row.get("source_url", ""),
+        )
+        if (score.category, score.answer, score.episode) not in manual_keys:
+            records.append(score)
+    return tuple(records)
+
+
+GENERATED_SCORES: tuple[HistoricalScore, ...] = _load_generated()
+
+
 def scores_for(category_slug: str, answer_name: str) -> list[HistoricalScore]:
     return [
         score
-        for score in HISTORICAL_SCORES
+        for score in HISTORICAL_SCORES + GENERATED_SCORES
         if score.category == category_slug and score.answer == answer_name
     ]

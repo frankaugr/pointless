@@ -15,6 +15,25 @@ The canonical v1 answer sets live in `pointless_revision/categories.py`. They ar
 
 Historical score rows use this shape: `category`, `answer`, `score_0_to_100`, `episode`, `date`, `question_text`, and `source_url`.
 
+## Transcript Evidence Pipeline
+
+Subtitle transcripts (`pointless_transcripts/sNN/*.srt`, untracked) can be turned into real show evidence that the exporter weights above the pageview proxy:
+
+```sh
+.venv/bin/pip install anthropic            # one-time
+export ANTHROPIC_API_KEY=...
+
+# Extract one episode (prompt iteration) or the full corpus (Batch API, 50% cheaper):
+.venv/bin/python -m pointless_revision transcripts extract --only s35e33
+.venv/bin/python -m pointless_revision transcripts extract --batch
+
+# Merge data/episodes/*.json into data/evidence.json + match-rate report:
+python3 -m pointless_revision transcripts merge
+python3 scripts/build_data.py              # picks up the new evidence automatically
+```
+
+Notes: `.partial.srt` files (in-progress downloads) are skipped; extraction reruns skip episodes that already have output; subtitle font colours are used to attribute lines to host / co-host / contestants. Only derived facts plus a one-line evidence quote are stored — raw transcripts stay out of the published site.
+
 ## Build And Test
 
 ```sh

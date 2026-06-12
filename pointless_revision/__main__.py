@@ -50,6 +50,73 @@ def cmd_show(args) -> int:
     return 0
 
 
+def cmd_ts_script(args) -> int:
+    from .transcripts import script_for
+
+    print(script_for(args.srt_path))
+    return 0
+
+
+def cmd_ts_extract(args) -> int:
+    from .extract import extract_episode, run_batch
+    from .transcripts import iter_episode_files
+
+    try:
+        import anthropic
+    except ImportError:
+        print("The `anthropic` package is required: .venv/bin/pip install anthropic", file=sys.stderr)
+        return 1
+
+    episodes = iter_episode_files(args.root)
+    if args.only:
+        wanted = set(args.only)
+        episodes = [ep for ep in episodes if ep.episode_id in wanted]
+    if args.limit:
+        episodes = episodes[: args.limit]
+    if not episodes:
+        print("No matching episodes found.", file=sys.stderr)
+        return 1
+
+    client = anthropic.Anthropic()
+    if args.batch:
+        tally = run_batch(client, episodes, args.out)
+        print(f"Batch done: {tally['succeeded']} succeeded, {tally['errored']} errored.")
+        return 1 if tally["errored"] else 0
+
+    for ep in episodes:
+        path = extract_episode(client, ep, args.out)
+        print(f"{ep.episode_id} -> {path}")
+    return 0
+
+
+def cmd_ts_merge(args) -> int:
+    from .evidence import merge_episodes, write_evidence
+
+    records, report = merge_episodes(args.episodes)
+    write_evidence(records, args.out)
+    print(f"Wrote {len(records)} evidence records to {args.out}")
+    print(
+        f"Episodes: {report['episodes']}  rounds: {report['rounds']}  "
+        f"matched to curated categories: {report['rounds_matched']}"
+    )
+    print(
+        f"Facts recorded: {report['facts_recorded']}  "
+        f"skipped (incorrect): {report['facts_skipped_incorrect']}  "
+        f"skipped (no score): {report['facts_skipped_no_score']}"
+    )
+    unmatched_answers = sum(len(v) for v in report["unmatched_answers"].values())
+    print(f"Answers without a canonical match: {unmatched_answers}")
+    if args.report:
+        args.report.parent.mkdir(parents=True, exist_ok=True)
+        import json
+
+        args.report.write_text(
+            json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+        )
+        print(f"Full report: {args.report}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="pointless_revision")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -65,6 +132,27 @@ def main(argv: list[str] | None = None) -> int:
     p_show.add_argument("category")
     p_show.add_argument("--limit", type=int, default=25)
     p_show.set_defaults(func=cmd_show)
+
+    p_ts = sub.add_parser("transcripts", help="Subtitle transcript extraction pipeline")
+    ts_sub = p_ts.add_subparsers(dest="ts_cmd", required=True)
+
+    p_ts_script = ts_sub.add_parser("script", help="Print the parsed script for one .srt file")
+    p_ts_script.add_argument("srt_path", type=Path)
+    p_ts_script.set_defaults(func=cmd_ts_script)
+
+    p_ts_extract = ts_sub.add_parser("extract", help="Extract episode facts via the Claude API")
+    p_ts_extract.add_argument("--root", type=Path, default=Path("pointless_transcripts"))
+    p_ts_extract.add_argument("--out", type=Path, default=Path("data/episodes"))
+    p_ts_extract.add_argument("--only", action="append", help="Episode id like s34e01 (repeatable)")
+    p_ts_extract.add_argument("--limit", type=int)
+    p_ts_extract.add_argument("--batch", action="store_true", help="Use the Batch API (50%% cheaper)")
+    p_ts_extract.set_defaults(func=cmd_ts_extract)
+
+    p_ts_merge = ts_sub.add_parser("merge", help="Merge extracted episodes into data/evidence.json")
+    p_ts_merge.add_argument("--episodes", type=Path, default=Path("data/episodes"))
+    p_ts_merge.add_argument("--out", type=Path, default=Path("data/evidence.json"))
+    p_ts_merge.add_argument("--report", type=Path, default=Path("data/evidence_report.json"))
+    p_ts_merge.set_defaults(func=cmd_ts_merge)
 
     args = parser.parse_args(argv)
     return args.func(args)

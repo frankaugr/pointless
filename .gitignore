@@ -8,3 +8,6 @@ venv/
 .env
 .idea/
 .vscode/
+.DS_Store
+.get_iplayer/
+pointless_transcripts/

@@ -42,10 +42,14 @@ class CatalogTests(unittest.TestCase):
     def test_pointless_evidence_has_higher_confidence_than_pageview_only(self):
         _index, payloads = build_payloads()
         pms = {answer["name"]: answer for answer in payloads["uk-prime-ministers"]["answers"]}
-        countries = {answer["name"]: answer for answer in payloads["countries"]["answers"]}
         self.assertEqual(pms["Henry Pelham"]["obscurity"]["confidence"], "high")
-        self.assertEqual(countries["Vanuatu"]["obscurity"]["confidence"], "medium")
         self.assertGreater(len(pms["Henry Pelham"]["obscurity"]["evidence"]), 0)
+        # Which answers have show evidence shifts as transcript extractions land,
+        # so derive the with/without confidence split rather than pinning names.
+        for payload in payloads.values():
+            for item in payload["answers"]:
+                expected = "high" if item["obscurity"]["evidence"] else "medium"
+                self.assertEqual(item["obscurity"]["confidence"], expected, item["name"])
 
     def test_user_example_templates_are_exported(self):
         _index, payloads = build_payloads()
