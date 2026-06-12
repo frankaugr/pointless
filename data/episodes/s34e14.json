@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "It's pointless and it IS Main Street. Well done."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -344,7 +345,8 @@
           "contestant": null,
           "evidence_quote": "Kumail Nanjiani would have scored you 3."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2 tie-break",
@@ -369,7 +371,8 @@
           "contestant": "Milly",
           "evidence_quote": "It's a pointless answer, so there we are!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder",
@@ -421,7 +424,8 @@
           "contestant": null,
           "evidence_quote": "Westerlo scored 4. They play in the first tier."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -473,7 +477,8 @@
           "contestant": null,
           "evidence_quote": "it's Hobnobs, for goodness' sake. 52."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -525,7 +530,8 @@
           "contestant": null,
           "evidence_quote": "Masking tape. Yeah, of course. 49."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -577,7 +583,8 @@
           "contestant": null,
           "evidence_quote": "tinkle for tickle. Exactly. 31."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -629,7 +636,8 @@
           "contestant": null,
           "evidence_quote": "the only scoring answers here were Ewan McGregor"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

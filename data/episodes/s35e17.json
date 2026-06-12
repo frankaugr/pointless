@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "And Maria Fitzherbert would score you 2."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -299,7 +300,8 @@
           "contestant": null,
           "evidence_quote": "nor were there any pointless Spanish teams. Valencia was the best answer, scoring 4."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Jackpot Builder",
@@ -351,7 +353,8 @@
           "contestant": null,
           "evidence_quote": "and Finegas, a poet and fisher of the Salmon of Knowledge."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -412,7 +415,8 @@
           "contestant": null,
           "evidence_quote": "And finally, Bebe Rexha would score you 10."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -464,7 +468,8 @@
           "contestant": null,
           "evidence_quote": "This was Alice Cooper. ... Yeah. 4."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -516,7 +521,8 @@
           "contestant": null,
           "evidence_quote": "It is XYZ. And that was a pointless answer!"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -577,7 +583,8 @@
           "contestant": null,
           "evidence_quote": "two more pointless answers - Hot Patootie (Bless My Soul) and Touch-A-Touch—A-Touch-A-Touch Me."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

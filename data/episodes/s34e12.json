@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "\"Spine\". One point, that would have scored."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -245,7 +246,8 @@
           "contestant": null,
           "evidence_quote": "the best possible answer was Charlton Athletic, which would've scored you 1"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder",
@@ -297,7 +299,8 @@
           "contestant": null,
           "evidence_quote": "the other pointless answer was... Hollywood Costume."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -349,7 +352,8 @@
           "contestant": null,
           "evidence_quote": "his hair didn't move... He scored 74."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -401,7 +405,8 @@
           "contestant": null,
           "evidence_quote": "Dhansak scored you 29."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -453,7 +458,8 @@
           "contestant": null,
           "evidence_quote": "It's Helios. And it's pointless."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -613,7 +619,8 @@
           "contestant": null,
           "evidence_quote": "Foo Fighters, Paul Weller and The 1975"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

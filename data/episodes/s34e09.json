@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "the Ministry of Defence, which I think a lot of people got, 81."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -299,7 +300,8 @@
           "contestant": null,
           "evidence_quote": "the final pointless answer. She is Simone Ashley."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head (jackpot builder)",
@@ -342,7 +344,8 @@
           "contestant": null,
           "evidence_quote": "Cherry Grove. That is the other pointless answer on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -403,7 +406,8 @@
           "contestant": null,
           "evidence_quote": "everybody goes down The Bull at lunchtime... that would have scored you 13."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -455,7 +459,8 @@
           "contestant": null,
           "evidence_quote": "You've got The Eden Project which was 16."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -507,7 +512,8 @@
           "contestant": null,
           "evidence_quote": "he is Arthur Bland... would have given you an even lower score of two."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -541,7 +547,8 @@
           "contestant": null,
           "evidence_quote": "Girl is also a pointless answer, but well done."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -85,7 +85,8 @@
           "contestant": "Miles",
           "evidence_quote": "Another pointless answer! It adds another £250 to today's jackpot"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "Human League is correct. And that would've scored 26"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "Jonathan Bailey, from Bridgerton, he was on it in 2021, would've scored you two"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -313,7 +316,8 @@
           "contestant": null,
           "evidence_quote": "poor D - would be loofah. And that would've scored you three"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "the one to get, really, was Collision. And that would've scored you one point"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -399,7 +404,8 @@
           "contestant": null,
           "evidence_quote": "You've done it! Lane has just won you £1,750!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

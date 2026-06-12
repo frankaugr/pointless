@@ -157,7 +157,8 @@
           "contestant": null,
           "evidence_quote": "And that was a pointless answer, too."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -281,7 +282,8 @@
           "contestant": null,
           "evidence_quote": "Joe Lycett. Bang-on. 7."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head tiebreak",
@@ -342,7 +344,8 @@
           "contestant": null,
           "evidence_quote": "Puy de Dome in the Massif Central in central France, and that was pointless"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -403,7 +406,8 @@
           "contestant": null,
           "evidence_quote": "the final one, a pointless answer. It's a...shaggy parasol!"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -464,7 +468,8 @@
           "contestant": null,
           "evidence_quote": "the one that eluded everybody is aitchbone. It was a pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -498,7 +503,8 @@
           "contestant": "Sylvia",
           "evidence_quote": "As your last answer, Mary II was also pointless."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

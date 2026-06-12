@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "A captain, which would have scored 69."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -290,7 +291,8 @@
           "contestant": null,
           "evidence_quote": "Jeffrey Wright would have scored you 5."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder",
@@ -342,7 +344,8 @@
           "contestant": "HOST",
           "evidence_quote": "Bill Bailey, Won't You Please Come Home is actually a Tin Pan Alley song."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -394,7 +397,8 @@
           "contestant": null,
           "evidence_quote": "the adjective is lazy, that's what we're looking for, with 34."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -446,7 +450,8 @@
           "contestant": null,
           "evidence_quote": "a scissor-tailed flycatcher, which was our pointless answer."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -498,7 +503,8 @@
           "contestant": null,
           "evidence_quote": "Gross National Product, which scored 40."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -532,7 +538,8 @@
           "contestant": "Emma",
           "evidence_quote": "Paramaribo was pointless. And it means you have won £1,000."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

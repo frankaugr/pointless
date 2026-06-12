@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Tynwald Hill. And that was actually the lowest at one point"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -218,7 +219,8 @@
           "contestant": null,
           "evidence_quote": "Perrie Mans, runner-up in 1978"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -279,7 +281,8 @@
           "contestant": null,
           "evidence_quote": "Night At The Museum ... that scored 59 points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -331,7 +334,8 @@
           "contestant": null,
           "evidence_quote": "planet, which was 34 points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -455,7 +459,8 @@
           "contestant": null,
           "evidence_quote": "He has headlined Glastonbury, but he would have scored 2"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

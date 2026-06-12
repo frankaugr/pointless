@@ -55,7 +55,7 @@
       "url": "https://www.un.org/en/about-us/member-states"
     }
   ],
-  "generated_at": "2026-06-12T17:00:04Z",
+  "generated_at": "2026-06-12T17:39:34Z",
   "answers": [
     {
       "id": "palau-capital",
@@ -2048,6 +2048,50 @@
       }
     },
     {
+      "id": "mongolia-capital",
+      "name": "Ulaanbaatar",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+      "attrs": {
+        "country": "Mongolia",
+        "continent": "Asia",
+        "name_initial": "U",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "u"
+      },
+      "pageviews": 756556,
+      "obscurity": {
+        "score": 0.8351,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 756556,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3402,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Ulaanbaatar",
+            "score_0_to_100": 0,
+            "episode": "Series 35 Episode 23",
+            "date": null,
+            "question_text": "Capital cities that do not contain the letter E",
+            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr",
+            "quote": "Another pointless answer adds another £250 to today's jackpot"
+          }
+        ]
+      }
+    },
+    {
       "id": "slovenia-capital",
       "name": "Ljubljana",
       "aliases": [],
@@ -2301,60 +2345,6 @@
           "pageview_obscurity": 0.8196
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "mongolia-capital",
-      "name": "Ulaanbaatar",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Ulaanbaatar",
-      "attrs": {
-        "country": "Mongolia",
-        "continent": "Asia",
-        "name_initial": "U",
-        "name_length": 11,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "u"
-      },
-      "pageviews": 756556,
-      "obscurity": {
-        "score": 0.8163,
-        "band": "very obscure",
-        "pointless_score": 2,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 756556,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3402,
-          "pointless_average_score": 2.5,
-          "pointless_obscurity": 0.975,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Ulaanbaatar",
-            "score_0_to_100": 5,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "And that would have scored you 5. It was the lowest of the scores."
-          },
-          {
-            "category": "world-capitals",
-            "answer": "Ulaanbaatar",
-            "score_0_to_100": 0,
-            "episode": "Series 35 Episode 23",
-            "date": null,
-            "question_text": "Capital cities that do not contain the letter E",
-            "source_url": "https://www.bbc.co.uk/programmes/m002w0mr",
-            "quote": "Another pointless answer adds another £250 to today's jackpot"
-          }
-        ]
       }
     },
     {
@@ -2629,50 +2619,6 @@
             "question_text": "Single-word national capital cities (capital of a UN member country, English name one word) — as of October 2024",
             "source_url": "https://www.bbc.co.uk/programmes/m002vdwg",
             "quote": "Asuncion, Paraguay."
-          }
-        ]
-      }
-    },
-    {
-      "id": "indonesia-capital",
-      "name": "Jakarta",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Jakarta",
-      "attrs": {
-        "country": "Indonesia",
-        "continent": "Asia",
-        "name_initial": "J",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 750855,
-      "obscurity": {
-        "score": 0.8,
-        "band": "very obscure",
-        "pointless_score": 10,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 750855,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5,
-          "pointless_average_score": 10.0,
-          "pointless_obscurity": 0.9,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Jakarta",
-            "score_0_to_100": 10,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "Jakarta passes it. Down to 10."
           }
         ]
       }
@@ -3338,50 +3284,6 @@
       }
     },
     {
-      "id": "south-korea-capital",
-      "name": "Seoul",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Seoul",
-      "attrs": {
-        "country": "South Korea",
-        "continent": "Asia",
-        "name_initial": "S",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 752312,
-      "obscurity": {
-        "score": 0.6808,
-        "band": "very obscure",
-        "pointless_score": 24,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 752312,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4433,
-          "pointless_average_score": 24.0,
-          "pointless_obscurity": 0.76,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Seoul",
-            "score_0_to_100": 24,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "It scored 24."
-          }
-        ]
-      }
-    },
-    {
       "id": "cuba-capital",
       "name": "Havana",
       "aliases": [],
@@ -3716,50 +3618,6 @@
       }
     },
     {
-      "id": "malaysia-capital",
-      "name": "Kuala Lumpur",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
-      "attrs": {
-        "country": "Malaysia",
-        "continent": "Asia",
-        "name_initial": "K",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 751938,
-      "obscurity": {
-        "score": 0.6185,
-        "band": "useful low scorer",
-        "pointless_score": 33,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 751938,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4639,
-          "pointless_average_score": 33.0,
-          "pointless_obscurity": 0.67,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Kuala Lumpur",
-            "score_0_to_100": 33,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "You needed 33. You got 33, taking your total up to 55"
-          }
-        ]
-      }
-    },
-    {
       "id": "north-macedonia-capital",
       "name": "Skopje",
       "aliases": [],
@@ -4060,50 +3918,6 @@
       }
     },
     {
-      "id": "singapore-capital",
-      "name": "Singapore",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Singapore",
-      "attrs": {
-        "country": "Singapore",
-        "continent": "Asia",
-        "name_initial": "S",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 770461,
-      "obscurity": {
-        "score": 0.557,
-        "band": "useful low scorer",
-        "pointless_score": 29,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 770461,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0979,
-          "pointless_average_score": 29.0,
-          "pointless_obscurity": 0.71,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Singapore",
-            "score_0_to_100": 29,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "Singapore takes you down to 29, taking your total up to 56."
-          }
-        ]
-      }
-    },
-    {
       "id": "kuwait-capital",
       "name": "Kuwait City",
       "aliases": [],
@@ -4131,50 +3945,6 @@
           "pageview_obscurity": 0.5567
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "thailand-capital",
-      "name": "Bangkok",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bangkok",
-      "attrs": {
-        "country": "Thailand",
-        "continent": "Asia",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 769019,
-      "obscurity": {
-        "score": 0.5534,
-        "band": "useful low scorer",
-        "pointless_score": 30,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 769019,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1134,
-          "pointless_average_score": 30.0,
-          "pointless_obscurity": 0.7,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Bangkok",
-            "score_0_to_100": 30,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "We just say Bangkok instead, and it scored 30."
-          }
-        ]
       }
     },
     {
@@ -4328,50 +4098,6 @@
       }
     },
     {
-      "id": "china-capital",
-      "name": "Beijing",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Beijing",
-      "attrs": {
-        "country": "China",
-        "continent": "Asia",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4930669,
-      "obscurity": {
-        "score": 0.5214,
-        "band": "useful low scorer",
-        "pointless_score": 31,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 4930669,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0155,
-          "pointless_average_score": 31.0,
-          "pointless_obscurity": 0.69,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Beijing",
-            "score_0_to_100": 31,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "31 is what that scores. 41 your total."
-          }
-        ]
-      }
-    },
-    {
       "id": "cambodia-capital",
       "name": "Phnom Penh",
       "aliases": [],
@@ -4427,6 +4153,36 @@
           "pageviews": 750255,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.5103
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "indonesia-capital",
+      "name": "Jakarta",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jakarta",
+      "attrs": {
+        "country": "Indonesia",
+        "continent": "Asia",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 750855,
+      "obscurity": {
+        "score": 0.5,
+        "band": "useful low scorer",
+        "pointless_score": 50,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 750855,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5
         },
         "evidence": []
       }
@@ -4612,6 +4368,36 @@
       }
     },
     {
+      "id": "malaysia-capital",
+      "name": "Kuala Lumpur",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+      "attrs": {
+        "country": "Malaysia",
+        "continent": "Asia",
+        "name_initial": "K",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 751938,
+      "obscurity": {
+        "score": 0.4639,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 751938,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4639
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "panama-capital",
       "name": "Panama City",
       "aliases": [],
@@ -4667,6 +4453,36 @@
           "pageviews": 752305,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.4485
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "south-korea-capital",
+      "name": "Seoul",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Seoul",
+      "attrs": {
+        "country": "South Korea",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 752312,
+      "obscurity": {
+        "score": 0.4433,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 752312,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4433
         },
         "evidence": []
       }
@@ -4792,60 +4608,6 @@
       }
     },
     {
-      "id": "japan-capital",
-      "name": "Tokyo",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tokyo",
-      "attrs": {
-        "country": "Japan",
-        "continent": "Asia",
-        "name_initial": "T",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 4931192,
-      "obscurity": {
-        "score": 0.4188,
-        "band": "middling",
-        "pointless_score": 44,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 4931192,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0103,
-          "pointless_average_score": 44.5,
-          "pointless_obscurity": 0.555,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "world-capitals",
-            "answer": "Tokyo",
-            "score_0_to_100": 41,
-            "episode": "Series 34 Episode 10",
-            "date": null,
-            "question_text": "Cities located on the continent of Asia (given first letters)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-            "quote": "It was Tokyo and that would have scored 41."
-          },
-          {
-            "category": "world-capitals",
-            "answer": "Tokyo",
-            "score_0_to_100": 48,
-            "episode": "Series 34 Episode 19",
-            "date": null,
-            "question_text": "Capital cities of island countries",
-            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7",
-            "quote": "Tokyo - 48, that's scored you."
-          }
-        ]
-      }
-    },
-    {
       "id": "guyana-capital",
       "name": "Georgetown",
       "aliases": [],
@@ -4933,6 +4695,50 @@
           "pageview_obscurity": 0.3969
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "japan-capital",
+      "name": "Tokyo",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tokyo",
+      "attrs": {
+        "country": "Japan",
+        "continent": "Asia",
+        "name_initial": "T",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4931192,
+      "obscurity": {
+        "score": 0.3926,
+        "band": "middling",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "high",
+        "components": {
+          "pageviews": 4931192,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0103,
+          "pointless_average_score": 48.0,
+          "pointless_obscurity": 0.52,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "world-capitals",
+            "answer": "Tokyo",
+            "score_0_to_100": 48,
+            "episode": "Series 34 Episode 19",
+            "date": null,
+            "question_text": "Capital cities of island countries",
+            "source_url": "https://www.bbc.co.uk/programmes/m002kvf7",
+            "quote": "Tokyo - 48, that's scored you."
+          }
+        ]
       }
     },
     {
@@ -6166,6 +5972,36 @@
       }
     },
     {
+      "id": "thailand-capital",
+      "name": "Bangkok",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bangkok",
+      "attrs": {
+        "country": "Thailand",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 769019,
+      "obscurity": {
+        "score": 0.1134,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 769019,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1134
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "belize-capital",
       "name": "Belmopan",
       "aliases": [],
@@ -6191,6 +6027,36 @@
           "pageviews": 770142,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1031
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "singapore-capital",
+      "name": "Singapore",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Singapore",
+      "attrs": {
+        "country": "Singapore",
+        "continent": "Asia",
+        "name_initial": "S",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 770461,
+      "obscurity": {
+        "score": 0.0979,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 770461,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0979
         },
         "evidence": []
       }
@@ -6611,6 +6477,36 @@
           "pageviews": 4930507,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0206
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "china-capital",
+      "name": "Beijing",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Beijing",
+      "attrs": {
+        "country": "China",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4930669,
+      "obscurity": {
+        "score": 0.0155,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4930669,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0155
         },
         "evidence": []
       }

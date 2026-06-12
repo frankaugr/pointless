@@ -175,7 +175,8 @@
           "contestant": null,
           "evidence_quote": "Another good pointless answer was the Refugee Olympic Team"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -290,7 +291,8 @@
           "contestant": null,
           "evidence_quote": "Is watchdog, dogwatch. Would have gotten you 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -333,7 +335,8 @@
           "contestant": null,
           "evidence_quote": "Five enormous pillowy creatures. Pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Question 1",
@@ -385,7 +388,8 @@
           "contestant": null,
           "evidence_quote": "Catherine Keener, an actor from Being John Malkovich... 5."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Question 2",
@@ -446,7 +450,8 @@
           "contestant": null,
           "evidence_quote": "Saturn 5, it's called... That got you 3 points."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Final",
@@ -480,7 +485,8 @@
           "contestant": "Daniel",
           "evidence_quote": "The Boy And The Heron. It's pointless! Very well done indeed."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

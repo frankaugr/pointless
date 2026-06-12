@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "The Unbearable Lightness of Being. And that would have got you 16."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -227,7 +228,8 @@
           "contestant": null,
           "evidence_quote": "which Andy said... and neptunium."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot Builder",
@@ -279,7 +281,8 @@
           "contestant": null,
           "evidence_quote": "our two pointless answers are Tamara and Waterloo."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -331,7 +334,8 @@
           "contestant": null,
           "evidence_quote": "we have Emma Thompson, scoring 33."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -392,7 +396,8 @@
           "contestant": null,
           "evidence_quote": "Britney Spears, Toxic... that scored 41."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -426,7 +431,8 @@
           "contestant": null,
           "evidence_quote": "Terraforming Mars hasn't won the award."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

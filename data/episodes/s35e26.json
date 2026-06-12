@@ -85,7 +85,8 @@
           "contestant": "Elisha",
           "evidence_quote": "That is another pointless answer. It adds another £250"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -200,7 +201,8 @@
           "contestant": null,
           "evidence_quote": "Harry Potter, which scored 44"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot bonus (Salvador Dali artworks)",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "the pointless answer was Morphological Echo"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -313,7 +316,8 @@
           "contestant": null,
           "evidence_quote": "disc golf, which was worth two"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "the gymnast that we were looking for, Gabby Douglas, worth four"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Final",
@@ -399,7 +404,8 @@
           "contestant": "Alfie",
           "evidence_quote": "It's actually called One Cut OF The Dead... It was incorrect"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

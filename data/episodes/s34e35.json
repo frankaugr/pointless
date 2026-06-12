@@ -157,7 +157,8 @@
           "contestant": null,
           "evidence_quote": "Grover Cleveland would have got 18 points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -272,7 +273,8 @@
           "contestant": null,
           "evidence_quote": "Three points for a recorder"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -324,7 +326,8 @@
           "contestant": null,
           "evidence_quote": "Dreamfyre, as you said, was from House Of The Dragon, with 1"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -376,7 +379,8 @@
           "contestant": null,
           "evidence_quote": "finally tuna with 64"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -428,7 +432,8 @@
           "contestant": null,
           "evidence_quote": "Cheeseman. Score of 1"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -480,7 +485,8 @@
           "contestant": null,
           "evidence_quote": "the top answer would have been Shontelle, with 3"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -541,7 +547,8 @@
           "contestant": null,
           "evidence_quote": "the other pointless answers were Future Proof and What Your Soul Sings"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -94,7 +94,8 @@
           "contestant": null,
           "evidence_quote": "And Arthur was also pointless"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -218,7 +219,8 @@
           "contestant": null,
           "evidence_quote": "Bowline on a bight, which was a pointless answer"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Jackpot builder",
@@ -270,7 +272,8 @@
           "contestant": null,
           "evidence_quote": "so kalooki is pointless"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -331,7 +334,8 @@
           "contestant": null,
           "evidence_quote": "D is Bad Bunny at three points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -383,7 +387,8 @@
           "contestant": null,
           "evidence_quote": "massage was 46"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -417,7 +422,8 @@
           "contestant": "Rashid",
           "evidence_quote": "That was another pointless answer. You've completed the triple"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

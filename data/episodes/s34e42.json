@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Zodiac was the answer, 45."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -290,7 +291,8 @@
           "contestant": null,
           "evidence_quote": "the other pointless answer on the board, Brick Lane author Monica Ali."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Jackpot builder (Stephen King characters)",
@@ -333,7 +335,8 @@
           "contestant": null,
           "evidence_quote": "Sue Snell was your other pointless answer, from Carrie."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -385,7 +388,8 @@
           "contestant": null,
           "evidence_quote": "the pointless answer in the middle there, Sankuru."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -437,7 +441,8 @@
           "contestant": null,
           "evidence_quote": "the best answer would have been C, pompadour, which would have scored three."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -471,7 +476,8 @@
           "contestant": "Adrian",
           "evidence_quote": "Six for Eric Bana. That was a really good answer, though!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

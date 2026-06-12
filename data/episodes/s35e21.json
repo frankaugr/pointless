@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "china at 52"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -290,7 +291,8 @@
           "contestant": null,
           "evidence_quote": "Jonathan Van Ness is the hairstylist in Queer Eye. Also a pointless answer."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -342,7 +344,8 @@
           "contestant": null,
           "evidence_quote": "we had Teti at 2"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -394,7 +397,8 @@
           "contestant": null,
           "evidence_quote": "my personal favourite, Matilda - 25."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -446,7 +450,8 @@
           "contestant": null,
           "evidence_quote": "It's called a skolebrod. It was also a pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -489,7 +494,8 @@
           "contestant": null,
           "evidence_quote": "Cow, you had landed at that, but you were right to swerve it. 79."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -658,7 +664,8 @@
           "contestant": null,
           "evidence_quote": "And Shaun Dooley."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

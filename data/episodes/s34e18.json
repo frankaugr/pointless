@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Dub, two. Best answer on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -308,7 +309,8 @@
           "contestant": null,
           "evidence_quote": "White-handed gibbon. That was a pointless answer as well."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head tiebreaker",
@@ -369,7 +371,8 @@
           "contestant": null,
           "evidence_quote": "Hanzi, not an Asian language. Hanzi is the name for Chinese written characters."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -430,7 +433,8 @@
           "contestant": null,
           "evidence_quote": "Hollywood screen icon. Ava Gardner. Score you one."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -482,7 +486,8 @@
           "contestant": null,
           "evidence_quote": "It's the Brooks... 22 that would have scored you"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -516,7 +521,8 @@
           "contestant": "Sally",
           "evidence_quote": "Robin Wright wasn't in the original Blade Runner"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

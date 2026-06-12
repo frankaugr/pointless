@@ -139,7 +139,8 @@
           "contestant": "HOST",
           "evidence_quote": "It is James Beattie, yes. The only pointless answer on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -200,7 +201,8 @@
           "contestant": "Jacqueline",
           "evidence_quote": "George Foreman, absolutely right. Listen, it's not bad, Jacqueline. 16."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head tiebreak",
@@ -252,7 +254,8 @@
           "contestant": "COHOST",
           "evidence_quote": "another score of one would have been Church Fenton Studios, Tadcaster, North Yorkshire."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -304,7 +307,8 @@
           "contestant": "COHOST",
           "evidence_quote": "chicken tikka masala. ... Yeah, a score of 70 for that."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -356,7 +360,8 @@
           "contestant": "COHOST",
           "evidence_quote": "if you had got the final one, D, Edwin Starr, would have scored two points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -390,7 +395,8 @@
           "contestant": "Emma",
           "evidence_quote": "Your third answer, Mandalay, was also pointless. Excellent."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

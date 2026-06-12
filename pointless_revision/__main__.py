@@ -89,6 +89,23 @@ def cmd_ts_extract(args) -> int:
     return 0
 
 
+def cmd_ts_classify(args) -> int:
+    from .extract import classify_rounds
+
+    try:
+        import anthropic
+    except ImportError:
+        print("The `anthropic` package is required: .venv/bin/pip install anthropic", file=sys.stderr)
+        return 1
+
+    tally = classify_rounds(anthropic.Anthropic(), args.episodes)
+    print(
+        f"Classified rounds: {tally['open_recall']} open recall, "
+        f"{tally['assisted']} assisted, {tally['missing']} missing verdicts"
+    )
+    return 1 if tally["missing"] else 0
+
+
 def cmd_ts_merge(args) -> int:
     from .evidence import merge_episodes, write_evidence
 
@@ -147,6 +164,12 @@ def main(argv: list[str] | None = None) -> int:
     p_ts_extract.add_argument("--limit", type=int)
     p_ts_extract.add_argument("--batch", action="store_true", help="Use the Batch API (50%% cheaper)")
     p_ts_extract.set_defaults(func=cmd_ts_extract)
+
+    p_ts_classify = ts_sub.add_parser(
+        "classify", help="Annotate rounds as open-recall vs assisted via the Claude API"
+    )
+    p_ts_classify.add_argument("--episodes", type=Path, default=Path("data/episodes"))
+    p_ts_classify.set_defaults(func=cmd_ts_classify)
 
     p_ts_merge = ts_sub.add_parser("merge", help="Merge extracted episodes into data/evidence.json")
     p_ts_merge.add_argument("--episodes", type=Path, default=Path("data/episodes"))

@@ -157,7 +157,8 @@
           "contestant": null,
           "evidence_quote": "Miquita Oliver would have also scored four."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -281,7 +282,8 @@
           "contestant": null,
           "evidence_quote": "Yeah. Excellent. Yeah. 21 for that."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -333,7 +335,8 @@
           "contestant": null,
           "evidence_quote": "The Picture Of Dorian Grey was the best score on the board with six."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -385,7 +388,8 @@
           "contestant": null,
           "evidence_quote": "And air Gait. You said lacrosse. It was the only pointless answer on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -437,7 +441,8 @@
           "contestant": null,
           "evidence_quote": "the March Past Of The Kitchen Utensils... That would have scored 17."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -471,7 +476,8 @@
           "contestant": "Anwen",
           "evidence_quote": "We better hope Jack Black is a pointless answer... Oh, no!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

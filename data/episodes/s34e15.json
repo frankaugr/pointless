@@ -130,7 +130,8 @@
           "contestant": null,
           "evidence_quote": "Smog is smoke and fog. 45"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -272,7 +273,8 @@
           "contestant": null,
           "evidence_quote": "Yesterday from Yester-Me, Yester-you, Yesterday - all pointless"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder",
@@ -315,7 +317,8 @@
           "contestant": null,
           "evidence_quote": "Nightcrawling would have scored you 4"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -367,7 +370,8 @@
           "contestant": null,
           "evidence_quote": "Parrotfish. Rainbow parrotfish... It would've scored you 4"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -419,7 +423,8 @@
           "contestant": null,
           "evidence_quote": "the Battle of Hastings. 46 points that would've scored you"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -471,7 +476,8 @@
           "contestant": null,
           "evidence_quote": "\"doctor's orders\" is the usual bingo call for the single-digit number 9. 19"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -532,7 +538,8 @@
           "contestant": null,
           "evidence_quote": "Bangladesh, Pakistan and Kazakhstan, which were all pointless"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

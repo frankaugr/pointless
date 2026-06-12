@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Three Men in a Boat... that would have scored you 66"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -263,7 +264,8 @@
           "contestant": null,
           "evidence_quote": "One point for Henry VI. Edward VI and William III"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q1 (jackpot builder)",
@@ -324,7 +326,8 @@
           "contestant": null,
           "evidence_quote": "Romford Pele would have got you the pointless answer. That's Ray Parlour"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -376,7 +379,8 @@
           "contestant": null,
           "evidence_quote": "D, it's Charli XCX. And only four people knew that was Charli XCX"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -428,7 +432,8 @@
           "contestant": null,
           "evidence_quote": "this is Olive, You're Not Alone... that would have scored three"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -534,7 +539,8 @@
           "contestant": null,
           "evidence_quote": "there was only one other pointless answer, and that was Alan Watts"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -211,7 +211,8 @@
           "contestant": null,
           "evidence_quote": "Lily of the valley scored 30"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -344,7 +345,8 @@
           "contestant": null,
           "evidence_quote": "the Battle of Poitiers... that would have been one point"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head pointless jackpot builder",
@@ -396,7 +398,8 @@
           "contestant": null,
           "evidence_quote": "And the other pointless was Windle Poons"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -448,7 +451,8 @@
           "contestant": null,
           "evidence_quote": "the one which is the pointless answer... It's bulla cake"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -500,7 +504,8 @@
           "contestant": null,
           "evidence_quote": "The Barber of Seville, which would have been 26 points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -534,7 +539,8 @@
           "contestant": "Anne",
           "evidence_quote": "Emma Thompson, your third and final answer... No, bad luck!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -56,7 +56,7 @@
       "url": "https://www.gov.uk/government/ministers/prime-minister"
     }
   ],
-  "generated_at": "2026-06-12T17:00:04Z",
+  "generated_at": "2026-06-12T17:39:34Z",
   "answers": [
     {
       "id": "charles-grey-2nd-earl-grey",
@@ -857,51 +857,6 @@
       }
     },
     {
-      "id": "clement-attlee",
-      "name": "Clement Attlee",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Clement_Attlee",
-      "attrs": {
-        "first_served": 1945,
-        "century": "20th century",
-        "party": "Labour",
-        "name_initial": "C",
-        "name_length": 13,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 3742346,
-      "obscurity": {
-        "score": 0.8114,
-        "band": "very obscure",
-        "pointless_score": 0,
-        "pointless_band": "pointless target",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3742346,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2456,
-          "pointless_average_score": 0.0,
-          "pointless_obscurity": 1.0,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-prime-ministers",
-            "answer": "Clement Attlee",
-            "score_0_to_100": 0,
-            "episode": "Series 34 Episode 29",
-            "date": null,
-            "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-            "quote": "Clement Attlee. And that was pointless."
-          }
-        ]
-      }
-    },
-    {
       "id": "henry-john-temple-3rd-viscount-palmerston",
       "name": "Henry John Temple, 3rd Viscount Palmerston",
       "aliases": [
@@ -1189,53 +1144,6 @@
       }
     },
     {
-      "id": "james-callaghan",
-      "name": "James Callaghan",
-      "aliases": [
-        "Jim Callaghan"
-      ],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/James_Callaghan",
-      "attrs": {
-        "first_served": 1976,
-        "century": "20th century",
-        "party": "Labour",
-        "name_initial": "J",
-        "name_length": 14,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 3749298,
-      "obscurity": {
-        "score": 0.6726,
-        "band": "very obscure",
-        "pointless_score": 15,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3749298,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1404,
-          "pointless_average_score": 15.0,
-          "pointless_obscurity": 0.85,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-prime-ministers",
-            "answer": "James Callaghan",
-            "score_0_to_100": 15,
-            "episode": "Series 34 Episode 29",
-            "date": null,
-            "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-            "quote": "James Callaghan is right. That goes down to 15."
-          }
-        ]
-      }
-    },
-    {
       "id": "charles-watson-wentworth-2nd-marquess-of-rockingham",
       "name": "Charles Watson-Wentworth, 2nd Marquess of Rockingham",
       "aliases": [
@@ -1493,96 +1401,6 @@
       }
     },
     {
-      "id": "rishi-sunak",
-      "name": "Rishi Sunak",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Rishi_Sunak",
-      "attrs": {
-        "first_served": 2022,
-        "century": "21th century",
-        "party": "Conservative",
-        "name_initial": "R",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 3730372,
-      "obscurity": {
-        "score": 0.4571,
-        "band": "useful low scorer",
-        "pointless_score": 49,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3730372,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2982,
-          "pointless_average_score": 49.0,
-          "pointless_obscurity": 0.51,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-prime-ministers",
-            "answer": "Rishi Sunak",
-            "score_0_to_100": 49,
-            "episode": "Series 34 Episode 29",
-            "date": null,
-            "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-            "quote": "And Rishi Sunak... Oh, and 49 points."
-          }
-        ]
-      }
-    },
-    {
-      "id": "theresa-may",
-      "name": "Theresa May",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Theresa_May",
-      "attrs": {
-        "first_served": 2016,
-        "century": "21th century",
-        "party": "Conservative",
-        "name_initial": "T",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 3743896,
-      "obscurity": {
-        "score": 0.4095,
-        "band": "middling",
-        "pointless_score": 53,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3743896,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2281,
-          "pointless_average_score": 53.0,
-          "pointless_obscurity": 0.47,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-prime-ministers",
-            "answer": "Theresa May",
-            "score_0_to_100": 53,
-            "episode": "Series 34 Episode 29",
-            "date": null,
-            "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-            "quote": "Theresa May... 53 points."
-          }
-        ]
-      }
-    },
-    {
       "id": "ramsay-macdonald",
       "name": "Ramsay MacDonald",
       "aliases": [],
@@ -1821,6 +1639,37 @@
       }
     },
     {
+      "id": "rishi-sunak",
+      "name": "Rishi Sunak",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rishi_Sunak",
+      "attrs": {
+        "first_served": 2022,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3730372,
+      "obscurity": {
+        "score": 0.2982,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730372,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2982
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "gordon-brown",
       "name": "Gordon Brown",
       "aliases": [],
@@ -1883,6 +1732,68 @@
       }
     },
     {
+      "id": "clement-attlee",
+      "name": "Clement Attlee",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Clement_Attlee",
+      "attrs": {
+        "first_served": 1945,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "C",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3742346,
+      "obscurity": {
+        "score": 0.2456,
+        "band": "obvious",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742346,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2456
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "theresa-may",
+      "name": "Theresa May",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Theresa_May",
+      "attrs": {
+        "first_served": 2016,
+        "century": "21th century",
+        "party": "Conservative",
+        "name_initial": "T",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3743896,
+      "obscurity": {
+        "score": 0.2281,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743896,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2281
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "liz-truss",
       "name": "Liz Truss",
       "aliases": [],
@@ -1911,61 +1822,6 @@
           "pageview_obscurity": 0.2105
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "margaret-thatcher",
-      "name": "Margaret Thatcher",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
-      "attrs": {
-        "first_served": 1979,
-        "century": "20th century",
-        "party": "Conservative",
-        "name_initial": "M",
-        "name_length": 16,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 6298304,
-      "obscurity": {
-        "score": 0.1975,
-        "band": "obvious",
-        "pointless_score": 76,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6298304,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0702,
-          "pointless_average_score": 76.0,
-          "pointless_obscurity": 0.24,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "uk-prime-ministers",
-            "answer": "Margaret Thatcher",
-            "score_0_to_100": 82,
-            "episode": "Series 11 Episode 10",
-            "date": null,
-            "question_text": "UK prime ministers",
-            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html",
-            "quote": null
-          },
-          {
-            "category": "uk-prime-ministers",
-            "answer": "Margaret Thatcher",
-            "score_0_to_100": 70,
-            "episode": "Series 34 Episode 29",
-            "date": null,
-            "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-            "quote": "Margaret Thatcher is right and that goes down to 70."
-          }
-        ]
       }
     },
     {
@@ -2071,6 +1927,84 @@
           "pageviews": 3747816,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1579
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "margaret-thatcher",
+      "name": "Margaret Thatcher",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "attrs": {
+        "first_served": 1979,
+        "century": "20th century",
+        "party": "Conservative",
+        "name_initial": "M",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6298304,
+      "obscurity": {
+        "score": 0.1525,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6298304,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0702,
+          "pointless_average_score": 82.0,
+          "pointless_obscurity": 0.18,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-prime-ministers",
+            "answer": "Margaret Thatcher",
+            "score_0_to_100": 82,
+            "episode": "Series 11 Episode 10",
+            "date": null,
+            "question_text": "UK prime ministers",
+            "source_url": "https://subsaga.com/bbc/entertainment/pointless/series-11/episode-10.html",
+            "quote": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "james-callaghan",
+      "name": "James Callaghan",
+      "aliases": [
+        "Jim Callaghan"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Callaghan",
+      "attrs": {
+        "first_served": 1976,
+        "century": "20th century",
+        "party": "Labour",
+        "name_initial": "J",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3749298,
+      "obscurity": {
+        "score": 0.1404,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3749298,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1404
         },
         "evidence": []
       }

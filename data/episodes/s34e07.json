@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Roll down a really big...? Hill. Of course. That scored 58."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "That was Douglas, which is on the Isle of Man."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder (Eastbourne)",
@@ -252,7 +254,8 @@
           "contestant": null,
           "evidence_quote": "Chanda Rubin won in 2002... she would have scored you 1 on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -304,7 +307,8 @@
           "contestant": null,
           "evidence_quote": "Julia McKenzie, she is C... 12 people got that right."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -356,7 +360,8 @@
           "contestant": null,
           "evidence_quote": "the lowest score on the board, just 1, was the author... Clement Clarke Moore"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -408,7 +413,8 @@
           "contestant": null,
           "evidence_quote": "three people knew what it was and it is carnation."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -442,7 +448,8 @@
           "contestant": "Steve",
           "evidence_quote": "Fantasia was also wrong... the Best Animated Feature Film Oscar was only awarded for the first time in 2002"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

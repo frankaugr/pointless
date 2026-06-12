@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "It's Prime. And this was a pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": "Phil",
           "evidence_quote": "Down to four. Very well done indeed. Taking your total up to 65."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder",
@@ -252,7 +254,8 @@
           "contestant": null,
           "evidence_quote": "you was right about hotpink. That scored one as well."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -304,7 +307,8 @@
           "contestant": null,
           "evidence_quote": "Stonehenge, you're right, which would have been 90 points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "It was BTS... It was only one point."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Final",
@@ -399,7 +404,8 @@
           "contestant": "Martyn",
           "evidence_quote": "No! Bad luck. I'm sorry... you don't win today's jackpot"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

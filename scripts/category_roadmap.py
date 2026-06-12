@@ -17,7 +17,7 @@ import sys
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from pointless_revision.evidence import answer_index, resolve_category  # noqa: E402
+from pointless_revision.evidence import answer_index, is_open_recall, resolve_category  # noqa: E402
 
 
 # Question-mechanic vocabulary that says nothing about the topic.
@@ -57,6 +57,8 @@ def main(argv: list[str] | None = None) -> int:
     for path in sorted(args.episodes.glob("*.json")):
         episode = json.loads(path.read_text(encoding="utf-8"))
         for round_data in episode.get("rounds", []):
+            if not is_open_recall(round_data):
+                continue
             if resolve_category(round_data, index) is None:
                 unmatched.append((episode["episode_label"], round_data.get("category_text", "")))
 
@@ -70,7 +72,7 @@ def main(argv: list[str] | None = None) -> int:
     lines = [
         "# Category roadmap",
         "",
-        f"{len(unmatched)} extracted rounds do not map to any curated category.",
+        f"{len(unmatched)} open-recall rounds do not map to any curated category.",
         "Recurring topic keywords below suggest which new categories would pay off",
         "fastest; each new curated category immediately attaches its real show",
         "scores via `transcripts merge`.",

@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Steel, which was coming in at 32 points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -200,7 +201,8 @@
           "contestant": "Damien",
           "evidence_quote": "Oh, no. Bad luck. I'm afraid that scores you 100 points, taking your total up to 200."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus (jackpot builder)",
@@ -252,7 +254,8 @@
           "contestant": null,
           "evidence_quote": "And Abbot Ice Shelf scored one."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -304,7 +307,8 @@
           "contestant": null,
           "evidence_quote": "the one which was pointless is kanzashi. ... And that was a pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -356,7 +360,8 @@
           "contestant": null,
           "evidence_quote": "last, but not least, is oxytocin, which would have been three points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -408,7 +413,8 @@
           "contestant": null,
           "evidence_quote": "last, but not least, was mole, which would have been seven points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -442,7 +448,8 @@
           "contestant": "Jim",
           "evidence_quote": "Still going down with greylag... Two! Oh, it's a great answer. Annoyingly, though, it's not pointless."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -94,7 +94,8 @@
           "contestant": null,
           "evidence_quote": "And another Pointless favourite, Vanuatu."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "And there's Yes. 67."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -252,7 +254,8 @@
           "contestant": null,
           "evidence_quote": "Bluetooth technology was indeed named after him. Scored one."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -304,7 +307,8 @@
           "contestant": null,
           "evidence_quote": "The name is Mola Ram and it would have scored you one."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -356,7 +360,8 @@
           "contestant": null,
           "evidence_quote": "Front crawl. Yeah, 47 for that."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -408,7 +413,8 @@
           "contestant": null,
           "evidence_quote": "11, that would have scored you, Royal Liverpool."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -442,7 +448,8 @@
           "contestant": "Sam",
           "evidence_quote": "Down we go into single figures with Hainault, still going down, still... Oh!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

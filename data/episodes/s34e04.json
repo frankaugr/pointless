@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "That was the pointless answer. It's lutefisk."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": "Dale",
           "evidence_quote": "that scores you 100 points, takes your total up to 126."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus (Forsyte Saga)",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "Soames, of course, the main character... would have scored you 19."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -322,7 +325,8 @@
           "contestant": null,
           "evidence_quote": "London Olympics... 40 people got that."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -374,7 +378,8 @@
           "contestant": null,
           "evidence_quote": "Alexandra Burke featuring Pitbull... would have scored you 7."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -426,7 +431,8 @@
           "contestant": null,
           "evidence_quote": "the one on the bottom, is Luke Cage, and seven people got that right."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -613,7 +619,8 @@
           "contestant": null,
           "evidence_quote": "Switzerland and Yugoslavia."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -39,6 +39,16 @@ MIN_OVERLAP_FACTS = 2
 MIN_OVERLAP_RATIO = 0.6
 
 
+def is_open_recall(round_data: dict[str, Any]) -> bool:
+    """Only canonical "name as many X where Y" rounds feed the app.
+
+    Assisted formats (clue/picture identification, option boards, wordplay)
+    measure something other than category recall, so their scores are
+    excluded everywhere. Unannotated rounds pass for fixture compatibility.
+    """
+    return round_data.get("question_format", "open_recall") == "open_recall"
+
+
 def answer_index() -> dict[str, dict[str, str]]:
     """slug -> normalised name/alias -> canonical answer name."""
     index: dict[str, dict[str, str]] = {}
@@ -96,6 +106,7 @@ def merge_episodes(episodes_dir: Path) -> tuple[list[dict[str, Any]], dict[str, 
     report = {
         "episodes": 0,
         "rounds": 0,
+        "rounds_assisted_format": 0,
         "rounds_matched": 0,
         "facts_recorded": 0,
         "facts_skipped_incorrect": 0,
@@ -109,6 +120,9 @@ def merge_episodes(episodes_dir: Path) -> tuple[list[dict[str, Any]], dict[str, 
         report["episodes"] += 1
         for round_data in episode.get("rounds", []):
             report["rounds"] += 1
+            if not is_open_recall(round_data):
+                report["rounds_assisted_format"] += 1
+                continue
             slug = resolve_category(round_data, index)
             if slug is None:
                 report["unmatched_categories"][round_data.get("category_text", "?")] += 1
@@ -170,6 +184,8 @@ def build_play_payload(episodes_dir: Path) -> dict[str, Any]:
         episode = json.loads(path.read_text(encoding="utf-8"))
         rounds = []
         for round_data in episode.get("rounds", []):
+            if not is_open_recall(round_data):
+                continue
             facts = []
             seen_answers: set[str] = set()
             for fact in round_data.get("facts", []):

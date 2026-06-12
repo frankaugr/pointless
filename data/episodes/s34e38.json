@@ -157,7 +157,8 @@
           "contestant": null,
           "evidence_quote": "38 people couldn't guess pistachio. Pistachio, 62."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -227,7 +228,8 @@
           "contestant": null,
           "evidence_quote": "for Madness... Cardiac Arrest, you're right."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -279,7 +281,8 @@
           "contestant": null,
           "evidence_quote": "Ghosts, which would have scored 24."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -331,7 +334,8 @@
           "contestant": null,
           "evidence_quote": "Bryste, as was mentioned, is Bristol, would have scored 76."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -392,7 +396,8 @@
           "contestant": null,
           "evidence_quote": "there is a pointless answer and that's the final one ... Vomer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -435,7 +440,8 @@
           "contestant": null,
           "evidence_quote": "also five points for Distracted Boyfriend"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -469,7 +475,8 @@
           "contestant": null,
           "evidence_quote": "You've done it! ... Dolly was a pointless answer. You have won today's jackpot"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

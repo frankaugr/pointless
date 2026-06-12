@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "72 people knew him"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -272,7 +273,8 @@
           "contestant": null,
           "evidence_quote": "ruddy, as in ruddy duck"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -324,7 +326,8 @@
           "contestant": null,
           "evidence_quote": "William Ellery was the other pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -376,7 +379,8 @@
           "contestant": null,
           "evidence_quote": "Jude Bellingham, for Real Madrid... that would have scored you 35."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -428,7 +432,8 @@
           "contestant": null,
           "evidence_quote": "Sprinter. And that would have got you 4."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -480,7 +485,8 @@
           "contestant": null,
           "evidence_quote": "whatever that one is, would have got you 9."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -541,7 +547,8 @@
           "contestant": null,
           "evidence_quote": "had you said that for Donald Glover, that would have been a pointless answer."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

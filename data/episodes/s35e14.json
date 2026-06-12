@@ -175,7 +175,8 @@
           "contestant": null,
           "evidence_quote": "Yep, zep. Loads of them."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -290,7 +291,8 @@
           "contestant": null,
           "evidence_quote": "And Jump, 56."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Jackpot builder",
@@ -342,7 +344,8 @@
           "contestant": null,
           "evidence_quote": "the head of a religious community. And that was pointless."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -403,7 +406,8 @@
           "contestant": null,
           "evidence_quote": "Angela Davis, a US academic ... would have gotten 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -455,7 +459,8 @@
           "contestant": null,
           "evidence_quote": "releve scored 5."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -489,7 +494,8 @@
           "contestant": "Antek",
           "evidence_quote": "It Roars, Revenge Party and I'd Rather Be Me were all pointless."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

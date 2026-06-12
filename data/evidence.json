@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-06-12T16:22:06+00:00",
+  "generated_at": "2026-06-12T17:39:34+00:00",
   "records": [
-    {
-      "category": "chemical-elements",
-      "answer": "Argon",
-      "score_0_to_100": 58,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "guess",
-      "evidence_quote": "Argon is right. 58 for argon, taking your total up to 87."
-    },
     {
       "category": "chemical-elements",
       "answer": "Astatine",
@@ -69,17 +58,6 @@
     },
     {
       "category": "chemical-elements",
-      "answer": "Carbon",
-      "score_0_to_100": 55,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "recap_other",
-      "evidence_quote": "And carbon, carbonara. 55."
-    },
-    {
-      "category": "chemical-elements",
       "answer": "Cerium",
       "score_0_to_100": 0,
       "episode": "Series 34 Episode 6",
@@ -121,17 +99,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
       "kind": "guess",
       "evidence_quote": "Chlorine. 21."
-    },
-    {
-      "category": "chemical-elements",
-      "answer": "Copper",
-      "score_0_to_100": 29,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "guess",
-      "evidence_quote": "Copper is right. 31 is our highest score. You pass it. 29 for copper."
     },
     {
       "category": "chemical-elements",
@@ -256,17 +223,6 @@
     },
     {
       "category": "chemical-elements",
-      "answer": "Gold",
-      "score_0_to_100": 87,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "recap_other",
-      "evidence_quote": "Goldilocks, you mentioned. Gold. 87."
-    },
-    {
-      "category": "chemical-elements",
       "answer": "Hassium",
       "score_0_to_100": 0,
       "episode": "Series 34 Episode 6",
@@ -289,28 +245,6 @@
     },
     {
       "category": "chemical-elements",
-      "answer": "Iron",
-      "score_0_to_100": 21,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "guess",
-      "evidence_quote": "Down it goes to 21. Fantastic. 52, your total."
-    },
-    {
-      "category": "chemical-elements",
-      "answer": "Krypton",
-      "score_0_to_100": 55,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "recap_other",
-      "evidence_quote": "And krypton would have scored you 55."
-    },
-    {
-      "category": "chemical-elements",
       "answer": "Lawrencium",
       "score_0_to_100": 1,
       "episode": "Series 35 Episode 19",
@@ -319,17 +253,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002w0dt",
       "kind": "guess",
       "evidence_quote": "Oh, one for lawrencium. Very well done indeed."
-    },
-    {
-      "category": "chemical-elements",
-      "answer": "Lead",
-      "score_0_to_100": 63,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "recap_other",
-      "evidence_quote": "Lead, leaderboard. That would have given you 63."
     },
     {
       "category": "chemical-elements",
@@ -399,17 +322,6 @@
     },
     {
       "category": "chemical-elements",
-      "answer": "Neon",
-      "score_0_to_100": 11,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "recap_other",
-      "evidence_quote": "Neon. Yeah, that would have got you 11."
-    },
-    {
-      "category": "chemical-elements",
       "answer": "Neptunium",
       "score_0_to_100": 0,
       "episode": "Series 34 Episode 6",
@@ -440,17 +352,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
       "kind": "recap_pointless",
       "evidence_quote": "which Andy said... and neptunium."
-    },
-    {
-      "category": "chemical-elements",
-      "answer": "Nickel",
-      "score_0_to_100": 31,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "guess",
-      "evidence_quote": "Nickel is right. Down it goes to 31."
     },
     {
       "category": "chemical-elements",
@@ -630,17 +531,6 @@
     },
     {
       "category": "chemical-elements",
-      "answer": "Silver",
-      "score_0_to_100": 57,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "recap_other",
-      "evidence_quote": "silverback, silver, at 57."
-    },
-    {
-      "category": "chemical-elements",
       "answer": "Strontium",
       "score_0_to_100": 5,
       "episode": "Series 34 Episode 6",
@@ -696,17 +586,6 @@
     },
     {
       "category": "chemical-elements",
-      "answer": "Tin",
-      "score_0_to_100": 74,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "guess",
-      "evidence_quote": "Ooh, 74 for tin, taking your total up to 90"
-    },
-    {
-      "category": "chemical-elements",
       "answer": "Titanium",
       "score_0_to_100": 39,
       "episode": "Series 35 Episode 1",
@@ -748,17 +627,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002wb2b",
       "kind": "recap_pointless",
       "evidence_quote": "we do have ytterbium... and yttrium... both of those were pointless"
-    },
-    {
-      "category": "chemical-elements",
-      "answer": "Zinc",
-      "score_0_to_100": 16,
-      "episode": "Series 35 Episode 15",
-      "date": null,
-      "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-      "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-      "kind": "guess",
-      "evidence_quote": "Zinc is absolutely right. ... 16 for zinc."
     },
     {
       "category": "chemical-elements",
@@ -883,17 +751,6 @@
     },
     {
       "category": "countries",
-      "answer": "Bhutan",
-      "score_0_to_100": 5,
-      "episode": "Series 34 Episode 6",
-      "date": null,
-      "question_text": "Negative (colour-inverted) national flags",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-      "kind": "guess",
-      "evidence_quote": "it wins you the point. And down it goes to five."
-    },
-    {
-      "category": "countries",
       "answer": "Botswana",
       "score_0_to_100": 11,
       "episode": "Series 35 Episode 11",
@@ -939,17 +796,6 @@
     {
       "category": "countries",
       "answer": "Canada",
-      "score_0_to_100": 95,
-      "episode": "Series 34 Episode 6",
-      "date": null,
-      "question_text": "Negative (colour-inverted) national flags",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-      "kind": "recap_other",
-      "evidence_quote": "Canada, yes, was the third one on the list. C, 95."
-    },
-    {
-      "category": "countries",
-      "answer": "Canada",
       "score_0_to_100": 17,
       "episode": "Series 35 Episode 12",
       "date": null,
@@ -990,17 +836,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002vdzg",
       "kind": "recap_pointless",
       "evidence_quote": "we've got Austria, Bahrain, Chile"
-    },
-    {
-      "category": "countries",
-      "answer": "China",
-      "score_0_to_100": 25,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_other",
-      "evidence_quote": "E, which is China. Which was worth 25."
     },
     {
       "category": "countries",
@@ -1312,17 +1147,6 @@
     },
     {
       "category": "countries",
-      "answer": "Honduras",
-      "score_0_to_100": 17,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "guess",
-      "evidence_quote": "Honduras is right. That goes down to 17."
-    },
-    {
-      "category": "countries",
       "answer": "Hungary",
       "score_0_to_100": 7,
       "episode": "Series 34 Episode 1",
@@ -1419,17 +1243,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002r752",
       "kind": "recap_other",
       "evidence_quote": "E would have been the song of the Italians. ... That would have scored 17 points."
-    },
-    {
-      "category": "countries",
-      "answer": "Jamaica",
-      "score_0_to_100": 12,
-      "episode": "Series 34 Episode 6",
-      "date": null,
-      "question_text": "Negative (colour-inverted) national flags",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-      "kind": "recap_other",
-      "evidence_quote": "It's actually Jamaica. And that would have scored you 12."
     },
     {
       "category": "countries",
@@ -1675,17 +1488,6 @@
     },
     {
       "category": "countries",
-      "answer": "New Zealand",
-      "score_0_to_100": 8,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "guess",
-      "evidence_quote": "Down it goes to eight! Very well done indeed!"
-    },
-    {
-      "category": "countries",
       "answer": "Nicaragua",
       "score_0_to_100": 0,
       "episode": "Series 34 Episode 24",
@@ -1771,17 +1573,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002kjnm",
       "kind": "guess",
       "evidence_quote": "That is a pointless answer. Scores you nothing, leaves your total at a perilously high five."
-    },
-    {
-      "category": "countries",
-      "answer": "Panama",
-      "score_0_to_100": 6,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_other",
-      "evidence_quote": "Panama! Which was six."
     },
     {
       "category": "countries",
@@ -1881,17 +1672,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
       "kind": "guess",
       "evidence_quote": "Portugal, absolutely right. 25 for Portugal."
-    },
-    {
-      "category": "countries",
-      "answer": "Portugal",
-      "score_0_to_100": 20,
-      "episode": "Series 34 Episode 6",
-      "date": null,
-      "question_text": "Negative (colour-inverted) national flags",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-      "kind": "guess",
-      "evidence_quote": "It is indeed Portugal. That goes down to 20."
     },
     {
       "category": "countries",
@@ -2035,17 +1815,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
       "kind": "guess",
       "evidence_quote": "Yes, we do. Very well done. 11. A new low score for this round."
-    },
-    {
-      "category": "countries",
-      "answer": "South Africa",
-      "score_0_to_100": 47,
-      "episode": "Series 34 Episode 6",
-      "date": null,
-      "question_text": "Negative (colour-inverted) national flags",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-      "kind": "recap_other",
-      "evidence_quote": "South Africa there, up at the top, which would have scored you 47"
     },
     {
       "category": "countries",
@@ -2233,17 +2002,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002kjnm",
       "kind": "guess",
       "evidence_quote": "That is a pointless answer. It scores you nothing, leaves your total at two."
-    },
-    {
-      "category": "countries",
-      "answer": "Tuvalu",
-      "score_0_to_100": 0,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_pointless",
-      "evidence_quote": "It is our lovely Tuvalu! Which was our pointless answer."
     },
     {
       "category": "countries",
@@ -2499,50 +2257,6 @@
       "evidence_quote": "Two points for Henry II, Henry III, James II and William IV"
     },
     {
-      "category": "oscar-best-picture-winners",
-      "answer": "Gone with the Wind",
-      "score_0_to_100": 32,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_other",
-      "evidence_quote": "Gone With the Wind, 1939 - which is worth 32"
-    },
-    {
-      "category": "oscar-best-picture-winners",
-      "answer": "Moonlight",
-      "score_0_to_100": 8,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_other",
-      "evidence_quote": "the 2016 winner was Moonlight, which was worth eight"
-    },
-    {
-      "category": "oscar-best-picture-winners",
-      "answer": "Slumdog Millionaire",
-      "score_0_to_100": 3,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_lowest",
-      "evidence_quote": "the lowest scoring answer, which is Slumdog Millionaire - worth three"
-    },
-    {
-      "category": "oscar-best-picture-winners",
-      "answer": "Titanic",
-      "score_0_to_100": 22,
-      "episode": "Series 35 Episode 31",
-      "date": null,
-      "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-      "kind": "recap_other",
-      "evidence_quote": "finally Titanic, which was worth 22"
-    },
-    {
       "category": "uk-cities",
       "answer": "Bangor",
       "score_0_to_100": 1,
@@ -2563,17 +2277,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
       "kind": "recap_lowest",
       "evidence_quote": "One point for Bangor, Ely and Wrexham."
-    },
-    {
-      "category": "uk-cities",
-      "answer": "Bristol",
-      "score_0_to_100": 76,
-      "episode": "Series 34 Episode 38",
-      "date": null,
-      "question_text": "Welsh language names for UK cities — give the English names",
-      "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-      "kind": "recap_other",
-      "evidence_quote": "Bryste, as was mentioned, is Bristol, would have scored 76."
     },
     {
       "category": "uk-cities",
@@ -2687,17 +2390,6 @@
     },
     {
       "category": "uk-cities",
-      "answer": "Edinburgh",
-      "score_0_to_100": 7,
-      "episode": "Series 34 Episode 38",
-      "date": null,
-      "question_text": "Welsh language names for UK cities — give the English names",
-      "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-      "kind": "recap_other",
-      "evidence_quote": "Edinburgh would have scored seven."
-    },
-    {
-      "category": "uk-cities",
       "answer": "Ely",
       "score_0_to_100": 1,
       "episode": "Series 34 Episode 44",
@@ -2728,17 +2420,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
       "kind": "recap_pointless",
       "evidence_quote": "Gloucester, Wells and you could have had Worcester."
-    },
-    {
-      "category": "uk-cities",
-      "answer": "Hereford",
-      "score_0_to_100": 47,
-      "episode": "Series 34 Episode 38",
-      "date": null,
-      "question_text": "Welsh language names for UK cities — give the English names",
-      "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-      "kind": "guess",
-      "evidence_quote": "Hereford is right. 47 for Hereford."
     },
     {
       "category": "uk-cities",
@@ -2819,17 +2500,6 @@
     },
     {
       "category": "uk-cities",
-      "answer": "Manchester",
-      "score_0_to_100": 71,
-      "episode": "Series 34 Episode 38",
-      "date": null,
-      "question_text": "Welsh language names for UK cities — give the English names",
-      "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-      "kind": "recap_other",
-      "evidence_quote": "It is Manchester. That would have scored 71."
-    },
-    {
-      "category": "uk-cities",
       "answer": "Milton Keynes",
       "score_0_to_100": 2,
       "episode": "Series 34 Episode 44",
@@ -2904,17 +2574,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
       "kind": "guess",
       "evidence_quote": "Peterborough is right. And you're down to 2."
-    },
-    {
-      "category": "uk-cities",
-      "answer": "Plymouth",
-      "score_0_to_100": 13,
-      "episode": "Series 34 Episode 38",
-      "date": null,
-      "question_text": "Welsh language names for UK cities — give the English names",
-      "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-      "kind": "guess",
-      "evidence_quote": "13 for Plymouth."
     },
     {
       "category": "uk-cities",
@@ -3149,17 +2808,6 @@
     },
     {
       "category": "uk-prime-ministers",
-      "answer": "Clement Attlee",
-      "score_0_to_100": 0,
-      "episode": "Series 34 Episode 29",
-      "date": null,
-      "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-      "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-      "kind": "recap_pointless",
-      "evidence_quote": "Clement Attlee. And that was pointless."
-    },
-    {
-      "category": "uk-prime-ministers",
       "answer": "David Lloyd George",
       "score_0_to_100": 2,
       "episode": "Series 35 Episode 27",
@@ -3190,50 +2838,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002wb1f",
       "kind": "recap_pointless",
       "evidence_quote": "Arthur Balfour, George Canning, William Cavendish-Bentinck"
-    },
-    {
-      "category": "uk-prime-ministers",
-      "answer": "James Callaghan",
-      "score_0_to_100": 15,
-      "episode": "Series 34 Episode 29",
-      "date": null,
-      "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-      "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-      "kind": "guess",
-      "evidence_quote": "James Callaghan is right. That goes down to 15."
-    },
-    {
-      "category": "uk-prime-ministers",
-      "answer": "Margaret Thatcher",
-      "score_0_to_100": 70,
-      "episode": "Series 34 Episode 29",
-      "date": null,
-      "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-      "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-      "kind": "guess",
-      "evidence_quote": "Margaret Thatcher is right and that goes down to 70."
-    },
-    {
-      "category": "uk-prime-ministers",
-      "answer": "Rishi Sunak",
-      "score_0_to_100": 49,
-      "episode": "Series 34 Episode 29",
-      "date": null,
-      "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-      "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-      "kind": "recap_other",
-      "evidence_quote": "And Rishi Sunak... Oh, and 49 points."
-    },
-    {
-      "category": "uk-prime-ministers",
-      "answer": "Theresa May",
-      "score_0_to_100": 53,
-      "episode": "Series 34 Episode 29",
-      "date": null,
-      "question_text": "Identify these UK prime ministers from photographs of their eyes only",
-      "source_url": "https://www.bbc.co.uk/programmes/m002pj8v",
-      "kind": "recap_other",
-      "evidence_quote": "Theresa May... 53 points."
     },
     {
       "category": "us-state-capitals",
@@ -3611,28 +3215,6 @@
     },
     {
       "category": "world-capitals",
-      "answer": "Bangkok",
-      "score_0_to_100": 30,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "recap_other",
-      "evidence_quote": "We just say Bangkok instead, and it scored 30."
-    },
-    {
-      "category": "world-capitals",
-      "answer": "Beijing",
-      "score_0_to_100": 31,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "guess",
-      "evidence_quote": "31 is what that scores. 41 your total."
-    },
-    {
-      "category": "world-capitals",
       "answer": "Brasilia",
       "score_0_to_100": 1,
       "episode": "Series 35 Episode 23",
@@ -3743,17 +3325,6 @@
     },
     {
       "category": "world-capitals",
-      "answer": "Jakarta",
-      "score_0_to_100": 10,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "guess",
-      "evidence_quote": "Jakarta passes it. Down to 10."
-    },
-    {
-      "category": "world-capitals",
       "answer": "Juba",
       "score_0_to_100": 0,
       "episode": "Series 35 Episode 9",
@@ -3795,17 +3366,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002r77c",
       "kind": "recap_pointless",
       "evidence_quote": "Kinshasa, capital of DR Congo."
-    },
-    {
-      "category": "world-capitals",
-      "answer": "Kuala Lumpur",
-      "score_0_to_100": 33,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "guess",
-      "evidence_quote": "You needed 33. You got 33, taking your total up to 55"
     },
     {
       "category": "world-capitals",
@@ -3996,28 +3556,6 @@
     },
     {
       "category": "world-capitals",
-      "answer": "Seoul",
-      "score_0_to_100": 24,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "recap_other",
-      "evidence_quote": "It scored 24."
-    },
-    {
-      "category": "world-capitals",
-      "answer": "Singapore",
-      "score_0_to_100": 29,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "guess",
-      "evidence_quote": "Singapore takes you down to 29, taking your total up to 56."
-    },
-    {
-      "category": "world-capitals",
       "answer": "Tallinn",
       "score_0_to_100": 2,
       "episode": "Series 35 Episode 23",
@@ -4052,17 +3590,6 @@
     {
       "category": "world-capitals",
       "answer": "Tokyo",
-      "score_0_to_100": 41,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "recap_other",
-      "evidence_quote": "It was Tokyo and that would have scored 41."
-    },
-    {
-      "category": "world-capitals",
-      "answer": "Tokyo",
       "score_0_to_100": 48,
       "episode": "Series 34 Episode 19",
       "date": null,
@@ -4081,17 +3608,6 @@
       "source_url": "https://www.bbc.co.uk/programmes/m002r77c",
       "kind": "jackpot_answer",
       "evidence_quote": "No, three for Tripoli."
-    },
-    {
-      "category": "world-capitals",
-      "answer": "Ulaanbaatar",
-      "score_0_to_100": 5,
-      "episode": "Series 34 Episode 10",
-      "date": null,
-      "question_text": "Cities located on the continent of Asia (given first letters)",
-      "source_url": "https://www.bbc.co.uk/programmes/m002k74n",
-      "kind": "recap_lowest",
-      "evidence_quote": "And that would have scored you 5. It was the lowest of the scores."
     },
     {
       "category": "world-capitals",

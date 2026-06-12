@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Selkie. Yeah. That would have got you 7."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -353,7 +354,8 @@
           "contestant": null,
           "evidence_quote": "The Police, Phil Collins, Olly Murs."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Pointless Trove",
@@ -414,7 +416,8 @@
           "contestant": null,
           "evidence_quote": "Beatrice, it's a wind farm off Caithness coast and that scored 4."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -466,7 +469,8 @@
           "contestant": null,
           "evidence_quote": "And Michelle Ogundehin... that was a pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -518,7 +522,8 @@
           "contestant": null,
           "evidence_quote": "The Wind In The Willows was 24."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -552,7 +557,8 @@
           "contestant": null,
           "evidence_quote": "your third answer, brave, wasn't actually on Collins' list"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

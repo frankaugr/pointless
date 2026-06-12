@@ -130,7 +130,8 @@
           "contestant": null,
           "evidence_quote": "Amol Rajan, who became host in 2023, was pointless"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -245,7 +246,8 @@
           "contestant": null,
           "evidence_quote": "Fugu... That was the best answer. Would've given you nine"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head bonus (bebop jazz musicians)",
@@ -306,7 +308,8 @@
           "contestant": null,
           "evidence_quote": "Mary Lou Williams... a pianist and composer known as the Mother of Bebop. And she was pointless"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -358,7 +361,8 @@
           "contestant": null,
           "evidence_quote": "Gorillas in the Mist, 30"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -410,7 +414,8 @@
           "contestant": null,
           "evidence_quote": "It is Rotterdam... And it would've given you five!"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -471,7 +476,8 @@
           "contestant": null,
           "evidence_quote": "Nu Shooz, exactly right. And it was 8"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -505,7 +511,8 @@
           "contestant": "Al",
           "evidence_quote": "Still going down! To 1. Oh, I'm so sorry!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -184,7 +184,8 @@
           "contestant": null,
           "evidence_quote": "Yes. Sour. That would have scored you 15."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -308,7 +309,8 @@
           "contestant": null,
           "evidence_quote": "A Chihuahua. Scored 28."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -351,7 +353,8 @@
           "contestant": null,
           "evidence_quote": "Kaieteur Falls would have scored you two. That's in Guyana."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -412,7 +415,8 @@
           "contestant": null,
           "evidence_quote": "we had windbreak, which was 60."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -464,7 +468,8 @@
           "contestant": null,
           "evidence_quote": "ollie, a score of 14."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -498,7 +503,8 @@
           "contestant": "Nathan",
           "evidence_quote": "Woody Harrelson. No! ... He's been in one film."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

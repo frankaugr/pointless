@@ -157,7 +157,8 @@
           "contestant": null,
           "evidence_quote": "Protactinium, radon and, of course, there's thorium."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -281,7 +282,8 @@
           "contestant": null,
           "evidence_quote": "Juan de la Cierva. A \"juan-derful\" answer. That would have been three."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Jackpot Builder",
@@ -333,7 +335,8 @@
           "contestant": null,
           "evidence_quote": "Kathy Williams would have scored you one as well"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -484,7 +487,8 @@
           "contestant": null,
           "evidence_quote": "East Anglia, of course. That would have scored 13."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -518,7 +522,8 @@
           "contestant": "David",
           "evidence_quote": "John Hume did win the Nobel Peace Prize, but it was in 1998."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

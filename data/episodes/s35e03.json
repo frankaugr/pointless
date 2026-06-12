@@ -157,7 +157,8 @@
           "contestant": null,
           "evidence_quote": "Scrounge and unhinge"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -272,7 +273,8 @@
           "contestant": null,
           "evidence_quote": "portrayed by Damien Delano Young was Michael Jordan and would have scored 29"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -333,7 +335,8 @@
           "contestant": null,
           "evidence_quote": "Chishuru. It's not a dish, but it's a London Michelin-starred restaurant"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -385,7 +388,8 @@
           "contestant": null,
           "evidence_quote": "69 that would have scored"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -437,7 +441,8 @@
           "contestant": null,
           "evidence_quote": "that would have scored 5"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -489,7 +494,8 @@
           "contestant": null,
           "evidence_quote": "the top one, cholesterol. And 80 people knew that."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -523,7 +529,8 @@
           "contestant": "Adam",
           "evidence_quote": "Moussa Niakhate, would have been wrong, actually. He was born in France, but he plays for Senegal."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

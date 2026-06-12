@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "which Storm gave us, and zirconium"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -263,7 +264,8 @@
           "contestant": null,
           "evidence_quote": "that's a bureau. And that scored 20."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -306,7 +308,8 @@
           "contestant": null,
           "evidence_quote": "Vanessa Redgrave. She was the other pointless answer there."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -358,7 +361,8 @@
           "contestant": null,
           "evidence_quote": "South Africa there, up at the top, which would have scored you 47"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -410,7 +414,8 @@
           "contestant": null,
           "evidence_quote": "The Rite Of Spring... Three people recognised it."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -471,7 +476,8 @@
           "contestant": null,
           "evidence_quote": "Ice Age... 19 would have scored that"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -577,7 +583,8 @@
           "contestant": null,
           "evidence_quote": "Sarah Rafferty or Wendell Pierce"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

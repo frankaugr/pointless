@@ -94,7 +94,8 @@
           "contestant": null,
           "evidence_quote": "We've got backbench. We all know where they are. You'll find them in Parliament."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "yeah, EastEnders. I think everybody probably knew that one. It got 71."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "Alessandra, she scored 2, because she is also a prima ballerina."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -313,7 +316,8 @@
           "contestant": null,
           "evidence_quote": "It's an Indian one and it's called kulfi, and that would have scored you 13."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "Is Mouse Trap. It is. And that scored 56."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -399,7 +404,8 @@
           "contestant": null,
           "evidence_quote": "Still going down with rutherfordium to 4. Oh, no."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

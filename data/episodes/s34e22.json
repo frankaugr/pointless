@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "Best score on the board, one"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -227,7 +228,8 @@
           "contestant": null,
           "evidence_quote": "whose father, Keke Rosberg, was also pointless"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -270,7 +272,8 @@
           "contestant": null,
           "evidence_quote": "90-ton bronze bell in Myanmar, would have scored you six"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -322,7 +325,8 @@
           "contestant": null,
           "evidence_quote": "the famous edelweiss, would have scored you 25"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -374,7 +378,8 @@
           "contestant": null,
           "evidence_quote": "this was the lowest scorer... Westlife... Scored you 10"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -426,7 +431,8 @@
           "contestant": null,
           "evidence_quote": "Virgin Caller is actually Invercargill - a pointless answer"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -478,7 +484,8 @@
           "contestant": null,
           "evidence_quote": "some of the pointless answers you could have had. Christopher Walken, Javier Bardem"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

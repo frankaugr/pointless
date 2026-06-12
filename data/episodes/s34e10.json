@@ -85,7 +85,8 @@
           "contestant": "Adrian",
           "evidence_quote": "thank goodness it was a pointless answer. Very well done. That adds £250"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -200,7 +201,8 @@
           "contestant": null,
           "evidence_quote": "the lowest score of all, Samarkand, which scored just 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head warm-up",
@@ -243,7 +245,8 @@
           "contestant": null,
           "evidence_quote": "that was the spectacled caiman, and that would have scored you 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -295,7 +298,8 @@
           "contestant": null,
           "evidence_quote": "Funny Face. That would have scored you 3."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -347,7 +351,8 @@
           "contestant": null,
           "evidence_quote": "the supermini. The last one on the board would have scored 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -381,7 +386,8 @@
           "contestant": "Andrea",
           "evidence_quote": "Aisling Bea - shall we see if that's right? Ah, well, I'm so sorry."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

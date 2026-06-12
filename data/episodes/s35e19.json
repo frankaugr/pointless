@@ -85,7 +85,8 @@
           "contestant": "Abbas",
           "evidence_quote": "in 1961... protactinium has been a pointless answer. Oh, and it is again!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "Benson Boone, 14."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "The final pointless answer was The Secret Life of Mary Anne Spier"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -313,7 +316,8 @@
           "contestant": null,
           "evidence_quote": "a limerick about limericks for Limerick. Scores 58."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "down the bottom, Anya Taylor-Joy scored 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -426,7 +431,8 @@
           "contestant": null,
           "evidence_quote": "Stacy's Mom...has got it going on. Yeah! Great tune. 10."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -460,7 +466,8 @@
           "contestant": "David",
           "evidence_quote": "Shivnarine Chanderpaul has just won £2,000 for you."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

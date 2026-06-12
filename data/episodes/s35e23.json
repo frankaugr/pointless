@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Nassau in the Bahamas."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -272,7 +273,8 @@
           "contestant": null,
           "evidence_quote": "Daryl McCormack. He scored 2."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head pointless finder",
@@ -315,7 +317,8 @@
           "contestant": null,
           "evidence_quote": "that second pointless answer was Mystery Jets, 2016, in Bristol."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -376,7 +379,8 @@
           "contestant": null,
           "evidence_quote": "then propane - C3H8 ... 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -428,7 +432,8 @@
           "contestant": null,
           "evidence_quote": "And perpendicular. 44."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -480,7 +485,8 @@
           "contestant": null,
           "evidence_quote": "Crimp beads. A pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -550,7 +556,8 @@
           "contestant": null,
           "evidence_quote": "They were Singapore, Sri Lanka, Tonga and Zimbabwe."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

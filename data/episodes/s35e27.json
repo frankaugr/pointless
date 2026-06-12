@@ -202,7 +202,8 @@
           "contestant": null,
           "evidence_quote": "Addington, Cavendish, Jenkinson, Robinson and Watson-Wentworth"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -326,7 +327,8 @@
           "contestant": null,
           "evidence_quote": "the narrow river, stream...would have given you 34"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -387,7 +389,8 @@
           "contestant": null,
           "evidence_quote": "Phoebus, which is also a red herring! A character from The Hunchback of Notre Dame"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -448,7 +451,8 @@
           "contestant": null,
           "evidence_quote": "our pointless answer is ta'ovala, which is a Tongan wraparound skirt"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -500,7 +504,8 @@
           "contestant": null,
           "evidence_quote": "Don't Tell the Bride with 52"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -552,7 +557,8 @@
           "contestant": null,
           "evidence_quote": "cheese and onion, my personal favourite, 54"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -676,7 +682,8 @@
           "contestant": null,
           "evidence_quote": "spring onion and sweetcorn"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

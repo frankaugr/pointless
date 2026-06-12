@@ -103,7 +103,8 @@
           "contestant": null,
           "evidence_quote": "Stanley in the Falklands, and Stoke-on-Trent."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -218,7 +219,8 @@
           "contestant": null,
           "evidence_quote": "It is Iga Swiatek. And you'd have would scored three"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Jackpot builder",
@@ -279,7 +281,8 @@
           "contestant": null,
           "evidence_quote": "There is a story called The Eye Of Apollo, but no The Ear Of Artemis."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -331,7 +334,8 @@
           "contestant": null,
           "evidence_quote": "Taiko. And it would have scored you five."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -383,7 +387,8 @@
           "contestant": null,
           "evidence_quote": "There you go, The Firm. And it would have scored you four"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -417,7 +422,8 @@
           "contestant": null,
           "evidence_quote": "Psalm... for five! Five! How can that have five?!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

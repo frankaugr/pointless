@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "the answer is ballroom. And that would have got you 3"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -263,7 +264,8 @@
           "contestant": null,
           "evidence_quote": "Richard Hurndall, who played the First Doctor in the 1983 episode The Five Doctors"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -315,7 +317,8 @@
           "contestant": null,
           "evidence_quote": "those are both pointless - Glory Days and Iris"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -367,7 +370,8 @@
           "contestant": null,
           "evidence_quote": "That was a pointless answer, if you'd gone for caponata."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -419,7 +423,8 @@
           "contestant": null,
           "evidence_quote": "The Old Curiosity Shop, 19, so not a bad answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -471,7 +476,8 @@
           "contestant": null,
           "evidence_quote": "One person got it."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -505,7 +511,8 @@
           "contestant": "Helen",
           "evidence_quote": "Naughty Girl, another pointless answer"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

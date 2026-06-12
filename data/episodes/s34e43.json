@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "The Underground Railroad. A score of 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -326,7 +327,8 @@
           "contestant": null,
           "evidence_quote": "Two more. Northumberland Avenue and Whitechapel Road."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -369,7 +371,8 @@
           "contestant": null,
           "evidence_quote": "Llanddwyn Bay is on Anglesey and that scored 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -421,7 +424,8 @@
           "contestant": null,
           "evidence_quote": "The Yomp would have got you 7, the best score on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -473,7 +477,8 @@
           "contestant": null,
           "evidence_quote": "Hey Jude, quite right, that would have scored 79."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -507,7 +512,8 @@
           "contestant": "Helena",
           "evidence_quote": "Nick Nolte, pointless answer."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

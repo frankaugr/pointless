@@ -55,7 +55,7 @@
       "url": "https://www.un.org/en/about-us/member-states"
     }
   ],
-  "generated_at": "2026-06-12T17:00:04Z",
+  "generated_at": "2026-06-12T17:39:34Z",
   "answers": [
     {
       "id": "tuvalu",
@@ -85,7 +85,7 @@
           "pageview_obscurity": 1.0,
           "pointless_average_score": 0.0,
           "pointless_obscurity": 1.0,
-          "pointless_observations": 2
+          "pointless_observations": 1
         },
         "evidence": [
           {
@@ -97,16 +97,6 @@
             "question_text": "Countries whose usual short-form English name begins with a consonant and ends with a vowel (A, E, I, O, U)",
             "source_url": "https://www.bbc.co.uk/programmes/m002kjnm",
             "quote": "That is a pointless answer. It scores you nothing, leaves your total at two."
-          },
-          {
-            "category": "countries",
-            "answer": "Tuvalu",
-            "score_0_to_100": 0,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "It is our lovely Tuvalu! Which was our pointless answer."
           }
         ]
       }
@@ -183,6 +173,50 @@
           "pageview_obscurity": 0.9948
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "bhutan",
+      "name": "Bhutan",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bhutan",
+      "attrs": {
+        "capital": "Thimphu",
+        "continent": "Asia",
+        "name_initial": "B",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 167489,
+      "obscurity": {
+        "score": 0.9936,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "high",
+        "components": {
+          "pageviews": 167489,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9742,
+          "pointless_average_score": 0.0,
+          "pointless_obscurity": 1.0,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "countries",
+            "answer": "Bhutan",
+            "score_0_to_100": 0,
+            "episode": "Series 34 Episode 24",
+            "date": null,
+            "question_text": "Countries smaller in area than France but larger than Luxembourg (CIA World Factbook)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002l56z",
+            "quote": "Bhutan is right. Ah! Look at that!... adds another £250"
+          }
+        ]
       }
     },
     {
@@ -701,60 +735,6 @@
             "question_text": "Name any country (other than the UK) whose usual short form name comes alphabetically between Canada and United States of America",
             "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
             "quote": "Another pointless answer, adding another £250 to today's jackpot"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bhutan",
-      "name": "Bhutan",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bhutan",
-      "attrs": {
-        "capital": "Thimphu",
-        "continent": "Asia",
-        "name_initial": "B",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 167489,
-      "obscurity": {
-        "score": 0.9748,
-        "band": "pointless target",
-        "pointless_score": 2,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 167489,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.9742,
-          "pointless_average_score": 2.5,
-          "pointless_obscurity": 0.975,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "Bhutan",
-            "score_0_to_100": 0,
-            "episode": "Series 34 Episode 24",
-            "date": null,
-            "question_text": "Countries smaller in area than France but larger than Luxembourg (CIA World Factbook)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002l56z",
-            "quote": "Bhutan is right. Ah! Look at that!... adds another £250"
-          },
-          {
-            "category": "countries",
-            "answer": "Bhutan",
-            "score_0_to_100": 5,
-            "episode": "Series 34 Episode 6",
-            "date": null,
-            "question_text": "Negative (colour-inverted) national flags",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-            "quote": "it wins you the point. And down it goes to five."
           }
         ]
       }
@@ -1698,50 +1678,6 @@
       }
     },
     {
-      "id": "new-zealand",
-      "name": "New Zealand",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/New_Zealand",
-      "attrs": {
-        "capital": "Wellington",
-        "continent": "Oceania",
-        "name_initial": "N",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 747503,
-      "obscurity": {
-        "score": 0.9091,
-        "band": "pointless target",
-        "pointless_score": 8,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 747503,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.8763,
-          "pointless_average_score": 8.0,
-          "pointless_obscurity": 0.92,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "New Zealand",
-            "score_0_to_100": 8,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "Down it goes to eight! Very well done indeed!"
-          }
-        ]
-      }
-    },
-    {
       "id": "dominica",
       "name": "Dominica",
       "aliases": [],
@@ -2283,6 +2219,36 @@
             "quote": "You could have had Cuba, Norway, Poland, as we say, and Trinidad and Tobago."
           }
         ]
+      }
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/New_Zealand",
+      "attrs": {
+        "capital": "Wellington",
+        "continent": "Oceania",
+        "name_initial": "N",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 747503,
+      "obscurity": {
+        "score": 0.8763,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 747503,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8763
+        },
+        "evidence": []
       }
     },
     {
@@ -4338,50 +4304,6 @@
       }
     },
     {
-      "id": "honduras",
-      "name": "Honduras",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Honduras",
-      "attrs": {
-        "capital": "Tegucigalpa",
-        "continent": "North America",
-        "name_initial": "H",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1249084,
-      "obscurity": {
-        "score": 0.7694,
-        "band": "very obscure",
-        "pointless_score": 17,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 1249084,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5876,
-          "pointless_average_score": 17.0,
-          "pointless_obscurity": 0.83,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "Honduras",
-            "score_0_to_100": 17,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "Honduras is right. That goes down to 17."
-          }
-        ]
-      }
-    },
-    {
       "id": "cameroon",
       "name": "Cameroon",
       "aliases": [],
@@ -4644,50 +4566,6 @@
       }
     },
     {
-      "id": "panama",
-      "name": "Panama",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Panama",
-      "attrs": {
-        "capital": "Panama City",
-        "continent": "North America",
-        "name_initial": "P",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 1266592,
-      "obscurity": {
-        "score": 0.7501,
-        "band": "very obscure",
-        "pointless_score": 6,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 1266592,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1804,
-          "pointless_average_score": 6.0,
-          "pointless_obscurity": 0.94,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "Panama",
-            "score_0_to_100": 6,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "Panama! Which was six."
-          }
-        ]
-      }
-    },
-    {
       "id": "japan",
       "name": "Japan",
       "aliases": [],
@@ -4843,50 +4721,6 @@
           "pageview_obscurity": 0.7371
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "jamaica",
-      "name": "Jamaica",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Jamaica",
-      "attrs": {
-        "capital": "Kingston",
-        "continent": "North America",
-        "name_initial": "J",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 1262795,
-      "obscurity": {
-        "score": 0.736,
-        "band": "very obscure",
-        "pointless_score": 12,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 1262795,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.3041,
-          "pointless_average_score": 12.0,
-          "pointless_obscurity": 0.88,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "Jamaica",
-            "score_0_to_100": 12,
-            "episode": "Series 34 Episode 6",
-            "date": null,
-            "question_text": "Negative (colour-inverted) national flags",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-            "quote": "It's actually Jamaica. And that would have scored you 12."
-          }
-        ]
       }
     },
     {
@@ -5266,6 +5100,50 @@
       }
     },
     {
+      "id": "south-africa",
+      "name": "South Africa",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/South_Africa",
+      "attrs": {
+        "capital": "Pretoria",
+        "continent": "Africa",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6306931,
+      "obscurity": {
+        "score": 0.6727,
+        "band": "very obscure",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6306931,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0206,
+          "pointless_average_score": 11.0,
+          "pointless_obscurity": 0.89,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "countries",
+            "answer": "South Africa",
+            "score_0_to_100": 11,
+            "episode": "Series 34 Episode 32",
+            "date": null,
+            "question_text": "Countries that produce the most peaches and nectarines (at least 20,000 tonnes, 2022 FAO figures)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
+            "quote": "Yes, we do. Very well done. 11. A new low score for this round."
+          }
+        ]
+      }
+    },
+    {
       "id": "mauritius",
       "name": "Mauritius",
       "aliases": [],
@@ -5417,6 +5295,50 @@
           "pageview_obscurity": 0.6495
         },
         "evidence": []
+      }
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Canada",
+      "attrs": {
+        "capital": "Ottawa",
+        "continent": "North America",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6288763,
+      "obscurity": {
+        "score": 0.6393,
+        "band": "useful low scorer",
+        "pointless_score": 17,
+        "pointless_band": "strong low scorer",
+        "confidence": "high",
+        "components": {
+          "pageviews": 6288763,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.067,
+          "pointless_average_score": 17.0,
+          "pointless_obscurity": 0.83,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "countries",
+            "answer": "Canada",
+            "score_0_to_100": 17,
+            "episode": "Series 35 Episode 12",
+            "date": null,
+            "question_text": "Any nation other than Team GB that won at least one medal of any colour at the 2024 Summer Olympic Games in Paris",
+            "source_url": "https://www.bbc.co.uk/programmes/m002vdzg",
+            "quote": "17 for Canada, taking your total up to 20."
+          }
+        ]
       }
     },
     {
@@ -5617,80 +5539,6 @@
       }
     },
     {
-      "id": "portugal",
-      "name": "Portugal",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Portugal",
-      "attrs": {
-        "capital": "Lisbon",
-        "continent": "Europe",
-        "name_initial": "P",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 1255859,
-      "obscurity": {
-        "score": 0.617,
-        "band": "useful low scorer",
-        "pointless_score": 32,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 1255859,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4278,
-          "pointless_average_score": 32.0,
-          "pointless_obscurity": 0.68,
-          "pointless_observations": 4
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "Portugal",
-            "score_0_to_100": 43,
-            "episode": "Series 34 Episode 1",
-            "date": null,
-            "question_text": "Teams that took part in the Euro 2024 finals (men's European Football Championship)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002jwx4",
-            "quote": "43 is what it scores. Taking your total up to a lovely round 100."
-          },
-          {
-            "category": "countries",
-            "answer": "Portugal",
-            "score_0_to_100": 25,
-            "episode": "Series 34 Episode 32",
-            "date": null,
-            "question_text": "Countries that produce the most peaches and nectarines (at least 20,000 tonnes, 2022 FAO figures)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
-            "quote": "Portugal, absolutely right. 25 for Portugal."
-          },
-          {
-            "category": "countries",
-            "answer": "Portugal",
-            "score_0_to_100": 20,
-            "episode": "Series 34 Episode 6",
-            "date": null,
-            "question_text": "Negative (colour-inverted) national flags",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-            "quote": "It is indeed Portugal. That goes down to 20."
-          },
-          {
-            "category": "countries",
-            "answer": "Portugal",
-            "score_0_to_100": 40,
-            "episode": "Series 35 Episode 33",
-            "date": null,
-            "question_text": "Name any of the 16 national teams that took part in the finals of the UEFA Women's Euro 2025 football tournament (July 2025)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm6q",
-            "quote": "Portugal is right. ...there - 40 for Portugal."
-          }
-        ]
-      }
-    },
-    {
       "id": "israel",
       "name": "Israel",
       "aliases": [],
@@ -5841,6 +5689,100 @@
       }
     },
     {
+      "id": "honduras",
+      "name": "Honduras",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Honduras",
+      "attrs": {
+        "capital": "Tegucigalpa",
+        "continent": "North America",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1249084,
+      "obscurity": {
+        "score": 0.5876,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1249084,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5876
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Portugal",
+      "attrs": {
+        "capital": "Lisbon",
+        "continent": "Europe",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1255859,
+      "obscurity": {
+        "score": 0.587,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1255859,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4278,
+          "pointless_average_score": 36.0,
+          "pointless_obscurity": 0.64,
+          "pointless_observations": 3
+        },
+        "evidence": [
+          {
+            "category": "countries",
+            "answer": "Portugal",
+            "score_0_to_100": 43,
+            "episode": "Series 34 Episode 1",
+            "date": null,
+            "question_text": "Teams that took part in the Euro 2024 finals (men's European Football Championship)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002jwx4",
+            "quote": "43 is what it scores. Taking your total up to a lovely round 100."
+          },
+          {
+            "category": "countries",
+            "answer": "Portugal",
+            "score_0_to_100": 25,
+            "episode": "Series 34 Episode 32",
+            "date": null,
+            "question_text": "Countries that produce the most peaches and nectarines (at least 20,000 tonnes, 2022 FAO figures)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
+            "quote": "Portugal, absolutely right. 25 for Portugal."
+          },
+          {
+            "category": "countries",
+            "answer": "Portugal",
+            "score_0_to_100": 40,
+            "episode": "Series 35 Episode 33",
+            "date": null,
+            "question_text": "Name any of the 16 national teams that took part in the finals of the UEFA Women's Euro 2025 football tournament (July 2025)",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm6q",
+            "quote": "Portugal is right. ...there - 40 for Portugal."
+          }
+        ]
+      }
+    },
+    {
       "id": "guyana",
       "name": "Guyana",
       "aliases": [],
@@ -5928,104 +5870,6 @@
           "pageview_obscurity": 0.5722
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "china",
-      "name": "China",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/China",
-      "attrs": {
-        "capital": "Beijing",
-        "continent": "Asia",
-        "name_initial": "C",
-        "name_length": 5,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6311390,
-      "obscurity": {
-        "score": 0.5625,
-        "band": "useful low scorer",
-        "pointless_score": 25,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6311390,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0,
-          "pointless_average_score": 25.0,
-          "pointless_obscurity": 0.75,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "China",
-            "score_0_to_100": 25,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Identify national flags shown with everything removed except the stars (and only the letters of \"star\" in the country name)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "E, which is China. Which was worth 25."
-          }
-        ]
-      }
-    },
-    {
-      "id": "south-africa",
-      "name": "South Africa",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/South_Africa",
-      "attrs": {
-        "capital": "Pretoria",
-        "continent": "Africa",
-        "name_initial": "S",
-        "name_length": 11,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 6306931,
-      "obscurity": {
-        "score": 0.5377,
-        "band": "useful low scorer",
-        "pointless_score": 29,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6306931,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0206,
-          "pointless_average_score": 29.0,
-          "pointless_obscurity": 0.71,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "South Africa",
-            "score_0_to_100": 11,
-            "episode": "Series 34 Episode 32",
-            "date": null,
-            "question_text": "Countries that produce the most peaches and nectarines (at least 20,000 tonnes, 2022 FAO figures)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002pvd4",
-            "quote": "Yes, we do. Very well done. 11. A new low score for this round."
-          },
-          {
-            "category": "countries",
-            "answer": "South Africa",
-            "score_0_to_100": 47,
-            "episode": "Series 34 Episode 6",
-            "date": null,
-            "question_text": "Negative (colour-inverted) national flags",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-            "quote": "South Africa there, up at the top, which would have scored you 47"
-          }
-        ]
       }
     },
     {
@@ -6631,60 +6475,6 @@
       }
     },
     {
-      "id": "canada",
-      "name": "Canada",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Canada",
-      "attrs": {
-        "capital": "Ottawa",
-        "continent": "North America",
-        "name_initial": "C",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 6288763,
-      "obscurity": {
-        "score": 0.3468,
-        "band": "middling",
-        "pointless_score": 56,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6288763,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.067,
-          "pointless_average_score": 56.0,
-          "pointless_obscurity": 0.44,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "countries",
-            "answer": "Canada",
-            "score_0_to_100": 95,
-            "episode": "Series 34 Episode 6",
-            "date": null,
-            "question_text": "Negative (colour-inverted) national flags",
-            "source_url": "https://www.bbc.co.uk/programmes/m002k72x",
-            "quote": "Canada, yes, was the third one on the list. C, 95."
-          },
-          {
-            "category": "countries",
-            "answer": "Canada",
-            "score_0_to_100": 17,
-            "episode": "Series 35 Episode 12",
-            "date": null,
-            "question_text": "Any nation other than Team GB that won at least one medal of any colour at the 2024 Summer Olympic Games in Paris",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vdzg",
-            "quote": "17 for Canada, taking your total up to 20."
-          }
-        ]
-      }
-    },
-    {
       "id": "turkey",
       "name": "Turkey",
       "aliases": [
@@ -6894,6 +6684,36 @@
           "pageviews": 1262643,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.3093
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jamaica",
+      "name": "Jamaica",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jamaica",
+      "attrs": {
+        "capital": "Kingston",
+        "continent": "North America",
+        "name_initial": "J",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262795,
+      "obscurity": {
+        "score": 0.3041,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262795,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3041
         },
         "evidence": []
       }
@@ -7228,6 +7048,36 @@
           "pageviews": 1266206,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1856
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Panama",
+      "attrs": {
+        "capital": "Panama City",
+        "continent": "North America",
+        "name_initial": "P",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1266592,
+      "obscurity": {
+        "score": 0.1804,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1266592,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1804
         },
         "evidence": []
       }
@@ -7780,6 +7630,36 @@
           "pageviews": 6308544,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0052
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/China",
+      "attrs": {
+        "capital": "Beijing",
+        "continent": "Asia",
+        "name_initial": "C",
+        "name_length": 5,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6311390,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6311390,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
         },
         "evidence": []
       }

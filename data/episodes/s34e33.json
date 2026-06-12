@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "it was Walking Behind You, and that would have got three points. That was the lowest on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -272,7 +273,8 @@
           "contestant": null,
           "evidence_quote": "Kerber, Krajicek, Mauresmo, Novotna, Sharapova"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot booster",
@@ -324,7 +326,8 @@
           "contestant": null,
           "evidence_quote": "the other pointless answer was Get Birding. It won the Climate Award in 2022."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -376,7 +379,8 @@
           "contestant": null,
           "evidence_quote": "It's caldera... because it was 5 points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -428,7 +432,8 @@
           "contestant": null,
           "evidence_quote": "Braganza, which would have been 5 points. That was the lowest on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -480,7 +485,8 @@
           "contestant": null,
           "evidence_quote": "we had Sanditon, which was the lowest points, coming in at 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -514,7 +520,8 @@
           "contestant": "Marcus",
           "evidence_quote": "you've done it! ... Heap was a pointless answer. You have won £6,000."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

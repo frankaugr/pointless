@@ -47,7 +47,7 @@
       "url": "https://www.gov.uk/government/publications/list-of-cities/list-of-cities-html"
     }
   ],
-  "generated_at": "2026-06-12T17:00:04Z",
+  "generated_at": "2026-06-12T17:39:34Z",
   "answers": [
     {
       "id": "st-asaph",
@@ -764,6 +764,49 @@
       }
     },
     {
+      "id": "hereford",
+      "name": "Hereford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hereford",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "H",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1924710,
+      "obscurity": {
+        "score": 0.9117,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 1924710,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7067,
+          "pointless_average_score": 2.0,
+          "pointless_obscurity": 0.98,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Hereford",
+            "score_0_to_100": 2,
+            "episode": "Series 34 Episode 44",
+            "date": null,
+            "question_text": "Cities that are closer to Manchester than London is",
+            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
+            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
+          }
+        ]
+      }
+    },
+    {
       "id": "worcester",
       "name": "Worcester",
       "aliases": [],
@@ -1310,6 +1353,49 @@
       }
     },
     {
+      "id": "plymouth",
+      "name": "Plymouth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Plymouth",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3730914,
+      "obscurity": {
+        "score": 0.8183,
+        "band": "very obscure",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "high",
+        "components": {
+          "pageviews": 3730914,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4533,
+          "pointless_average_score": 6.0,
+          "pointless_obscurity": 0.94,
+          "pointless_observations": 1
+        },
+        "evidence": [
+          {
+            "category": "uk-cities",
+            "answer": "Plymouth",
+            "score_0_to_100": 6,
+            "episode": "Series 35 Episode 30",
+            "date": null,
+            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
+            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
+            "quote": "Plymouth is right. Down it goes to 6."
+          }
+        ]
+      }
+    },
+    {
       "id": "dundee",
       "name": "Dundee",
       "aliases": [],
@@ -1560,59 +1646,6 @@
       }
     },
     {
-      "id": "plymouth",
-      "name": "Plymouth",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Plymouth",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "P",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3730914,
-      "obscurity": {
-        "score": 0.7921,
-        "band": "very obscure",
-        "pointless_score": 10,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3730914,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.4533,
-          "pointless_average_score": 9.5,
-          "pointless_obscurity": 0.905,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "uk-cities",
-            "answer": "Plymouth",
-            "score_0_to_100": 13,
-            "episode": "Series 34 Episode 38",
-            "date": null,
-            "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-            "quote": "13 for Plymouth."
-          },
-          {
-            "category": "uk-cities",
-            "answer": "Plymouth",
-            "score_0_to_100": 6,
-            "episode": "Series 35 Episode 30",
-            "date": null,
-            "question_text": "UK cities (including Overseas Territories and Crown Dependencies) beginning with a letter between K and U inclusive",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm4p",
-            "quote": "Plymouth is right. Down it goes to 6."
-          }
-        ]
-      }
-    },
-    {
       "id": "doncaster",
       "name": "Doncaster",
       "aliases": [],
@@ -1668,59 +1701,6 @@
           "pageview_obscurity": 0.7733
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "hereford",
-      "name": "Hereford",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Hereford",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "H",
-        "name_length": 8,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 1924710,
-      "obscurity": {
-        "score": 0.7429,
-        "band": "very obscure",
-        "pointless_score": 24,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 1924710,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.7067,
-          "pointless_average_score": 24.5,
-          "pointless_obscurity": 0.755,
-          "pointless_observations": 2
-        },
-        "evidence": [
-          {
-            "category": "uk-cities",
-            "answer": "Hereford",
-            "score_0_to_100": 47,
-            "episode": "Series 34 Episode 38",
-            "date": null,
-            "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-            "quote": "Hereford is right. 47 for Hereford."
-          },
-          {
-            "category": "uk-cities",
-            "answer": "Hereford",
-            "score_0_to_100": 2,
-            "episode": "Series 34 Episode 44",
-            "date": null,
-            "question_text": "Cities that are closer to Manchester than London is",
-            "source_url": "https://www.bbc.co.uk/programmes/m002tggf",
-            "quote": "Two points for Hereford, Lichfield, Milton Keynes, Newport, Peterborough, Ripon, Saint Albans and Saint Asaph."
-          }
-        ]
       }
     },
     {
@@ -1795,49 +1775,6 @@
           "pageview_obscurity": 0.72
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "edinburgh",
-      "name": "Edinburgh",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Edinburgh",
-      "attrs": {
-        "nation": "Scotland",
-        "name_initial": "E",
-        "name_length": 9,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "e"
-      },
-      "pageviews": 6295499,
-      "obscurity": {
-        "score": 0.7108,
-        "band": "very obscure",
-        "pointless_score": 7,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6295499,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0533,
-          "pointless_average_score": 7.0,
-          "pointless_obscurity": 0.93,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-cities",
-            "answer": "Edinburgh",
-            "score_0_to_100": 7,
-            "episode": "Series 34 Episode 38",
-            "date": null,
-            "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-            "quote": "Edinburgh would have scored seven."
-          }
-        ]
       }
     },
     {
@@ -2563,49 +2500,6 @@
       }
     },
     {
-      "id": "manchester",
-      "name": "Manchester",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Manchester",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "M",
-        "name_length": 10,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 6306640,
-      "obscurity": {
-        "score": 0.2208,
-        "band": "obvious",
-        "pointless_score": 71,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6306640,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0133,
-          "pointless_average_score": 71.0,
-          "pointless_obscurity": 0.29,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-cities",
-            "answer": "Manchester",
-            "score_0_to_100": 71,
-            "episode": "Series 34 Episode 38",
-            "date": null,
-            "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-            "quote": "It is Manchester. That would have scored 71."
-          }
-        ]
-      }
-    },
-    {
       "id": "york",
       "name": "York",
       "aliases": [],
@@ -2632,49 +2526,6 @@
           "pageview_obscurity": 0.2133
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "bristol",
-      "name": "Bristol",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Bristol",
-      "attrs": {
-        "nation": "England",
-        "name_initial": "B",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 4934623,
-      "obscurity": {
-        "score": 0.2033,
-        "band": "obvious",
-        "pointless_score": 76,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 4934623,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0933,
-          "pointless_average_score": 76.0,
-          "pointless_obscurity": 0.24,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "uk-cities",
-            "answer": "Bristol",
-            "score_0_to_100": 76,
-            "episode": "Series 34 Episode 38",
-            "date": null,
-            "question_text": "Welsh language names for UK cities — give the English names",
-            "source_url": "https://www.bbc.co.uk/programmes/m002r74g",
-            "quote": "Bryste, as was mentioned, is Bristol, would have scored 76."
-          }
-        ]
       }
     },
     {
@@ -2854,6 +2705,35 @@
       }
     },
     {
+      "id": "bristol",
+      "name": "Bristol",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bristol",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "B",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4934623,
+      "obscurity": {
+        "score": 0.0933,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4934623,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0933
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "brighton-and-hove",
       "name": "Brighton and Hove",
       "aliases": [
@@ -2916,6 +2796,35 @@
       }
     },
     {
+      "id": "edinburgh",
+      "name": "Edinburgh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Edinburgh",
+      "attrs": {
+        "nation": "Scotland",
+        "name_initial": "E",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 6295499,
+      "obscurity": {
+        "score": 0.0533,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6295499,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0533
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "birmingham",
       "name": "Birmingham",
       "aliases": [],
@@ -2940,6 +2849,35 @@
           "pageviews": 6300099,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0267
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "manchester",
+      "name": "Manchester",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Manchester",
+      "attrs": {
+        "nation": "England",
+        "name_initial": "M",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6306640,
+      "obscurity": {
+        "score": 0.0133,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6306640,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0133
         },
         "evidence": []
       }

@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "that was the lowest point because it was 1"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -326,7 +327,8 @@
           "contestant": null,
           "evidence_quote": "It's a pinna ... which would have been a pointless answer as well"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -369,7 +371,8 @@
           "contestant": null,
           "evidence_quote": "Junior Kingsford was a pointless answer"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -421,7 +424,8 @@
           "contestant": null,
           "evidence_quote": "chestnut, but highest of them all, at 43 points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -473,7 +477,8 @@
           "contestant": null,
           "evidence_quote": "Summer pudding ... which would have been 37 points"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -534,7 +539,8 @@
           "contestant": null,
           "evidence_quote": "the Gay Gordons, at 47"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -568,7 +574,8 @@
           "contestant": "Shashi",
           "evidence_quote": "Holly Hunter ... down through the teens into single figures ... to six"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -175,7 +175,8 @@
           "contestant": null,
           "evidence_quote": "12 for The Sixth Sense. Well done."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -290,7 +291,8 @@
           "contestant": null,
           "evidence_quote": "Rock Ferry... Would have scored you four."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Jackpot builder",
@@ -342,7 +344,8 @@
           "contestant": null,
           "evidence_quote": "Loose Head: Confessions of an (un)professional rugby player is by Joe Marler."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -403,7 +406,8 @@
           "contestant": null,
           "evidence_quote": "Dougie Poynter is the bassist of band McFly, and that was a pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -455,7 +459,8 @@
           "contestant": null,
           "evidence_quote": "Wedding bouquet... One. One that would have got you."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -489,7 +494,8 @@
           "contestant": "Annie",
           "evidence_quote": "Oh, no. Bad luck... Ai Weiwei has been in a sculpture park, but he's not got anything in there at the moment."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

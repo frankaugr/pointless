@@ -94,7 +94,8 @@
           "contestant": null,
           "evidence_quote": "The other song, Just Like Heaven, was also pointless."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "It's Monk. And that actually was our lowest-scoring, with 19."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "boss's jokes was our pointless answer as well"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -313,7 +316,8 @@
           "contestant": null,
           "evidence_quote": "It is our lovely Tuvalu! Which was our pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "we are looking for Girl, Woman, Other, which was our lowest score of one"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -426,7 +431,8 @@
           "contestant": null,
           "evidence_quote": "finally Titanic, which was worth 22"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -460,7 +466,8 @@
           "contestant": "Pragun",
           "evidence_quote": "you also suggested Queens Park Rangers, which was also a pointless answer"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

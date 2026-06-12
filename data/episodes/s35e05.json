@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "That was a little bit more well known, 17."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -200,7 +201,8 @@
           "contestant": "Sam",
           "evidence_quote": "It scored you 100 points... He won in 1966... two years before the Open era"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot builder",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "Eudoria Holmes is a character in the Enola Holmes films, which nobody knew either"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -313,7 +316,8 @@
           "contestant": null,
           "evidence_quote": "is Tenby, in Wales. And that would have scored 29."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -365,7 +369,8 @@
           "contestant": null,
           "evidence_quote": "the one you couldn't quite bring to mind... is carboy. And that would have got one."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -516,7 +521,8 @@
           "contestant": null,
           "evidence_quote": "Te is the symbol for tellurium, which was pointless."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -139,7 +139,8 @@
           "contestant": null,
           "evidence_quote": "Cup, 61"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -317,7 +318,8 @@
           "contestant": null,
           "evidence_quote": "Kate Adie would have scored you 8"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Jackpot booster",
@@ -360,7 +362,8 @@
           "contestant": null,
           "evidence_quote": "Clever and diddle also scored points - 1 and 2 respectively"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -412,7 +415,8 @@
           "contestant": null,
           "evidence_quote": "Scarlett Moffatt - 24"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -464,7 +468,8 @@
           "contestant": null,
           "evidence_quote": "handkerchief skirt would have gotten you 13"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -525,7 +530,8 @@
           "contestant": null,
           "evidence_quote": "And History at 86"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -622,7 +628,8 @@
           "contestant": null,
           "evidence_quote": "Santo Domingo in Dominican Republic"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

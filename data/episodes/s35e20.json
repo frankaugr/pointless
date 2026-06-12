@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "And then Empire... Taraji P Henson... Yes, for 7."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -254,7 +255,8 @@
           "contestant": null,
           "evidence_quote": "and Monroe as in James Monroe"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -306,7 +308,8 @@
           "contestant": null,
           "evidence_quote": "Try Everything, also pointless."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -358,7 +361,8 @@
           "contestant": null,
           "evidence_quote": "the only pointless answer on the board, ringette"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -410,7 +414,8 @@
           "contestant": null,
           "evidence_quote": "Closed Eyes scored 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -444,7 +449,8 @@
           "contestant": "Robert",
           "evidence_quote": "Andy Farrell taking us down dutifully through the teens... passing 2. You've done it!"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

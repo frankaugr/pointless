@@ -130,7 +130,8 @@
           "contestant": null,
           "evidence_quote": "We had Primrose and John Russell."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -245,7 +246,8 @@
           "contestant": null,
           "evidence_quote": "was Bad Boys, yeah, that would have scored 28."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head bonus",
@@ -288,7 +290,8 @@
           "contestant": null,
           "evidence_quote": "South Dakota's state flower is the pasque flower, pointless answer"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -340,7 +343,8 @@
           "contestant": null,
           "evidence_quote": "Romesh Ranganathan you also got, Elliot, which would have scored 13"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -392,7 +396,8 @@
           "contestant": null,
           "evidence_quote": "Kite would have scored two."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -444,7 +449,8 @@
           "contestant": null,
           "evidence_quote": "the pointless answer on the board, Fontina."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -577,7 +583,8 @@
           "contestant": null,
           "evidence_quote": "Or Zagreb in Croatia."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

@@ -166,7 +166,8 @@
           "contestant": null,
           "evidence_quote": "Goat Simulator would have scored 23."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -353,7 +354,8 @@
           "contestant": null,
           "evidence_quote": "Romana D'Annunzio, who was on there in the late '90s"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -405,7 +407,8 @@
           "contestant": null,
           "evidence_quote": "Vostok would have scored one on the board."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -466,7 +469,8 @@
           "contestant": null,
           "evidence_quote": "And we had one pointless answer. ... No way...or Norway."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head",
@@ -518,7 +522,8 @@
           "contestant": null,
           "evidence_quote": "with a score of one, which would have got you through to the next round, is Marduk"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -552,7 +557,8 @@
           "contestant": "Hugh",
           "evidence_quote": "Annie Leibovitz was a pointless answer and has just won you £1,250."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

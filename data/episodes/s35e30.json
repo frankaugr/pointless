@@ -112,7 +112,8 @@
           "contestant": null,
           "evidence_quote": "we could have had Stanley in the Falklands."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -227,7 +228,8 @@
           "contestant": null,
           "evidence_quote": "George Clooney, which would have scored 42."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -279,7 +281,8 @@
           "contestant": null,
           "evidence_quote": "we have Brave, which is a search engine worth 3."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -340,7 +343,8 @@
           "contestant": null,
           "evidence_quote": "this glorious four-poster, which you got correct. 45."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -392,7 +396,8 @@
           "contestant": null,
           "evidence_quote": "It is hit the ball twice... One person got that right."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -453,7 +458,8 @@
           "contestant": null,
           "evidence_quote": "Anita, Rita Moreno... West Side Story... Worth the lowest score, 13."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -487,7 +493,8 @@
           "contestant": "Katie",
           "evidence_quote": "It's definitely right... 10 there for Elton John."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

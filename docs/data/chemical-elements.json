@@ -71,7 +71,7 @@
       "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
     }
   ],
-  "generated_at": "2026-06-12T17:00:04Z",
+  "generated_at": "2026-06-12T17:39:34Z",
   "answers": [
     {
       "id": "roentgenium",
@@ -2690,52 +2690,6 @@
       }
     },
     {
-      "id": "neon",
-      "name": "Neon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Neon",
-      "attrs": {
-        "atomic_number": 10,
-        "symbol": "Ne",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "N",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 4922359,
-      "obscurity": {
-        "score": 0.7145,
-        "band": "very obscure",
-        "pointless_score": 11,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 4922359,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.188,
-          "pointless_average_score": 11.0,
-          "pointless_obscurity": 0.89,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Neon",
-            "score_0_to_100": 11,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Neon. Yeah, that would have got you 11."
-          }
-        ]
-      }
-    },
-    {
       "id": "hafnium",
       "name": "Hafnium",
       "aliases": [],
@@ -2956,52 +2910,6 @@
       }
     },
     {
-      "id": "zinc",
-      "name": "Zinc",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Zinc",
-      "attrs": {
-        "atomic_number": 30,
-        "symbol": "Zn",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "Z",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6286994,
-      "obscurity": {
-        "score": 0.6642,
-        "band": "very obscure",
-        "pointless_score": 16,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6286994,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1368,
-          "pointless_average_score": 16.0,
-          "pointless_obscurity": 0.84,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Zinc",
-            "score_0_to_100": 16,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Zinc is absolutely right. ... 16 for zinc."
-          }
-        ]
-      }
-    },
-    {
       "id": "chlorine",
       "name": "Chlorine",
       "aliases": [],
@@ -3186,98 +3094,6 @@
       }
     },
     {
-      "id": "iron",
-      "name": "Iron",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Iron",
-      "attrs": {
-        "atomic_number": 26,
-        "symbol": "Fe",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "I",
-        "name_length": 4,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "i"
-      },
-      "pageviews": 6309343,
-      "obscurity": {
-        "score": 0.5946,
-        "band": "useful low scorer",
-        "pointless_score": 21,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6309343,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0085,
-          "pointless_average_score": 21.0,
-          "pointless_obscurity": 0.79,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Iron",
-            "score_0_to_100": 21,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Down it goes to 21. Fantastic. 52, your total."
-          }
-        ]
-      }
-    },
-    {
-      "id": "nickel",
-      "name": "Nickel",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Nickel",
-      "attrs": {
-        "atomic_number": 28,
-        "symbol": "Ni",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "N",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 4926311,
-      "obscurity": {
-        "score": 0.5602,
-        "band": "useful low scorer",
-        "pointless_score": 31,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 4926311,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1709,
-          "pointless_average_score": 31.0,
-          "pointless_obscurity": 0.69,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Nickel",
-            "score_0_to_100": 31,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Nickel is right. Down it goes to 31."
-          }
-        ]
-      }
-    },
-    {
       "id": "thallium",
       "name": "Thallium",
       "aliases": [],
@@ -3307,52 +3123,6 @@
           "pageview_obscurity": 0.5556
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "copper",
-      "name": "Copper",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Copper",
-      "attrs": {
-        "atomic_number": 29,
-        "symbol": "Cu",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "C",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 6292688,
-      "obscurity": {
-        "score": 0.5539,
-        "band": "useful low scorer",
-        "pointless_score": 29,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6292688,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0855,
-          "pointless_average_score": 29.0,
-          "pointless_obscurity": 0.71,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Copper",
-            "score_0_to_100": 29,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Copper is right. 31 is our highest score. You pass it. 29 for copper."
-          }
-        ]
       }
     },
     {
@@ -3756,98 +3526,6 @@
       }
     },
     {
-      "id": "krypton",
-      "name": "Krypton",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Krypton",
-      "attrs": {
-        "atomic_number": 36,
-        "symbol": "Kr",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "K",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3743899,
-      "obscurity": {
-        "score": 0.4037,
-        "band": "middling",
-        "pointless_score": 55,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3743899,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.265,
-          "pointless_average_score": 55.0,
-          "pointless_obscurity": 0.45,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Krypton",
-            "score_0_to_100": 55,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "And krypton would have scored you 55."
-          }
-        ]
-      }
-    },
-    {
-      "id": "argon",
-      "name": "Argon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Argon",
-      "attrs": {
-        "atomic_number": 18,
-        "symbol": "Ar",
-        "family": "noble gas",
-        "periodic_block": "",
-        "name_initial": "A",
-        "name_length": 5,
-        "starts_with_vowel": true,
-        "starts_with_consonant": false,
-        "first_vowel": "a"
-      },
-      "pageviews": 3751015,
-      "obscurity": {
-        "score": 0.3748,
-        "band": "middling",
-        "pointless_score": 58,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3751015,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.2393,
-          "pointless_average_score": 58.0,
-          "pointless_obscurity": 0.42,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Argon",
-            "score_0_to_100": 58,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Argon is right. 58 for argon, taking your total up to 87."
-          }
-        ]
-      }
-    },
-    {
       "id": "cadmium",
       "name": "Cadmium",
       "aliases": [],
@@ -3941,98 +3619,6 @@
           "pageview_obscurity": 0.3419
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "carbon",
-      "name": "Carbon",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Carbon",
-      "attrs": {
-        "atomic_number": 6,
-        "symbol": "C",
-        "family": "nonmetal",
-        "periodic_block": "",
-        "name_initial": "C",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "a"
-      },
-      "pageviews": 6304929,
-      "obscurity": {
-        "score": 0.3418,
-        "band": "middling",
-        "pointless_score": 55,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6304929,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0171,
-          "pointless_average_score": 55.0,
-          "pointless_obscurity": 0.45,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Carbon",
-            "score_0_to_100": 55,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "And carbon, carbonara. 55."
-          }
-        ]
-      }
-    },
-    {
-      "id": "silver",
-      "name": "Silver",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Silver",
-      "attrs": {
-        "atomic_number": 47,
-        "symbol": "Ag",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "S",
-        "name_length": 6,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6293094,
-      "obscurity": {
-        "score": 0.3417,
-        "band": "middling",
-        "pointless_score": 57,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6293094,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0769,
-          "pointless_average_score": 57.0,
-          "pointless_obscurity": 0.43,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Silver",
-            "score_0_to_100": 57,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "silverback, silver, at 57."
-          }
-        ]
       }
     },
     {
@@ -4134,52 +3720,6 @@
       }
     },
     {
-      "id": "lead",
-      "name": "Lead",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Lead_(element)",
-      "attrs": {
-        "atomic_number": 82,
-        "symbol": "Pb",
-        "family": "post-transition metal",
-        "periodic_block": "",
-        "name_initial": "L",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "e"
-      },
-      "pageviews": 6292603,
-      "obscurity": {
-        "score": 0.3031,
-        "band": "middling",
-        "pointless_score": 63,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6292603,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1026,
-          "pointless_average_score": 63.0,
-          "pointless_obscurity": 0.37,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Lead",
-            "score_0_to_100": 63,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Lead, leaderboard. That would have given you 63."
-          }
-        ]
-      }
-    },
-    {
       "id": "cobalt",
       "name": "Cobalt",
       "aliases": [],
@@ -4207,6 +3747,38 @@
           "pageviews": 3734977,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.2906
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "krypton",
+      "name": "Krypton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Krypton",
+      "attrs": {
+        "atomic_number": 36,
+        "symbol": "Kr",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "K",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3743899,
+      "obscurity": {
+        "score": 0.265,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743899,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.265
         },
         "evidence": []
       }
@@ -4276,49 +3848,35 @@
       }
     },
     {
-      "id": "tin",
-      "name": "Tin",
+      "id": "argon",
+      "name": "Argon",
       "aliases": [],
       "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Tin",
+      "wiki": "https://en.wikipedia.org/wiki/Argon",
       "attrs": {
-        "atomic_number": 50,
-        "symbol": "Sn",
-        "family": "post-transition metal",
+        "atomic_number": 18,
+        "symbol": "Ar",
+        "family": "noble gas",
         "periodic_block": "",
-        "name_initial": "T",
-        "name_length": 3,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
+        "name_initial": "A",
+        "name_length": 5,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
       },
-      "pageviews": 4922955,
+      "pageviews": 3751015,
       "obscurity": {
-        "score": 0.2399,
+        "score": 0.2393,
         "band": "obvious",
-        "pointless_score": 74,
+        "pointless_score": 76,
         "pointless_band": "high scorer",
-        "confidence": "high",
+        "confidence": "medium",
         "components": {
-          "pageviews": 4922955,
+          "pageviews": 3751015,
           "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1795,
-          "pointless_average_score": 74.0,
-          "pointless_obscurity": 0.26,
-          "pointless_observations": 1
+          "pageview_obscurity": 0.2393
         },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Tin",
-            "score_0_to_100": 74,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Ooh, 74 for tin, taking your total up to 90"
-          }
-        ]
+        "evidence": []
       }
     },
     {
@@ -4388,6 +3946,102 @@
       }
     },
     {
+      "id": "neon",
+      "name": "Neon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Neon",
+      "attrs": {
+        "atomic_number": 10,
+        "symbol": "Ne",
+        "family": "noble gas",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922359,
+      "obscurity": {
+        "score": 0.188,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922359,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.188
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tin",
+      "name": "Tin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tin",
+      "attrs": {
+        "atomic_number": 50,
+        "symbol": "Sn",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "T",
+        "name_length": 3,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4922955,
+      "obscurity": {
+        "score": 0.1795,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922955,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1795
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nickel",
+      "name": "Nickel",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nickel",
+      "attrs": {
+        "atomic_number": 28,
+        "symbol": "Ni",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "N",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4926311,
+      "obscurity": {
+        "score": 0.1709,
+        "band": "obvious",
+        "pointless_score": 83,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926311,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1709
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "iodine",
       "name": "Iodine",
       "aliases": [],
@@ -4415,6 +4069,38 @@
           "pageviews": 4926621,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1624
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "zinc",
+      "name": "Zinc",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Zinc",
+      "attrs": {
+        "atomic_number": 30,
+        "symbol": "Zn",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "Z",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6286994,
+      "obscurity": {
+        "score": 0.1368,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6286994,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1368
         },
         "evidence": []
       }
@@ -4451,52 +4137,6 @@
           "pageview_obscurity": 0.1282
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "gold",
-      "name": "Gold",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Gold",
-      "attrs": {
-        "atomic_number": 79,
-        "symbol": "Au",
-        "family": "transition metal",
-        "periodic_block": "",
-        "name_initial": "G",
-        "name_length": 4,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 6292616,
-      "obscurity": {
-        "score": 0.121,
-        "band": "obvious",
-        "pointless_score": 87,
-        "pointless_band": "high scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6292616,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.094,
-          "pointless_average_score": 87.0,
-          "pointless_obscurity": 0.13,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "chemical-elements",
-            "answer": "Gold",
-            "score_0_to_100": 87,
-            "episode": "Series 35 Episode 15",
-            "date": null,
-            "question_text": "Definitions of words that begin with the names of chemical elements (then the remaining letters shown) - name the missing chemical element",
-            "source_url": "https://www.bbc.co.uk/programmes/m002vq8z",
-            "quote": "Goldilocks, you mentioned. Gold. 87."
-          }
-        ]
       }
     },
     {
@@ -4559,6 +4199,134 @@
           "pageviews": 6291293,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.1111
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lead",
+      "name": "Lead",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lead_(element)",
+      "attrs": {
+        "atomic_number": 82,
+        "symbol": "Pb",
+        "family": "post-transition metal",
+        "periodic_block": "",
+        "name_initial": "L",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6292603,
+      "obscurity": {
+        "score": 0.1026,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292603,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1026
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gold",
+      "attrs": {
+        "atomic_number": 79,
+        "symbol": "Au",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "G",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6292616,
+      "obscurity": {
+        "score": 0.094,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292616,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.094
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "copper",
+      "name": "Copper",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Copper",
+      "attrs": {
+        "atomic_number": 29,
+        "symbol": "Cu",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6292688,
+      "obscurity": {
+        "score": 0.0855,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292688,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0855
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Silver",
+      "attrs": {
+        "atomic_number": 47,
+        "symbol": "Ag",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "S",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6293094,
+      "obscurity": {
+        "score": 0.0769,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6293094,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0769
         },
         "evidence": []
       }
@@ -4753,6 +4521,70 @@
           "pageviews": 6303796,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0256
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "carbon",
+      "name": "Carbon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Carbon",
+      "attrs": {
+        "atomic_number": 6,
+        "symbol": "C",
+        "family": "nonmetal",
+        "periodic_block": "",
+        "name_initial": "C",
+        "name_length": 6,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6304929,
+      "obscurity": {
+        "score": 0.0171,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6304929,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0171
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "iron",
+      "name": "Iron",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Iron",
+      "attrs": {
+        "atomic_number": 26,
+        "symbol": "Fe",
+        "family": "transition metal",
+        "periodic_block": "",
+        "name_initial": "I",
+        "name_length": 4,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 6309343,
+      "obscurity": {
+        "score": 0.0085,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6309343,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0085
         },
         "evidence": []
       }

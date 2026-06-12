@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "Ackee and saltfish. 12 points that would have been."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -344,7 +345,8 @@
           "contestant": null,
           "evidence_quote": "The Woman In White and Tycoon, another Tim Rice"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head jackpot booster",
@@ -396,7 +398,8 @@
           "contestant": null,
           "evidence_quote": "Shelly Johnson scored six"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -448,7 +451,8 @@
           "contestant": null,
           "evidence_quote": "Coventry, that's right. And that would have been 41 points."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -500,7 +504,8 @@
           "contestant": null,
           "evidence_quote": "The Garden of Earthly Delights, which would have been 11 points"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -561,7 +566,8 @@
           "contestant": null,
           "evidence_quote": "It is sacroiliitis. Pointless answer."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Final",
@@ -685,7 +691,8 @@
           "contestant": null,
           "evidence_quote": "Mort, who was a lemur"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

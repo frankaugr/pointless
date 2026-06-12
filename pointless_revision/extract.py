@@ -151,6 +151,88 @@ def extract_episode(client: Any, ep: EpisodeFile, out_dir: Path) -> Path:
     return _write(out_dir, _payload(ep, _rounds_from_message(message)))
 
 
+CLASSIFY_SYSTEM_PROMPT = """You classify Pointless quiz-show round descriptions by question format.
+
+A round is "open_recall" only if it follows the canonical format: contestants were asked to name as many members of a category as they could, from memory alone — "name any X" / "name as many X where Y". A qualifying constraint (beginning with a letter, within a date range, geographic, etc.) is still open recall.
+
+A round is NOT open_recall when the board assists or reverses the task: identifying answers from pictures, drawings, clues, definitions, initials, or descriptions; choosing among presented options ("which of these six...", "spot the pointless..."); wordplay reconstruction (anagrams, letters removed/changed/swapped, alternate letters, fill in blanks, hidden words); reverse lookups ("name the artist given these songs", "facts about X"); or multi-part hybrid boards.
+
+When the description is ambiguous, classify as not open_recall."""
+
+CLASSIFY_SCHEMA: dict[str, Any] = {
+    "type": "object",
+    "properties": {
+        "classifications": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {"type": "string"},
+                    "open_recall": {"type": "boolean"},
+                },
+                "required": ["id", "open_recall"],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["classifications"],
+    "additionalProperties": False,
+}
+
+
+def classify_rounds(client: Any, episodes_dir: Path) -> dict[str, int]:
+    """Annotate every round in episodes_dir with question_format.
+
+    One request classifies all round descriptions; results are written back
+    into the episode JSON files as `question_format: "open_recall" | "assisted"`.
+    """
+    episodes = {
+        path: json.loads(path.read_text(encoding="utf-8"))
+        for path in sorted(episodes_dir.glob("*.json"))
+    }
+    lines = []
+    for path, episode in episodes.items():
+        for idx, round_data in enumerate(episode.get("rounds", [])):
+            lines.append(f"{episode['episode_id']}:{idx} | {round_data.get('category_text', '')}")
+
+    verdicts: dict[str, bool] = {}
+    chunk_size = 150
+    for start in range(0, len(lines), chunk_size):
+        chunk = lines[start : start + chunk_size]
+        with client.messages.stream(
+            model=MODEL,
+            max_tokens=64000,
+            thinking={"type": "adaptive"},
+            system=CLASSIFY_SYSTEM_PROMPT,
+            output_config={"format": {"type": "json_schema", "schema": CLASSIFY_SCHEMA}},
+            messages=[
+                {
+                    "role": "user",
+                    "content": "Classify every round below. Echo each id exactly.\n\n" + "\n".join(chunk),
+                }
+            ],
+        ) as stream:
+            message = stream.get_final_message()
+        if message.stop_reason != "end_turn":
+            raise RuntimeError(f"classification stopped early: {message.stop_reason}")
+        text = next(block.text for block in message.content if block.type == "text")
+        for item in json.loads(text)["classifications"]:
+            verdicts[item["id"]] = item["open_recall"]
+        print(f"  classified {min(start + chunk_size, len(lines))}/{len(lines)} rounds")
+
+    tally = {"open_recall": 0, "assisted": 0, "missing": 0}
+    for path, episode in episodes.items():
+        for idx, round_data in enumerate(episode.get("rounds", [])):
+            verdict = verdicts.get(f"{episode['episode_id']}:{idx}")
+            if verdict is None:
+                tally["missing"] += 1
+                continue
+            round_data["question_format"] = "open_recall" if verdict else "assisted"
+            tally["open_recall" if verdict else "assisted"] += 1
+        path.write_text(json.dumps(episode, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return tally
+
+
 def run_batch(client: Any, episodes: list[EpisodeFile], out_dir: Path, poll_seconds: int = 60) -> dict[str, int]:
     """Submit one batch for all episodes, poll to completion, write results.
 

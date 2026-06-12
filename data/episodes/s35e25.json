@@ -148,7 +148,8 @@
           "contestant": null,
           "evidence_quote": "Call Me Maybe, Carly Rae Jepsen, with 16."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -227,7 +228,8 @@
           "contestant": null,
           "evidence_quote": "Sack. 45. There we are."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head bonus (tie knots)",
@@ -261,7 +263,8 @@
           "contestant": null,
           "evidence_quote": "That is actually a pointless answer. It's a knot named after Aristotle Onassis"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -322,7 +325,8 @@
           "contestant": null,
           "evidence_quote": "the red hot poker, which was worth 33"
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -374,7 +378,8 @@
           "contestant": null,
           "evidence_quote": "Babylon, worth 73. The Hanging Gardens."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -426,7 +431,8 @@
           "contestant": null,
           "evidence_quote": "the teenage girl, Ellie, The Last Of Us, 14."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -460,7 +466,8 @@
           "contestant": "Harry",
           "evidence_quote": "the other name that popped into your head, Monica Bellucci, was wrong."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

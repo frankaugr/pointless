@@ -94,7 +94,8 @@
           "contestant": null,
           "evidence_quote": "The lowest actually was the Czech Republic. Only three people out of the 100"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Round 2",
@@ -209,7 +210,8 @@
           "contestant": null,
           "evidence_quote": "And 15 people got that right as well."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -252,7 +254,8 @@
           "contestant": null,
           "evidence_quote": "Shreddy... that would have scored you 1."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -304,7 +307,8 @@
           "contestant": null,
           "evidence_quote": "Everybody knows Tina Turner, of course. I mean, that had a score of 94."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -356,7 +360,8 @@
           "contestant": null,
           "evidence_quote": "Cyclamen, yes, and that had two."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head",
@@ -417,7 +422,8 @@
           "contestant": null,
           "evidence_quote": "Cinderella, of course, is the pantomime... that scored 60."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -451,7 +457,8 @@
           "contestant": "Robbie",
           "evidence_quote": "Not Nicolas Mahut either... he's never got past the third round in the French Open"
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }

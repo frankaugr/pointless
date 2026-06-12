@@ -29,6 +29,7 @@ export ANTHROPIC_API_KEY=...
 .venv/bin/python -m pointless_revision transcripts extract --batch
 
 # Merge data/episodes/*.json into data/evidence.json + match-rate report:
+python3 -m pointless_revision transcripts classify   # tag open-recall vs assisted rounds (API)
 python3 -m pointless_revision transcripts merge
 python3 scripts/build_data.py              # picks up evidence + writes docs/data/episodes.json
 python3 scripts/category_roadmap.py        # ranks unmatched rounds as new-category candidates

@@ -69,7 +69,7 @@
       "url": "https://www.oscars.org/oscars/ceremonies/2026"
     }
   ],
-  "generated_at": "2026-06-12T17:00:04Z",
+  "generated_at": "2026-06-12T17:39:34Z",
   "answers": [
     {
       "id": "the-broadway-melody",
@@ -601,51 +601,6 @@
       }
     },
     {
-      "id": "moonlight",
-      "name": "Moonlight",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Moonlight",
-      "attrs": {
-        "award": "Best Picture",
-        "year": 2016,
-        "decade": "2010s",
-        "name_initial": "M",
-        "name_length": 9,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 3737413,
-      "obscurity": {
-        "score": 0.8343,
-        "band": "pointless target",
-        "pointless_score": 8,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 3737413,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.5773,
-          "pointless_average_score": 8.0,
-          "pointless_obscurity": 0.92,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "oscar-best-picture-winners",
-            "answer": "Moonlight",
-            "score_0_to_100": 8,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "the 2016 winner was Moonlight, which was worth eight"
-          }
-        ]
-      }
-    },
-    {
       "id": "how-green-was-my-valley",
       "name": "How Green Was My Valley",
       "aliases": [],
@@ -736,51 +691,6 @@
           "pageview_obscurity": 0.8041
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "slumdog-millionaire",
-      "name": "Slumdog Millionaire",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
-      "attrs": {
-        "award": "Best Picture",
-        "year": 2008,
-        "decade": "2000s",
-        "name_initial": "S",
-        "name_length": 18,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "u"
-      },
-      "pageviews": 4918294,
-      "obscurity": {
-        "score": 0.8022,
-        "band": "very obscure",
-        "pointless_score": 3,
-        "pointless_band": "excellent",
-        "confidence": "high",
-        "components": {
-          "pageviews": 4918294,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.299,
-          "pointless_average_score": 3.0,
-          "pointless_obscurity": 0.97,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "oscar-best-picture-winners",
-            "answer": "Slumdog Millionaire",
-            "score_0_to_100": 3,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "the lowest scoring answer, which is Slumdog Millionaire - worth three"
-          }
-        ]
       }
     },
     {
@@ -1313,51 +1223,6 @@
       }
     },
     {
-      "id": "titanic",
-      "name": "Titanic",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Titanic",
-      "attrs": {
-        "award": "Best Picture",
-        "year": 1997,
-        "decade": "1990s",
-        "name_initial": "T",
-        "name_length": 7,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "i"
-      },
-      "pageviews": 6287131,
-      "obscurity": {
-        "score": 0.6288,
-        "band": "useful low scorer",
-        "pointless_score": 22,
-        "pointless_band": "strong low scorer",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6287131,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.1753,
-          "pointless_average_score": 22.0,
-          "pointless_obscurity": 0.78,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "oscar-best-picture-winners",
-            "answer": "Titanic",
-            "score_0_to_100": 22,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "finally Titanic, which was worth 22"
-          }
-        ]
-      }
-    },
-    {
       "id": "dances-with-wolves",
       "name": "Dances with Wolves",
       "aliases": [],
@@ -1477,6 +1342,37 @@
           "pageviews": 3736476,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.5876
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "moonlight",
+      "name": "Moonlight",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Moonlight",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2016,
+        "decade": "2010s",
+        "name_initial": "M",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3737413,
+      "obscurity": {
+        "score": 0.5773,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3737413,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5773
         },
         "evidence": []
       }
@@ -1607,51 +1503,6 @@
           "pageview_obscurity": 0.5361
         },
         "evidence": []
-      }
-    },
-    {
-      "id": "gone-with-the-wind",
-      "name": "Gone with the Wind",
-      "aliases": [],
-      "qid": null,
-      "wiki": "https://en.wikipedia.org/wiki/Gone_with_the_Wind",
-      "attrs": {
-        "award": "Best Picture",
-        "year": 1939,
-        "decade": "1930s",
-        "name_initial": "G",
-        "name_length": 15,
-        "starts_with_vowel": false,
-        "starts_with_consonant": true,
-        "first_vowel": "o"
-      },
-      "pageviews": 6299953,
-      "obscurity": {
-        "score": 0.5306,
-        "band": "useful low scorer",
-        "pointless_score": 32,
-        "pointless_band": "playable",
-        "confidence": "high",
-        "components": {
-          "pageviews": 6299953,
-          "pageview_source": "curated_pageview_proxy",
-          "pageview_obscurity": 0.0825,
-          "pointless_average_score": 32.0,
-          "pointless_obscurity": 0.68,
-          "pointless_observations": 1
-        },
-        "evidence": [
-          {
-            "category": "oscar-best-picture-winners",
-            "answer": "Gone with the Wind",
-            "score_0_to_100": 32,
-            "episode": "Series 35 Episode 31",
-            "date": null,
-            "question_text": "Best Picture Oscar-winning films (first and last letters of each word and year of release given)",
-            "source_url": "https://www.bbc.co.uk/programmes/m002wm5k",
-            "quote": "Gone With the Wind, 1939 - which is worth 32"
-          }
-        ]
       }
     },
     {
@@ -2341,6 +2192,37 @@
       }
     },
     {
+      "id": "slumdog-millionaire",
+      "name": "Slumdog Millionaire",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Slumdog_Millionaire",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 2008,
+        "decade": "2000s",
+        "name_initial": "S",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4918294,
+      "obscurity": {
+        "score": 0.299,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918294,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.299
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "no-country-for-old-men",
       "name": "No Country for Old Men",
       "aliases": [],
@@ -2682,6 +2564,37 @@
       }
     },
     {
+      "id": "titanic",
+      "name": "Titanic",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Titanic",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1997,
+        "decade": "1990s",
+        "name_initial": "T",
+        "name_length": 7,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6287131,
+      "obscurity": {
+        "score": 0.1753,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287131,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1753
+        },
+        "evidence": []
+      }
+    },
+    {
       "id": "the-godfather-part-ii",
       "name": "The Godfather Part II",
       "aliases": [
@@ -2931,6 +2844,37 @@
           "pageviews": 6299840,
           "pageview_source": "curated_pageview_proxy",
           "pageview_obscurity": 0.0928
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gone-with-the-wind",
+      "name": "Gone with the Wind",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gone_with_the_Wind",
+      "attrs": {
+        "award": "Best Picture",
+        "year": 1939,
+        "decade": "1930s",
+        "name_initial": "G",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6299953,
+      "obscurity": {
+        "score": 0.0825,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6299953,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0825
         },
         "evidence": []
       }

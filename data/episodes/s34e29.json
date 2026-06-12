@@ -166,7 +166,8 @@
           "contestant": null,
           "evidence_quote": "Cucina, yeah. Cucina. Pointless answer."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Round 2",
@@ -299,7 +300,8 @@
           "contestant": null,
           "evidence_quote": "the best answer of them all was Indiana and that scored 11."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     },
     {
       "round_label": "Head-to-head jackpot builder",
@@ -342,7 +344,8 @@
           "contestant": null,
           "evidence_quote": "Mighty Hoopla is a pop music festival in London and that was pointless."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q1",
@@ -394,7 +397,8 @@
           "contestant": null,
           "evidence_quote": "Clement Attlee. And that was pointless."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q2",
@@ -446,7 +450,8 @@
           "contestant": null,
           "evidence_quote": "the traditional Indian board game is Pachisi and that scored one."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Head-to-head Q3",
@@ -498,7 +503,8 @@
           "contestant": null,
           "evidence_quote": "Quantum of Solace. Which is 50 points."
         }
-      ]
+      ],
+      "question_format": "assisted"
     },
     {
       "round_label": "Final",
@@ -532,7 +538,8 @@
           "contestant": null,
           "evidence_quote": "you've done it! ... Gelsenkirchen was a pointless answer."
         }
-      ]
+      ],
+      "question_format": "open_recall"
     }
   ]
 }
