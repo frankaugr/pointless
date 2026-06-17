@@ -166,6 +166,10 @@ function renderAll() {
     button.classList.toggle("active", button.dataset.slug === state.activeSlug);
   });
 
+  const showPanel = state.mode === "learn" || state.mode === "revise";
+  $("category-panel").hidden = !showPanel;
+  document.querySelector(".app-shell").classList.toggle("no-panel", !showPanel);
+
   $("learn-view").hidden = state.mode !== "learn";
   $("revise-view").hidden = state.mode !== "revise";
   $("play-view").hidden = state.mode !== "play";

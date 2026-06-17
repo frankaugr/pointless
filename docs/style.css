@@ -130,6 +130,10 @@ p {
   align-items: start;
 }
 
+.app-shell.no-panel {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .category-panel {
   background: var(--surface);
   border: 1px solid var(--border);
