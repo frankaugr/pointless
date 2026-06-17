@@ -170,6 +170,15 @@ function renderAll() {
   $("revise-view").hidden = state.mode !== "revise";
   $("play-view").hidden = state.mode !== "play";
   $("finals-view").hidden = state.mode !== "finals";
+  $("cheatsheet-view").hidden = state.mode !== "cheatsheet";
+
+  if (state.mode === "cheatsheet") {
+    $("active-category-name").textContent = "Sports cheat sheet";
+    $("active-category-description").textContent =
+      "Obscure-but-safe answers for \"won it more than once\" sporting categories.";
+    $("category-stats").textContent = "";
+    return;
+  }
 
   if (state.mode === "finals") {
     $("active-category-name").textContent = "Final board pool";
