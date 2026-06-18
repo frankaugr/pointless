@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T19:40:27Z",
+  "generated_at": "2026-06-18T05:42:47Z",
   "categories": [
     {
       "slug": "chemical-elements",
@@ -197,6 +197,40 @@
       "display_fields": [
         "year",
         "decade"
+      ]
+    },
+    {
+      "slug": "oscar-best-actor-winners",
+      "name": "Oscar Best Actor Winners",
+      "description": "People who have won the Academy Award for Best Actor in a Leading Role, listed once each, through the 97th Academy Awards.",
+      "tags": [
+        "film",
+        "oscars",
+        "awards",
+        "recurring"
+      ],
+      "answer_kind": "actor",
+      "n_answers": 86,
+      "display_fields": [
+        "film",
+        "year"
+      ]
+    },
+    {
+      "slug": "oscar-best-actress-winners",
+      "name": "Oscar Best Actress Winners",
+      "description": "People who have won the Academy Award for Best Actress in a Leading Role, listed once each, through the 97th Academy Awards.",
+      "tags": [
+        "film",
+        "oscars",
+        "awards",
+        "recurring"
+      ],
+      "answer_kind": "actress",
+      "n_answers": 80,
+      "display_fields": [
+        "film",
+        "year"
       ]
     }
   ]

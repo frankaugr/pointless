@@ -1,0 +1,2633 @@
+{
+  "slug": "oscar-best-actress-winners",
+  "name": "Oscar Best Actress Winners",
+  "description": "People who have won the Academy Award for Best Actress in a Leading Role, listed once each, through the 97th Academy Awards.",
+  "tags": [
+    "film",
+    "oscars",
+    "awards",
+    "recurring"
+  ],
+  "answer_kind": "actress",
+  "expected_count": 80,
+  "n_answers": 80,
+  "display_fields": [
+    "film",
+    "year"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "oscars-by-decade",
+      "kind": "attr_equals_dynamic",
+      "attr": "decade",
+      "prompt": "{category} from the {value}"
+    },
+    {
+      "id": "oscars-after-2000",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 2000,
+      "max": 2100,
+      "prompt": "{category} from 2000 onwards"
+    },
+    {
+      "id": "oscars-before-1970",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 1927,
+      "max": 1969,
+      "prompt": "{category} before 1970"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Academy Awards database",
+      "url": "https://awardsdatabase.oscars.org/"
+    }
+  ],
+  "generated_at": "2026-06-18T05:42:47Z",
+  "answers": [
+    {
+      "id": "marie-dressler",
+      "name": "Marie Dressler",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Marie_Dressler",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1931,
+        "decade": "1930s",
+        "film": "Min and Bill",
+        "name_initial": "M",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 184848,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 184848,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "luise-rainer",
+      "name": "Luise Rainer",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Luise_Rainer",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1936,
+        "decade": "1930s",
+        "film": "The Great Ziegfeld",
+        "name_initial": "L",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 396161,
+      "obscurity": {
+        "score": 0.9873,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 396161,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9873
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "simone-signoret",
+      "name": "Simone Signoret",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Simone_Signoret",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1959,
+        "decade": "1950s",
+        "film": "Room at the Top",
+        "name_initial": "S",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 397777,
+      "obscurity": {
+        "score": 0.9747,
+        "band": "pointless target",
+        "pointless_score": 3,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 397777,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9747
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "norma-shearer",
+      "name": "Norma Shearer",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Norma_Shearer",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1930,
+        "decade": "1930s",
+        "film": "The Divorcee",
+        "name_initial": "N",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 401586,
+      "obscurity": {
+        "score": 0.962,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 401586,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.962
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "judy-holliday",
+      "name": "Judy Holliday",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Judy_Holliday",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1950,
+        "decade": "1950s",
+        "film": "Born Yesterday",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 402377,
+      "obscurity": {
+        "score": 0.9494,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 402377,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9494
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "geraldine-page",
+      "name": "Geraldine Page",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Geraldine_Page",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1985,
+        "decade": "1980s",
+        "film": "The Trip to Bountiful",
+        "name_initial": "G",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 404138,
+      "obscurity": {
+        "score": 0.9367,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 404138,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9367
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "shirley-booth",
+      "name": "Shirley Booth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Shirley_Booth",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1952,
+        "decade": "1950s",
+        "film": "Come Back, Little Sheba",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 407507,
+      "obscurity": {
+        "score": 0.9241,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 407507,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9241
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "janet-gaynor",
+      "name": "Janet Gaynor",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Janet_Gaynor",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1928,
+        "decade": "1920s",
+        "film": "7th Heaven",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 409663,
+      "obscurity": {
+        "score": 0.9114,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 409663,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9114
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "anna-magnani",
+      "name": "Anna Magnani",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Anna_Magnani",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1955,
+        "decade": "1950s",
+        "film": "The Rose Tattoo",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 411241,
+      "obscurity": {
+        "score": 0.8987,
+        "band": "pointless target",
+        "pointless_score": 10,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 411241,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8987
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jennifer-jones",
+      "name": "Jennifer Jones",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jennifer_Jones",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1943,
+        "decade": "1940s",
+        "film": "The Song of Bernadette",
+        "name_initial": "J",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 412252,
+      "obscurity": {
+        "score": 0.8861,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 412252,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8861
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "joan-fontaine",
+      "name": "Joan Fontaine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Joan_Fontaine",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1941,
+        "decade": "1940s",
+        "film": "Suspicion",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 747202,
+      "obscurity": {
+        "score": 0.8734,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 747202,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8734
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "louise-fletcher",
+      "name": "Louise Fletcher",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Louise_Fletcher",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1975,
+        "decade": "1970s",
+        "film": "One Flew Over the Cuckoo's Nest",
+        "name_initial": "L",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 747520,
+      "obscurity": {
+        "score": 0.8608,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 747520,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8608
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jane-wyman",
+      "name": "Jane Wyman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jane_Wyman",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1948,
+        "decade": "1940s",
+        "film": "Johnny Belinda",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 748364,
+      "obscurity": {
+        "score": 0.8481,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 748364,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8481
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "joanne-woodward",
+      "name": "Joanne Woodward",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Joanne_Woodward",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1957,
+        "decade": "1950s",
+        "film": "The Three Faces of Eve",
+        "name_initial": "J",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 749008,
+      "obscurity": {
+        "score": 0.8354,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 749008,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8354
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "helen-hayes",
+      "name": "Helen Hayes",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Helen_Hayes",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1932,
+        "decade": "1930s",
+        "film": "The Sin of Madelon Claudet",
+        "name_initial": "H",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 751388,
+      "obscurity": {
+        "score": 0.8228,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 751388,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8228
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "greer-garson",
+      "name": "Greer Garson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Greer_Garson",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1942,
+        "decade": "1940s",
+        "film": "Mrs. Miniver",
+        "name_initial": "G",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 753910,
+      "obscurity": {
+        "score": 0.8101,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 753910,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8101
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "loretta-young",
+      "name": "Loretta Young",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Loretta_Young",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1947,
+        "decade": "1940s",
+        "film": "The Farmer's Daughter",
+        "name_initial": "L",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 763605,
+      "obscurity": {
+        "score": 0.7975,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763605,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7975
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "patricia-neal",
+      "name": "Patricia Neal",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Patricia_Neal",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1963,
+        "decade": "1960s",
+        "film": "Hud",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 763944,
+      "obscurity": {
+        "score": 0.7848,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763944,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7848
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mikey-madison",
+      "name": "Mikey Madison",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mikey_Madison",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2024,
+        "decade": "2020s",
+        "film": "Anora",
+        "name_initial": "M",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 764370,
+      "obscurity": {
+        "score": 0.7722,
+        "band": "very obscure",
+        "pointless_score": 23,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 764370,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7722
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "susan-hayward",
+      "name": "Susan Hayward",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Susan_Hayward",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1958,
+        "decade": "1950s",
+        "film": "I Want to Live!",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 768572,
+      "obscurity": {
+        "score": 0.7595,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 768572,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7595
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "glenda-jackson",
+      "name": "Glenda Jackson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Glenda_Jackson",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1970,
+        "decade": "1970s",
+        "film": "Women in Love",
+        "name_initial": "G",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1248148,
+      "obscurity": {
+        "score": 0.7468,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1248148,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7468
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "marlee-matlin",
+      "name": "Marlee Matlin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Marlee_Matlin",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1986,
+        "decade": "1980s",
+        "film": "Children of a Lesser God",
+        "name_initial": "M",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1258300,
+      "obscurity": {
+        "score": 0.7342,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1258300,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7342
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jessica-tandy",
+      "name": "Jessica Tandy",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jessica_Tandy",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1989,
+        "decade": "1980s",
+        "film": "Driving Miss Daisy",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1265468,
+      "obscurity": {
+        "score": 0.7215,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1265468,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7215
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ellen-burstyn",
+      "name": "Ellen Burstyn",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ellen_Burstyn",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1974,
+        "decade": "1970s",
+        "film": "Alice Doesn't Live Here Anymore",
+        "name_initial": "E",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1271118,
+      "obscurity": {
+        "score": 0.7089,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1271118,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7089
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sissy-spacek",
+      "name": "Sissy Spacek",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sissy_Spacek",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1980,
+        "decade": "1980s",
+        "film": "Coal Miner's Daughter",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1907294,
+      "obscurity": {
+        "score": 0.6962,
+        "band": "very obscure",
+        "pointless_score": 30,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1907294,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6962
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "marion-cotillard",
+      "name": "Marion Cotillard",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Marion_Cotillard",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2007,
+        "decade": "2000s",
+        "film": "La Vie en Rose",
+        "name_initial": "M",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1907700,
+      "obscurity": {
+        "score": 0.6835,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1907700,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6835
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "holly-hunter",
+      "name": "Holly Hunter",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Holly_Hunter",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1993,
+        "decade": "1990s",
+        "film": "The Piano",
+        "name_initial": "H",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1908738,
+      "obscurity": {
+        "score": 0.6709,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1908738,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6709
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "mary-pickford",
+      "name": "Mary Pickford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Mary_Pickford",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1929,
+        "decade": "1920s",
+        "film": "Coquette",
+        "name_initial": "M",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1911263,
+      "obscurity": {
+        "score": 0.6582,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1911263,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6582
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "anne-bancroft",
+      "name": "Anne Bancroft",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Anne_Bancroft",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1962,
+        "decade": "1960s",
+        "film": "The Miracle Worker",
+        "name_initial": "A",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1911653,
+      "obscurity": {
+        "score": 0.6456,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1911653,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6456
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "claudette-colbert",
+      "name": "Claudette Colbert",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Claudette_Colbert",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1934,
+        "decade": "1930s",
+        "film": "It Happened One Night",
+        "name_initial": "C",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1913469,
+      "obscurity": {
+        "score": 0.6329,
+        "band": "useful low scorer",
+        "pointless_score": 37,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1913469,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6329
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "olivia-de-havilland",
+      "name": "Olivia de Havilland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Olivia_de_Havilland",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1946,
+        "decade": "1940s",
+        "film": "To Each His Own",
+        "name_initial": "O",
+        "name_length": 17,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 1915890,
+      "obscurity": {
+        "score": 0.6203,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1915890,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6203
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "hilary-swank",
+      "name": "Hilary Swank",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Hilary_Swank",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1999,
+        "decade": "1990s",
+        "film": "Boys Don't Cry",
+        "name_initial": "H",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1917602,
+      "obscurity": {
+        "score": 0.6076,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917602,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6076
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "helen-hunt",
+      "name": "Helen Hunt",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Helen_Hunt",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1997,
+        "decade": "1990s",
+        "film": "As Good as It Gets",
+        "name_initial": "H",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1917764,
+      "obscurity": {
+        "score": 0.5949,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917764,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5949
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jessica-lange",
+      "name": "Jessica Lange",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jessica_Lange",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1994,
+        "decade": "1990s",
+        "film": "Blue Sky",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1922570,
+      "obscurity": {
+        "score": 0.5823,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1922570,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5823
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "julie-christie",
+      "name": "Julie Christie",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Julie_Christie",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1965,
+        "decade": "1960s",
+        "film": "Darling",
+        "name_initial": "J",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 1924020,
+      "obscurity": {
+        "score": 0.5696,
+        "band": "useful low scorer",
+        "pointless_score": 43,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1924020,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5696
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "faye-dunaway",
+      "name": "Faye Dunaway",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Faye_Dunaway",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1976,
+        "decade": "1970s",
+        "film": "Network",
+        "name_initial": "F",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1928681,
+      "obscurity": {
+        "score": 0.557,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1928681,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.557
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sally-field",
+      "name": "Sally Field",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sally_Field",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1979,
+        "decade": "1970s",
+        "film": "Norma Rae",
+        "name_initial": "S",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2733804,
+      "obscurity": {
+        "score": 0.5443,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2733804,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5443
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "shirley-maclaine",
+      "name": "Shirley MacLaine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Shirley_MacLaine",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1983,
+        "decade": "1980s",
+        "film": "Terms of Endearment",
+        "name_initial": "S",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2735389,
+      "obscurity": {
+        "score": 0.5316,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2735389,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5316
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jessica-chastain",
+      "name": "Jessica Chastain",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jessica_Chastain",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2021,
+        "decade": "2020s",
+        "film": "The Eyes of Tammy Faye",
+        "name_initial": "J",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2735882,
+      "obscurity": {
+        "score": 0.519,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2735882,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.519
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kathy-bates",
+      "name": "Kathy Bates",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kathy_Bates",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1990,
+        "decade": "1990s",
+        "film": "Misery",
+        "name_initial": "K",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2736732,
+      "obscurity": {
+        "score": 0.5063,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2736732,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5063
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "olivia-colman",
+      "name": "Olivia Colman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Olivia_Colman",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2018,
+        "decade": "2010s",
+        "film": "The Favourite",
+        "name_initial": "O",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "o"
+      },
+      "pageviews": 2737078,
+      "obscurity": {
+        "score": 0.4937,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2737078,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4937
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "liza-minnelli",
+      "name": "Liza Minnelli",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Liza_Minnelli",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1972,
+        "decade": "1970s",
+        "film": "Cabaret",
+        "name_initial": "L",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2740801,
+      "obscurity": {
+        "score": 0.481,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2740801,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.481
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "julianne-moore",
+      "name": "Julianne Moore",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Julianne_Moore",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2014,
+        "decade": "2010s",
+        "film": "Still Alice",
+        "name_initial": "J",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 2743570,
+      "obscurity": {
+        "score": 0.4684,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2743570,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4684
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "joan-crawford",
+      "name": "Joan Crawford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Joan_Crawford",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1945,
+        "decade": "1940s",
+        "film": "Mildred Pierce",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2747116,
+      "obscurity": {
+        "score": 0.4557,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747116,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4557
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "brie-larson",
+      "name": "Brie Larson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brie_Larson",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2015,
+        "decade": "2010s",
+        "film": "Room",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2747569,
+      "obscurity": {
+        "score": 0.443,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747569,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.443
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ginger-rogers",
+      "name": "Ginger Rogers",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ginger_Rogers",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1940,
+        "decade": "1940s",
+        "film": "Kitty Foyle",
+        "name_initial": "G",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2747688,
+      "obscurity": {
+        "score": 0.4304,
+        "band": "middling",
+        "pointless_score": 57,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747688,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4304
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "frances-mcdormand",
+      "name": "Frances McDormand",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Frances_McDormand",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1996,
+        "decade": "1990s",
+        "film": "Fargo",
+        "name_initial": "F",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2748213,
+      "obscurity": {
+        "score": 0.4177,
+        "band": "middling",
+        "pointless_score": 58,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2748213,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4177
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "renee-zellweger",
+      "name": "Renee Zellweger",
+      "aliases": [
+        "Renée Zellweger"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Renee_Zellweger",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2019,
+        "decade": "2010s",
+        "film": "Judy",
+        "name_initial": "R",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2751709,
+      "obscurity": {
+        "score": 0.4051,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2751709,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4051
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sophia-loren",
+      "name": "Sophia Loren",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sophia_Loren",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1961,
+        "decade": "1960s",
+        "film": "Two Women",
+        "name_initial": "S",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3729549,
+      "obscurity": {
+        "score": 0.3924,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3729549,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3924
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maggie-smith",
+      "name": "Maggie Smith",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maggie_Smith",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1969,
+        "decade": "1960s",
+        "film": "The Prime of Miss Jean Brodie",
+        "name_initial": "M",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3738791,
+      "obscurity": {
+        "score": 0.3797,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738791,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3797
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gwyneth-paltrow",
+      "name": "Gwyneth Paltrow",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gwyneth_Paltrow",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1998,
+        "decade": "1990s",
+        "film": "Shakespeare in Love",
+        "name_initial": "G",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3739525,
+      "obscurity": {
+        "score": 0.3671,
+        "band": "middling",
+        "pointless_score": 63,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3739525,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3671
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "susan-sarandon",
+      "name": "Susan Sarandon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Susan_Sarandon",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1995,
+        "decade": "1990s",
+        "film": "Dead Man Walking",
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 3740625,
+      "obscurity": {
+        "score": 0.3544,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740625,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3544
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "diane-keaton",
+      "name": "Diane Keaton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Diane_Keaton",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1977,
+        "decade": "1970s",
+        "film": "Annie Hall",
+        "name_initial": "D",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3741074,
+      "obscurity": {
+        "score": 0.3418,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741074,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3418
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jane-fonda",
+      "name": "Jane Fonda",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jane_Fonda",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1971,
+        "decade": "1970s",
+        "film": "Klute",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3741582,
+      "obscurity": {
+        "score": 0.3291,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741582,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3291
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "emma-thompson",
+      "name": "Emma Thompson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Emma_Thompson",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1992,
+        "decade": "1990s",
+        "film": "Howards End",
+        "name_initial": "E",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 3741722,
+      "obscurity": {
+        "score": 0.3165,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741722,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3165
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "michelle-yeoh",
+      "name": "Michelle Yeoh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Michelle_Yeoh",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2022,
+        "decade": "2020s",
+        "film": "Everything Everywhere All at Once",
+        "name_initial": "M",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3741969,
+      "obscurity": {
+        "score": 0.3038,
+        "band": "middling",
+        "pointless_score": 70,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741969,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3038
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "vivien-leigh",
+      "name": "Vivien Leigh",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Vivien_Leigh",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1939,
+        "decade": "1930s",
+        "film": "Gone with the Wind",
+        "name_initial": "V",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3742307,
+      "obscurity": {
+        "score": 0.2911,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3742307,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2911
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ingrid-bergman",
+      "name": "Ingrid Bergman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ingrid_Bergman",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1944,
+        "decade": "1940s",
+        "film": "Gaslight",
+        "name_initial": "I",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "i"
+      },
+      "pageviews": 3743875,
+      "obscurity": {
+        "score": 0.2785,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3743875,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2785
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "helen-mirren",
+      "name": "Helen Mirren",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Helen_Mirren",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2006,
+        "decade": "2000s",
+        "film": "The Queen",
+        "name_initial": "H",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3747716,
+      "obscurity": {
+        "score": 0.2658,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3747716,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2658
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "barbra-streisand",
+      "name": "Barbra Streisand",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Barbra_Streisand",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1968,
+        "decade": "1960s",
+        "film": "Funny Girl",
+        "name_initial": "B",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4912819,
+      "obscurity": {
+        "score": 0.2532,
+        "band": "middling",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4912819,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2532
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charlize-theron",
+      "name": "Charlize Theron",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charlize_Theron",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2003,
+        "decade": "2000s",
+        "film": "Monster",
+        "name_initial": "C",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4913441,
+      "obscurity": {
+        "score": 0.2405,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913441,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2405
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "julie-andrews",
+      "name": "Julie Andrews",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Julie_Andrews",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1964,
+        "decade": "1960s",
+        "film": "Mary Poppins",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4913748,
+      "obscurity": {
+        "score": 0.2278,
+        "band": "obvious",
+        "pointless_score": 77,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4913748,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2278
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jennifer-lawrence",
+      "name": "Jennifer Lawrence",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2012,
+        "decade": "2010s",
+        "film": "Silver Linings Playbook",
+        "name_initial": "J",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4915820,
+      "obscurity": {
+        "score": 0.2152,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915820,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2152
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nicole-kidman",
+      "name": "Nicole Kidman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nicole_Kidman",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2002,
+        "decade": "2000s",
+        "film": "The Hours",
+        "name_initial": "N",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4918120,
+      "obscurity": {
+        "score": 0.2025,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918120,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2025
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kate-winslet",
+      "name": "Kate Winslet",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kate_Winslet",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2008,
+        "decade": "2000s",
+        "film": "The Reader",
+        "name_initial": "K",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4918241,
+      "obscurity": {
+        "score": 0.1899,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4918241,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1899
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cher",
+      "name": "Cher",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cher",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1987,
+        "decade": "1980s",
+        "film": "Moonstruck",
+        "name_initial": "C",
+        "name_length": 4,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4922490,
+      "obscurity": {
+        "score": 0.1772,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922490,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1772
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bette-davis",
+      "name": "Bette Davis",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bette_Davis",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1935,
+        "decade": "1930s",
+        "film": "Dangerous",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4924600,
+      "obscurity": {
+        "score": 0.1646,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4924600,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1646
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "halle-berry",
+      "name": "Halle Berry",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Halle_Berry",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2001,
+        "decade": "2000s",
+        "film": "Monster's Ball",
+        "name_initial": "H",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4925851,
+      "obscurity": {
+        "score": 0.1519,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4925851,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1519
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "reese-witherspoon",
+      "name": "Reese Witherspoon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Reese_Witherspoon",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2005,
+        "decade": "2000s",
+        "film": "Walk the Line",
+        "name_initial": "R",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 4926869,
+      "obscurity": {
+        "score": 0.1392,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4926869,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1392
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jodie-foster",
+      "name": "Jodie Foster",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jodie_Foster",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1988,
+        "decade": "1980s",
+        "film": "The Accused",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4927147,
+      "obscurity": {
+        "score": 0.1266,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927147,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1266
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "emma-stone",
+      "name": "Emma Stone",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Emma_Stone",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2016,
+        "decade": "2010s",
+        "film": "La La Land",
+        "name_initial": "E",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 4927819,
+      "obscurity": {
+        "score": 0.1139,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927819,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1139
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "natalie-portman",
+      "name": "Natalie Portman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Natalie_Portman",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2010,
+        "decade": "2010s",
+        "film": "Black Swan",
+        "name_initial": "N",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4929189,
+      "obscurity": {
+        "score": 0.1013,
+        "band": "obvious",
+        "pointless_score": 90,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4929189,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1013
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cate-blanchett",
+      "name": "Cate Blanchett",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cate_Blanchett",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2013,
+        "decade": "2010s",
+        "film": "Blue Jasmine",
+        "name_initial": "C",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4931348,
+      "obscurity": {
+        "score": 0.0886,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4931348,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0886
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "grace-kelly",
+      "name": "Grace Kelly",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Grace_Kelly",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1954,
+        "decade": "1950s",
+        "film": "The Country Girl",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4935690,
+      "obscurity": {
+        "score": 0.0759,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935690,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0759
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sandra-bullock",
+      "name": "Sandra Bullock",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sandra_Bullock",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2009,
+        "decade": "2000s",
+        "film": "The Blind Side",
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4936331,
+      "obscurity": {
+        "score": 0.0633,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4936331,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0633
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "julia-roberts",
+      "name": "Julia Roberts",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Julia_Roberts",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 2000,
+        "decade": "2000s",
+        "film": "Erin Brockovich",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 6287041,
+      "obscurity": {
+        "score": 0.0506,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287041,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0506
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "elizabeth-taylor",
+      "name": "Elizabeth Taylor",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Elizabeth_Taylor",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1960,
+        "decade": "1960s",
+        "film": "Butterfield 8",
+        "name_initial": "E",
+        "name_length": 15,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 6292197,
+      "obscurity": {
+        "score": 0.038,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6292197,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.038
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "katharine-hepburn",
+      "name": "Katharine Hepburn",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Katharine_Hepburn",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1933,
+        "decade": "1930s",
+        "film": "Morning Glory",
+        "name_initial": "K",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6297863,
+      "obscurity": {
+        "score": 0.0253,
+        "band": "obvious",
+        "pointless_score": 97,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6297863,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0253
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "meryl-streep",
+      "name": "Meryl Streep",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Meryl_Streep",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1982,
+        "decade": "1980s",
+        "film": "Sophie's Choice",
+        "name_initial": "M",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6298315,
+      "obscurity": {
+        "score": 0.0127,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6298315,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0127
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "audrey-hepburn",
+      "name": "Audrey Hepburn",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Audrey_Hepburn",
+      "attrs": {
+        "award": "Best Actress",
+        "year": 1953,
+        "decade": "1950s",
+        "film": "Roman Holiday",
+        "name_initial": "A",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6308230,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6308230,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

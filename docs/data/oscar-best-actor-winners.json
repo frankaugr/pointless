@@ -1,0 +1,2833 @@
+{
+  "slug": "oscar-best-actor-winners",
+  "name": "Oscar Best Actor Winners",
+  "description": "People who have won the Academy Award for Best Actor in a Leading Role, listed once each, through the 97th Academy Awards.",
+  "tags": [
+    "film",
+    "oscars",
+    "awards",
+    "recurring"
+  ],
+  "answer_kind": "actor",
+  "expected_count": 86,
+  "n_answers": 86,
+  "display_fields": [
+    "film",
+    "year"
+  ],
+  "question_templates": [
+    {
+      "id": "name-starts-consonant",
+      "kind": "starts_with_consonant",
+      "field": "name",
+      "prompt": "{category} whose name begins with a consonant"
+    },
+    {
+      "id": "name-contains-pointless",
+      "kind": "contains_any_letters",
+      "field": "name",
+      "letters": "POINTLESS",
+      "prompt": "{category} containing at least one of the letters P, O, I, N, T, L, E or S"
+    },
+    {
+      "id": "short-name",
+      "kind": "name_length_at_most",
+      "field": "name",
+      "max": 6,
+      "prompt": "{category} with names of six letters or fewer"
+    },
+    {
+      "id": "oscars-by-decade",
+      "kind": "attr_equals_dynamic",
+      "attr": "decade",
+      "prompt": "{category} from the {value}"
+    },
+    {
+      "id": "oscars-after-2000",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 2000,
+      "max": 2100,
+      "prompt": "{category} from 2000 onwards"
+    },
+    {
+      "id": "oscars-before-1970",
+      "kind": "number_range",
+      "attr": "year",
+      "min": 1927,
+      "max": 1969,
+      "prompt": "{category} before 1970"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Official Academy Awards database",
+      "url": "https://awardsdatabase.oscars.org/"
+    }
+  ],
+  "generated_at": "2026-06-18T05:42:47Z",
+  "answers": [
+    {
+      "id": "warner-baxter",
+      "name": "Warner Baxter",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Warner_Baxter",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1929,
+        "decade": "1920s",
+        "film": "In Old Arizona",
+        "name_initial": "W",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 160965,
+      "obscurity": {
+        "score": 1.0,
+        "band": "pointless target",
+        "pointless_score": 0,
+        "pointless_band": "pointless target",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 160965,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 1.0
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "paul-lukas",
+      "name": "Paul Lukas",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Paul_Lukas",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1943,
+        "decade": "1940s",
+        "film": "Watch on the Rhine",
+        "name_initial": "P",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 161022,
+      "obscurity": {
+        "score": 0.9882,
+        "band": "pointless target",
+        "pointless_score": 1,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 161022,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9882
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "emil-jannings",
+      "name": "Emil Jannings",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Emil_Jannings",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1928,
+        "decade": "1920s",
+        "film": "The Last Command",
+        "name_initial": "E",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 166432,
+      "obscurity": {
+        "score": 0.9765,
+        "band": "pointless target",
+        "pointless_score": 2,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 166432,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9765
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-arliss",
+      "name": "George Arliss",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_Arliss",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1930,
+        "decade": "1930s",
+        "film": "Disraeli",
+        "name_initial": "G",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 179782,
+      "obscurity": {
+        "score": 0.9647,
+        "band": "pointless target",
+        "pointless_score": 4,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 179782,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9647
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "wallace-beery",
+      "name": "Wallace Beery",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Wallace_Beery",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1932,
+        "decade": "1930s",
+        "film": "The Champ",
+        "name_initial": "W",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 388173,
+      "obscurity": {
+        "score": 0.9529,
+        "band": "pointless target",
+        "pointless_score": 5,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 388173,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9529
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jose-ferrer",
+      "name": "Jose Ferrer",
+      "aliases": [
+        "José Ferrer"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jose_Ferrer",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1950,
+        "decade": "1950s",
+        "film": "Cyrano de Bergerac",
+        "name_initial": "J",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 396105,
+      "obscurity": {
+        "score": 0.9412,
+        "band": "pointless target",
+        "pointless_score": 6,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 396105,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cliff-robertson",
+      "name": "Cliff Robertson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cliff_Robertson",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1968,
+        "decade": "1960s",
+        "film": "Charly",
+        "name_initial": "C",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 396426,
+      "obscurity": {
+        "score": 0.9294,
+        "band": "pointless target",
+        "pointless_score": 7,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 396426,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9294
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "art-carney",
+      "name": "Art Carney",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Art_Carney",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1974,
+        "decade": "1970s",
+        "film": "Harry and Tonto",
+        "name_initial": "A",
+        "name_length": 9,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 396614,
+      "obscurity": {
+        "score": 0.9176,
+        "band": "pointless target",
+        "pointless_score": 8,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 396614,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9176
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "paul-scofield",
+      "name": "Paul Scofield",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Paul_Scofield",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1966,
+        "decade": "1960s",
+        "film": "A Man for All Seasons",
+        "name_initial": "P",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 400176,
+      "obscurity": {
+        "score": 0.9059,
+        "band": "pointless target",
+        "pointless_score": 9,
+        "pointless_band": "excellent",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 400176,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.9059
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "broderick-crawford",
+      "name": "Broderick Crawford",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Broderick_Crawford",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1949,
+        "decade": "1940s",
+        "film": "All the King's Men",
+        "name_initial": "B",
+        "name_length": 17,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 400488,
+      "obscurity": {
+        "score": 0.8941,
+        "band": "pointless target",
+        "pointless_score": 11,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 400488,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8941
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "maximilian-schell",
+      "name": "Maximilian Schell",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Maximilian_Schell",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1961,
+        "decade": "1960s",
+        "film": "Judgment at Nuremberg",
+        "name_initial": "M",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 401479,
+      "obscurity": {
+        "score": 0.8824,
+        "band": "pointless target",
+        "pointless_score": 12,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 401479,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8824
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "victor-mclaglen",
+      "name": "Victor McLaglen",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Victor_McLaglen",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1935,
+        "decade": "1930s",
+        "film": "The Informer",
+        "name_initial": "V",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 407504,
+      "obscurity": {
+        "score": 0.8706,
+        "band": "pointless target",
+        "pointless_score": 13,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 407504,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8706
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jean-dujardin",
+      "name": "Jean Dujardin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jean_Dujardin",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2011,
+        "decade": "2010s",
+        "film": "The Artist",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 408323,
+      "obscurity": {
+        "score": 0.8588,
+        "band": "pointless target",
+        "pointless_score": 14,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 408323,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ronald-colman",
+      "name": "Ronald Colman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ronald_Colman",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1947,
+        "decade": "1940s",
+        "film": "A Double Life",
+        "name_initial": "R",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 749286,
+      "obscurity": {
+        "score": 0.8471,
+        "band": "pointless target",
+        "pointless_score": 15,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 749286,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8471
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "paul-muni",
+      "name": "Paul Muni",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Paul_Muni",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1936,
+        "decade": "1930s",
+        "film": "The Story of Louis Pasteur",
+        "name_initial": "P",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 749836,
+      "obscurity": {
+        "score": 0.8353,
+        "band": "pointless target",
+        "pointless_score": 16,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 749836,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8353
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "peter-finch",
+      "name": "Peter Finch",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Peter_Finch",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1976,
+        "decade": "1970s",
+        "film": "Network",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 750167,
+      "obscurity": {
+        "score": 0.8235,
+        "band": "pointless target",
+        "pointless_score": 18,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 750167,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8235
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ray-milland",
+      "name": "Ray Milland",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ray_Milland",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1945,
+        "decade": "1940s",
+        "film": "The Lost Weekend",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 751496,
+      "obscurity": {
+        "score": 0.8118,
+        "band": "very obscure",
+        "pointless_score": 19,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 751496,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8118
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "fredric-march",
+      "name": "Fredric March",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Fredric_March",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1932,
+        "decade": "1930s",
+        "film": "Dr. Jekyll and Mr. Hyde",
+        "name_initial": "F",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 759471,
+      "obscurity": {
+        "score": 0.8,
+        "band": "very obscure",
+        "pointless_score": 20,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 759471,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.8
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "robert-donat",
+      "name": "Robert Donat",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Donat",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1939,
+        "decade": "1930s",
+        "film": "Goodbye, Mr. Chips",
+        "name_initial": "R",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 760696,
+      "obscurity": {
+        "score": 0.7882,
+        "band": "very obscure",
+        "pointless_score": 21,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760696,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7882
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "f-murray-abraham",
+      "name": "F. Murray Abraham",
+      "aliases": [
+        "Murray Abraham"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/F._Murray_Abraham",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1984,
+        "decade": "1980s",
+        "film": "Amadeus",
+        "name_initial": "F",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 760790,
+      "obscurity": {
+        "score": 0.7765,
+        "band": "very obscure",
+        "pointless_score": 22,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 760790,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7765
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lionel-barrymore",
+      "name": "Lionel Barrymore",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lionel_Barrymore",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1931,
+        "decade": "1930s",
+        "film": "A Free Soul",
+        "name_initial": "L",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 763728,
+      "obscurity": {
+        "score": 0.7647,
+        "band": "very obscure",
+        "pointless_score": 24,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 763728,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7647
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "roberto-benigni",
+      "name": "Roberto Benigni",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Roberto_Benigni",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1998,
+        "decade": "1990s",
+        "film": "Life Is Beautiful",
+        "name_initial": "R",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1257150,
+      "obscurity": {
+        "score": 0.7529,
+        "band": "very obscure",
+        "pointless_score": 25,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1257150,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7529
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rod-steiger",
+      "name": "Rod Steiger",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rod_Steiger",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1967,
+        "decade": "1960s",
+        "film": "In the Heat of the Night",
+        "name_initial": "R",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1259081,
+      "obscurity": {
+        "score": 0.7412,
+        "band": "very obscure",
+        "pointless_score": 26,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1259081,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-hurt",
+      "name": "William Hurt",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Hurt",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1985,
+        "decade": "1980s",
+        "film": "Kiss of the Spider Woman",
+        "name_initial": "W",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1260457,
+      "obscurity": {
+        "score": 0.7294,
+        "band": "very obscure",
+        "pointless_score": 27,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1260457,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7294
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charles-laughton",
+      "name": "Charles Laughton",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charles_Laughton",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1933,
+        "decade": "1930s",
+        "film": "The Private Life of Henry VIII",
+        "name_initial": "C",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1262828,
+      "obscurity": {
+        "score": 0.7176,
+        "band": "very obscure",
+        "pointless_score": 28,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1262828,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7176
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "lee-marvin",
+      "name": "Lee Marvin",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lee_Marvin",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1965,
+        "decade": "1960s",
+        "film": "Cat Ballou",
+        "name_initial": "L",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1906101,
+      "obscurity": {
+        "score": 0.7059,
+        "band": "very obscure",
+        "pointless_score": 29,
+        "pointless_band": "strong low scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1906101,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.7059
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jeremy-irons",
+      "name": "Jeremy Irons",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jeremy_Irons",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1990,
+        "decade": "1990s",
+        "film": "Reversal of Fortune",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1907364,
+      "obscurity": {
+        "score": 0.6941,
+        "band": "very obscure",
+        "pointless_score": 31,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1907364,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6941
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rex-harrison",
+      "name": "Rex Harrison",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rex_Harrison",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1964,
+        "decade": "1960s",
+        "film": "My Fair Lady",
+        "name_initial": "R",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1908291,
+      "obscurity": {
+        "score": 0.6824,
+        "band": "very obscure",
+        "pointless_score": 32,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1908291,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6824
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "forest-whitaker",
+      "name": "Forest Whitaker",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Forest_Whitaker",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2006,
+        "decade": "2000s",
+        "film": "The Last King of Scotland",
+        "name_initial": "F",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1909269,
+      "obscurity": {
+        "score": 0.6706,
+        "band": "very obscure",
+        "pointless_score": 33,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1909269,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6706
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "william-holden",
+      "name": "William Holden",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/William_Holden",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1953,
+        "decade": "1950s",
+        "film": "Stalag 17",
+        "name_initial": "W",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1914481,
+      "obscurity": {
+        "score": 0.6588,
+        "band": "useful low scorer",
+        "pointless_score": 34,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1914481,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "david-niven",
+      "name": "David Niven",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/David_Niven",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1958,
+        "decade": "1950s",
+        "film": "Separate Tables",
+        "name_initial": "D",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1914662,
+      "obscurity": {
+        "score": 0.6471,
+        "band": "useful low scorer",
+        "pointless_score": 35,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1914662,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6471
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ernest-borgnine",
+      "name": "Ernest Borgnine",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ernest_Borgnine",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1955,
+        "decade": "1950s",
+        "film": "Marty",
+        "name_initial": "E",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 1915452,
+      "obscurity": {
+        "score": 0.6353,
+        "band": "useful low scorer",
+        "pointless_score": 36,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1915452,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6353
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "geoffrey-rush",
+      "name": "Geoffrey Rush",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Geoffrey_Rush",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1996,
+        "decade": "1990s",
+        "film": "Shine",
+        "name_initial": "G",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 1915890,
+      "obscurity": {
+        "score": 0.6235,
+        "band": "useful low scorer",
+        "pointless_score": 38,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1915890,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6235
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "adrien-brody",
+      "name": "Adrien Brody",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Adrien_Brody",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2002,
+        "decade": "2000s",
+        "film": "The Pianist",
+        "name_initial": "A",
+        "name_length": 11,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 1917363,
+      "obscurity": {
+        "score": 0.6118,
+        "band": "useful low scorer",
+        "pointless_score": 39,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1917363,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6118
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "casey-affleck",
+      "name": "Casey Affleck",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Casey_Affleck",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2016,
+        "decade": "2010s",
+        "film": "Manchester by the Sea",
+        "name_initial": "C",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 1918954,
+      "obscurity": {
+        "score": 0.6,
+        "band": "useful low scorer",
+        "pointless_score": 40,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1918954,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.6
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "richard-dreyfuss",
+      "name": "Richard Dreyfuss",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Richard_Dreyfuss",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1977,
+        "decade": "1970s",
+        "film": "The Goodbye Girl",
+        "name_initial": "R",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 1922537,
+      "obscurity": {
+        "score": 0.5882,
+        "band": "useful low scorer",
+        "pointless_score": 41,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1922537,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5882
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jon-voight",
+      "name": "Jon Voight",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jon_Voight",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1978,
+        "decade": "1970s",
+        "film": "Coming Home",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 1927508,
+      "obscurity": {
+        "score": 0.5765,
+        "band": "useful low scorer",
+        "pointless_score": 42,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 1927508,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5765
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "robert-duvall",
+      "name": "Robert Duvall",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Duvall",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1983,
+        "decade": "1980s",
+        "film": "Tender Mercies",
+        "name_initial": "R",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 2730427,
+      "obscurity": {
+        "score": 0.5647,
+        "band": "useful low scorer",
+        "pointless_score": 44,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2730427,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5647
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "brendan-fraser",
+      "name": "Brendan Fraser",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Brendan_Fraser",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2022,
+        "decade": "2020s",
+        "film": "The Whale",
+        "name_initial": "B",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2731354,
+      "obscurity": {
+        "score": 0.5529,
+        "band": "useful low scorer",
+        "pointless_score": 45,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2731354,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5529
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "burt-lancaster",
+      "name": "Burt Lancaster",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Burt_Lancaster",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1960,
+        "decade": "1960s",
+        "film": "Elmer Gantry",
+        "name_initial": "B",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 2741020,
+      "obscurity": {
+        "score": 0.5412,
+        "band": "useful low scorer",
+        "pointless_score": 46,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2741020,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "rami-malek",
+      "name": "Rami Malek",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Rami_Malek",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2018,
+        "decade": "2010s",
+        "film": "Bohemian Rhapsody",
+        "name_initial": "R",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2741811,
+      "obscurity": {
+        "score": 0.5294,
+        "band": "useful low scorer",
+        "pointless_score": 47,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2741811,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5294
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "george-c-scott",
+      "name": "George C. Scott",
+      "aliases": [
+        "George Scott"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/George_C._Scott",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1970,
+        "decade": "1970s",
+        "film": "Patton",
+        "name_initial": "G",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2742176,
+      "obscurity": {
+        "score": 0.5176,
+        "band": "useful low scorer",
+        "pointless_score": 48,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2742176,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5176
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "kevin-spacey",
+      "name": "Kevin Spacey",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Kevin_Spacey",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1999,
+        "decade": "1990s",
+        "film": "American Beauty",
+        "name_initial": "K",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2743585,
+      "obscurity": {
+        "score": 0.5059,
+        "band": "useful low scorer",
+        "pointless_score": 49,
+        "pointless_band": "playable",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2743585,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.5059
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "yul-brynner",
+      "name": "Yul Brynner",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Yul_Brynner",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1956,
+        "decade": "1950s",
+        "film": "The King and I",
+        "name_initial": "Y",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 2747062,
+      "obscurity": {
+        "score": 0.4941,
+        "band": "useful low scorer",
+        "pointless_score": 51,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747062,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4941
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "eddie-redmayne",
+      "name": "Eddie Redmayne",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Eddie_Redmayne",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2014,
+        "decade": "2010s",
+        "film": "The Theory of Everything",
+        "name_initial": "E",
+        "name_length": 13,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "e"
+      },
+      "pageviews": 2747419,
+      "obscurity": {
+        "score": 0.4824,
+        "band": "useful low scorer",
+        "pointless_score": 52,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2747419,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4824
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jack-lemmon",
+      "name": "Jack Lemmon",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jack_Lemmon",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1973,
+        "decade": "1970s",
+        "film": "Save the Tiger",
+        "name_initial": "J",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 2749161,
+      "obscurity": {
+        "score": 0.4706,
+        "band": "useful low scorer",
+        "pointless_score": 53,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2749161,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4706
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "philip-seymour-hoffman",
+      "name": "Philip Seymour Hoffman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Philip_Seymour_Hoffman",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2005,
+        "decade": "2000s",
+        "film": "Capote",
+        "name_initial": "P",
+        "name_length": 20,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 2750956,
+      "obscurity": {
+        "score": 0.4588,
+        "band": "useful low scorer",
+        "pointless_score": 54,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2750956,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "ben-kingsley",
+      "name": "Ben Kingsley",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Ben_Kingsley",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1982,
+        "decade": "1980s",
+        "film": "Gandhi",
+        "name_initial": "B",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 2754051,
+      "obscurity": {
+        "score": 0.4471,
+        "band": "middling",
+        "pointless_score": 55,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 2754051,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4471
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "bing-crosby",
+      "name": "Bing Crosby",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Bing_Crosby",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1944,
+        "decade": "1940s",
+        "film": "Going My Way",
+        "name_initial": "B",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3729771,
+      "obscurity": {
+        "score": 0.4353,
+        "band": "middling",
+        "pointless_score": 56,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3729771,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4353
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jeff-bridges",
+      "name": "Jeff Bridges",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jeff_Bridges",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2009,
+        "decade": "2000s",
+        "film": "Crazy Heart",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3730494,
+      "obscurity": {
+        "score": 0.4235,
+        "band": "middling",
+        "pointless_score": 58,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730494,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4235
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gene-hackman",
+      "name": "Gene Hackman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gene_Hackman",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1971,
+        "decade": "1970s",
+        "film": "The French Connection",
+        "name_initial": "G",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3730819,
+      "obscurity": {
+        "score": 0.4118,
+        "band": "middling",
+        "pointless_score": 59,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3730819,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4118
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "laurence-olivier",
+      "name": "Laurence Olivier",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Laurence_Olivier",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1948,
+        "decade": "1940s",
+        "film": "Hamlet",
+        "name_initial": "L",
+        "name_length": 15,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3731288,
+      "obscurity": {
+        "score": 0.4,
+        "band": "middling",
+        "pointless_score": 60,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3731288,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.4
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jamie-foxx",
+      "name": "Jamie Foxx",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jamie_Foxx",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2004,
+        "decade": "2000s",
+        "film": "Ray",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3731772,
+      "obscurity": {
+        "score": 0.3882,
+        "band": "middling",
+        "pointless_score": 61,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3731772,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3882
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "charlton-heston",
+      "name": "Charlton Heston",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Charlton_Heston",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1959,
+        "decade": "1950s",
+        "film": "Ben-Hur",
+        "name_initial": "C",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3734111,
+      "obscurity": {
+        "score": 0.3765,
+        "band": "middling",
+        "pointless_score": 62,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734111,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3765
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-cagney",
+      "name": "James Cagney",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Cagney",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1942,
+        "decade": "1940s",
+        "film": "Yankee Doodle Dandy",
+        "name_initial": "J",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3734570,
+      "obscurity": {
+        "score": 0.3647,
+        "band": "middling",
+        "pointless_score": 64,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3734570,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3647
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "cillian-murphy",
+      "name": "Cillian Murphy",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Cillian_Murphy",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2023,
+        "decade": "2020s",
+        "film": "Oppenheimer",
+        "name_initial": "C",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3738482,
+      "obscurity": {
+        "score": 0.3529,
+        "band": "middling",
+        "pointless_score": 65,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3738482,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3529
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "alec-guinness",
+      "name": "Alec Guinness",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Alec_Guinness",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1957,
+        "decade": "1950s",
+        "film": "The Bridge on the River Kwai",
+        "name_initial": "A",
+        "name_length": 12,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 3739928,
+      "obscurity": {
+        "score": 0.3412,
+        "band": "middling",
+        "pointless_score": 66,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3739928,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "spencer-tracy",
+      "name": "Spencer Tracy",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Spencer_Tracy",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1937,
+        "decade": "1930s",
+        "film": "Captains Courageous",
+        "name_initial": "S",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3740187,
+      "obscurity": {
+        "score": 0.3294,
+        "band": "middling",
+        "pointless_score": 67,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3740187,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3294
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "henry-fonda",
+      "name": "Henry Fonda",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Henry_Fonda",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1981,
+        "decade": "1980s",
+        "film": "On Golden Pond",
+        "name_initial": "H",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3741284,
+      "obscurity": {
+        "score": 0.3176,
+        "band": "middling",
+        "pointless_score": 68,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3741284,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3176
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "colin-firth",
+      "name": "Colin Firth",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Colin_Firth",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2010,
+        "decade": "2010s",
+        "film": "The King's Speech",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 3745287,
+      "obscurity": {
+        "score": 0.3059,
+        "band": "middling",
+        "pointless_score": 69,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3745287,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.3059
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gary-oldman",
+      "name": "Gary Oldman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gary_Oldman",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2017,
+        "decade": "2010s",
+        "film": "Darkest Hour",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3747848,
+      "obscurity": {
+        "score": 0.2941,
+        "band": "middling",
+        "pointless_score": 71,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3747848,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2941
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gary-cooper",
+      "name": "Gary Cooper",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gary_Cooper",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1941,
+        "decade": "1940s",
+        "film": "Sergeant York",
+        "name_initial": "G",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 3748169,
+      "obscurity": {
+        "score": 0.2824,
+        "band": "middling",
+        "pointless_score": 72,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3748169,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2824
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sean-penn",
+      "name": "Sean Penn",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sean_Penn",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2003,
+        "decade": "2000s",
+        "film": "Mystic River",
+        "name_initial": "S",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3750746,
+      "obscurity": {
+        "score": 0.2706,
+        "band": "middling",
+        "pointless_score": 73,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3750746,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2706
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "sidney-poitier",
+      "name": "Sidney Poitier",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Sidney_Poitier",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1963,
+        "decade": "1960s",
+        "film": "Lilies of the Field",
+        "name_initial": "S",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3751342,
+      "obscurity": {
+        "score": 0.2588,
+        "band": "middling",
+        "pointless_score": 74,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751342,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "gregory-peck",
+      "name": "Gregory Peck",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Gregory_Peck",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1962,
+        "decade": "1960s",
+        "film": "To Kill a Mockingbird",
+        "name_initial": "G",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 3751582,
+      "obscurity": {
+        "score": 0.2471,
+        "band": "obvious",
+        "pointless_score": 75,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3751582,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2471
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "michael-douglas",
+      "name": "Michael Douglas",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Michael_Douglas",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1987,
+        "decade": "1980s",
+        "film": "Wall Street",
+        "name_initial": "M",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 3752198,
+      "obscurity": {
+        "score": 0.2353,
+        "band": "obvious",
+        "pointless_score": 76,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 3752198,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2353
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "daniel-day-lewis",
+      "name": "Daniel Day-Lewis",
+      "aliases": [
+        "Daniel Day Lewis"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Daniel_Day-Lewis",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1989,
+        "decade": "1980s",
+        "film": "My Left Foot",
+        "name_initial": "D",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4911996,
+      "obscurity": {
+        "score": 0.2235,
+        "band": "obvious",
+        "pointless_score": 78,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4911996,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2235
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "matthew-mcconaughey",
+      "name": "Matthew McConaughey",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Matthew_McConaughey",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2013,
+        "decade": "2010s",
+        "film": "Dallas Buyers Club",
+        "name_initial": "M",
+        "name_length": 18,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4915820,
+      "obscurity": {
+        "score": 0.2118,
+        "band": "obvious",
+        "pointless_score": 79,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4915820,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2118
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "dustin-hoffman",
+      "name": "Dustin Hoffman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Dustin_Hoffman",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1979,
+        "decade": "1970s",
+        "film": "Kramer vs. Kramer",
+        "name_initial": "D",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4916022,
+      "obscurity": {
+        "score": 0.2,
+        "band": "obvious",
+        "pointless_score": 80,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4916022,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.2
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "james-stewart",
+      "name": "James Stewart",
+      "aliases": [
+        "Jimmy Stewart"
+      ],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/James_Stewart",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1940,
+        "decade": "1940s",
+        "film": "The Philadelphia Story",
+        "name_initial": "J",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4917193,
+      "obscurity": {
+        "score": 0.1882,
+        "band": "obvious",
+        "pointless_score": 81,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4917193,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1882
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "clark-gable",
+      "name": "Clark Gable",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Clark_Gable",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1934,
+        "decade": "1930s",
+        "film": "It Happened One Night",
+        "name_initial": "C",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4919768,
+      "obscurity": {
+        "score": 0.1765,
+        "band": "obvious",
+        "pointless_score": 82,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4919768,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1765
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "nicolas-cage",
+      "name": "Nicolas Cage",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Nicolas_Cage",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1995,
+        "decade": "1990s",
+        "film": "Leaving Las Vegas",
+        "name_initial": "N",
+        "name_length": 11,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 4921849,
+      "obscurity": {
+        "score": 0.1647,
+        "band": "obvious",
+        "pointless_score": 84,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4921849,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1647
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "john-wayne",
+      "name": "John Wayne",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/John_Wayne",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1969,
+        "decade": "1960s",
+        "film": "True Grit",
+        "name_initial": "J",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4922541,
+      "obscurity": {
+        "score": 0.1529,
+        "band": "obvious",
+        "pointless_score": 85,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4922541,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1529
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "russell-crowe",
+      "name": "Russell Crowe",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Russell_Crowe",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2000,
+        "decade": "2000s",
+        "film": "Gladiator",
+        "name_initial": "R",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4923831,
+      "obscurity": {
+        "score": 0.1412,
+        "band": "obvious",
+        "pointless_score": 86,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4923831,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1412
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "humphrey-bogart",
+      "name": "Humphrey Bogart",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Humphrey_Bogart",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1951,
+        "decade": "1950s",
+        "film": "The African Queen",
+        "name_initial": "H",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "u"
+      },
+      "pageviews": 4924205,
+      "obscurity": {
+        "score": 0.1294,
+        "band": "obvious",
+        "pointless_score": 87,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4924205,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1294
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "joaquin-phoenix",
+      "name": "Joaquin Phoenix",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Joaquin_Phoenix",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2019,
+        "decade": "2010s",
+        "film": "Joker",
+        "name_initial": "J",
+        "name_length": 14,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 4927767,
+      "obscurity": {
+        "score": 0.1176,
+        "band": "obvious",
+        "pointless_score": 88,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4927767,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1176
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "paul-newman",
+      "name": "Paul Newman",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Paul_Newman",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1986,
+        "decade": "1980s",
+        "film": "The Color of Money",
+        "name_initial": "P",
+        "name_length": 10,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 4935359,
+      "obscurity": {
+        "score": 0.1059,
+        "band": "obvious",
+        "pointless_score": 89,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 4935359,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.1059
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "denzel-washington",
+      "name": "Denzel Washington",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Denzel_Washington",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2001,
+        "decade": "2000s",
+        "film": "Training Day",
+        "name_initial": "D",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6287945,
+      "obscurity": {
+        "score": 0.0941,
+        "band": "obvious",
+        "pointless_score": 91,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6287945,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0941
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "tom-hanks",
+      "name": "Tom Hanks",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Tom_Hanks",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1993,
+        "decade": "1990s",
+        "film": "Philadelphia",
+        "name_initial": "T",
+        "name_length": 8,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6291059,
+      "obscurity": {
+        "score": 0.0824,
+        "band": "obvious",
+        "pointless_score": 92,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6291059,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0824
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "will-smith",
+      "name": "Will Smith",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Will_Smith",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2021,
+        "decade": "2020s",
+        "film": "King Richard",
+        "name_initial": "W",
+        "name_length": 9,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "i"
+      },
+      "pageviews": 6291213,
+      "obscurity": {
+        "score": 0.0706,
+        "band": "obvious",
+        "pointless_score": 93,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6291213,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0706
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "robert-de-niro",
+      "name": "Robert De Niro",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Robert_De_Niro",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1980,
+        "decade": "1980s",
+        "film": "Raging Bull",
+        "name_initial": "R",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "o"
+      },
+      "pageviews": 6294061,
+      "obscurity": {
+        "score": 0.0588,
+        "band": "obvious",
+        "pointless_score": 94,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6294061,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0588
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "leonardo-dicaprio",
+      "name": "Leonardo DiCaprio",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 2015,
+        "decade": "2010s",
+        "film": "The Revenant",
+        "name_initial": "L",
+        "name_length": 16,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "e"
+      },
+      "pageviews": 6297337,
+      "obscurity": {
+        "score": 0.0471,
+        "band": "obvious",
+        "pointless_score": 95,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6297337,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0471
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "al-pacino",
+      "name": "Al Pacino",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Al_Pacino",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1992,
+        "decade": "1990s",
+        "film": "Scent of a Woman",
+        "name_initial": "A",
+        "name_length": 8,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6297403,
+      "obscurity": {
+        "score": 0.0353,
+        "band": "obvious",
+        "pointless_score": 96,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6297403,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0353
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "anthony-hopkins",
+      "name": "Anthony Hopkins",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Anthony_Hopkins",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1991,
+        "decade": "1990s",
+        "film": "The Silence of the Lambs",
+        "name_initial": "A",
+        "name_length": 14,
+        "starts_with_vowel": true,
+        "starts_with_consonant": false,
+        "first_vowel": "a"
+      },
+      "pageviews": 6299238,
+      "obscurity": {
+        "score": 0.0235,
+        "band": "obvious",
+        "pointless_score": 98,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6299238,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0235
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "marlon-brando",
+      "name": "Marlon Brando",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Marlon_Brando",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1954,
+        "decade": "1950s",
+        "film": "On the Waterfront",
+        "name_initial": "M",
+        "name_length": 12,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6303786,
+      "obscurity": {
+        "score": 0.0118,
+        "band": "obvious",
+        "pointless_score": 99,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6303786,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0118
+        },
+        "evidence": []
+      }
+    },
+    {
+      "id": "jack-nicholson",
+      "name": "Jack Nicholson",
+      "aliases": [],
+      "qid": null,
+      "wiki": "https://en.wikipedia.org/wiki/Jack_Nicholson",
+      "attrs": {
+        "award": "Best Actor",
+        "year": 1975,
+        "decade": "1970s",
+        "film": "One Flew Over the Cuckoo's Nest",
+        "name_initial": "J",
+        "name_length": 13,
+        "starts_with_vowel": false,
+        "starts_with_consonant": true,
+        "first_vowel": "a"
+      },
+      "pageviews": 6304660,
+      "obscurity": {
+        "score": 0.0,
+        "band": "obvious",
+        "pointless_score": 100,
+        "pointless_band": "high scorer",
+        "confidence": "medium",
+        "components": {
+          "pageviews": 6304660,
+          "pageview_source": "curated_pageview_proxy",
+          "pageview_obscurity": 0.0
+        },
+        "evidence": []
+      }
+    }
+  ]
+}

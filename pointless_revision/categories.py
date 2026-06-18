@@ -1039,6 +1039,185 @@ One Battle After Another|2025|10|One Battle after Another
 """
 
 
+# Distinct winners of the Academy Award for Best Actor (Leading Role), listed
+# once at their first win, through the 97th Academy Awards (films of 2024).
+# Columns: Name | First win (film year) | fame | winning film | aliases
+OSCAR_BEST_ACTOR_ROWS = """
+Emil Jannings|1928|2|The Last Command|
+Warner Baxter|1929|2|In Old Arizona|
+George Arliss|1930|2|Disraeli|
+Lionel Barrymore|1931|4|A Free Soul|
+Fredric March|1932|4|Dr. Jekyll and Mr. Hyde|
+Wallace Beery|1932|3|The Champ|
+Charles Laughton|1933|5|The Private Life of Henry VIII|
+Clark Gable|1934|9|It Happened One Night|
+Victor McLaglen|1935|3|The Informer|
+Paul Muni|1936|4|The Story of Louis Pasteur|
+Spencer Tracy|1937|8|Captains Courageous|
+Robert Donat|1939|4|Goodbye, Mr. Chips|
+James Stewart|1940|9|The Philadelphia Story|Jimmy Stewart
+Gary Cooper|1941|8|Sergeant York|
+James Cagney|1942|8|Yankee Doodle Dandy|
+Paul Lukas|1943|2|Watch on the Rhine|
+Bing Crosby|1944|8|Going My Way|
+Ray Milland|1945|4|The Lost Weekend|
+Ronald Colman|1947|4|A Double Life|
+Laurence Olivier|1948|8|Hamlet|
+Broderick Crawford|1949|3|All the King's Men|
+Jose Ferrer|1950|3|Cyrano de Bergerac|José Ferrer
+Humphrey Bogart|1951|9|The African Queen|
+William Holden|1953|6|Stalag 17|
+Marlon Brando|1954|10|On the Waterfront|
+Ernest Borgnine|1955|6|Marty|
+Yul Brynner|1956|7|The King and I|
+Alec Guinness|1957|8|The Bridge on the River Kwai|
+David Niven|1958|6|Separate Tables|
+Charlton Heston|1959|8|Ben-Hur|
+Burt Lancaster|1960|7|Elmer Gantry|
+Maximilian Schell|1961|3|Judgment at Nuremberg|
+Gregory Peck|1962|8|To Kill a Mockingbird|
+Sidney Poitier|1963|8|Lilies of the Field|
+Rex Harrison|1964|6|My Fair Lady|
+Lee Marvin|1965|6|Cat Ballou|
+Paul Scofield|1966|3|A Man for All Seasons|
+Rod Steiger|1967|5|In the Heat of the Night|
+Cliff Robertson|1968|3|Charly|
+John Wayne|1969|9|True Grit|
+George C. Scott|1970|7|Patton|George Scott
+Gene Hackman|1971|8|The French Connection|
+Jack Lemmon|1973|7|Save the Tiger|
+Art Carney|1974|3|Harry and Tonto|
+Jack Nicholson|1975|10|One Flew Over the Cuckoo's Nest|
+Peter Finch|1976|4|Network|
+Richard Dreyfuss|1977|6|The Goodbye Girl|
+Jon Voight|1978|6|Coming Home|
+Dustin Hoffman|1979|9|Kramer vs. Kramer|
+Robert De Niro|1980|10|Raging Bull|
+Henry Fonda|1981|8|On Golden Pond|
+Ben Kingsley|1982|7|Gandhi|
+Robert Duvall|1983|7|Tender Mercies|
+F. Murray Abraham|1984|4|Amadeus|Murray Abraham
+William Hurt|1985|5|Kiss of the Spider Woman|
+Paul Newman|1986|9|The Color of Money|
+Michael Douglas|1987|8|Wall Street|
+Daniel Day-Lewis|1989|9|My Left Foot|Daniel Day Lewis
+Jeremy Irons|1990|6|Reversal of Fortune|
+Anthony Hopkins|1991|10|The Silence of the Lambs|
+Al Pacino|1992|10|Scent of a Woman|
+Tom Hanks|1993|10|Philadelphia|
+Nicolas Cage|1995|9|Leaving Las Vegas|
+Geoffrey Rush|1996|6|Shine|
+Roberto Benigni|1998|5|Life Is Beautiful|
+Kevin Spacey|1999|7|American Beauty|
+Russell Crowe|2000|9|Gladiator|
+Denzel Washington|2001|10|Training Day|
+Adrien Brody|2002|6|The Pianist|
+Sean Penn|2003|8|Mystic River|
+Jamie Foxx|2004|8|Ray|
+Philip Seymour Hoffman|2005|7|Capote|
+Forest Whitaker|2006|6|The Last King of Scotland|
+Jeff Bridges|2009|8|Crazy Heart|
+Colin Firth|2010|8|The King's Speech|
+Jean Dujardin|2011|3|The Artist|
+Matthew McConaughey|2013|9|Dallas Buyers Club|
+Eddie Redmayne|2014|7|The Theory of Everything|
+Leonardo DiCaprio|2015|10|The Revenant|
+Casey Affleck|2016|6|Manchester by the Sea|
+Gary Oldman|2017|8|Darkest Hour|
+Rami Malek|2018|7|Bohemian Rhapsody|
+Joaquin Phoenix|2019|9|Joker|
+Will Smith|2021|10|King Richard|
+Brendan Fraser|2022|7|The Whale|
+Cillian Murphy|2023|8|Oppenheimer|
+"""
+
+
+# Distinct winners of the Academy Award for Best Actress (Leading Role), listed
+# once at their first win, through the 97th Academy Awards (films of 2024).
+OSCAR_BEST_ACTRESS_ROWS = """
+Janet Gaynor|1928|3|7th Heaven|
+Mary Pickford|1929|6|Coquette|
+Norma Shearer|1930|3|The Divorcee|
+Marie Dressler|1931|2|Min and Bill|
+Helen Hayes|1932|4|The Sin of Madelon Claudet|
+Katharine Hepburn|1933|10|Morning Glory|
+Claudette Colbert|1934|6|It Happened One Night|
+Bette Davis|1935|9|Dangerous|
+Luise Rainer|1936|3|The Great Ziegfeld|
+Vivien Leigh|1939|8|Gone with the Wind|
+Ginger Rogers|1940|7|Kitty Foyle|
+Joan Fontaine|1941|4|Suspicion|
+Greer Garson|1942|4|Mrs. Miniver|
+Jennifer Jones|1943|3|The Song of Bernadette|
+Ingrid Bergman|1944|8|Gaslight|
+Joan Crawford|1945|7|Mildred Pierce|
+Olivia de Havilland|1946|6|To Each His Own|
+Loretta Young|1947|4|The Farmer's Daughter|
+Jane Wyman|1948|4|Johnny Belinda|
+Judy Holliday|1950|3|Born Yesterday|
+Shirley Booth|1952|3|Come Back, Little Sheba|
+Audrey Hepburn|1953|10|Roman Holiday|
+Grace Kelly|1954|9|The Country Girl|
+Anna Magnani|1955|3|The Rose Tattoo|
+Joanne Woodward|1957|4|The Three Faces of Eve|
+Susan Hayward|1958|4|I Want to Live!|
+Simone Signoret|1959|3|Room at the Top|
+Elizabeth Taylor|1960|10|Butterfield 8|
+Sophia Loren|1961|8|Two Women|
+Anne Bancroft|1962|6|The Miracle Worker|
+Patricia Neal|1963|4|Hud|
+Julie Andrews|1964|9|Mary Poppins|
+Julie Christie|1965|6|Darling|
+Barbra Streisand|1968|9|Funny Girl|
+Maggie Smith|1969|8|The Prime of Miss Jean Brodie|
+Glenda Jackson|1970|5|Women in Love|
+Jane Fonda|1971|8|Klute|
+Liza Minnelli|1972|7|Cabaret|
+Ellen Burstyn|1974|5|Alice Doesn't Live Here Anymore|
+Louise Fletcher|1975|4|One Flew Over the Cuckoo's Nest|
+Faye Dunaway|1976|6|Network|
+Diane Keaton|1977|8|Annie Hall|
+Sally Field|1979|7|Norma Rae|
+Sissy Spacek|1980|6|Coal Miner's Daughter|
+Meryl Streep|1982|10|Sophie's Choice|
+Shirley MacLaine|1983|7|Terms of Endearment|
+Geraldine Page|1985|3|The Trip to Bountiful|
+Marlee Matlin|1986|5|Children of a Lesser God|
+Cher|1987|9|Moonstruck|
+Jodie Foster|1988|9|The Accused|
+Jessica Tandy|1989|5|Driving Miss Daisy|
+Kathy Bates|1990|7|Misery|
+Emma Thompson|1992|8|Howards End|
+Holly Hunter|1993|6|The Piano|
+Jessica Lange|1994|6|Blue Sky|
+Susan Sarandon|1995|8|Dead Man Walking|
+Frances McDormand|1996|7|Fargo|
+Helen Hunt|1997|6|As Good as It Gets|
+Gwyneth Paltrow|1998|8|Shakespeare in Love|
+Hilary Swank|1999|6|Boys Don't Cry|
+Julia Roberts|2000|10|Erin Brockovich|
+Halle Berry|2001|9|Monster's Ball|
+Nicole Kidman|2002|9|The Hours|
+Charlize Theron|2003|9|Monster|
+Reese Witherspoon|2005|9|Walk the Line|
+Helen Mirren|2006|8|The Queen|
+Marion Cotillard|2007|6|La Vie en Rose|
+Kate Winslet|2008|9|The Reader|
+Sandra Bullock|2009|9|The Blind Side|
+Natalie Portman|2010|9|Black Swan|
+Jennifer Lawrence|2012|9|Silver Linings Playbook|
+Cate Blanchett|2013|9|Blue Jasmine|
+Julianne Moore|2014|7|Still Alice|
+Brie Larson|2015|7|Room|
+Emma Stone|2016|9|La La Land|
+Olivia Colman|2018|7|The Favourite|
+Renee Zellweger|2019|7|Judy|Renée Zellweger
+Jessica Chastain|2021|7|The Eyes of Tammy Faye|
+Michelle Yeoh|2022|8|Everything Everywhere All at Once|
+Mikey Madison|2024|4|Anora|
+"""
+
+
 def _make_elements() -> tuple[AnswerSpec, ...]:
     out: list[AnswerSpec] = []
     for row in _rows(ELEMENT_ROWS):
@@ -1226,6 +1405,22 @@ def _make_oscar_best_picture_answers() -> tuple[AnswerSpec, ...]:
                 title,
                 aliases=_split_aliases(aliases),
                 attrs={"award": "Best Picture", "year": year, "decade": _decade(year)},
+                fame=int(fame_s),
+            )
+        )
+    return tuple(out)
+
+
+def _make_oscar_acting_answers(rows: str, award: str) -> tuple[AnswerSpec, ...]:
+    out: list[AnswerSpec] = []
+    for name, year_s, fame_s, film, *alias_cols in _rows(rows):
+        year = int(year_s)
+        aliases = _split_aliases(alias_cols[0]) if alias_cols else ()
+        out.append(
+            answer(
+                name,
+                aliases=aliases,
+                attrs={"award": award, "year": year, "decade": _decade(year), "film": film},
                 fame=int(fame_s),
             )
         )
@@ -1582,6 +1777,40 @@ CATEGORY_LIST: tuple[CategorySpec, ...] = (
             {
                 "label": "The 98th Academy Awards",
                 "url": "https://www.oscars.org/oscars/ceremonies/2026",
+            },
+        ),
+    ),
+    CategorySpec(
+        slug="oscar-best-actor-winners",
+        name="Oscar Best Actor Winners",
+        description="People who have won the Academy Award for Best Actor in a Leading Role, listed once each, through the 97th Academy Awards.",
+        tags=("film", "oscars", "awards", "recurring"),
+        answer_kind="actor",
+        expected_count=86,
+        display_fields=("film", "year"),
+        question_templates=OSCAR_QUESTION_TEMPLATES,
+        answers=_make_oscar_acting_answers(OSCAR_BEST_ACTOR_ROWS, "Best Actor"),
+        sources=(
+            {
+                "label": "Official Academy Awards database",
+                "url": "https://awardsdatabase.oscars.org/",
+            },
+        ),
+    ),
+    CategorySpec(
+        slug="oscar-best-actress-winners",
+        name="Oscar Best Actress Winners",
+        description="People who have won the Academy Award for Best Actress in a Leading Role, listed once each, through the 97th Academy Awards.",
+        tags=("film", "oscars", "awards", "recurring"),
+        answer_kind="actress",
+        expected_count=80,
+        display_fields=("film", "year"),
+        question_templates=OSCAR_QUESTION_TEMPLATES,
+        answers=_make_oscar_acting_answers(OSCAR_BEST_ACTRESS_ROWS, "Best Actress"),
+        sources=(
+            {
+                "label": "Official Academy Awards database",
+                "url": "https://awardsdatabase.oscars.org/",
             },
         ),
     ),
