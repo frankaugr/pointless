@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Pointless Revision</title>
+  <meta name="description" content="Learn Pointless answers with sportspeople and politician flashcards, spaced review, memory cues and real episode practice." />
   <link rel="icon" href="icon-192.png" />
   <link rel="manifest" href="manifest.webmanifest" />
   <meta name="theme-color" content="#156f68" />
@@ -19,7 +20,8 @@
       <p class="eyebrow">Pointless Revision</p>
     </div>
     <nav class="mode-switch" aria-label="Choose study mode">
-      <button type="button" data-mode="learn" class="active" aria-pressed="true">Learn</button>
+      <button type="button" data-mode="memory" class="active" aria-pressed="true">Memorise</button>
+      <button type="button" data-mode="learn" aria-pressed="false">Learn</button>
       <button type="button" data-mode="revise" aria-pressed="false">Revise</button>
       <button type="button" data-mode="play" aria-pressed="false">Play</button>
       <button type="button" data-mode="finals" aria-pressed="false">Finals</button>
@@ -47,7 +49,9 @@
         <p id="category-stats" class="category-stats"></p>
       </header>
 
-      <section id="learn-view" class="mode-view">
+      <section id="memory-view" class="mode-view"></section>
+
+      <section id="learn-view" class="mode-view" hidden>
         <div class="tool-row">
           <label>
             Sort

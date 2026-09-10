@@ -1,11 +1,22 @@
 # Pointless Revision
 
-A static revision tool for recurring Pointless-style answer sets. The app has three modes:
+A static revision tool for recurring Pointless-style answer sets.
+
+- Memorise (the opening screen): short sessions of 5, 10 or 20 cards, facts-to-name or name-to-facts recall, optional typed answers and hints, personal memory cues, and spaced review. Start with Sportspeople or Politicians, or choose any existing category. Study the deck provides searchable cards. Progress stays in this browser and can be exported/imported as JSON.
 
 - Learn: browse finite categories, sort by obscurity, hide/reveal answers, and mark answers as known or needing work. Answers seen on the show carry an expandable evidence panel (score, episode, question, quote).
 - Revise: answer generated narrowed prompts such as chemical elements by name pattern, countries by continent, or US state capitals containing selected letters.
 - Play: real rounds from series 34-35 — give answers against the actual category, then compare with what the surveyed 100 said. Boards are limited to answers spoken aloud in each episode.
 - Finals: the final-round category cards offered in series 34-35 and never chosen — still in the show's rotation — with inferred question wordings and candidate pointless answers (curated in `data/final_pool_inferences.json`).
+- Cheat sheet: the existing selected sporting answers, also used as the source of Memorise's sports cards. These are selected study targets, not complete sports answer sets or verified low survey scorers.
+
+## Memory practice
+
+The memory deck derives sports cards from the cheat sheet and other cards from the exported category attributes; it does not modify the curated fixtures or fabricate scores. Politicians includes all 58 UK prime ministers and 45 distinct US presidents in the existing data. All scores are included in recall sessions.
+
+Overdue reviews come before unseen cards. Again schedules 10 minutes and adds one same-session retry per missed card; With effort schedules 1 day; Remembered starts at 3 days and doubles up to 180 days. Any-cards practice can include future reviews. Ratings are self-assessed, and both recall directions share a schedule. Existing Learn-mode marks remain separate. Backups are validated before merging, preserving the more recently reviewed record per card. Personal notes are plain text and browser-local.
+
+GitHub Pages publishes `docs/` from `main`; the repository's default research branch is older. Preserve the service worker asset list and bump its cache version when changing the app shell.
 
 ## Data Model
 

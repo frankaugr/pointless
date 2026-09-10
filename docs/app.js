@@ -9,6 +9,7 @@ import {
   sortAnswers,
 } from "./js/data.js";
 import { buildAnswerIndex, findMatches } from "./js/match.js";
+import { mountMemory } from "./js/memory-ui.js";
 import { bestFound, flattenRounds, pickRound, roundKey } from "./js/play.js";
 import { buildQuestionCandidates, pickQuestion } from "./js/questions.js";
 import {
@@ -22,7 +23,7 @@ const state = {
   catalog: [],
   categories: new Map(),
   activeSlug: "",
-  mode: "learn",
+  mode: "memory",
   progress: loadProgress(),
   learn: {
     sort: "obscurity",
@@ -175,6 +176,18 @@ function renderAll() {
   $("play-view").hidden = state.mode !== "play";
   $("finals-view").hidden = state.mode !== "finals";
   $("cheatsheet-view").hidden = state.mode !== "cheatsheet";
+  $("memory-view").hidden = state.mode !== "memory";
+
+  if (state.mode === "memory") {
+    $("active-category-name").textContent = "Your memory practice";
+    $("active-category-description").textContent = "Names, facts, and the connections that make them stick.";
+    $("category-stats").textContent = "Short sessions · spaced review";
+    mountMemory(state.catalog).catch(err => {
+      $("app-error").textContent = `Memory practice could not load: ${err.message}. Please reload to retry.`;
+      $("app-error").hidden = false;
+    });
+    return;
+  }
 
   if (state.mode === "cheatsheet") {
     $("active-category-name").textContent = "Sports cheat sheet";

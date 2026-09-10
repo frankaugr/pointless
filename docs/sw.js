@@ -1,6 +1,6 @@
 // Offline support for the Pointless Revision app.
 // Bump CACHE when you want every installed client to discard old assets.
-const CACHE = "pointless-v1";
+const CACHE = "pointless-v2-memory";
 
 // App shell plus the data files that aren't tied to a category slug.
 const CORE = [
@@ -14,6 +14,8 @@ const CORE = [
   "apple-touch-icon.png",
   "js/data.js",
   "js/match.js",
+  "js/memory.js",
+  "js/memory-ui.js",
   "js/play.js",
   "js/questions.js",
   "js/storage.js",
@@ -45,7 +47,7 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
       const keys = await caches.keys();
-      await Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k)));
+      await Promise.all(keys.filter((k) => k.startsWith("pointless-") && k !== CACHE).map((k) => caches.delete(k)));
       await self.clients.claim();
     })(),
   );
